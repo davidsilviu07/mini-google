@@ -1,6 +1,6 @@
 # mini-google
 ![mini-google web interface](docs/ai-answer.png)
-![search results](docs/screenshot2.png)
+![search results](docs/interface.png)
 A search engine built from scratch in C++, from classic information retrieval up
 to an AI answer layer: a Wikipedia crawler, an inverted index, BM25 and PageRank
 ranking, an on-disk index, hybrid semantic search, grounded RAG answers, a
