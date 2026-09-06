@@ -1,0 +1,2 @@
+Inverted Index
+An inverted index is the core data structure of a search engine. It maps each term to the list of documents that contain it, along with positions. Every [[Search Engine]] relies on it.

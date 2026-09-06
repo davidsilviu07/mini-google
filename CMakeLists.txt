@@ -6,12 +6,15 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_compile_options(-O2 -Wall -Wextra)
 
-add_executable(search
-    src/main.cpp
+set(CORE_SOURCES
     src/tokenizer.cpp
     src/inverted_index.cpp
     src/bm25.cpp
+    src/link_graph.cpp
+    src/pagerank.cpp
 )
+
+add_executable(search src/main.cpp ${CORE_SOURCES})
 
 # --- teste ---
 enable_testing()
@@ -20,8 +23,8 @@ add_executable(run_tests
     tests/test_tokenizer.cpp
     tests/test_index.cpp
     tests/test_bm25.cpp
-    src/tokenizer.cpp
-    src/inverted_index.cpp
-    src/bm25.cpp
+    tests/test_link_graph.cpp
+    tests/test_pagerank.cpp
+    ${CORE_SOURCES}
 )
 add_test(NAME unit_tests COMMAND run_tests)

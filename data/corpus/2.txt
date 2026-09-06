@@ -1,0 +1,2 @@
+PageRank
+PageRank is an algorithm used by Google to rank web pages. It treats links between pages as votes of importance and computes a stationary distribution over the link graph using power iteration. It powers a [[Search Engine]].

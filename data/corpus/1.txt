@@ -1,0 +1,2 @@
+Search Engine
+A search engine is a software system that finds information on the web. It builds an inverted index over crawled documents and ranks them by relevance using algorithms such as BM25 and PageRank. See [[PageRank]], [[Inverted Index]] and [[BM25 Ranking]] for the core components.

@@ -4,78 +4,104 @@
 #include <iostream>
 #include <sstream>
 #include <string>
+#include <unordered_map>
+#include <vector>
 
 #include "bm25.h"
 #include "inverted_index.h"
+#include "link_graph.h"
+#include "pagerank.h"
 
 namespace fs = std::filesystem;
 
-// Fiecare fisier din corpus: prima linie = titlu, restul = continut.
-static bool load_document(const fs::path& file, int doc_id,
-                          InvertedIndex& index) {
-    std::ifstream in(file);
-    if (!in) return false;
-
+struct RawDoc {
+    int id;
     std::string title;
-    std::getline(in, title);
+    std::string body;
+};
 
-    std::stringstream body;
-    body << in.rdbuf();
-
-    index.add_document(doc_id, title, body.str());
-    return true;
-}
-
-static int load_corpus(const std::string& dir, InvertedIndex& index) {
-    int doc_id = 0;
+// Citeste toate fisierele .txt: prima linie = titlu, restul = continut.
+static std::vector<RawDoc> read_corpus(const std::string& dir) {
     std::vector<fs::path> files;
-    for (const auto& entry : fs::directory_iterator(dir)) {
-        if (entry.path().extension() == ".txt") files.push_back(entry.path());
+    for (const auto& e : fs::directory_iterator(dir)) {
+        if (e.path().extension() == ".txt") files.push_back(e.path());
     }
-    std::sort(files.begin(), files.end());  // ordine stabila a doc_id-urilor
-    for (const auto& f : files) {
-        if (load_document(f, doc_id, index)) ++doc_id;
-    }
-    return doc_id;
-}
+    std::sort(files.begin(), files.end());  // doc_id-uri stabile
 
-static void run_query(const BM25Ranker& ranker, const InvertedIndex& index,
-                      const std::string& query) {
-    std::cout << "\n> \"" << query << "\"\n";
-    auto results = ranker.search(query, 5);
-    if (results.empty()) {
-        std::cout << "  (niciun rezultat)\n";
-        return;
+    std::vector<RawDoc> docs;
+    int id = 0;
+    for (const auto& f : files) {
+        std::ifstream in(f);
+        if (!in) continue;
+        std::string title;
+        std::getline(in, title);
+        std::stringstream body;
+        body << in.rdbuf();
+        docs.push_back({id++, title, body.str()});
     }
-    int rank = 1;
-    for (const auto& [doc_id, score] : results) {
-        std::cout << "  " << rank++ << ". [" << score << "]  "
-                  << index.doc(doc_id).title << "\n";
-    }
+    return docs;
 }
 
 int main(int argc, char** argv) {
-    const std::string corpus_dir =
-        argc > 1 ? argv[1] : "data/corpus";
+    const std::string corpus_dir = argc > 1 ? argv[1] : "data/corpus";
+    std::vector<RawDoc> docs = read_corpus(corpus_dir);
+    const int N = (int)docs.size();
 
+    // 1. Construim indexul si maparea titlu -> doc_id.
     InvertedIndex index;
-    int n = load_corpus(corpus_dir, index);
-    std::cout << "Index construit: " << n << " documente, avgdl="
-              << index.avg_doc_length() << "\n";
+    std::unordered_map<std::string, int> title_to_id;
+    for (const auto& d : docs) {
+        index.add_document(d.id, d.title, d.body);
+        title_to_id[d.title] = d.id;
+    }
 
+    // 2. Construim graful de linkuri din [[Titlu]].
+    LinkGraph graph(N);
+    for (const auto& d : docs) {
+        for (const std::string& target : extract_links(d.body)) {
+            auto it = title_to_id.find(target);
+            if (it != title_to_id.end()) graph.add_edge(d.id, it->second);
+        }
+    }
+
+    // 3. Calculam PageRank.
+    std::vector<double> pr = compute_pagerank(graph);
+    double max_pr = *std::max_element(pr.begin(), pr.end());
+
+    std::cout << "PageRank (autoritate) pe " << N << " documente:\n";
+    // Afisam sortat descrescator dupa PR.
+    std::vector<int> order(N);
+    for (int i = 0; i < N; ++i) order[i] = i;
+    std::sort(order.begin(), order.end(),
+              [&](int a, int b) { return pr[a] > pr[b]; });
+    for (int i : order) {
+        std::cout << "  " << pr[i] << "  " << index.doc(i).title << "\n";
+    }
+
+    // 4. Cautam si combinam: scor_final = BM25 * (1 + alpha * PR_normalizat).
+    //    Autoritatea RIDICA rezultatele relevante, nu domina peste ele.
+    const double alpha = 1.0;
     BM25Ranker ranker(index);
 
-    // Cateva query-uri demonstrative.
-    run_query(ranker, index, "ranking algorithm for search");
-    run_query(ranker, index, "how does google rank pages");
-    run_query(ranker, index, "data structure that maps terms to documents");
+    auto search = [&](const std::string& query) {
+        std::cout << "\n> \"" << query << "\"\n";
+        auto hits = ranker.search(query, N);  // luam toate potrivirile
+        std::vector<std::pair<int, double>> combined;
+        for (const auto& [doc_id, bm25] : hits) {
+            double pr_norm = max_pr > 0 ? pr[doc_id] / max_pr : 0.0;
+            combined.push_back({doc_id, bm25 * (1.0 + alpha * pr_norm)});
+        }
+        std::sort(combined.begin(), combined.end(),
+                  [](const auto& a, const auto& b) { return a.second > b.second; });
+        int rank = 1;
+        for (const auto& [doc_id, score] : combined) {
+            std::cout << "  " << rank++ << ". [" << score << "]  "
+                      << index.doc(doc_id).title << "\n";
+            if (rank > 5) break;
+        }
+    };
 
-    // Mod interactiv (daca ruleaza intr-un terminal).
-    std::string line;
-    std::cout << "\nScrie un query (sau Enter gol pentru iesire):\n";
-    while (std::cout << "search> " && std::getline(std::cin, line)) {
-        if (line.empty()) break;
-        run_query(ranker, index, line);
-    }
+    search("ranking function for documents");
+    search("what does a search engine use");
     return 0;
 }
