@@ -1,0 +1,24 @@
+# Executabile compilate
+search
+run_tests
+*.out
+
+# Foldere de build
+build/
+cmake-build-*/
+
+# Fisiere obiect / artefacte de compilare
+*.o
+*.obj
+*.a
+
+# CMake generat
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Fisiere de sistem / editor
+.DS_Store
+.vscode/
+.idea/
