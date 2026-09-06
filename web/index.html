@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>mini·google</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #faf6f0;
+    --surface: #ffffff;
+    --panel: #f6efe4;
+    --ink: #2a2723;
+    --muted: #8c847a;
+    --rust: #9a4a2f;
+    --hairline: #e7ddcf;
+    --mark-bg: #fbeeb8;
+    --serif: "Newsreader", Georgia, serif;
+    --mono: "JetBrains Mono", ui-monospace, monospace;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--sans); line-height: 1.55; -webkit-font-smoothing: antialiased; }
+
+  /* top bar */
+  .topbar { display: flex; align-items: center; gap: 20px; padding: 14px 26px; border-bottom: 1px solid var(--hairline); }
+  .topbar .brand { font-family: var(--serif); font-weight: 600; font-size: 19px; }
+  .pill { font-family: var(--mono); font-size: 11px; color: var(--muted); border: 1px solid var(--hairline); border-radius: 999px; padding: 3px 10px; background: var(--surface); }
+  .nav { display: flex; gap: 22px; margin-left: 18px; font-size: 14px; }
+  .nav a { color: var(--muted); text-decoration: none; }
+  .nav a.active { color: var(--rust); border-bottom: 2px solid var(--rust); padding-bottom: 2px; }
+  .topbar .right { margin-left: auto; }
+  .status { font-family: var(--mono); font-size: 11px; color: var(--muted); border: 1px solid var(--hairline); border-radius: 999px; padding: 4px 12px; }
+  .status .dot { color: #4c9a5a; }
+
+  .wrap { max-width: 860px; margin: 0 auto; padding: 46px 24px 90px; }
+
+  .hero h1 { font-family: var(--serif); font-weight: 600; font-size: 52px; letter-spacing: -0.01em; margin: 0; display: inline; vertical-align: middle; }
+  .hero .badge { font-family: var(--mono); font-size: 12px; color: var(--muted); border: 1px solid var(--hairline); border-radius: 999px; padding: 5px 12px; background: var(--surface); margin-left: 14px; vertical-align: middle; }
+  .tagline { color: var(--muted); font-size: 17px; margin: 16px 0 26px; }
+
+  form { display: flex; gap: 10px; }
+  .field { flex: 1; display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--hairline); border-radius: 12px; padding: 0 16px; }
+  .field:focus-within { border-color: var(--rust); box-shadow: 0 0 0 3px rgba(154,74,47,.12); }
+  .field svg { color: var(--muted); flex: none; }
+  #q { flex: 1; font-family: var(--serif); font-size: 19px; border: none; outline: none; background: transparent; color: var(--ink); padding: 15px 0; }
+  button.go { font: 500 15px var(--sans); background: #23201c; color: #fff; border: none; border-radius: 10px; padding: 0 22px; cursor: pointer; }
+
+  .controls { display: flex; align-items: center; gap: 20px; margin-top: 14px; flex-wrap: wrap; }
+  .toggle { font-family: var(--mono); font-size: 12.5px; display: inline-flex; align-items: center; gap: 8px; background: var(--panel); border: 1px solid var(--hairline); border-radius: 999px; padding: 8px 14px; cursor: pointer; color: var(--ink); }
+  .toggle .state { color: var(--muted); }
+  .toggle.on { border-color: var(--rust); }
+  .toggle.on .state { color: var(--rust); }
+  .tries { font-family: var(--mono); font-size: 12.5px; color: var(--muted); }
+  .tries a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
+  .tries a:hover { color: var(--rust); }
+
+  .metabar { display: flex; justify-content: space-between; font-family: var(--mono); font-size: 12px; color: var(--muted); margin: 26px 0 8px; border-top: 1px solid var(--hairline); padding-top: 14px; }
+
+  .status-msg { color: var(--muted); margin-top: 30px; font-size: 15px; }
+
+  /* AI answer panel */
+  .answer { background: var(--panel); border: 1px solid var(--hairline); border-radius: 16px; padding: 22px 26px; margin-top: 20px; }
+  .answer .head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
+  .answer .head .t { font-family: var(--mono); font-size: 13px; color: var(--rust); }
+  .answer .head .b { font-family: var(--mono); font-size: 11px; color: var(--muted); border: 1px solid var(--hairline); border-radius: 999px; padding: 4px 10px; background: var(--surface); }
+  .answer p { margin: 0 0 12px; font-size: 15.5px; }
+  .cite { font-family: var(--mono); font-size: 11px; color: var(--rust); background: #eef2fb; border-radius: 5px; padding: 1px 5px; vertical-align: 1px; }
+  .answer .foot { border-top: 1px solid var(--hairline); margin-top: 14px; padding-top: 12px; font-family: var(--mono); font-size: 12px; color: var(--muted); }
+  .answer .foot .src { display: inline-block; background: var(--surface); border: 1px solid var(--hairline); border-radius: 6px; padding: 3px 9px; margin: 4px 8px 0 0; color: var(--ink); }
+
+  /* results */
+  .results { margin-top: 34px; display: flex; flex-direction: column; gap: 30px; }
+  .result .crumb { font-family: var(--mono); font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 7px; }
+  .result .crumb .w { display: inline-grid; place-items: center; width: 16px; height: 16px; background: var(--ink); color: #fff; border-radius: 3px; font-family: var(--serif); font-size: 11px; }
+  .result .title { font-family: var(--serif); font-weight: 600; font-size: 22px; color: var(--rust); margin: 3px 0 5px; }
+  .result .snippet { font-size: 15.5px; }
+  .result .snippet mark { background: var(--mark-bg); color: inherit; padding: 0 2px; border-radius: 2px; }
+  .result .rmeta { font-family: var(--mono); font-size: 11.5px; color: var(--muted); margin-top: 6px; }
+
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+  @media (max-width: 640px) { .hero h1 { font-size: 40px; } .nav, .status { display: none; } }
+</style>
+</head>
+<body>
+  <header class="topbar">
+    <span class="brand">mini·google</span>
+    <span class="pill">v0.4 · personal index</span>
+    <nav class="nav">
+      <a class="active" href="#">Index Corpus</a>
+      <a href="https://github.com/davidsilviu07/mini-google" target="_blank" rel="noopener">GitHub &#8599;</a>
+    </nav>
+    <span class="right status"><span class="dot">●</span> Query Telemetry</span>
+  </header>
+
+  <main class="wrap">
+    <div class="hero">
+      <h1>mini·google</h1><span class="badge">personal index v0.4 · local corpus</span>
+      <p class="tagline">Semantic &amp; BM25 keyword search over a curated local corpus of Wikipedia articles.</p>
+    </div>
+
+    <form id="f">
+      <div class="field">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" autocomplete="off" autofocus placeholder="Search the corpus" aria-label="Search query">
+      </div>
+      <button class="go" type="submit">Search</button>
+    </form>
+
+    <div class="controls">
+      <button class="toggle on" id="ai" type="button">✦ Ask for an AI answer <span class="state">Active</span></button>
+      <span class="tries">Try:
+        <a data-q="mycorrhizal networks">mycorrhizal networks</a> ·
+        <a data-q="voyager golden record">voyager golden record</a> ·
+        <a data-q="fermi paradox">fermi paradox</a>
+      </span>
+    </div>
+
+    <div id="out"></div>
+  </main>
+
+<script>
+  const f = document.getElementById("f");
+  const q = document.getElementById("q");
+  const ai = document.getElementById("ai");
+  const out = document.getElementById("out");
+  let aiOn = true;
+
+  ai.addEventListener("click", () => {
+    aiOn = !aiOn;
+    ai.classList.toggle("on", aiOn);
+    ai.querySelector(".state").textContent = aiOn ? "Active" : "Off";
+  });
+
+  document.querySelectorAll(".tries a").forEach(a =>
+    a.addEventListener("click", () => { q.value = a.dataset.q; run(); }));
+
+  function esc(s){ return s.replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c])); }
+
+  function highlight(text, query){
+    let h = esc(text);
+    const terms = [...new Set(query.toLowerCase().split(/\s+/).filter(t => t.length > 2))];
+    for (const t of terms){
+      const re = new RegExp("(" + t.replace(/[.*+?^${}()|[\]\\]/g,"\\$&") + ")", "ig");
+      h = h.replace(re, "<mark>$1</mark>");
+    }
+    return h;
+  }
+
+  function citeify(text){
+    return esc(text).replace(/\[(\d+)\]/g, '<span class="cite">[$1]</span>');
+  }
+
+  function metabar(count, ms){
+    return '<div class="metabar"><span>' + count + ' results (' + ms +
+      'ms) · searched local Wikipedia corpus</span><span>Ranked via BM25 keyword scoring</span></div>';
+  }
+
+  async function run(){
+    const query = q.value.trim();
+    if (!query) return;
+    out.innerHTML = '<p class="status-msg">Searching\u2026</p>';
+
+    let data;
+    try {
+      const r = await fetch("/api/search?q=" + encodeURIComponent(query) + "&k=8");
+      data = await r.json();
+    } catch(e){ out.innerHTML = '<p class="status-msg">Could not reach the server.</p>'; return; }
+
+    if (!data.results.length){ out.innerHTML = metabar(0, data.elapsed_ms) + '<p class="status-msg">No results. Try different words.</p>'; return; }
+
+    const resultsHtml = '<div class="results">' + data.results.map(x => {
+      const crumbPath = esc(x.url.replace("en.wikipedia.org/wiki/", "").replaceAll("_"," \u203a "));
+      return `<div class="result">
+        <div class="crumb"><span class="w">W</span> ${esc(x.url.replace(/_/g," \u203a "))}</div>
+        <div class="title">${esc(x.title)}</div>
+        <div class="snippet">${highlight(x.snippet, query)}\u2026</div>
+        <div class="rmeta">${x.words.toLocaleString()} words · ${x.read_min} min read</div>
+      </div>`;
+    }).join("") + "</div>";
+
+    out.innerHTML = metabar(data.count, data.elapsed_ms) +
+      (aiOn ? '<div id="ansslot"><div class="answer"><div class="head"><span class="t">✦ Synthesized answer from local corpus</span></div><p>Thinking\u2026</p></div></div>' : "") +
+      resultsHtml;
+
+    if (aiOn) fetchAnswer(query);
+  }
+
+  async function fetchAnswer(query){
+    const slot = document.getElementById("ansslot");
+    if (!slot) return;
+    try {
+      const r = await fetch("/api/answer?q=" + encodeURIComponent(query) + "&k=4");
+      const d = await r.json();
+      if (d.answer){
+        const paras = d.answer.split(/\n\n+/).map(p => "<p>" + citeify(p) + "</p>").join("");
+        const srcs = (d.sources||[]).map(s => '<span class="src">[' + s.n + '] ' + esc(s.title) + "</span>").join("");
+        slot.innerHTML = '<div class="answer"><div class="head">' +
+          '<span class="t">✦ Synthesized answer from local corpus</span>' +
+          '<span class="b">' + (d.sources ? d.sources.length : 0) + ' sources referenced</span></div>' +
+          paras + '<div class="foot">Cited articles: ' + srcs + "</div></div>";
+      } else {
+        slot.innerHTML = '<div class="answer"><div class="head"><span class="t">✦ AI answer</span></div><p>' + esc(d.note || "Unavailable.") + "</p></div>";
+      }
+    } catch(e){
+      slot.innerHTML = '<div class="answer"><div class="head"><span class="t">✦ AI answer</span></div><p>The answer service could not be reached.</p></div>';
+    }
+  }
+
+  f.addEventListener("submit", e => { e.preventDefault(); run(); });
+</script>
+</body>
+</html>
