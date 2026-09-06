@@ -22,3 +22,7 @@ Makefile
 .DS_Store
 .vscode/
 .idea/
+
+# Snapshot-uri de index
+*.bin
+data/*.bin

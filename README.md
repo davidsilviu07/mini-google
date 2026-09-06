@@ -55,6 +55,41 @@ cmake -B build && cmake --build build
 cd build && ctest
 ```
 
+## Crawling real data
+
+The `data/corpus/` shipped with the repo is a tiny sample. To build a large
+corpus, run the Wikipedia crawler (needs Python and `requests`):
+
+```bash
+pip install -r crawler/requirements.txt
+python3 crawler/crawl.py --pages 2000 --seed "Search engine"
+```
+
+It performs a breadth first crawl over the English Wikipedia through the
+official MediaWiki API, following internal links from the seed articles, and
+writes each page into `data/corpus/` in the same title plus body plus links
+format the engine reads. Only links between crawled pages are kept, so the
+link graph stays self contained and PageRank is meaningful. Use several seeds
+(comma separated) and a larger `--pages` for a bigger database.
+
+## Persisting the index
+
+Building the index from a large corpus takes time (reading every file,
+tokenizing, computing PageRank). To avoid redoing that on every run, the engine
+can save a binary snapshot of the index plus PageRank scores and reload it
+instantly.
+
+```bash
+./build/search build data/corpus data/index.bin   # build once, save
+./build/search load data/index.bin                 # reload instantly
+./build/search data/corpus                          # build in memory (no save)
+```
+
+On a 20000 page corpus, building takes a couple of seconds while loading the
+snapshot takes a fraction of a second, and the gap grows with scale. The
+snapshot format starts with a magic number and a version, so a corrupt or
+outdated file is rejected on load.
+
 ## Roadmap
 
 1. Core IR: tokenizer, inverted index, BM25, CLI. Done.

@@ -1,5 +1,6 @@
 #pragma once
 #include <cstdint>
+#include <iosfwd>
 #include <string>
 #include <unordered_map>
 #include <vector>
@@ -35,6 +36,11 @@ public:
     int num_docs() const { return (int)docs_.size(); }
     double avg_doc_length() const { return avgdl_; }
     const DocInfo& doc(int doc_id) const { return docs_.at(doc_id); }
+
+    // Scrie / citeste toata starea interna intr-un/dintr-un flux binar.
+    // deserialize() sterge continutul existent inainte de a citi.
+    void serialize(std::ostream& out) const;
+    void deserialize(std::istream& in);
 
 private:
     std::unordered_map<std::string, std::vector<Posting>> index_;
