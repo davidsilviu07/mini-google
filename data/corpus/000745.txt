@@ -1,0 +1,30 @@
+NI Ultiboard
+NI Ultiboard, formerly ULTIboard, is an electronic printed circuit board (PCB) layout program which is part of a suite of circuit design programs, along with NI Multisim. It is used for customising hardware components. One of its major features is the real time design rule check, a feature that was only offered on expensive work stations in the days when it was introduced. ULTIboard was originally created by a company named Ultimate Technology, which is now a subsidiary of National Instruments. Ultiboard includes a 3D PCB viewing mode, integrated import and export features to the schematic capture, and simulation software in the suite, Multisim.
+
+History
+
+Market penetration
+ULTIboard was originally created by Ultimate Technology in Naarden, Netherlands. It sold for $800–$2500, depending on the design size chosen.
+Student versions that were offered for very low prices were limited; they could not produce photo plot files. They also contributed to the popularity of the software as most students knew how to work with the program.
+Ultimate Technology's managing director, James Post, was known for his innovative marketing approach and customer oriented thinking. In 1989, they distributed 180,000 free demonstration floppy disks (demo-discs) via electronics magazines, a first in history. Soon thereafter, ULTIboard became market leader in Europe in the field of PC based PCB design products.
+The company held worldwide user meetings where customers could attend free and even got a free gourmet lunch. Optionally, customers could take an afternoon training to get up and running with the latest features. Priced at US$75, most users took this option. Other PR activities included invitations for customers to have a lunch during trade shows and conferences, boat rides, cart racing, flying for their best accounts. This strategy helped ULTIboard to become the leader in customer loyalty.
+
+Rebranding
+In 1999, Ultimate Technology merged with Interactive Image Technologies and eventually renamed itself to Electronics Workbench. In 2003, all development of ULTIboard was moved to the head office in Toronto.
+Ultiboard is now supported and distributed by National Instruments. The product has been renamed from Electronics Workbench back to Ultiboard with the schematic capture and simulation tool named Multisim.
+
+References
+
+See also
+
+Comparison of EDA software
+List of free electronics circuit simulators
+NI Multisim, schematic capture and simulation software integrated with Ultiboard
+OrCAD, an Ultiboard competitor
+
+External links
+Official website
+NI Ultiboard product page
+Getting Started with NI Ultiboard Archived 10 February 2012 at the Wayback Machine
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[Schematic capture]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

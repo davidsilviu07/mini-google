@@ -1,0 +1,39 @@
+Bluefire Reader
+Bluefire Reader is an e-book reader application for Android (superseded by Cloudshelf Reader), iOS and Windows operating systems that supports white-labelling. It supports the EPUB and PDF formats for digital publications and incorporates facilities for browsing online catalogs, and downloading them directly into the user's personal library. The application features a library that lets users navigate their collection of eBooks, as well as provides a customizable reading experience through configurable font and background color, font size and type, margin size, display brightness, page turn mode, etc. Additionally, the application allows users to import their own books to read them on the go.
+
+Features
+In-app browsing and downloading capability
+Read detailed descriptions before purchase & download
+Adjust front, background, link, layout & text alignment
+Day/Night themes: switch between day/night mode when reading in high/low-luminosity areas
+Brightness Control
+Customizable navigation modes
+Full support for Table of Contents
+Bookmarks: allows users to create their own bookmarks anywhere in a book to remember sections of interest
+Progress: allows users to check their reading progress in a chapter and in a book
+Share: allows users to recommend books to others via email, Facebook, Twitter, SMS...
+The reading engine automatically adjusts to the size of the device’s display
+Library management: books can be organized by Collections
+Edit detailed book information (title, author, tag, collection, rating)
+Sort books by title, author, download late, last read date or rating
+Import: allows users to import their own books to read them on the go
+Open images within a book in a separate viewer
+Open links within a book on browser
+Full text search: allows users to search any word globally within a book
+Dictionary lookup: allows users to look up any word definition in an online dictionary using Google define.
+Option to lock display orientation on iOS
+Option to set text alignment to left, justify or right
+Go To: allows users to quickly access any position within a book
+Support for Adobe DRM
+
+References
+
+External links
+Bluefirereader.com, Bluefire Reader's official website
+Bluefire Cloudshelf Reader, Google Play Store Link (Free)
+iOS App Store Link
+
+See also
+Bluefire jellyfish
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

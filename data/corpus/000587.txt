@@ -1,0 +1,40 @@
+Hart InterCivic
+Hart InterCivic Inc. is a privately held United States company that provides election technologies and services to government jurisdictions. Headquartered in Austin, Texas, Hart products are used by hundreds of jurisdictions nationwide, including counties in Texas, the entire states of Hawaii and Oklahoma, half of Washington and Colorado, and certain counties in Michigan, Ohio, California, Idaho, Illinois, Indiana, Kentucky, North Carolina, Oregon, Pennsylvania, and Virginia.
+
+Company History
+Hart entered the elections industry in 1912, printing ballots for Texas counties. The company, formerly a division of Hart Graphics, Inc., was established as a subsidiary called Hart Forms & Services in 1989. In 1995, to better communicate its full scope of document management services, Hart Forms & Services changed its name to Hart Information Services, Inc. During the next five years, Hart Information Services rapidly expanded its market presence through the acquisition of three major election services providers: Texas County Printing & Services, Computer Link Corporation, and Worldwide Election Systems. Worldwide was the developer of the eSlate, Hart's direct recording electronic (DRE) voting machine. The eSlate was specifically designed to accommodate the needs of voters with disabilities. It is not a touch-screen device but uses a Select Wheel and digital push-button interface.
+The need for document management and election services continued to grow, and in 1999, the company spun off completely from Hart Graphics. In 2000, the company became Hart InterCivic Inc., reflecting its corporate mission to service the interactive relationship of Hart InterCivic, state and local governments, and the citizens they serve.
+In the mid-2000s Hart entered and then exited the Geographic Information Systems business by acquiring and then spinning back out Farragut Systems.
+
+Board of directors and ownership
+In July 2011, Hart received what Hart described as "a strategic investment" from H.I.G. Capital, in a transaction that Hart's advisors called an "acquisition."
+As of July 2020, H.I.G. no longer listed ownership in the company on its website.
+
+State reviews of election equipment
+
+California TTBR
+On August 3, 2007, California Secretary of State Debra Bowen withdrew approval and then granted conditional reapproval of Hart InterCivic optical scan and DRE voting machines after a "top-to-bottom review" of California voting machines.
+
+Ohio
+A report commissioned by Ohio's top elections official on December 15, 2007, found that all five voting systems used in Ohio (including one made by Hart InterCivic) had critical flaws that could undermine the integrity of the 2008 general election.
+
+Issues
+On July 13, 2006, Mr. William Singer brought a qui tam complaint against Hart Intercivic, Inc. Mr. Singer worked as a computer technician for Hart from 2001 through early 2004 (at times as Hart’s only computer technician nationwide). Mr. Singer alleged in the complaint that Hart made false statements regarding the accuracy, testing, reliability, and security of its voting system.
+The machines were in use in 82 counties in Texas during the 2018 election and have been certified for use in the state since 2009. During voting for the 2018 Texas general election, an Election Advisory was issued by the Director of Elections, Keith Ingram.  Voters using the InterCivic eSlate voting machine could have their votes adjusted or flipped while on a summary page if the buttons were interacted with if the page was not fully rendered.
+Secretary Rolando Pablos later issued an additional Advisory, noting that "[I]t is important for all voters in the 82 Texas counties utilizing the Hart Intercivic eSlate to understand that the voting machines are not malfunctioning, nor are they arbitrarily 'switching' the choices of voters who cast a straight-party ballot," citing a "disturbing trend" in the distribution of misinformation about the integrity of the machines and the election.
+
+See also
+Electronic voting
+Voting machine
+Election Assistance Commission
+National Institute of Standards and Technology
+Voluntary Voting System Guidelines
+Certification of voting machines
+
+References
+
+External links
+Hart InterCivic company website
+Election Technology Council website
+
+[[Certification of voting machines]] [[DRE voting machine]] [[Election Assistance Commission]] [[Electronic voting]]

@@ -1,0 +1,51 @@
+Plastic Logic
+Plastic Logic Germany develops and manufactures  electrophoretic displays (EPD), based on organic thin-film transistor (OTFT) technology, in Dresden, Germany.
+Originally a spin-off company from the Cavendish Laboratory at the University of Cambridge, the company was founded in 2000 by Richard Friend, Henning Sirringhaus and Stuart Evans and specialised in polymer transistors and plastic electronics.
+In February 2015, the company announced that the technology development and manufacturing parts of Plastic Logic would be separated and would go forward as independent companies, in order to generate focus while addressing a range of opportunities available in identified markets. The manufacturing plant in Dresden, Germany, which develops, manufactures and sells a range of flexible EPD, operates independently under the name Plastic Logic Germany.
+
+Plastic Logic opened the first mini-fabrication plant on November 11, 2003 in Cambridge, UK.
+A factory for the mass-production of the display units was opened on September 17, 2008 in Dresden, Germany.
+Plastic Logic announced its first plastic screen device on November 30, 2004, to be used by Siemens Communications in their mobile devices. This was followed by the announcement of an ereader called the QUE proReader. However, by August 2010, they had cancelled the QUE proReader. In September 2011 the company announced Plastic Logic 100 aimed to bring e-textbooks to Russian schools.
+In January 2011 the company received $280m in venture capital: $230m into the equity of Plastic Logic from Rusnano and $50m from Oak Investment Partners, a multi-stage venture capital firm. In May 2012 Plastic Logic revealed a ‘Plastic Inside’ strategy – selling its plastic back-planes, sensors and tags for customers to incorporate into other products.
+On May 17, 2012, Plastic Logic announced that they were abandoning plans to manufacture their own e-reader devices (focusing instead on licensing their existing technology), shutting down their US office in Mountain View, California, and reducing staff elsewhere.
+In July 2012, Plastic Logic demonstrated a flexible display that was 130 μm thick, as well as the first flexible plastic display that can play colour video animation content at 12 frames per second (14 fps in black and white), driven by OTFTs (organic thin film transistors).
+Plastic Logic also demonstrated several product concepts including an ultra-thin e-paper companion device for a smartphone. The 10.7” touchscreen pane for viewing of webpages and documents was designed for easier reading of content than on the screen of a smartphone.
+BBC Click featured Plastic Logic's technology in a report on "going paperless" in July 2012.
+
+Technology
+Plastic Logic Germany licenses technology from FlexEnable technology platform based on organic thin film transistors (OTFTs), enabling electronics to be manufactured on flexible or plastic sheets, to make flexible plastic EPD in a full range of sizes. These daylight readable displays are designed to be lightweight, thin and robust with low battery consumption. The company claims they have lifetimes of over five years and more than 10 million page updates. The same technology can also be used for non-display applications. One example is the world's first flexible image sensor on plastic, which was jointly developed by ISORG and Plastic Logic and showcased at LOPE-C in June 2013.
+In January 2013, the company won the FlexTech Alliance's "FLEXI 2013 R&D Award" for innovation in flexible display manufacturing. This was in recognition for the development of a scalable manufacturing process for integrating a colour filter array on a flexible plastic display. Other companies recognised by the FlexTech Alliance included Corning, Inc. and American Semiconductor.
+
+Flexible displays
+Plastic Logic Germany develops and manufactures flexible plastic displays for third party end-devices. Because the displays are made of plastic, they are resistant to breaking and are designed for use in robust mobile devices. In March 2013, the readers of the German electronic products magazine Elektronik voted Plastic Logic's flexible colour display "Optoelectronic Product of the Year 2013".
+At the International CES in Las Vegas at the beginning of January 2013, the company announced the tablet computer product PaperTab,  the result of a collaboration between Intel, Plastic Logic and the Human Media Lab of Queen's University (Ontario, Canada). Powered by an Intel Core i5 Processor, the PaperTab incorporates a flexible 10.7” plastic display developed and manufactured by Plastic Logic. The interface is gesture-controlled, allowing the user to change a view or action a command by bending a screen corner or tapping one screen on another. Multiple PaperTabs can be used to display data side-by-side as a virtual desktop, displaying media such as emails and larger images simultaneously.
+Plastic Logic Germany also supplies larger displays, which can be used as e-paper or a companion device for a smartphone. Further uses include enabling a large form-factor, flexible and lightweight eReader.
+In March 2013 Toppan Printing Co., Ltd and Plastic Logic demonstrated the first large-area, flexible electrophoretic digital signage prototype at RETAILTECH in Tokyo, Japan. The 42" prototype consisted of 16 10.7" Plastic Logic monochrome flexible plastic displays, tiled together, in a 4x4 configuration for use in applications with close viewing distances. The power consumption of the displays was also demonstrated for disaster-ready applications in areas prone to natural disasters, such as the post-earthquake society of Japan.
+Plastic Logic Germany has also shown concept designs enabled by its smaller displays, such as wearable computers for use in sports, health and medical applications.
+
+The QUE proReader
+The QUE proReader was a first generation e-reader product from Plastic Logic. The final version of the product was presented during a public event at CES January 2010.
+The product was cancelled in August 2010 without ever shipping, with the firm noting that "We recognize the market has dramatically changed, and with the product delays we have experienced, it no longer make sense for us to move forward with our first generation electronic reading product."
+
+Plastic Logic 100
+Plastic Logic 100 was an "electronic textbook" which was intended for educational use. Its availability was announced by Plastic Logic on September 12, 2011. Beginning later that month, a shipment of devices was scheduled to be used on a trial basis in selected schools in Russia which were planning to be pioneering the electronic textbook program.
+The Plastic Logic 100 used plastic-based e-paper technology. The device employed a 10.7" glare-free, shatterproof, and anti-fingerprint display, as well as a touch-based UI.
+The storage limit was 4 GB and the device was running Windows CE on an 800 MHz processor. The battery was intended to last a week under regular use, which includes reading, underlining, and annotation of text.
+Due to the company's strategy change, announced in May 2012, the device was discontinued.
+
+See also
+E Ink
+Flexible display
+Flexible electronics
+List of e-book readers
+Organic electronics
+Printed electronics
+
+References
+
+External links
+Plastic challenge to silicon microchip, Peter Marsh, Financial Times
+Plastic Logic will make flexible polymer displays and launch its product in January 2009 (Technology Review)
+[1]
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

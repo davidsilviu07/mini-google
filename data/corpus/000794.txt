@@ -1,0 +1,209 @@
+OpenStreetMap
+OpenStreetMap (OSM) is a map database maintained by a community of volunteers via open collaboration. Contributors collect data from surveys, trace from aerial photo imagery or satellite imagery, and import from other freely licensed geodata sources. 
+OpenStreetMap is freely licensed under the Open Database License and is commonly used to make electronic maps, inform turn-by-turn navigation, and assist in humanitarian aid and data visualisation. OpenStreetMap uses its own data model to store geographical features which can then be exported into other GIS file formats. The OpenStreetMap website itself is an online map, geodata search engine, and editor.
+OpenStreetMap was created by Steve Coast in response to the Ordnance Survey, the United Kingdom's national mapping agency, failing to release its data to the public under free licences in 2004. Initially, maps in OSM were created only via GPS traces, but it was quickly populated by importing public domain geographical data such as the U.S. TIGER and by tracing imagery as permitted by source. OpenStreetMap's adoption was accelerated by the development of supporting software and applications and Google Maps' 2012 introduction of pricing.
+The database is hosted by the OpenStreetMap Foundation, a non-profit organisation registered in England and Wales, and is funded mostly via donations.
+
+History
+
+Steve Coast founded the project in 2004 while attending University College London, initially focusing on mapping the United Kingdom.  In the UK and elsewhere, government-run and tax-funded projects like the Ordnance Survey created massive datasets but declined to freely and widely distribute them. The first contribution was a street that Coast entered in December 2004 after cycling around Regent's Park in London with a GPS tracking unit. In April 2006, the OpenStreetMap Foundation was established to encourage the growth, development and distribution of free geospatial data and provide geospatial data for anybody to use and share.
+In April 2007, Automotive Navigation Data (AND) donated a complete road data set for the Netherlands and trunk road data for India and China to the project. By July 2007, when the first "State of the Map" (SotM) conference was held, there were 9,000 registered users. In October 2007, OpenStreetMap completed the import of a US Census TIGER road dataset. In December 2007, Oxford University became the first major organisation to use OpenStreetMap data on their main website. Ways to import and export data have continued to grow – by 2008, the project developed tools to export OpenStreetMap data to power portable GPS units, replacing their existing proprietary and out-of-date maps. In March 2008, two founders of CloudMade, a commercial company that uses OpenStreetMap data, announced that they had received venture capital funding of €2.4 million. In 2010, AOL launched an OSM-based version of MapQuest and committed $1 million to increasing OSM's coverage of local communities for its Patch website.
+In 2012, the launch of pricing for Google Maps led several prominent websites to switch from their service to OpenStreetMap and other competitors. Chief among these were Foursquare and Craigslist, which adopted OpenStreetMap, and Apple, which ended a contract with Google and launched a self-built mapping platform using TomTom and OpenStreetMap data.
+As of 2025, TomTom, Microsoft, Esri and Meta are the highest-tier corporate sponsors of the OpenStreetMap Foundation.
+
+Content
+The OSM project aims to collect data about stationary objects throughout the world, including infrastructure and other aspects of the built environment, points of interest, land use and cover classifications, and topography. Map features range in scale from international boundaries to hyperlocal details such as shops and street furniture. Although historically significant features and ongoing construction projects are routinely included in the database, the project's scope is limited to the present day, as opposed to the past or future.
+
+Data structure
+
+OSM's data model differs markedly from that of a conventional GIS or CAD system. It is a topological data structure without the formal concept of a layer, allowing thematically diverse data to commingle and interconnect. A map feature or element is modelled as one of three geometric primitives:
+
+A node is a point with a geographic coordinate expressed in the WGS 84 coordinate system. A standalone node represents a point of interest, such as a mountain peak.
+A way is an ordered list of nodes that represents a polyline or polygon, depending on its metadata and whether it forms a closed ring. A way can represent either a linear feature, such as a street or river, or an area, such as a forest, park, parking lot, or lake. Multiple ways can share a node to represent a connection, for instance, a street intersection or a confluence of two rivers. The node itself can simultaneously represent another feature, for example, an entrance that connects a footway to a building. Until 2007, a way was formally composed of explicit segments between pairs of nodes.
+A relation is an ordered list of nodes, ways and other relations (together called members). A relation can optionally specify the role of each of its members. Relations form complex geometries or represent abstract relationships among members. Examples include turn restrictions on roads, routes that span several existing ways (for instance, a long-distance motorway), and areas with holes. Multiple relations can contain the same member to represent an overlap, for example, a route concurrency or two adjoining political boundaries.
+The OpenStreetMap data primitives are stored and processed in different formats. OpenStreetMap server uses PostgreSQL database, with one table for each data primitive, with individual objects stored as rows.
+The data structure is defined as part of the OSM API. The current version of the API, v0.6, was released in 2009. A 2023 study found that this version's changes to the relation data structure had the effect of reducing the total number of relations; however, it simultaneously lowered the barrier to creating new relations and spurred the application of relations to new use cases.
+
+"Any tags you like"
+OSM manages metadata as a folksonomy. Each element contains key–value pairs, called tags, that identify and describe the feature. A recommended ontology of map features (the meaning of tags) is maintained on a wiki. New tagging schemes can always be proposed by a popular vote of a written proposal in OpenStreetMap wiki, however, there is no requirement to follow this process: editors are free to use any tags they like to describe a feature. There are over 89 million different kinds of tags in use as of June 2017.
+
+Coverage
+
+OpenStreetMap data has been favourably compared with proprietary datasources, although as of 2009 data quality varied across the world. A study in 2011 compared OSM data with TomTom for Germany. For car navigation TomTom has 9% more information, while for the entire street network, OSM has 27% more information. In 2011, TriMet, which serves the Portland, Oregon, metropolitan area, found that OSM's street data, consumed through the routing engine OpenTripPlanner and the search engine Apache Solr, yields better results than analogous GIS datasets managed by local government agencies.
+A 2021 study compared the OpenStreetMap Carto style's symbology to that of the Soviet Union's comprehensive military mapping programme, finding that OSM matched the Soviet maps in coverage of some features such as road infrastructure but gave less prominence to the natural environment.
+A study from 2021 found the mean completeness of shop data in the German regions Baden-Württemberg and Saxony to be 88% and 82% respectively. Instead of comparing OSM data to other datasets, the authors looked at how the number of shops developed over time. They then determined the expected number of shops by estimating the saturation level.
+According to a 2024 study using PyPSA, OSM has the most detailed and up-to-date publicly available coverage of the European high-voltage electrical grid, comparable to official data from the European Network of Transmission System Operators for Electricity.
+
+License
+All data added to the project needs to have a licence compatible with the Open Data Commons Open Database Licence (ODbL). This can include out-of-copyright information, public domain or other licences. Software used in the production and presentation of OpenStreetMap data may have separate licensing terms.
+OpenStreetMap data and derived tiles were originally published under the Creative Commons Attribution-ShareAlike licence (CC BY-SA) with the intention of promoting free use and redistribution of the data. In September 2012, the licence was changed to the ODbL in order to define its bearing on data rather than representation more specifically. As part of this relicensing process, some of the map data was removed from the public distribution. This included all data contributed by members that did not agree to the new licensing terms, as well as all subsequent edits to those affected objects. It also included any data contributed based on input data that was not compatible with the new terms.
+Estimates suggested that over 97% of data would be retained globally, but certain regions would be affected more than others, such as in Australia where 24 to 84% of objects would be retained, depending on the type of object. Ultimately, more than 99% of the data was retained, with Australia and Poland being the countries most severely affected by the change. The license change and resulting deletions prompted a group of dissenting mappers to establish Free Open Street Map (FOSM), a fork of OSM that remained under the previous license.
+Map tiles provided by the OpenStreetMap project were licensed under CC-BY-SA-2.0 until 1 August 2020. The ODbL license requires attribution to be attached to maps produced from OpenStreetMap data, but does not require that any particular license be applied to those maps. "©OpenStreetMap Contributors" with link to ODbL copyright page as attribution requirement is used on the site.
+
+Distribution
+OSM publishes official database dumps of the entire "planet" for reuse on minutely and weekly intervals, formatted as XML or binary Protocol Buffers. Alternative third-party distributions provide access to OSM data in other formats or to more manageable subsets of the data. Geofabrik publishes extracts of the database in OSM and shapefile formats for individual countries and political subdivisions. Amazon Web Services publishes the planet on S3 for querying in Athena. As part of the QLever project, the University of Freiburg publishes Turtle dumps suitable for linked data systems. From 2020 to 2024, Meta published the Daylight Map Distribution, which applied quality assurance processes and added some external datasets to OSM data to make it more production-ready. OSM data also forms a major part of the Overture Maps Foundation's dataset and commercial datasets from Mapbox and MapTiler.
+
+Mapmaking
+
+Data sources
+
+Map data is collected by ground survey, personal knowledge, digitizing from imagery, and government data. Ground survey data is collected by volunteers traditionally using tools such as a handheld GPS unit, a notebook, digital camera and voice recorder.
+Software applications on smartphones (mobile devices) have made it easy for anybody to survey. The data is then entered into the OpenStreetMap database using a number of software tools including JOSM, Potlatch, and Merkaator.
+Additionally, more recently apps such as StreetComplete offer "quests" to users in nearby vicinity, allowing them to add metadata to specific points of interest (such as the opening hours of a restaurant or whether or not a particular crosswalk has tactile paving).
+Mapathon competition events are also held by local OpenStreetMap teams and by non-profit organisations and local governments to map a particular area.
+The availability of aerial photography and other data from commercial and government sources has added important sources of data for manual editing and automated imports. Special processes are in place to handle automated imports and avoid legal and technical problems.
+
+Surveys and personal knowledge
+
+Ground surveys are performed by a mapper on foot, by bicycle, or in a car, motorcycle, or boat. Map data is typically recorded on a GPS unit or on a smartphone with a mapping app; a common file format is GPX. Similar to individual users contributing data, corporations (e.g., Amazon) with large vehicle fleets may use telemetry data from the vehicles to contribute data to OpenStreetMap.
+Once the data has been collected, it is entered into the database by uploading it to the project's website together with appropriate attribute data. As collecting and uploading data may be separate from editing objects, contributions to the project are possible without using a GPS unit, for example by using paper maps.
+Some committed contributors adopt the task of mapping whole towns and cities or organising mapping parties to gather the support of others to complete a map area. A large number of less-active users contribute corrections and small additions to the map.
+
+Satellite/Aerial images
+Maxar, Bing, ESRI, and Mapbox are some of the providers of aerial/satellite imagery which are used as a backdrop for map production.
+Yahoo! (2006–2011), Bing (2010 – present), and DigitalGlobe (2017–2023) allowed their aerial photography, satellite imagery to be used as a backdrop for map production. For a period from 2009 to 2011, NearMap Pty Ltd made their high-resolution PhotoMaps (of major Australian cities, plus some rural Australian areas) available under a CC BY-SA licence.
+
+Street-level image data
+Data from several street-level image platforms are available as map data photo overlays. Bing Streetside 360° image tracks, and the open and crowdsourced Mapillary and KartaView platforms provide generally smartphone and dashcam images. Additionally, a Mapillary traffic sign data layer, a product of user-submitted images is also available.
+
+Government data
+Some government agencies have released official data on appropriate licences. This includes the United States, where works of the federal government are placed under public domain. In the United States, most roads originate from TIGER from the Census Bureau. Geographic names were initially sourced from Geographic Names Information System, and some areas contain water features from the National Hydrography Dataset. In the UK, some Ordnance Survey OpenData is imported. In Canada Natural Resources Canada's CanVec vector data and GeoBase provide landcover and streets.
+Globally, OpenStreetMap initially used the prototype global shoreline from NOAA. Due to it being oversimplified and crude, it has been mainly replaced by other government sources or manual tracing.
+Out-of-copyright maps can be good sources of information about features that do not change frequently. Copyright periods vary, but in the UK Crown copyright expires after 50 years and hence old Ordnance Survey maps can legally be used. A complete set of UK 1 inch/mile maps from the late 1940s and early 1950s has been collected, scanned, and is available online as a resource for contributors.
+
+Editing software
+
+The map data can be edited from a number of editing applications that provide aids including satellite and aerial imagery, street-level imagery, GPS traces, and photo and voice annotations.
+By default, the official OSM website directs contributors to the Web-based iD editor. Meta developed a fork of this editor, Rapid, that provides access to external datasets, including some derived from machine learning detections. For complex or large-scale changes, experienced users often turn to more powerful desktop editing applications such as JOSM and Potlatch.
+Several mobile applications also edit OSM. Go Map!! and Vespucci are the primary full-featured editors for iOS and Android, respectively. StreetComplete is an Android application designed for laypeople around a guided question-and-answer format. CoMaps, Every Door, Maps.me, Organic Maps, and OsmAnd include basic functionality for editing points of interest.
+Between 2018 and 2023, the top five editing tools by number of edits were JOSM, iD, StreetComplete, Rapid, and Potlatch.
+
+Quality assurance
+OSM accepts contributions from the general public. Changesets submitted through editors and the OSM API immediately enter the database and are quickly published for reuse, without going through peer review beforehand. The API only validates changes for basic well-formedness, but not for topological or logical consistency or for adherence to community norms.
+As a crowdsourced project, OSM is susceptible to several forms of data vandalism, including copyright infringement, graffiti, and spam. Overall, vandalism accounts for an estimated 0.2% of edits to OSM, which is relatively low compared to vandalism on Wikipedia. Members of the community detect and fix most unintentional errors and vandalism promptly, by monitoring the slippy map and revision history on the main website, as well as by searching for issues using tools like OSMCha, OSM Inspector, and Osmose. In addition to community vigilance, the OpenStreetMap Foundation's Data Working Group and a group of administrators are responsible for responding to vandals. As of 2022, a comprehensive security assessment of the OSM data model has yet to take place.
+There have been several high-profile incidents of vandalism and other errors in OSM:
+
+In 2012, contractors affiliated with Google were found to be sabotaging OSM's navigation data in major cities around the world. Google responded by dismissing the contractors.
+In 2018, a vandal renamed New York City and some nearby map features to antisemitic names. Although the vandalism was quickly expunged, third-party replication lag caused it to resurface to readers of Wikipedia, as well as to users of Mapbox-powered applications such as Zillow, Snapchat, and Citibike.
+In 2020, Microsoft Flight Simulator players discovered an impossibly thin, 212-story building in a Melbourne suburb, which was traced to a typographical error that had gone unnoticed in OSM for a year.
+In 2021, Balad, an Iranian developer of OSM-based mobile navigation applications, apologized after the OSM community caught an employee vandalising streets in Iran.
+In 2023, the Taj Mahal was misidentified as "Shiva Kshetra (Shiv Mandir)" (a Hindu temple dedicated to Shiva) for 13 days until contributors from Kerala discovered and fixed it.
+Players of Pokémon Go have been known to vandalize OSM, one of the game's map data sources, to manipulate gameplay. However, this vandalism is casual, rarely sustained, and it is predictable based on the mechanics of the game.
+
+Community
+
+The project has a geographically diverse user-base, due to emphasis of local knowledge and "on-the-ground" situation in the process of data collection. Many early contributors were cyclists who survey with and for other cyclists, charting cycleroutes and navigable trails. Others are GIS professionals. Contributors are predominately men, with only 3–5% being women.
+By August 2008, shortly after the second The State of the Map conference was held, there were over 50,000 registered contributors; by March 2009, there were 100,000 and by the end of 2009 the figure was nearly 200,000. In April 2012, OpenStreetMap cleared 600,000 registered contributors. On 6 January 2013, OpenStreetMap reached one million registered users. Around 30% of users have contributed at least one point to the OpenStreetMap database.
+As per a study conducted in 2011, only 38%  of members carried out at least one edit and only 5% of members created more than 1000 nodes. Most members are in Europe (72%). According to another study, when a competing maps platform is launched, OSM attracts fewer new contributors and pre-existing contributors increase their level of contribution possibly driven by their ideological attachment to the platform. Overall, there is a negative effect on the quantum of contributions.
+
+Commercial contributors
+Some companies freely license satellite/aerial/street imagery sources from which OpenStreetMap contributors trace roads and features, while other companies make data available for importing map data. Automotive Navigation Data (AND) provided a complete road data set for Netherlands and trunk roads data for China and India. Amazon Logistics uses OpenStreetMap for navigation and has a team which revises the map based on GPS traces and feedback from its drivers. In eight Southeast Asian countries, Grab has contributed more than 800,000 kilometres (500,000 mi) of roads based on drivers' GPS traces, including many narrow alleyways that are missing from other mapping platforms. eCourier also contributes its drivers' GPS traces to OSM.
+According to a study, about 17% of road kilometers were last touched by corporate teams in March 2020. The top 13 corporate contributors during 2014–2020 include Apple, Kaart, Amazon, Facebook, Mapbox, Digital Egypt, Grab, Microsoft, Telenav, Developmentseed, Uber, Lightcyphers and Lyft.
+According to OpenStreetMap Statistics, the over all percentage of edits from corporations peaked at about 10% in 2020 and 2021 and has since fallen to about 2–3% in 2024.
+
+Non-governmental organisations
+
+Humanitarian OpenStreetMap Team (HOT) is a nonprofit organisation promoting community mapping across the world. It developed the open source HOT Tasking Manager for collaboration, and contributed to mapping efforts after the April 2015 Nepal earthquake, the 2016 Kumamoto earthquakes, and the 2016 Ecuador earthquake. The Missing Maps Project, founded by the American Red Cross, Doctors Without Borders, and other NGOs, uses HOT Tasking Manager. The University of Heidelberg hosts the Disastermappers Project for training university students in mapping for humanitarian purposes. When Ebola broke out in 2014, the volunteers mapped 100,000 buildings and hundreds of miles of roads in Guinea in just five days. Local groups such as Ramani Huria in Dar es Salaam incorporate OSM mapping into their community resilience programmes. Community emergency response teams in San Francisco and elsewhere organize field surveys and mapathons to contribute information about fire alarm call boxes, hazard symbols, and other relevant features.
+
+Conferences
+
+Since 2007, the OpenStreetMap community has organised State of the Map (SotM), an annual international conference at which stakeholders present on technical progress and discuss policy issues. The conference is held each year in a different city around the world. Various regional editions of State of the Map are also held for each continent, regions such as the Baltics and Latin America, and some countries with especially active local communities, such as France, Germany, and the United States.
+
+Criticism
+
+In 2018 OpenStreetMap's community was criticised by a former moderator and long-time contributor, Serge Wrocławski, due to the fact that while it appears like a map, it functions like a database. He also noted that the community was not welcoming to new mappers, where there is no review model, and so if bad edits are removed the original contributor may not know why, as well as noting that the project has hidden gatekeepers who resist change.
+
+Operation
+
+The official OSM website at openstreetmap.org is the project's main hub for contributors. A reference implementation of a slippy map (featuring a selection of third-party tile layers), a revision log, and integrations with basic geocoders and route planners facilitate the community's management of the database contents. Logged-in users can access an embedded copy of the iD editor and shortcuts for desktop editors for contributing to the database, as well as some rudimentary social networking features such as user profiles and diaries. The website's built-in REST API and OAuth authentication enable third-party applications to programmatically interact with the site's major functionality, including submitting changes. Much of the website runs as a Ruby on Rails application backed by a PostgreSQL database.
+
+Software development
+Strictly speaking, the OSM project produces only a geographic database, leaving data consumers to handle every aspect of postprocessing the data and presenting it to end users. However, a large ecosystem of command line tools, software libraries, and cloud services has developed around OSM, much of it as free and open-source software.
+Two kinds of software stacks have emerged for rendering OSM data as an interactive slippy map. In one, a server-side rendering engine such as Mapnik prerenders the data as a series of raster image tiles, then serves them using a library such as mod_tile. A library such as OpenLayers or Leaflet displays these tiles on the client side on the slippy map. Alternatively, a server application converts raw OSM data into vector tiles according to a schema, such as Mapbox Streets, OpenMapTiles, or Shortbread. These tiles are rendered on the client side by a library such as the Mapbox Maps SDK, MapLibre, Mapzen's Tangrams, or OpenLayers. Applications such as Mapbox Studio allow designers to author vector styles in an interactive, visual environment. Vector maps are especially common among three-dimensional mapping applications and mobile applications. Plugins are available for embedding slippy maps in content management systems such as WordPress.
+A geocoder indexes map data so that users can search it by name and address (geocoding) or look up an address based on a given coordinate pair (reverse geocoding). Several geocoders are designed to index OSM data, including Nominatim (from the Latin, 'by name'), which is built into the official OSM website along with GeoNames. Komoot's Photon search engine provides incremental search functionality based on a Nominatim database. The nonprofit Social Web Foundation's places.pub formats OSM locations as ActivityPub objects, enabling social media applications to enrich geocodes associated with check-ins. Element 84's natural language geocoder uses a large language model to identify OSM geometries to return.
+A variety of route planning libraries and services are based on OSM data. OSM's official website has featured GraphHopper, the Open Source Routing Machine, and Valhalla since February 2015. Other widely deployed routing engines include Openrouteservice and OpenTripPlanner, which specializes in public transport routing.
+
+Uses
+OSM is an important source of geographic data in many fields, including transportation, analysis, public services, and humanitarian aid. However, much of its use by consumers is indirect via third-party products, because customer reviews and aerial and satellite imagery are not part of the project per se.
+
+Cartography
+
+A variety of applications and services allow users to visualise OSM data in the form of a map. The official OSM website features an interactive slippy map interface so that users can efficiently edit maps and view changesets. It presents the general-purpose OpenStreetMap Carto style alongside a selection of specialised styles for cycling and public transport.
+Beyond this reference implementation, community-maintained map applications focus on alternative cartographic representations and specialised use cases. For example, OpenRailwayMap is a detailed online map of the world's railway infrastructure based on OSM data. OpenSeaMap is a world nautical chart built as a mashup of OpenStreetMap, crowdsourced water depth tracks, and third-party weather and bathymetric data. OpenTopoMap uses OSM and SRTM data to create topographic maps. Tactile Map Automated Production prints tactile maps that feature embossed streets, paths, and railroads from OSM.
+On the desktop, applications such as GNOME Maps and Marble provide their own interactive styles. GIS suites such as QGIS allow users to produce their own custom maps based on the same data.
+
+Geolocation
+
+Many commercial and noncommercial websites feature maps powered by OSM data in locator maps, store locators, infographics, story maps, and other mashups. Locator maps on Wikipedia and Wikivoyage articles for cities and points of interest are powered by a MediaWiki extension and the OSM-based Wikimedia Maps service. The locator maps on Craigslist, Facebook, Flickr, Foursquare City Guide, Gurtam's Wialon, and Snapchat are also powered by OSM. From 2013 to 2022, GitHub visualized any uploaded GeoJSON data atop an OSM-based Mapbox basemap.
+In 2012, Apple quietly switched the locator map in iPhoto from Google Maps to OSM. Interactive OSM-based maps appear in many augmented reality games, mobile navigation applications, and fitness applications, such as Strava.
+
+Geospatial analysis
+
+The Overpass API searches the OSM database for features whose metadata or topology match criteria specified in a structured query language. Overpass turbo is an integrated development environment for querying this API. Bellingcat develops an alternative Overpass frontend for geolocating photographs.
+QLever and Sophox are triplestores that accept standard SPARQL queries to return facts about the OSM database. Geographic information retrieval systems such as NLMaps Web and OSCAR answer natural language queries based on OSM data. OSMnx is a Python package for analysing and visualising the OSM road network.
+OSM is often a source for realistic, large-scale transport network analyses because the raw road network data is freely available or because of aspects of coverage that are uncommon in proprietary alternatives. OSM data can be imported into professional-grade traffic simulation frameworks such as Aimsun Next, Eclipse SUMO, and MATSim, as well as urban planning–focused simulators such as A/B Street. A team at the Virginia Tech Transportation Institute has used Valhalla's map matching function to evaluate advanced driver-assistance systems. The United States Census Bureau has analysed routes generated by the Open Source Routing Machine along with American Community Survey data to develop a socioeconomic profile of commuters affected by the Francis Scott Key Bridge collapse.
+OSM is also used in conservation and land-use planning research. The annual Forest Landscape Integrity Index is based on a comprehensive map of remaining roadless areas derived from OSM's road network. Computer vision researchers have trained convolutional neural networks on OSM's land use areas to perform feature detection and image segmentation on Sentinel-2 satellite imagery, both globally (OpenSentinelMap) and in Europe (OSMlanduse).
+Some newsrooms routinely incorporate OSM data into their workflows and data journalism projects. The Chicago Tribune maintains a dashboard of crime in Chicago visualized against an OSM basemap. The Washington Post and Los Angeles Times accompany articles with locator maps and more in-depth visuals that rely on OSM's hyperlocal coverage of places that have less detail in proprietary maps.
+Various groups, including researchers, data journalists, the Open Knowledge Foundation, and Geochicas, have used OSM in conjunction with Wikidata to explore the demographics of people honoured by street names and raise awareness of gender bias in naming decisions.
+
+Navigation
+
+OSM is a data source for some Web-based map services. In 2010, Bing Maps introduced an option to display an OSM-based map and later began including building data from OSM by default. Wheelmap.org is a portal for discovering wheelchair-accessible places, mashing up OSM data with a separate, crowdsourced customer review database.
+Mobile applications such as CoMaps, CycleStreets, Karta GPS, Komoot, Locus Map, Maps.me, Organic Maps, and OsmAnd also provide offline route planning capabilities. Apple Maps uses OSM data in many countries. Some of Garmin's GPS products incorporate OSM data. OSM is a popular source for road data among Iranian navigation applications, such as Balad. Geotab and TeleNav also use OSM data in their in-car navigation systems.
+Some public transportation providers rely on OpenStreetMap data in their route planning services and for other analysis needs.
+OSM data appears in the driver or rider application or powers backend operations for ridesharing companies and related services. In 2022, Grab completed a migration from Google Maps and Here Maps to an in-house, OSM-based navigation solution, reducing trip times by about 90 seconds. In 2024, Ola introduced a mapping platform partly based on OSM data.
+In 2019, owners of Tesla cars found that the Smart Summon automatic valet parking feature within Tesla Autopilot relied on OSM's coverage of parking lot details. Webots uses OSM data to simulate realistic surroundings for autonomous vehicles.
+
+Humanitarian aid
+
+Humanitarian aid agencies use OSM data both proactively and reactively. OSM's road and building coverage allow them to discover patterns of disease outbreaks and target interventions such as antimalarial medications toward remote villages. After a disaster occurs, they produce large-format printed maps and downloadable maps for GPS tracking units for aid workers to use in the field.
+The 2010 Haiti earthquake established a model for non-governmental organisations (NGOs) to collaborate with international organisations.  OpenStreetMap and Crisis Commons volunteers used available satellite imagery to map the roads, buildings and refugee camps of Port-au-Prince in just two days, building "the most complete digital map of Haiti's roads". The resulting data and maps have been used by several organisations providing relief aid, such as the World Bank, the European Commission Joint Research Centre, the Office for the Coordination of Humanitarian Affairs, UNOSAT and others.
+After Haiti, the OpenStreetMap community continued mapping to support humanitarian organisations for various crises and disasters. After the Northern Mali conflict (January 2013), Typhoon Haiyan in the Philippines (November 2013), and the Ebola virus epidemic in West Africa (March 2014), the OpenStreetMap community in association with the NGO Humanitarian OpenStreetMap Team (HOT)  has shown it can play a significant role in supporting humanitarian organisations.
+
+Gaming
+OSM is a map data source for many location-based games that require broad coverage of local details such as streets and buildings. One of the earliest such games was Hasbro's short-lived Monopoly City Streets (2009), which offered a choice between OSM and Google Maps as the playing board. Battlefield 4 (2013) used a customized OSM-based Mapbox map in its leaderboards. In 2013, Ballardia shut down testing of World of the Living Dead: Resurrection, because too many players attempted to use the Google Maps–based game, then relaunched it after switching to OSM, which could handle thousands of players.
+
+Flight simulators combine OSM's coverage of roads and structures with other sources of natural environment data, acting as sophisticated 3D map renderers, in order to add realism to the ground below. X-Plane 10 (2011) replaced TIGER and VMAP0 with OSM for roads, railways, and some bodies of water. Microsoft Flight Simulator (2020) introduced software-generated building models based in part on OSM data. In 2020, FlightGear Flight Simulator officially integrated OSM buildings and roads into the official scenery.
+City-building games and business simulation games use a subset of OSM data as a base layer to take advantage of the player's familiarity with their surroundings. In NIMBY Rails (2021), the player develops a railway network that coexists with real-world roads and bodies of water. In Jutsu Games' Infection Free Zone (2024), the player builds fortifications amid a post-apocalyptic world based on OSM streets and buildings. Other titles include City Bus Manager, Global Farmer, and Logistical: Earth. These games incorporate realistic elements but take some liberties to enhance gameplay and mitigate gaps in OSM's coverage.
+Augmented reality games rely on OSM data to determine where rewards and other elements of the game spawn in the player's presence, such as the 'portals' in Ingress, the 'PokéStops' and 'Pokémon Gyms' in Pokémon Go, and the 'tappables' in Minecraft Earth (2019). In 2017, when Niantic migrated its augmented reality titles, including Ingress and Pokémon Go, from Google Maps to OSM, the overworld maps in these games initially became more detailed for some players but completely blank for others, due to OSM's uneven geographic coverage at the time. In the first six weeks after launching in South Korea, Pokémon Go produced a seventeenfold spike in daily OSM contributions within the country. In 2024, Niantic migrated its titles to Overture Maps data, which incorporates some OSM data.
+
+Recognition
+OSM and projects based on it have been recognized for their contributions to design and the public good:
+
+In 2014, Free Software Foundation Europe awarded the OpenStreetMap Foundation its Document Freedom Day UK Award.
+In 2014, the Japan Institute of Design Promotion awarded OSM its Good Design Award.
+In 2018, the Swiss Society of Cartography awarded the OSM-based OpenMapTiles project its Prix Carto award for digital cartography.
+In 2019, the Free Software Foundation awarded OSM the 2018 Free Software Award for Projects of Social Benefit.
+In 2021, Stamen Design's OSM-based tile layer Watercolor (2010) became the first live website to enter the permanent collection of the Cooper Hewitt, Smithsonian Design Museum.
+In 2023, the Digital Public Goods Alliance, a United Nations–endorsed initiative, recognized OSM as a digital public good for its contribution toward the UN's Sustainable Development Goals.
+
+Influence
+
+According to the Open Data Institute, OSM is one of the most successful collaboratively maintained open datasets in existence. A 2020 research report by Accenture estimated the total replacement value of the OSM database, the value of OSM software development effort, and maintenance overhead at $1.67 billion, roughly equivalent to the value of the Linux kernel in 2008. Several startups have turned OSM-based software as a service into a business model, including Carto, Mapbox, MapTiler, and Mapzen. The Overture Maps Foundation incorporates OSM data in some of its GIS layers.
+Several open collaborative mapping projects are modeled after OSM and rely on OSM software. OpenHistoricalMap is a world historical map that tracks the evolution of human geography over time, from prehistory to the present day. OpenGeofiction focuses on fantasy cartography and worldbuilding. The OSM community sees these projects as complements for aspects of geography that are out of scope for OSM.
+
+See also
+Collaborative mapping – Aggregation of web mapping and user content
+Neogeography – Amateur-focused geography
+Turn-by-turn navigation – Feature of GPS navigation devices
+Volunteered geographic information – Type of user-generated content
+OpenDroneMap – Open source photogrammetry toolkit
+OpenHistoricalMap – Online, collaborative historical mapping project
+
+References
+
+Bibliography
+Foody, Giles; et al. (2017). Mapping and the Citizen Sensor. London: Ubiquity Press. ISBN 978-1-911529-16-3. JSTOR j.ctv3t5qzc.
+
+Further reading
+Bennett, Jonathan (2010). OpenStreetMap: Be Your Own Cartographer. Packt Publishing. ISBN 978-1-84719-750-4.
+Murdoch, Robin; Kelly, Christian; Quinlan, Matthew; Harpster, Jubal (2020). Navigating OpenStreetMap: how to make the most of an increasingly valuable mapping asset (PDF) (Report). Dublin: Accenture. Archived from the original (PDF) on 17 November 2020.
+Ramm, Frederik; Topf, Jochen; Chilton, Steve (September 2010). OpenStreetMap: Using and Enhancing the Free Map of the World (1st ed.). UIT Cambridge. ISBN 978-1-906860-11-0.
+Topf, Jochen (15 August 2022). Evolution of the OSM Data Model (PDF) (Report). Cambridge: OpenStreetMap Foundation.
+
+External links
+
+Official website
+Official wiki
+
+[[Association for Computing Machinery]] [[Augmented reality]] [[Computer-aided design]] [[Database]] [[Geographic information system]] [[Programming tool]] [[Wikipedia]]

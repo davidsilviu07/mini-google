@@ -1,0 +1,31 @@
+Audiovisual
+Audiovisual (AV) is electronic media possessing both a sound and a visual component, such as slide-tape presentations, films, television programs, corporate conferencing, church services, and live theater productions.
+Audiovisual service providers frequently offer web streaming, video conferencing, and live broadcast services. The professional audio visual industry has companies that provide hardware, software and services.  These organizations are commonly referred to as systems integrators and perform both the installation and integration of different types of AV equipment from multiple manufacturers into spaces to create the AV experience for the user or audience.
+Computer-based audiovisual equipment is often used in education, with many schools and universities installing projection equipment and using interactive whiteboard technology.
+
+Components
+Aside from equipment installation, two significant elements of audiovisual are wiring and system control. If either of these components are faulty or missing, the system may not demonstrate optimal performance.
+Wiring is a methodology and skill that not only requires proper cable rating selection based on a number of factors, including distance to the main rack or between components, frequency and fire codes, but wires should also be out of sight, inside or behind walls, or in the ceiling, when possible. System performance also depends on the integrity of the wires. If wires become exposed or mishandled during installation, the signals may not be transmitted or received properly, which could compromise the quality. Wires should be neatly organized into the main component and properly labeled for easy reference.
+Control refers to how the system will operate and how all the installed components will communicate. System automation devices from manufacturers like RTI, Crestron, Control4, AMX, Lightware and others are programmed to integrate the various components of the system and makes the system easy to use from various devices. For example, when programmed appropriately, a control system can allow a TV in one zone to automatically turn off when the music in another, nearby zone is turned on. Without proper control programming, the TV one zone would stay on, even when the music in the nearby zone is turned on.
+
+Residential
+Generally, residential audiovisual encompasses in-ceiling speakers, flat-panel TVs, projectors, and projector screens. This could include lighting, blinds, cinema rooms, etc.
+
+Commercial
+The professional audiovisual industry is a multibillion-dollar industry, consisting of manufacturers, dealers, systems integrators, consultants, programmers, presentations professionals, and technology managers of audiovisual products and services.
+Commercial audiovisual can be a lengthy and involved process to install and configure correctly. Boardroom audiovisuals are often installed due to the executives of the organization or business needing to have meetings with colleagues, customers and suppliers around the world. When creating an array of boardrooms for customers it is beneficial to balance the pattern from the audio and microphone so there is no degradation in sound quality for the individuals listening.
+The proliferation of audiovisual communications technologies, including sound, video, lighting, display, and projection systems is evident in many sectors of society. This includes business, education, government, the military, healthcare, retail environments, houses of worship, sports and entertainment, hospitality, restaurants, and museums. The application of audiovisual systems can be found in collaborative conferencing (which includes video-conferencing, audio-conferencing, web-conferencing, and data-conferencing), presentation rooms, auditoriums and lecture halls, command and control centers, digital signage, and more. Concerts and corporate events are among the most obvious venues where audiovisual equipment is used in a staged environment. Providers of this type of service are known as rental and staging companies – for example, nearly 100 projectors were deployed by AV rental company Rentex for the 2025 Digital Graffiti Festival – although they may also be served by an in-house technology team (e.g., in a hotel or conference center).
+
+See also
+Audio and video interfaces and connectors
+Audiovisual art
+Audiovisual education
+Audiovisual archive
+Audiovisualogy
+Information and communications technology
+Jam2jam, audiovisual software for collaborative performance
+Multimedia
+Visual music, the visual presentation of sound, another audiovisual expression
+World Day for Audiovisual Heritage
+
+References

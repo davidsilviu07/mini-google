@@ -1,0 +1,11 @@
+Magnetogastrography
+Magnetogastrography is the science of recording magnetogastrograms (MGGs). Magnetogastrograms are recordings of magnetic fields resulting from electrical currents in the stomach. The magnetic fields are typically recorded using SQUIDs.
+
+See also
+Electrogastrogram
+Magnetoencephalography
+
+External links
+Gastrointestinal SQUID Technology Laboratory at Vanderbilt University
+
+[[Audition]] [[Digestion]] [[Electro-olfactography]] [[Electrocardiography]] [[Electrocochleography]] [[Electrodiagnostic medicine]] [[Electroencephalography]] [[Electrogastrogram]] [[Electrogustometry]] [[Electronystagmography]] [[Electroretinography]] [[Fasegraphy]] [[Heart]] [[Human eye]] [[Magnetocardiography]] [[Magnetomyography]] [[Medical test]] [[Nerve conduction study]] [[Peripheral nervous system]] [[Stereoelectroencephalography]]

@@ -1,0 +1,18 @@
+Electromechanical modeling
+The purpose of electromechanical modeling is to model and simulate an electromechanical system, such that its physical parameters can be examined before the actual system is built. Parameter estimation utilizing different estimation theory coupled with physical experiments and physical realization by doing proper stability criteria evaluation of the overall system is the major objective of electromechanical modeling. Theory driven mathematical model can be used or applied to other system to judge the performance of the joint system as a whole. This is a well known and proven technique for designing large control system for industrial as well as academic multi-disciplinary complex system. This technique is also being employed in MEMS technology recently.
+
+Different types of mathematical modeling
+The modeling of purely mechanical systems is mainly based on the Lagrangian which is a function of the generalized coordinates and the associated velocities. If all forces are derivable from a potential, then the time behavior of the dynamical systems is completely determined. For simple mechanical systems, the Lagrangian is defined as the difference of the kinetic energy and the potential energy.
+There exists a similar approach for electrical system. By means of the electrical coenergy and well defined power quantities, the equations of motions are uniquely defined. The currents of the inductors and the voltage drops across the capacitors play the role of the generalized coordinates. All constraints, for instance caused by the Kirchhoff laws, are eliminated from the considerations. After that, a suitable transfer function is to be derived from the system parameters which eventually governs the behavior of the system.
+In consequence, we have quantities (kinetic and potential energy, generalized forces) which determine the mechanical part and quantities (coenergy, powers) for the description of the electrical part. This offers a combination of the mechanical and electrical parts by means of an energy approach. As a result, an extended Lagrangian format is produced.
+
+See also
+Mechatronics
+Mechanical–electrical analogies
+
+References
+Dean C. Karnopp; Donald L. Margolis; Ronald C. Rosenberg (1999). System Dynamics: Modeling and Simulation of Mechatronic Systems. Wiley-Interscience. ISBN 0-471-33301-8.
+Sergey Edward Lyshevski (1999). Electromechanical Systems, Electric Machines, and Applied Mechatronics. CRC. ISBN 0-8493-2275-8.
+A.F.M. Sajidul Qadir (2013). Electro-Mechanical Modeling of SEDM (Separately Excited DC Motor) & Performance Improvement Using Different Industrial Controllers. Lulu.com. ISBN 978-1-304-22765-2.
+
+[[Electromechanics]]

@@ -1,0 +1,27 @@
+MuPDF
+MuPDF is a free and open-source software framework written in C that implements a PDF, XPS, and EPUB parsing and rendering engine. It is used primarily to render pages into bitmaps, but also provides support for other operations such as searching and listing the table of contents and hyperlinks.
+The focus of MuPDF is on speed, small code size, and high-quality anti-aliased rendering. Since the 1.2 release, MuPDF has optional support for interactive features such as form filling, JavaScript and transitions.
+The library ships with a rudimentary X11 and Windows viewer, and a set of command-line tools for batch rendering (mutool draw), examining the file structure (mutool show), and rewriting files (mutool clean). Later versions also have a JavaScript interpreter (mutool run) that allows running scripts to create and edit PDF files.
+Sumatra PDF uses MuPDF to render PDF documents, which is available as a package for most Unix-like operating system distributions.
+Independent parties have ported the library to other platforms, including the Amazon Kindle, HP TouchPad, PlayStation Portable, and Wii.
+
+History
+In 2002, Tor Andersson started work on MuPDF based on the Libart rendering library by Raph Levien. After Artifex Software acquired the MuPDF project, the development focus shifted on writing a new modern graphics library called Fitz. Fitz was originally intended as an R&D project to replace the aging Ghostscript graphics library, but has instead become the rendering engine powering MuPDF.
+In 2005, the first version of MuPDF with the new Fitz library was released.
+In 2009, Artifex Software filed a copyright infringement lawsuit against Palm, Inc. for violating their copyrights on MuPDF. At that time Artifex offered MuPDF dual-licensed, either under GPLv2 or under a proprietary license meant by Artifex for commercial use. When Palm included MuPDF in webOS and complied with GPLv2 by releasing the changed source code of the library, Artifex claimed that the GPL version would be unsuitable for "commercial use" as the complete, aggregated product (PDFviewer, WebOS) would have to be placed under GPL. Artifex voluntarily dismissed the suit in 2011.
+In 2011, support for Microsoft's XPS was added, based on code from the GhostXPS library.
+Since February 2013, with the 1.2 release, licensing terms have changed from GNU General Public License to GNU Affero General Public License v3.
+
+See also
+
+List of PDF software
+Poppler (software), another free and open-source PDF library
+
+References
+
+External links
+Official website 
+MuPDF mini on Google Play
+MuPDF Android package at the F-Droid repository
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[GNU General Public License]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

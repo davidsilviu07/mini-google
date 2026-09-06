@@ -1,0 +1,22 @@
+Mental activity
+Mental activity refers to the internal processes carried out by the human brain and mind that allow an individual to acquire, process, store, and use information about the world. These activities range from basic sensory perception to complex problem solving and decision‑making, encompassing the full spectrum of conscious and unconscious cognitive operations.
+
+Overview
+At its core, mental activity includes the cognitive processes involved in acquiring insight into sensory input, such as detecting light or sound (perception), focusing on relevant stimuli (attention), storing and retrieving memories, and manipulating ideas through thinking and reasoning. These processes enable organisms to interpret their environment and respond adaptively to it, forming the basis of intelligent behaviour studied in cognitive science and psychology.
+In the fields of cognitive neuroscience and psychiatry, the term mental activity is often used to describe the processing of stimuli in the environment, the manipulation of internally generated representations, and the orientation of behaviour toward abstract goals. Alterations in specific mental activities are linked to characteristic patterns of symptoms in psychiatric disorders, and these are investigated using techniques such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) to study their neural correlates.
+Mental activity is instantiated by networks of brain regions working in concert. For example, studies have found that distinct patterns of brain activation and electrophysiological signals emerge when individuals engage in particular mental tasks, with slower oscillations in certain brain areas associated with language processing and thinking. This reflects how dynamic neural mechanisms give rise to the phenomenology of thought and cognition in real time.
+The scientific study of mental activity also includes mental chronometry, which measures how quickly the brain processes information. By tracking reaction times during cognitive tasks, researchers can infer the timing and sequencing of mental operations such as perception, attention, and decision‑making, providing insight into the underlying temporal structure of human thought.
+Overall, mental activity represents a foundational concept in psychology, neuroscience, and related disciplines. It is essential for understanding how organisms interpret their surroundings, make decisions, and generate purposeful behaviour, bridging the gap between neural processes and observable cognition.
+
+See also
+Cognition
+Consciousness
+Neuroscience
+Mental chronometry
+Executive functions
+Problem solving
+Attention
+
+References
+
+[[Cognitive science]] [[Electroencephalography]]

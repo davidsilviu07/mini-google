@@ -1,0 +1,190 @@
+Sleep disorder
+A sleep disorder, or somnipathy, is a medical disorder that disrupts an individual's sleep patterns and quality. This can cause serious health issues and affect physical, mental, and emotional well-being. Polysomnography and actigraphy are tests commonly ordered for diagnosing sleep disorders.
+Sleep disorders are classified by the International Classification of Sleep Disorders into insomnia disorders, sleep-related breathing disorders (such as obstructive sleep apnea), central disorders of hypersomnolence (such as narcolepsy), circadian rhythm sleep disorders, parasomnias, and sleep-related movement disorders. When a person struggles to fall or stay asleep without an obvious cause, it is referred to as insomnia, which is the most common sleep disorder. Other sleep disorders include sleep apnea, narcolepsy, idiopathic hypersomnia (excessive sleepiness at inappropriate times), restless legs syndrome, jet lag disorder, rapid eye movement sleep behavior disorder, sleepwalking, and night terrors (also known as sleep terrors).
+Sleep disruptions can be caused by various issues, including teeth grinding (bruxism). Managing sleep disturbances that are secondary to mental, medical, or substance abuse disorders should focus on addressing the underlying condition. Sleep disorders are common in both children and adults. However, there is a significant lack of awareness about sleep disorders in children, with many cases remaining unidentified. Several common factors involved in the onset of a sleep disorder include increased medication use, age-related changes in circadian rhythms, environmental changes, lifestyle changes, existing physiological problems, and stress. Among the elderly, the risk of developing certain sleep conditions is especially high. These include sleep-disordered breathing, periodic limb movements, restless legs syndrome, REM sleep behavior disorder, insomnia, and circadian rhythm disturbances.
+
+Causes
+
+A systematic review found that traumatic childhood experiences, such as family conflict or sexual trauma, significantly increase the risk of several sleep disorders in adulthood, including sleep apnea, narcolepsy, and insomnia.
+An evidence-based synopsis suggests that idiopathic REM sleep behavior disorder may have a hereditary component. A total of 632 participants, half with idiopathic REM sleep behavior disorder and half without, completed self-report questionnaires. The study results suggest that people with the sleep disorder are more likely to report having a first-degree relative with the same sleep disorder than people of the same age and sex who do not have the disorder. More research is needed to further understand the hereditary basis of sleep disorders.
+A population susceptible to the development of sleep disorders includes people who have experienced a traumatic brain injury. Due to the significant research focus on this issue, a systematic review was conducted to synthesize the findings. The results indicate that individuals who have experienced a traumatic brain injury are disproportionately at risk of developing narcolepsy, obstructive sleep apnea, excessive daytime sleepiness, and insomnia.
+Obstructive sleep apnea is a common condition affecting 10-20% of middle-aged and older adults, characterized by repeated breathing pauses during sleep, leading to poor sleep quality, and excessive daytime somnolence and, sometimes insomnia. Common factors include obesity, narrow airways, and certain neuromuscular conditions that cause airway collapse during sleep.
+
+In neurodegenerative diseases
+Neurodegenerative diseases are often associated with sleep disorders, particularly when characterized by the abnormal accumulation of alpha-synuclein, as seen in multiple system atrophy (MSA), Parkinson's disease (PD), Huntington's disease, and Lewy body disease (LBD). For example, individuals diagnosed with PD frequently experience various sleep issues, such as insomnia (affecting approximately 70% of the PD population), hypersomnia (over 50%), and REM sleep behavior disorder (RBD) (around 40%), which is linked to increased motor symptoms. Moreover, RBD has been identified as a significant precursor to the future development of these neurodegenerative diseases over several years, presenting a promising opportunity for improving treatments.
+Neurodegenerative conditions are commonly related to structural brain impairments, which may disrupt sleep and wakefulness, circadian rhythm, and motor or non-motor functioning. Conversely, sleep disturbances are often linked to worsening of patients' cognitive functioning, emotional state, and quality of life. Additionally, these abnormal behavioral symptoms can place a significant burden on patients' relatives and caregivers. The limited research in this area, coupled with increasing life expectancy, highlights the need for a deeper understanding of the relationship between sleep disorders and neurodegenerative diseases.
+
+In Alzheimer's disease
+Sleep disturbances have also been observed in Alzheimer's disease (AD), affecting about 45% of the affected population. When based on caregiver reports, this percentage increases to about 70%. As in the PD population, insomnia and hypersomnia are frequently recognized in AD patients. These disturbances have been associated with the accumulation of beta-amyloid, circadian rhythm sleep disorders (CRSD), and melatonin alterations. Additionally, changes in sleep architecture are observed in AD. 
+Although sleep architecture seems to naturally change with age, its development appears aggravated in AD patients. Slow-wave sleep (SWS) potentially decreases (and is sometimes absent), sleep spindles and the length of time spent in REM sleep are also reduced, while REM latency increases. Poor sleep onset in AD has been associated with dream-related hallucinations, increased restlessness, wandering, and agitation related to sundowning—a typical chronobiological phenomenon in the disease.
+In Alzheimer's disease, in addition to cognitive decline and memory impairment, there are also significant sleep disturbances with modified sleep architecture. These disturbances may consist of sleep fragmentation, reduced sleep duration, insomnia, increased daytime napping, decreased quantity of some sleep stages, and a growing resemblance between some sleep stages (N1 and N2). More than 65% of people with Alzheimer's disease experience this type of sleep disturbance.
+One factor that could explain this change in sleep architecture is a disruption in the circadian rhythm, which regulates sleep. This disruption can lead to sleep disturbances. Some studies show that people with Alzheimer's disease have a delayed circadian rhythm, whereas in normal aging, an advanced circadian rhythm is present.
+In addition to these psychological symptoms, there are two main neurological features of Alzheimer's disease: 
+
+The first is the accumulation of beta-amyloid waste, forming aggregate amyloid plaques.
+The second is the accumulation of tau protein.
+It has been shown that the sleep-wake cycle influences the beta-amyloid burden, a central component found in Alzheimer's disease (AD). As individuals awaken, the production of beta-amyloid protein becomes more consistent compared to its production during sleep. This phenomenon can be explained by two factors. First, metabolic activity is higher during waking hours, resulting in greater secretion of beta-amyloid protein. Second, oxidative stress increases during waking hours, which leads to greater beta-amyloid production.
+On the other hand, it is during sleep that beta-amyloid residues are degraded to prevent plaque formation. The glymphatic system is responsible for this through the phenomenon of glymphatic clearance. Thus, during wakefulness, the beta-amyloid burden is greater because metabolic activity and oxidative stress are higher, and there is no protein degradation by glymphatic clearance. During sleep, the burden is reduced as there is less metabolic activity and oxidative stress, in addition to the glymphatic clearance that occurs.
+Glymphatic clearance occurs during NREM SWS sleep, a stage that decreases with normal aging, leading to reduced glymphatic clearance and increased beta-amyloid burden, which forms plaques. Therefore, sleep disturbances in individuals with Alzheimer's disease may exacerbate this phenomenon.
+The decrease in the quantity and quality of NREM SWS, along with sleep disturbances, will therefore increase the Aβ plaques. This initially occurs in the hippocampus, a brain structure integral to long-term memory formation. As hippocampal cell death occurs, it contributes to reduced memory performance and cognitive decline found in AD.
+Although the causal relationship is unclear, the development of AD correlates with the onset of prominent sleep disorders. Similarly, sleep disorders exacerbate disease progression, forming a positive feedback loop. As a result, sleep disturbances are not only a symptom of AD; the relationship between sleep disturbances and AD is likely bidirectional.
+At the same time, it has been shown that memory consolidation in long-term memory, which depends on the hippocampus, occurs during NREM sleep. This indicates that a decrease in NREM sleep will result in less consolidation, leading to poorer memory performance in hippocampal-dependent long-term memory. This drop in performance is one of the central symptoms of AD.
+Recent studies have also linked sleep disturbances, neurogenesis, and AD. The subgranular zone and subventricular zone continue to produce new neurons in adult brains. These new cells are then incorporated into neuronal circuits in the subgranular zone, which is found in the hippocampus. These new cells contribute to learning and memory, playing an essential role in hippocampal-dependent memory. However, recent studies have shown that several factors can interrupt neurogenesis, including stress and prolonged sleep deprivation (more than one day). The sleep disturbances encountered in AD could therefore suppress neurogenesis and impair hippocampal functions. This suppression would contribute to diminished memory performance and the progression of AD, while the progression of AD would further aggravate sleep disturbances. Changes in sleep architecture in patients with AD occur during the preclinical phase of the disease. These changes could potentially be used to detect those most at risk of developing AD. However, this is still only theoretical. While the exact mechanisms and causal relationship between sleep disturbances and AD remain unclear, these findings provide a better understanding and offer possibilities to improve the targeting of at-risk populations, as well as the implementation of treatments to curb the cognitive decline of AD patients.
+
+In psychiatric illnesses
+In individuals with psychiatric illnesses sleep disorders may include a variety of clinical symptoms, including but not limited to: excessive daytime sleepiness, difficulty falling asleep, difficulty staying asleep, nightmares, sleep talking, sleepwalking, and poor sleep quality. Sleep disturbances - insomnia, hypersomnia, and delayed sleep-phase disorder - are quite prevalent in severe mental illnesses such as psychotic disorders.
+Sleep deprivation can also produce hallucinations, delusions and depression. A 2019 study investigated the three above-mentioned sleep disturbances in schizophrenia-spectrum (SCZ) and bipolar (BP) disorders in 617 SCZ individuals, 440 BP individuals, and 173 healthy controls (HC). Sleep disturbances were identified using the Inventory for Depressive Symptoms - Clinician-Rated Scale (IDS-C). Results suggested that at least one type of sleep disturbance was reported in 78% of the SCZ population, in 69% of individuals with BD, and in 39% of healthy controls. The SCZ group reported the highest number of sleep disturbances compared to the BD and HC groups; specifically, hypersomnia was more frequent among individuals with SCZ, and delayed sleep phase disorder was three times more common in the SCZ group compared to the BD group. Insomnias was the most frequently reported sleep disturbance across all three groups.
+
+Schizophrenia
+
+Schizophrenia is intricately linked to disordered sleep. Many schizophrenia patients have a comorbid sleep disorder, and sleep abnormalities often precedes illness onset, suggesting that sleep disturbances are not only a secondary result of schizophrenia or its medication. Neurological studies on schizophrenia patients, using technologies such as electroencephalography, have demonstrated changes in sleep-related neural activities, such as deficits in sleep spindles and slow waves. A change in usual sleep patterns can signal the start of psychosis or a relapse. 
+Symptoms of schizophrenia and sleep disorder can also secondarily affect each other. Sleep related issues may arise due to psychotic symptoms leading to fear and anxiety, or as side effects of medication used to treat psychosis. For those with schizophrenia, sleep disorders contribute to cognitive deficits in learning and memory. 
+
+Bipolar disorder
+One of the main behavioral symptoms of bipolar disorder is abnormal sleep. Studies have suggested that 23-78% of individuals with bipolar disorder consistently report symptoms of excessive time spent sleeping, or hypersomnia. The pathogenesis of bipolar disorder, including the higher risk of suicidal ideation, could possibly be linked to circadian rhythm variability, and sleep disturbances are a good predictor of mood swings. The most common sleep-related symptom of bipolar disorder is insomnia, in addition to hypersomnia, nightmares, poor sleep quality, obstructive sleep apnea, extreme daytime sleepiness, and other disturbances. Moreover, animal models have shown that sleep debt can induce episodes of bipolar mania in laboratory mice, but these models are still limited in their potential to explain bipolar disorder in humans with all its multifaceted symptoms, including those related to sleep disturbances.
+
+Major depressive disorder (MDD)
+Sleep disturbances (insomnia or hypersomnia)—though not a necessary diagnostic criterion—are among the most frequent symptoms in individuals with major depressive disorder (MDD). Among individuals with MDD, insomnia and hypersomnia have prevalence estimates of 88% and 27%, respectively, whereas individuals with insomnia have a threefold increased risk of developing MDD. Depressed mood and sleep efficiency strongly co-vary, and while sleep regulation problems may precede depressive episodes, such depressive episodes may also precipitate sleep deprivation. Fatigue, as well as sleep disturbances such as irregular and excessive sleepiness, are linked to symptoms of depression. Recent research has even pointed to sleep problems and fatigue as potential driving forces bridging MDD symptoms to those of co-occurring generalized anxiety disorder.
+
+Post traumatic stress disorder (PTSD)
+PTSD prognosis, and likelihood of the disorders development in vulnerable populations is linked to insufficient quality, and amount of sleep. Trauma related sleep disturbances are a common symptom of PTSD, along with trauma associated nightmares - both are considered as one of the possible criteria for diagnosis of the disorder under the DSM-5. Outside of the core components, other issues which prevent quality sleep include, non-exhaustively, insomnia, sleep apnea, fear of sleep, and repetitive limb movements. Of the mentioned, insomnia is most prevalent, at least partially because of exacerbation by other sleep disturbances of PTSD, with estimates of up to 90% of all people with PTSD having insomnia.
+Studies have shown that somewhere between 50 to 70% of people with PTSD experience reoccurring nightmares, those averaging about 5 nightmares a week. Studies have shown that mitigating sleep issues that come with PTSD is important for recovery and potential prevention of developing the disorder in vulnerable trauma exposed populations.
+
+Treatment
+
+Treatments for sleep disorders generally can be grouped into four categories:
+
+Behavioral and psychotherapeutic treatment
+Rehabilitation and management
+Medication
+Other somatic treatments
+None of these general approaches are sufficient for all patients with sleep disorders. Rather, the choice of a specific treatment depends on the patient's diagnosis, medical and psychiatric history, and preferences, as well as the expertise of the treating clinician. Often, behavioral/psychotherapeutic and pharmacological approaches may be compatible, and can effectively be combined to maximize therapeutic benefits.
+Management of sleep disturbances that are secondary to mental, medical, or substance abuse disorders should focus on the underlying conditions. Medications and somatic treatments may provide the most rapid symptomatic relief from certain disorders, such as narcolepsy, which is best treated with prescription drugs like modafinil. Others, such as chronic and primary insomnia, may be more amenable to behavioral interventions—with more durable results.
+Chronic sleep disorders in childhood, which affect some 70% of children with developmental or psychological disorders, are under-reported and under-treated. Sleep-phase disruption is also common among adolescents, whose school schedules are often incompatible with their natural circadian rhythm. Effective treatment begins with careful diagnosis using sleep diaries and perhaps sleep studies. Modifications in sleep hygiene may resolve the problem, but medical treatment is often warranted.
+Special equipment may be required for treatment of several disorders such as obstructive apnea, circadian rhythm disorders, and bruxism. In severe cases, it may be necessary for individuals to accept living with the disorder, however well managed. Some sleep disorders have been found to compromise glucose metabolism.
+
+Allergy treatment
+Histamine plays a role in wakefulness in the brain. An allergic reaction overproduces histamine, causing wakefulness and inhibiting sleep. Sleep problems are common in people with allergic rhinitis. A study from the N.I.H. found that sleep is dramatically impaired by allergic symptoms, and that the degree of impairment is related to the severity of those symptoms. Treatment of allergies has also been shown to help sleep apnea.
+
+Acupuncture
+A review of the evidence in 2012 concluded that current research is not rigorous enough to make recommendations regarding the use of acupuncture for insomnia. The pooled results of two trials on acupuncture showed a moderate likelihood that there may be some improvement in sleep quality for individuals with insomnia. This form of treatment for sleep disorders is generally studied in adults, rather than children. Further research would be needed to study the effects of acupuncture on sleep disorders in children.
+
+Hypnosis
+Research suggests that hypnosis may be helpful in alleviating some types and manifestations of sleep disorders in some patients. "Acute and chronic insomnia often respond to relaxation and hypnotherapy approaches, along with sleep hygiene instructions." Hypnotherapy has also helped with nightmares and sleep terrors. There are several reports of successful use of hypnotherapy for parasomnias, specifically for head and body rocking, bedwetting, and sleepwalking.
+Hypnotherapy has been studied in the treatment of sleep disorders in both adults and children.
+
+Music therapy
+
+Although more research should be done to increase the reliability of this method of treatment, research suggests that music therapy can improve sleep quality in acute and chronic sleep disorders. In one particular study, participants (18 years or older) who had experienced acute or chronic sleep disorders were put in a randomized controlled trial, and their sleep efficiency, in the form of overall time asleep, was observed. In order to assess sleep quality, researchers used subjective measures (i.e. questionnaires) and objective measures (i.e. polysomnography). The results of the study suggest that music therapy did improve sleep quality in subjects with acute or chronic sleep disorders, though only when tested subjectively. Although these results are not fully conclusive and more research should be conducted, they still provide evidence that music therapy can be an effective treatment for sleep disorders.
+In another study specifically looking to help people with insomnia, similar results were seen. The participants who listened to music experienced better sleep quality than those who did not listen to music. Listening to slower-pace music before bed can help decrease the heart rate, making it easier to transition into sleep. Studies have indicated that music helps induce a state of relaxation that shifts an individual's internal clock towards the sleep cycle. This is said to have an effect on children and adults with various cases of sleep disorders. Music is most effective before bed once the brain has been conditioned to it, helping to achieve sleep much faster.
+
+Melatonin
+Research suggests that melatonin is useful in helping people fall asleep faster (decreased sleep latency), stay asleep longer, and experience improved sleep quality. To test this, a study was conducted that compared subjects who had taken melatonin to subjects with primary sleep disorders who had taken a placebo. Researchers assessed sleep onset latency, total minutes slept, and overall sleep quality in the melatonin and placebo groups to note the differences. In the end, researchers found that melatonin decreased sleep onset latency and increased total sleep time, but had an insignificant and inconclusive impact on the quality of sleep compared to the placebo group.
+
+Sleep medicine
+
+Due to rapidly increasing knowledge and understanding of sleep in the 20th century, including the discovery of REM sleep in the 1950s and circadian rhythm disorders in the 70s and 80s, the medical importance of sleep was recognized. By the 1970s in the US, clinics and laboratories devoted to the study of sleep and sleep disorders had been founded, and a need for standards arose. The medical community began paying more attention to primary sleep disorders, such as sleep apnea, as well as the role and quality of sleep in other conditions. 
+
+Specialists in sleep medicine were originally and continue to be certified by the American Board of Sleep Medicine. Those passing the Sleep Medicine Specialty Exam received the designation "diplomate of the ABSM". Sleep medicine is now a recognized subspecialty within internal medicine, family medicine, pediatrics, otolaryngology, psychiatry and neurology in the United States. Certification in Sleep medicine shows that the specialist:has demonstrated expertise in the diagnosis and management of clinical conditions that occur during sleep, that disturb sleep, or that are affected by disturbances in the wake-sleep cycle. This specialist is skilled in the analysis and interpretation of comprehensive polysomnography, and well-versed in emerging research and management of a sleep laboratory. 
+Competence in sleep medicine requires an understanding of a myriad of very diverse disorders. Many of which present with similar symptoms such as excessive daytime sleepiness, which, in the absence of volitional sleep deprivation, "is almost inevitably caused by an identifiable and treatable sleep disorder", such as sleep apnea, narcolepsy, idiopathic hypersomnia, Kleine–Levin syndrome, menstrual-related hypersomnia, idiopathic recurrent stupor, or circadian rhythm disturbances. Another common complaint is insomnia, a set of symptoms which can have a great many different causes, physical and mental. Management in the varying situations differs greatly and cannot be undertaken without a correct diagnosis.
+Sleep dentistry (bruxism, snoring and sleep apnea), while not recognized as one of the nine dental specialties, qualifies for board-certification by the American Board of Dental Sleep Medicine (ABDSM). The qualified dentists collaborate with sleep physicians at accredited sleep centers, and can provide oral appliance therapy and upper airway surgery to treat or manage sleep-related breathing disorders. The resulting diplomate status is recognized by the American Academy of Sleep Medicine (AASM), and these dentists are organized in the Academy of Dental Sleep Medicine (USA).
+Occupational therapy is an area of medicine that can also address a diagnosis of sleep disorder, as rest and sleep is listed in the Occupational Therapy Practice Framework (OTPF) as its own occupation of daily living.  Rest and sleep are described as restorative in order to support engagement in other occupational therapy occupations. In the OTPF, the occupation of rest and sleep is broken down into rest, sleep preparation, and sleep participation. Occupational therapists have been shown to help improve restorative sleep through the use of assistive devices/equipment, cognitive behavioral therapy for Insomnia, therapeutic activities, and lifestyle interventions.
+In the UK, knowledge of sleep medicine and possibilities for diagnosis and treatment seem to lag. The Imperial College Healthcare shows attention to obstructive sleep apnea syndrome and very few other sleep disorders. Some NHS trusts have specialist clinics for respiratory and neurological sleep medicine.
+
+Epidemiology
+
+Children and adolescents
+A systematic review reveals parasomnias to be the most common sleep disorder in childhood, affecting up to 50% of children. However, only 4% of these parasomnias persist past adolescence. These parasomnias and their prevalences in childhood are sleepwalking (17%), confusional arousals (17.3% in 3-13 year olds), sleep terrors (1-6.5%), and nightmares (10-50% in 3-5 year olds). Other common sleep disorders and their prevalences are behavioural insomnia of childhood (10-30%), delayed sleep phase disorder (7-16%), obstructive sleep apnea (1-5%), and restless legs syndrome (2-4%).
+Sleepwalking was found to be more common in males, with no gender disparity noted in any of the other common childhood sleep disturbances. Night terrors, also called Pavor Nocturnus, is a sleeping disorder most commonly found in adolescents, characterized by episodes that consist of intense fear and arousal from deep sleep. Unlike sleepwalking, sleep terrors do not get worse with age, and individuals usually do not remember the episodes afterward. During these episodes, children often scream, and wake up frightened and disoriented, which last about 20 minutes before they fall asleep again. Night Terrors are most common during the first third of the night. Obstructive sleep apnea was found to be more common in African Americans, individuals with craniofacial abnormalities, Down syndrome, neuromuscular diseases, and choanal atresia. A number of the sleep disorders listed were found to have a familial pattern, meaning the incidence in a child was more likely to occur if one or both parents had a history of that sleep disorder; these include sleepwalking, confusional arousals, delayed sleep phase disorder, and restless legs syndrome.
+A different systematic review examining sleep bruxism in children found prevalence rates ranging from 5.9% to 49.6%. In preschool-aged children, between 15.29% and 38.6% grind their teeth in their sleep for at least one night per week. In all but one of the included studies, the prevalence of bruxism decreases as age increases.
+Between 20 and 26% of adolescents report a sleep onset latency of greater than 30 minutes, and 7-36% have difficulty initiating sleep. Asian teens tend to have a higher prevalence of adverse sleep outcomes than their North American and European counterparts.
+
+Insomnia
+Insomnia is a prevalent form of sleep deprivation. Individuals with insomnia may have problems falling asleep, staying asleep, or a combination of both resulting in hyposomnia - i.e. insufficient quantity and poor quality of sleep. Combining results from 17 studies on insomnia in China, a pooled prevalence of 15.0% is reported for the country.  This result is consistent among other East Asian countries; however, this is considerably lower than a series of Western countries (50.5% in Poland, 37.2% in France and Italy, 27.1% in USA). Men and women residing in China experience insomnia at similar rates. A separate meta-analysis focusing on this sleeping disorder in the elderly mentions that those with more than one physical or psychiatric malady experience it at a 60% higher rate than those with one condition or less. It also notes a higher prevalence of insomnia in women over the age of 50 than their male counterparts. A study which resulted from a collaboration between Massachusetts General Hospital and Merck describes the development of an algorithm to identify patients with sleep disorders using electronic medical records. The algorithm that incorporated a combination of structured and unstructured variables identified more than 36,000 individuals with physician-documented insomnia. Insomnia can start off at the basic level but about 40% of people who struggle with insomnia have worse symptoms. Treatments that can help with insomnia include medication, creating and following a sleep routine, limiting one's caffeine intake, and cognitive behavioral therapy for insomnia.
+
+Obstructive sleep apnea
+Obstructive sleep apnea affects around 4% of men and 2% of women in the United States. While the disorder is more prevalent among men, this difference tends to diminish with age. Obstructive sleep apnea is more prevalent among women during pregnancy, and women tend to report depression and insomnia in conjunction with obstructive sleep apnea.
+In a meta-analysis of the various Asian countries, India and China present the highest prevalence of the disorder. Specifically, about 13.7% of the Indian population and 7% of Hong Kong's population is estimated to have obstructive sleep apnea. The two groups in the study experience daytime symptoms such as difficulties concentrating, mood swings, or high blood pressure, at similar rates (prevalence of 3.5% and 3.57%, respectively).
+
+Obesity and sleep apnea
+
+In obese individuals, excess fat in the upper respiratory tract can lead to breathing difficulties during sleep and lead to obstructive sleep apnea. As obesity is a risk factor for obstructive sleep apnea, it is essential to screen obese individuals for obstructive sleep apnea and related disorders. Additionally, both obese and obstructive sleep apnea patients are at greater risk of developing a metabolic syndrome. Implementing dietary control in obese individuals can have a positive impact on sleep problems and help alleviate associated issues such as depression, anxiety, and insomnia. Excessive daytime sleepiness caused by obstructive sleep apnea may promote an inactive lifestyle, possibly contributing to obesity.
+
+Sleep paralysis
+In a systematic review, it was found that 7.6% of the general population had reported experiencing sleep paralysis at least once in their lifetime. Slightly more women (18.9%) reported experiencing sleep paralysis than men (15.9%). 28.3% of students reported experiencing sleep paralysis, with the highest incidence among students of Asian descent (39.9%) and lowest incidence among Caucasian students (30.8%) when compared to other ethnicities (Hispanic: 34.5%, African descent: 31.4%). 31.9% of psychiatric patients reported experiencing sleep paralysis, of which 34.6% had a panic disorder.
+
+Restless legs syndrome
+According to one meta-analysis, the average prevalence rate among North American and Western European populations is estimated to be 14.5±8.0%. Specifically in the United States, the prevalence of restless legs syndrome is estimated to be between 5% and 15.7% when using strict diagnostic criteria. Restless legs syndrome is over 35% more prevalent in American women than their male counterparts.
+
+Classification (ICSD-3, 2023)
+
+Insomnia disorders
+Insomnia is the most frequent sleep disorder. It may occur on its own or be associated with other conditions such as mental disorders (such as stress, anxiety, or depression). It can also be associated with medical conditions such as asthma, diabetes, heart disease, pregnancy, and neurological disorders
+
+Central disorders of hypersomnolence
+Central disorders of hypersomnolence are conditions that cause excessive daytime sleepiness. These disorders are not explained by sleep-related breathing problems, circadian rhythm disturbances, or other causes of nighttime sleep disruptions.
+
+Narcolepsy
+Narcolepsy is a rare and chronic sleep disorder. It is defined by four main symptoms: excessive daytime sleepiness with sudden sleep attacks, cataplexy (sudden loss of muscle tone and weakness), hypnagogic hallucinations and sleep paralysis.
+There are two types of narcolepsy. Type 1 is marked by the presence of cataplexy and/or low cerebrospinal fluid hypocretin levels. Type 2 is characterized by the absence of both. Literature reviews suggest that narcolepsy is typically caused by genetic and environmental factors. The disorder is also linked to autoimmune damage of hypothalamic hypocretin-producing neurons.
+Treatment of narcolepsy focuses on managing symptoms. There is no cure for narcolepsy. Given the disabling morbidity associated with narcolepsy, more research and drug trials are needed. Psychostimulants (methylphenidate, modafinil) and antidepressant (selective serotonin reuptake inhibitors and tricyclics) are used to manage narcolepsy symptoms. More recent targeted therapies such as pitolisant, solriamfetol, and sodium oxybate have been approved to improve wakefulness or reduce cataplexy.
+
+Idiopathic hypersomnia (IH)
+A chronic neurological disease often compared to narcolepsy type 2, characterized by  excessive daytime sleepiness, even after normal or prolonged sleep time. Sleep time sometimes exceeds 10 hours in duration. There are two types of IH: with long nocturnal sleep time or without long nocturnal sleep time (marked by unintended and unrefreshing naps). The cause of idiopathic hypersomnia remains largely unclear, with no established pathophysiological mechanism. Patients dealing with idiopathic hypersomnia cannot obtain a healthy amount of sleep for a regular day of activities.
+Treatment, as in narcolepsy, focuses primarily on symptom management. It is mainly based on stimulants to improve alertness and wakefulness.
+
+Kleine-Levin Syndrome
+Kleine–Levin syndrome is a very rare sleep disorder, mainly affecting adolescent males. It is classified among recurrent hypersomnias and is marked by episodes that last anywhere from days to weeks. Diagnosis requires the presence of at least one of the following signs during the episodes: cognitive dysfunction, altered perception, eating disorder and disinhibited behavior like hypersexuality. Between the episodes, patients typically return to baseline and do not show symptoms (ICSD-3-TR).
+
+Post traumatic hypersomnia
+Menstrual-related hypersomnia
+
+Sleep-related breathing disorders
+Obstructive sleep apnea, adult
+Obstructive sleep apnea, pediatric
+Central sleep apnea with Cheyne-Stokes Breathing
+Central sleep apnea due to a medical disorder without Cheyne-Stokes Breathing
+Central sleep apnea due to high-altitude periodic breathing
+Central sleep apnea due to a medication or substance
+Primary central sleep apnea
+Primary central sleep apnea of infancy
+Primary central sleep apnea of prematurity
+Treatment-emergent central sleep apnea
+
+Sleep-Related Hypoventilation Disorders
+Congenital central alveolar hypoventilation syndrome
+Sleep-related hypoxemia disorder
+
+Circadian rhythm sleep disorder
+Delayed sleep phase disorder
+Advanced sleep phase disorder
+Non-24-hour sleep–wake disorder
+Jet lag disorder – Jet lag disorder is a type of circadian rhythm sleep disorder that results from rapid travel across multiple time zones. Individuals experiencing jet lag may encounter symptoms such as excessive sleepiness, fatigue, insomnia, irritability, and gastrointestinal disturbances upon reaching their destination. These symptoms arise due to the mismatch between the body's circadian rhythm, synchronized with the departure location, and the new sleep/wake cycle needed at the destination.
+
+Parasomnia
+A category of sleep disorders that involve abnormal and unnatural movements, behaviors, emotions, perceptions, and dreams in connection with sleep.
+
+Bedwetting or sleep enuresis
+
+Sleep-Related Movement Disorders
+Sleep-related leg cramps
+Nocturnal muscle cramps
+Bruxism (teeth-grinding)
+Catathrenia – nocturnal groaning
+Exploding head syndrome – waking up in the night hearing loud noises.
+Sleep terror (or pavor nocturnus) – Characterized by a sudden arousal from deep sleep with a scream or cry, accompanied by some behavioral manifestations of intense fear.
+REM sleep behavior disorder
+Sleepwalking (or somnambulism)
+Sleep talking (or somniloquy)
+Sleep sex (or sexsomnia)
+
+See also
+
+References
+
+External links
+ Media related to Sleep disorders at Wikimedia Commons
+Sleep Problems – information leaflet from mental health charity The Royal College of Psychiatrists
+WebMD Sleep Disorders Health Center
+
+[[Algorithm]] [[Attention deficit hyperactivity disorder]] [[Bruxism]] [[CACNA1C-related disorders]] [[Cerebrospinal fluid]] [[Delta wave]] [[Dup15q]] [[Electroencephalography]] [[Epilepsy]] [[Gamma wave]] [[K-complex]] [[Medical specialty]] [[Mu wave]] [[Neurology]] [[Parkinson's disease]] [[Polysomnography]] [[Rapid eye movement sleep]] [[Sensorimotor rhythm]] [[Sleep cycle]] [[Sleep spindle]] [[Slow-wave sleep]]

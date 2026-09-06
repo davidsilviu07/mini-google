@@ -1,0 +1,75 @@
+Pharmaco-electroencephalography
+Electroencephalography (EEG) is the science of recording the spontaneous rhythmic electrical activity of a living brain through electrodes on the scalp. Brain rhythms have origins similar to the electrical activity of the heart.  The rhythmic activity varies in frequency and amplitude with age, attention, sleep, and chemical concentrations of oxygen, carbon dioxide, glucose, ammonia, and hormones. Chemicals that affect brain functions change brain rhythms in systematic and identifiable ways. As new psychoactive drugs were discovered that changed behavior, the basis for the science of psychopharmacology, the accompanying changes in the rhythms were found to be drug class specific.  The measurement of the changes in rhythms became the basis for the science of pharmaco-EEG.
+Definitions of the changes in EEG rhythms were developed that identified and classified psychoactive drugs, monitored the depth of anesthesia, and evaluated the efficacy of the seizures induced in convulsive therapy (electroshock).
+
+History
+The first recordings of electrical activity from the brain were reported from exposed animal brain tissues in the 1870s. In 1929 Hans Berger, a German psychiatrist, reported continuous electrical rhythms from the intact human head using electrodes on the scalp.  The continuous electrical activity varied in frequencies and amplitude with drowsiness and sleep, and with mental problem solving.  Episodic runs and bursts of high voltage slow frequencies were recorded in patients with epilepsy.
+In his third report in 1931 Berger recorded changes in the rhythms with cocaine, morphine, scopolamine, and chloroform. Each chemical elicited different frequency and amplitude patterns and different behaviors.
+The first clinical applications were in identifying the sudden bursts of high voltage slow frequencies during seizures, both spontaneous and induced by the chemical pentylenetetrazol (Metrazol), by electricity in electroshock, and in the coma induced by insulin.  When reserpine was studied in 1953, chlorpromazine in 1954, and imipramine in 1957, individual rhythmic patterns were described.
+The EEG patterns of new psychoactive drugs predicted their clinical activity.  By the 1960s, EEG analysis of psychoactive drugs was a feature of the NIMH Early Clinical Drug Evaluation (ECDEU) program that evaluated and identified new psychiatric treatments. Proposed psychoactive drugs developed in chemical laboratories were first tested in animals and then tested in man.  The changes in the EEG became the basis for a classification of new drugs.
+Assessment methods in human volunteers were developed that recorded the changes in the resting subject at different dosages, both on acute single administrations and repeated daily dosing. The observed changes were compared to those for known drugs and predicted their behavioral effects. When no systematic changes were recorded, the agents were considered not to have a clinical use.
+Dosing schedules were optimized.  In patients who failed to respond to prescribed treatments, those who were considered "pharmacotherapy resistant," EEG studies showed that the chemicals did not elicit identifiable brain changes.
+In pre-clinical animal trials EEG recordings were associated the changes with vigilance and motor measures, concluding that the EEG patterns were "dissociated," that is, bearing little relationship to the changes in behavior.  In human trials, however, when the EEG measures could be related to vigilance, mood, memory, and psychological tests, a theory of "association of EEG and behavior" developed and sustained pharmaco-EEG studies of new drugs.
+The technology was applied in anesthesia, identifying the efficacy of individual seizures in convulsive therapy, in studies of sleep patterns, and the relation of evoked potentials to speech and psychological tests.
+Social changes in attitudes to the ethics of testing drugs and treatments in patients, prisoners, children, and volunteers inhibited the continued development of the science and its abandonment. 
+
+Methodology
+Polypharmacy and the widespread use of active psychiatric drugs made the study of individual compounds in psychiatric patients difficult.  The science then successfully focused on alert male volunteers (since the EEG varied with menstrual cycles in women).
+Vigilance.  The scalp recorded EEG is sensitive to changes in vigilance.  Different methods developed to sustain a monitored level of alertness using hand held buzzers that sounded off when the subject relaxed and dozed.
+Volunteer Baseline and Placebo training.  As the EEG is sensitive to anxiety, an initial training session became standard procedure. The baseline recording identified subjects whose records were unique.
+EEG recording.  Different electrode placements were tested. Commonly the recordings were made using the frontal-occipital or the bifrontal leads. Standard EEG amplifiers were used.
+Quantification and analyses. In the beginning the EEG recordings were made on paper and changes measured visually, scored by ruler and calipers. By the 1960s, electronic analyzers of 10 second epochs measured changes in "power."   Digital computer methods using period analysis, power spectral density, and amplitude analyses followed.
+The quantitative changes in mean frequency, mean amplitudes, percent time delta (1–3 Hz), theta (3.5 - 7.5 Hz), alpha (8-12.5 Hz), beta1 (13–21 Hz), and beta2 (>21 Hz), and the presence of bursts in 10-second epochs were commonly used to identify patterns.
+Predictive patterns.  The measures related the EEG changes to the common classes of psychoactive drugs—antidepressant, anxiolytic, antipsychotic, hallucinogen, deliriant, euphoriant, and mood stabilizer being the most frequent.  For a time, the pharmaco-EEG profiles of different classes of drugs were actively used to identify active psychotropic agents.
+
+Applications
+Psychopharmacology.  Pharmaco-EEG studies were economically useful in clinically classifying new agents, dosage ranges and durations of effects, and separating active from inactive substances.  The list of successful applications is extensive; some specific examples are the identification of mianserin (GB-94) and doxepin as antidepressants of the imipramine class; of the inactivity of flutroline as a proposed antipsychotic in man despite activity in dogs; and of equivalent EEG activity of the laevo and dextro enantiomers of 6-azamianserin (mirtazapine) despite differences in preclinical trials.
+Studies of different cannabis formulations (hashish, marijuana, tetrahydrocannabinol-∆-9 extract each showed the same patterns in EEG, cardiovascular, and clinical profiles. Tolerance development was marked in acute administration of cannabis in chronic hashish users.
+In testing narcotic antagonists (naloxone, cyclazocine) and opioid substitutes (methadone, levomethadyl) in the treatment of opioid dependence, the quantitative EEG experiments showed the efficiency of antagonistic and replacement activity of different dosing schedules. Dose finding trials of naloxone showed no specific CNS effect when administered alone but very effective antagonistic action in opioid dose and overdose.
+Convulsive therapy.  The grandmal seizure is the central event in electroshock (electroconvulsive therapy, ECT) and insulin coma.  It was introduced in 1934 and by the 1940s EEG recordings during the treatment showed the classic sequence of epileptic seizure events recognized as the "grand mal seizure."  In the 1950s, recordings of interseizure records, on days after an induced seizure, showed progressive slowing of mean frequencies and increased amplitudes during the treatment course.  These changes were necessary accompaniments of effective courses of treatment—patients without progressive slowing failed to recover.
+In the early 1980s, commercial ECT devices were equipped with a 2-channel EEG recorder that measured the EEG characteristics and duration.  The quality of the EEG record became the standard for an "effective" treatment.  The same quantitative measures used in psychopharmacology were established in clinical ECT.
+Anesthesia.  Specialized equipment to monitor ongoing identification of anesthesia stages are common in modern surgical units.
+
+References
+History.
+Fink M. Pharmaco-electroencephalography: A note on its history. Neuropsychobiology 1984; 12:173-178
+Fink M. A clinician-researcher and ECDEU: 1959-1980. In: T. Ban, D. Healy, E. Shorter (Eds.):  The Triumph of Psychopharmacology and the Story of the CINP. Budapest, Animula,  82-96, 2000.
+Fink M. Pharmaco-Electroencephalography: A  Selective History of the Study of Brain Responses to Psychoactive Drugs. In: T. Ban, E. Shorter, D. Healy (Eds.):  History of CINP, IV: 661-672, 2004.
+Galderisi S, Sannita WG. Pharmaco-EEG: A history of progress and missed opportunity. Clinical EEG and Neuroscience  37:61-65, 2006;
+Fink M. Remembering the lost science of pharmaco-EEG. Acta psychiatr Scand.,  121:161-173. 2010
+Methodology
+Brazier MAB (Ed): Computer Techniques in EEG Analysis. EEG Journal, Supplement 20, 1-98, 1961.
+Stille G, Herrmann W, Bente D, Fink M, Itil T, Koella WP, Kubicki S, Künkel H, Kugler J, Matejcek M, Petsche H. Guidelines for pharmaco-EEG studies in man. Pharmacopsychiatry 15:107-108;1982
+Herrmann WM, Abt K, Coppola R, et al. International Pharmaco-EEG Group (IPEG). Recommendations for EEG and evoked potential mapping. Neuropsychobiology  22:170-176. 1989
+Association or dissociation?
+Wikler A.  Pharmacologic dissociation of behavior and EEG 'sleep patterns' in dogs: Morphine, n-allynormorphine and atropine. Proc Soc exp Biol 79:261-264, 1952; 
+Wikler A. Clinical and electroencephalographic studies on the effect of mescaline, n-allyInormorphine and morphine in man. J nerv ment Dis 120:157-175, 1954.
+Fink M. EEG classification of psychoactive compounds in man: Review and theory of behavioral association. In: Efron D, Cole JO, Levine J, Wittenborn JR. (Eds): Psychopharmacology: A Review of Progress 1957-1967 U.S.G.P.O., Washington, D.C., 497-507, 1968;
+Fink M., Itil T. Neurophysiology of the phantastica: EEG and behavioral relations in man. In: Efron D, Cole JO, Levine J, Wittenborn JR. (Eds): Psychopharmacology: A Review of Progress 1957-1967. U.S.G.P.O., Washington, D.C., 1231-1239, 1968;
+Fink M.  Itil T. EEG and human psychopharmacology: IV: Clinical antidepressants. In: Efron D, Cole JO, Levine J, Wittenborn JR. (Eds): Psychopharmacology: A Review of Progress 1957-1967. U.S.G.P.O., Washington, D.C., 671-682, 1968;
+Fink M. EEG and human psychopharmacology.  Annu Rev Pharmacol 9:241-258, 1969;
+Bradley P and Fink M. (Eds): Anticholinergic Drugs and Brain Functions in Animals and Man. Prog Brain Res 28, 184 pp., 1968.
+Fink M. EEG and behavior: Association or dissociation in man? Integrative Psychiatry  9:108-123, 1993.
+Examples of human studies.
+Fink M, Kahn RL. Relation of EEG delta activity to behavioral response in electroshock: Quantitative serial studies. Arch Neurol & Psychiatry 78:516-525,1957
+Fink M. Electroencephalographic  and behavioral effects of Tofranil. Canad Psychiat Assoc J, 4 (suppl) 166-71, 1959.
+Itil TM, Polvan N, Hsu W. Clinical and EEG effects of GB-94, a tetracyclic antidepressant: EEG model in the discovery of a new psychotropic drug. Curr Ther Res 14:395-413, 1972.
+Volavka J, Levine R, Feldstein S, Fink M. Short-term effects of heroin in man. Arch Gen Psychiatry 30:677-684,1974.
+Itil TM, Cora R, Akpinar S, Herrmann WH, Patterson CJ. "Psychotropic" action of sex hormones:  Computerized EEG in establishing the immediate CNS effects of steroid hormones. Curr Therapeutic Res 16:1147-1170, 1974.
+Fink M, Kety S, McGaugh J (Eds.): Psychobiology of Convulsive Therapy. Washington DC: VH Winston & Sons, 1974.
+Volavka J, Fink M, Panayiotopoulos CP. Acute EEG effects of cannabis preparations in long-term users. In: C. Stefanis, R. Dornbush, M Fink (Eds): Hashish- A Study of Long-Term Use. NY: Raven Press, 1977.
+American Psychiatric Association Electroconvulsive therapy. Task Force Report #14. Washington, DC: American Psychiatric Association. (1978). (200 pp.).
+Fink M, Irwin P, Sannita W, Papakostas Y, Green MA. Phenytoin: EEG effects and plasma levels in volunteers. Therap Drug Monitoring 1: 93-104, 1979.
+Fink M and Irwin P. EEG and behavioral profile of flutroline (CP-36,584), a novel antipsychotic drug. Psychopharmacology 72: 67-71, 1981.
+Fink M and Irwin P. Pharmaco-EEG study of 6-azamianserin (ORG-3770): Dissociation  of EEG and pharmacologic predictors of antidepressant activity. Psychopharmacology 78: 44-48, 1982.
+Fink M, Irwin P. CNS effects of acetylsalicylic acid (Aspirin). Clin Pharm Therap 32:362-365, 1982.
+Additional notes.
+
+Meetings of interested scientists began at the World Congress of Psychiatry meeting in Montreal in 1961 and the CINP meeting in Washington D.C. in 1966. Thereafter, biennial meetings of the IPEG  (International Pharmaco-EEG Group) were scheduled at different cities, mainly in Europe, <https://www.ipeg-society.org/>. The proceedings were published in volumes with different editors cited in Fink (1984).
+The ACNP recorded interviews with leading scientists.  Transcripts are published in Ban T, Fink M. (Eds.): Oral History of Neuropsychopharmacology: The First Fifty Years:Neurophysiology. Brentwood TN: ACNP.  Volume 2: 319 pp.
+Videotaped interviews with Enoch Callaway, Max Fink, Turan M. Itil, and A. Arthur Sugarman are on-line  at <https://web.archive.org/web/20140507040813/http://www.acnp.org/programs/history.aspx>.
+Fink M interviewed by Cole JO, in An Oral History of Neuropsychopharmacology - The First Fifty Years:  Peer Interviews (Thomas A. Ban, editor), Volume 2- "Neurophysiology" (Max Fink, volume editor). Brentwood: American College of Neuropsychopharmacology; 2011. p. 7 - 20.
+Fink M interviewed by Healy D, in An Oral History of Neuropsychopharmacology - The First Fifty Years:  Peer Interviews (Thomas A. Ban, editor), Volume 9- "Update" (Barry Blackwell, volume editor). Brentwood: American College of Neuropsychopharmacology; 2011. p. 73 - 104.
+SBU Library. Max Fink's archives from the 1950s to the present are at the Special Collections of the Frank Melville Memorial Library of Stony Brook University, Stony Brook, New York [1].
+
+[[Electroencephalography]] [[Psychopharmacology]]

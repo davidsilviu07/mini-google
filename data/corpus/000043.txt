@@ -1,0 +1,21 @@
+Allocortex
+The allocortex (from Latin allo-, meaning other, and cortex, meaning bark or crust), or heterogenetic cortex, is one of the two types of cerebral cortex in the brain, together with the neocortex. In the human brain, the allocortex is the much smaller area of cortex taking up just 10%; the neocortex takes up the remaining 90%. It is characterized by having just three cortical layers (one main neural layer), in contrast with the six cortical layers of the neocortex. There are three subtypes of allocortex: the paleocortex, the archicortex, and the periallocortex—a transitional zone between the neocortex and the allocortex.
+The specific regions of the brain usually described as belonging to the allocortex are the olfactory system and the hippocampus.
+Allocortex is termed heterogenetic cortex, because during development it never has the six-layered architecture of homogenetic neocortex. It differs from heterotypic cortex, a type of cerebral cortex, which during prenatal development, passes through a six-layered stage to have fewer layers, such as the agranular cortex such as Brodmann area 4 that lacks granule cells.
+
+Structure
+The allocortex has three layers (one main neuronal layer) in contrast to the six layers of the neocortex. There are three subtypes of allocortex: the paleocortex,  archicortex and periallocortex.
+Paleocortex is a type of thin, primitive cortical tissue that consists of three cortical laminae (layers of neuronal cell bodies). The two granular layers II and IV of neocortex are absent in paleocortex. The main areas of paleocortex are the olfactory bulb, olfactory tubercle and piriform cortex.
+Archicortex is a type of cortical tissue that consists of four laminae  (layers of neuronal cell bodies). The main areas of archicortex are the hippocampus and dentate gyrus.
+Periallocortex is a transitional form between neocortex and either paleo- or archicortex. It thus can be either peripaleocortex (anterior insular cortex) or periarchicortex (entorhinal cortex, presubicular cortex, retrosplenial, supracallosal, and subgenual areas).
+Because the number of laminae that compose a type of cortical tissue seems to be directly proportional  to both the information-processing capabilities of that tissue and its phylogenetic age, and also because olfaction is a major sensory modality in phylogenetically early animals, paleocortex is thought to be the most primitive form of cortex.
+
+See also
+Paralimbic cortex
+
+References
+
+"Allocortex." Stedman's Medical Dictionary, 27th ed. (2000). ISBN 0-683-40007-X
+Haines, Duane E. Fundamental Neuroscience, 2nd. (2002). ISBN 0-443-06603-5
+
+[[Cerebral cortex]] [[Hippocampus]] [[Neocortex]] [[Pyramidal cell]]

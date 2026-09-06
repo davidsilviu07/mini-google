@@ -1,0 +1,30 @@
+Certification of voting machines
+Various governments require a certification of voting machines.
+In the United States there is only a voluntary federal certification for voting machines and each state has ultimate jurisdiction over certification, though most states currently require national certification for the voting systems.
+
+Germany
+In Germany the Physikalisch-Technische Bundesanstalt was responsible for certification of the voting machines for federal and European elections till 2009. Since the respective law, the Bundeswahlgeräteverordnung ("Federal Voting Machine Ordinance") is considered to be in contradiction to Germany's Constitution, this responsibility is suspended. The only machines certified so far are the Nedap ESD1 and ESD2.
+
+United States
+
+See also
+Election Assistance Commission
+Electronic voting
+Help America Vote Act
+Independent verification systems
+National Institute of Standards and Technology
+National Software Reference Library
+Preventing Election fraud: Testing and certification of electronic voting
+Technical Guidelines Development Committee of the National Institute of Standards and Technology
+Voting machine
+
+References
+
+External links
+2002 Voting Systems Standards 
+National Institutes of Standards and Technology and the Help America Vote Act (HAVA)
+Voting System Certification & Laboratory Accreditation
+National Association of State Election Directors
+Federal Election Commission official website
+
+[[Absentee ballot]] [[Abstention]] [[Ballot]] [[Ballot box]] [[Binomial voting system]] [[Biometric voter registration]] [[Candidate]] [[Carousel voting]] [[Chad (paper)]] [[Coattail effect]] [[Compulsory voting]] [[Cumulative voting]] [[DRE voting machine]] [[Donkey vote]] [[Early voting]] [[Election Assistance Commission]] [[Election Systems & Software]] [[Election boycott]] [[Election ink]] [[Electoral district]] [[Electoral fraud]] [[Electoral precinct]] [[Electronic voting]] [[Electronic voting machine]] [[Family voting]] [[First-past-the-post voting]] [[General ticket]] [[Hart InterCivic]] [[Help America Vote Act]] [[Independent Testing Authority]] [[Independent verification systems]]

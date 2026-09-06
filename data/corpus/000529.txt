@@ -1,0 +1,24 @@
+FreePCB
+FreePCB is a printed circuit board (PCB) electronic design automation program for Microsoft Windows, written by Allan Wright. It is free and open-source software released under a GNU General Public License. 
+
+Features
+The program supports up to 16 copper layers, both metric and customary units, and export of designs in RS-274X Gerber format. Boards can be partly or fully autorouted with the FreeRouting autorouter by using the FpcROUTE Specctra DSN design file translator.
+
+Other operating systems
+FreePCB can run on Linux by using Wine and on Mac computers using Parallels Desktop for Mac, Virtual Box, or Wine via MacPorts.
+
+See also
+
+Comparison of EDA software
+List of free electronics circuit simulators
+
+References
+
+External links
+Official website
+A development branch of the program
+PCB Systems Design Community
+fpcconvert: A HPGL and G-code conversion tool for FreePCB
+The ham radio enthusiast P. Phobas has compiled this version of freePCB.exe (2,621,440 bytes instead of 3,141,632 bytes) which is still (as of 11/2024) compatible with Win10 and Win11 updates. Verbose logging is removed which bottlenecked comdlg32.dll.
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[Fritzing]] [[GEDA]] [[GNU General Public License]] [[Geometric modeling kernel]] [[Gerber format]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

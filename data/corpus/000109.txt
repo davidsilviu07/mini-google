@@ -1,0 +1,33 @@
+Ballot box
+A ballot box is a temporarily sealed container, usually a square box though sometimes a tamper resistant bag, with a narrow slot in the top sufficient to accept a ballot paper in an election but which prevents anyone from accessing the votes cast until the close of the voting period. A ballot drop box allows voters who have received a ballot by mail to submit it for counting in a self-service fashion. In the United States, ballot boxes are usually sealed after the end of polling, and transported to vote-counting centers.
+
+History
+In the Roman Republic, each voter initially gave his vote orally to an official who made a note of it on an official tablet, but later in the Republic, the secret ballot was introduced, and the voter recorded his vote with a stylus on a wax-covered boxwood tablet, then dropped the completed ballot in the sitella or urna (voting urn), sometimes also called cista. Paper ballots were used in Rome to some extent as early as 139 BCE.
+In ancient India in the 10th century Cholla era, in Tamil Nadu, palm leaves and pots were used to elect representatives to village administrations through the Kudavolai system. The candidates' names were written on palm leaves, and these were placed inside a pot. Winners were chosen through the drawing of random ballots. While this system may have been used before the 10th century, there is no direct historical evidence as of 2024.
+In ancient Greece, voting was done by dropping small balls or tokens into ballot boxes to select preferred candidates. This method was also used in modern historical secret societies, which used white balls to vote someone into the organization, and black balls to keep them out, the origin of the word "blackball". As of 2022, citizens of Gambia voted by dropping marbles in colored drums, marked with the photo and logo of selected candidates. This system was introduced in 1965 to address illiteracy in voting.
+The first British secret ballot using ballot papers and a ballot box was held in Pontefract on 15 August 1872, under the terms of the recently enacted Ballot Act 1872.  In a ministerial by-election following his appointment as Chancellor of the Duchy of Lancaster, Hugh Childers was re-elected as MP for Pontefract. The original ballot box, sealed in wax with a liquorice stamp, is held at Pontefract Museum.
+The first paper ballots and ballot boxes in the United States began appearing in the early 19th century, replacing previous voice voting practices. However, these were not popularized until the 1850s, upon the use of the Australian Secret Ballot, a paper with each candidate's name pre-marked. This system was used in the United States until reforms were passed in the 1880s. Voting was mostly by Australian Secret Ballot until automatic mechanical voting machines, operated with levers, became ubiquitous in the 20th century (1910-1980). Punch card voting and optical scanning machines (similar to ScanTron), both of which require paper ballots and therefore ballot boxes, came to market around the 1960s. Currently, the most popular way to vote in the United States is through optical scanning machines.
+In the United States, ballot drop boxes have been in use since about 2000. Ballot drop boxes became more popular during the COVID-19 pandemic in 2020.
+
+Operation
+While ballot boxes, other than drop boxes, are usually located in polling stations, mobile ballot boxes also exist. These are taken to people's homes in some countries so that they do not have to travel to the polling station. Mobile ballot boxes are very popular in Eastern Europe, in which 90% of countries have provisions for their use, but are very limited in use in Western Europe. They are also only used in a small fraction of countries in Africa and the Americas.
+When very large ballot papers are used, there may be a feeder mechanism to assist in the deposit of the paper into the box.
+
+Security
+Drop boxes allow voters to avoid having to use the mail service, and are generally more secure than mail boxes. In the 2010s, jurisdictions in the western United States, where voting by mail is commonplace, adopted secure ballot drop boxes capable of withstanding a range of risks, such as theft, vehicle collisions, arson, and inclement weather. One vendor manufactures a ballot box made of 1⁄4-inch-thick (6.4 mm) steel, weighing from 600 to 1,000 pounds (270 to 450 kg). Fire suppression systems may rely on fuse-triggered chemical agents or airtight designs that smother fires. Some jurisdictions require ballot drop boxes to contain such systems. In the event that a drop box's contents are damaged, authorities can identify affected voters by serial numbers and reissue ballots to them.
+Polling stations may use transparent ballot boxes in order for people to be able to witness that the box is empty prior to the start of the election, and not stuffed with fraudulent votes. This style of ballot boxes (specifically, glass ballot boxes) had become a staple in the United States by 1860, in the context of scandals around the use of false bottoms on election boxes. It fell out of use in the United States around the turn of the century, in favor of new voting machines users operated by turning a crank. They are still in use occasionally in other countries, including France.
+
+Photo gallery
+
+See also
+Ballot
+Election fraud
+Four boxes of liberty
+Secret ballot
+
+References
+
+External links
+ Media related to Ballot boxes at Wikimedia Commons
+
+[[Ballot]]

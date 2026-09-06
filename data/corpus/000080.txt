@@ -1,0 +1,47 @@
+Atlantis Word Processor
+Atlantis Word Processor is a stand-alone word processor for Microsoft Windows. It used to be known as "Atlantis Ocean Mind".
+
+Features
+Atlantis offers many features standard in other word processors. But it lacks some important features like collaboration. The present version of Atlantis Word Processor is not suitable for creating complex scientific documents with mathematical formulae and embedded objects.
+On the other hand, Atlantis Word Processor has a number of features popular among writers. The Overused Words feature helps writers avoid repetitions and clichés. The "Save as eBook" feature converts any document to an eBook. Atlantis also provides writers with information about writing time and speed. Finally, Atlantis can be used to print booklets (including pocket-size booklets).
+Atlantis Word Processor is portable and can be installed on USB flash drives.
+
+Supported file formats
+For both reading and writing:
+
+MS Word 6.0-2003 (.DOC)
+Office Open XML (.DOCX)
+Rich Text Format (.RTF)
+Plain text (.TXT)
+For reading:
+
+MS Write (.WRI)
+OpenDocument (.ODT)
+For writing:
+
+HTML
+EPUB
+Atlantis Word Processor also has its proprietary document format (COD) for encrypted documents.
+
+Product status
+Atlantis Word Processor is distributed as shareware.
+There is also a free version of Atlantis Word Processor with fewer features called Atlantis Word Processor Lite (previously Atlantis Nova). It does not have some features the full version of Atlantis has; for example, the program does not include a built-in spellchecker.
+Beginning with Atlantis Word Processor version 1.6.5.8, support for Windows 9x (95, 98, ME) and Windows NT4 was dropped.
+
+History
+In April 2000, the website of Rising Sun Solutions, Inc. was opened, with the pre-release version 0.7 of the program. The version 1.0 (Atlantis Ocean Mind and Nova) was released in February 2001.
+
+See also
+List of word processors
+Comparison of word processors
+List of portable software
+Office Open XML software
+OpenDocument software
+EPUB § Software
+
+References
+
+External links
+Atlantis Word Processor home site
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[Encryption]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[HTML]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

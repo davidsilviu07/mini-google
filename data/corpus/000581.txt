@@ -1,0 +1,42 @@
+Gyrus
+In neuroanatomy, a gyrus (pl.: gyri) is a ridge on the cerebral cortex.  It is generally surrounded by one or more sulci (depressions or furrows; sing.: sulcus). Gyri and sulci create the folded appearance of the brain in humans and other mammals.
+
+Structure
+The gyri are part of a system of folds and ridges that create a larger surface area for the human brain and other mammalian brains. Because the brain is confined to the skull, brain size is limited.  Ridges and depressions create folds allowing a larger cortical surface area, and greater cognitive function, to exist in the confines of a smaller cranium.
+
+Development
+
+The human brain undergoes gyrification during fetal and neonatal development. In embryonic development, all mammalian brains begin as smooth structures derived from the neural tube. A cerebral cortex without surface convolutions is lissencephalic, meaning 'smooth-brained'. As development continues, gyri and sulci begin to take shape on the fetal brain, with deepening indentations and ridges developing on the surface of the cortex.
+
+Clinical significance
+Changes in the structure of gyri in the cerebral cortex are associated with various diseases and disorders. Pachygyria, lissencephaly, and polymicrogyria are all the results of abnormal cell migration associated with a disorganized cellular architecture, failure to form six layers of cortical neurons (a four-layer cortex is common), and functional problems. The abnormal formation is commonly associated with epilepsy and mental dysfunctions.
+Pachygyria (meaning "thick" or "fat" gyri) is a congenital malformation of the cerebral hemisphere, resulting in unusually thick gyri in the cerebral cortex. Pachygyria is used to describe brain characteristics in association with several neuronal migration disorders; most commonly relating to lissencephaly.
+Lissencephaly (smooth brain) is a rare congenital brain malformation caused by defective neuronal migration during the 12th to 24th weeks of fetal gestation resulting in a lack of development of gyri and sulci.
+Polymicrogyria (meaning "many small gyri") is a developmental malformation of the human brain characterized by excessive folding of the gyri and a thickening of the cerebral cortex. It may be generalized, affecting the whole surface of the cerebral cortex or may be focal, affecting only parts of the surface. Polymicrogyria may be caused by mutations within several genes, including ion channels.
+
+Notable gyri
+Superior frontal gyrus, lat. gyrus frontalis superior
+Middle frontal gyrus, lat. gyrus frontalis medius
+Inferior frontal gyrus, lat. gyrus frontalis inferior with 3 parts: pars opercularis (Brodmann area 44)  pars triangularis (Brodmann area 45), and pars orbitalis (orbital part of inferior frontal gyrus)
+Superior temporal gyrus, lat. gyrus temporalis superior
+Middle temporal gyrus, lat. gyrus temporalis medius
+Inferior temporal gyrus, lat. gyrus temporalis inferior
+Fusiform gyrus, lat. gyrus occipitotemporalis lateralis
+Parahippocampal gyrus, lat. gyrus parahippocampalis
+Transverse temporal gyrus
+Lingual gyrus lat. gyrus lingualis
+Precentral gyrus, lat. gyrus praecentralis
+Postcentral gyrus, lat. gyrus postcentralis
+Supramarginal gyrus, lat. gyrus supramarginalis
+Angular gyrus, lat. gyrus angularis
+Cingulate gyrus lat. gyrus cinguli
+Fornicate gyrus
+
+See also
+Gyrification
+Sulcus
+Ulegyria
+
+References
+
+[[Amygdala]] [[Cerebral cortex]] [[Cingulate cortex]] [[Epilepsy]] [[Frontal lobe]] [[Sulcus (neuroanatomy)]]

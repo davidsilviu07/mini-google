@@ -1,0 +1,106 @@
+IntelliCAD
+IntelliCAD is a CAD editor and development platform with an API published by the IntelliCAD Technology Consortium (ITC) through shared development. IntelliCAD emulates the basic interface and functions of AutoCAD, however, it is particularly able to incorporate and interchange freely between a wide variety of file types (i.e., .dwg, BIM, TIFF, etc.).
+ITC IntelliCAD is not sold directly to end users but is licensed to consortium members, who support the shared development by paying annual fees, similar to a co-op arrangement, in exchange for permission to distribute IntelliCAD-based solutions worldwide with their own end-user license agreements.
+
+IntelliCAD Technology Consortium
+Founded in 1999, the IntelliCAD Technology Consortium ("ITC") is the international, non-profit organizational body that develops the IntelliCAD engine and development platform for its members. The ITC also develops integrations with third-party technologies, such as the "ODA Platform" from the Open Design Alliance which it uses for working with “.dwg”, Building information modeling (BIM), and DGN data formats.
+The ITC supports interoperability and is a founding member of the Open Design Alliance. The ITC is registered in the state of Washington in the US, and its corporate headquarters are based in Portland, Oregon, USA.
+
+IntelliCAD Functionality
+IntelliCAD's native format is .dwg and it has a set of commands similar to AutoCAD by Autodesk. IntelliCAD can also natively open and edit MicroStation DGN files by Bentley Systems.
+Included in IntelliCAD functionality:
+
+Read and write binary .dwg and DGN files.
+Work with BIM files and data, and AEC entities.
+Familiar command line and user interface for creating and editing CAD drawings.
+Complex linetypes, multiline text, lightweight polylines, audit and recover, and blocks.
+File support for customizations (.CUI), menus (.MNU), scripts (.SCR) (AutoLISP macro language), hatches, fonts including TrueType fonts, raster images, digital signatures.
+Development APIs, such as LISP, COM, Visual Basic, and SDS/ADS; and also IRX which is IntelliCAD's C++ Programming API similar to ARX that allows developers to create custom entities.
+IntelliCAD is available for Microsoft Windows desktops.
+
+History
+
+1990s
+IntelliCAD began as an independent AM/FM/GIS (Automated Mapping/Facilities Management/Geographic Information System) software firm in La Mesa, California in the United States. One of its products, AutoCAD Data Extension, allowed multiple users to access the same AutoCAD drawing, or have a single drawing point to entities stored in other drawings.
+In 1994, Softdesk, the then-largest third-party product developer for Autodesk, acquired IntelliCADD, and used the know-how to secretly develop an AutoCAD clone. Autodesk had recently entered into direct competition with Cyco Software (another third-party Autodesk partner), and Softdesk was concerned that the same could happen to them. The AutoCAD-clone project was kept semi-secret under the project name "Phoenix".
+In December 1996 Autodesk announced that it would acquire Softdesk outright for $90 million in common stock. A complaint regarding the inclusive sale of IntelliCADD was filed with the US Federal Trade Commission ("FTC"). According to FTC Docket No. C-3756:
+
+In approximately June 1996, Softdesk determined that it no longer had the financial ability to support continued development and marketing of the IntelliCADD product. The head of the team that had developed the product proposed to purchase the technology and formed Boomerang Technology, Inc. ("Boomerang") for the purpose of acquiring the product, completing its development, and bringing the product to market. Boomerang negotiated with Softdesk for the purchase of the IntelliCADD product and exchanged draft purchase agreements with Softdesk. Softdesk, however, terminated those negotiations at around the time that Autodesk agreed to acquire Softdesk. Softdesk representatives previously told Boomerang that Softdesk would sell the IntelliCADD product to Boomerang if Softdesk were purchased by someone other than Autodesk, but would not sell it to Boomerang if Softdesk were purchased by Autodesk...
+After being advised by Commission staff that Autodesk's acquisition of Softdesk raised competitive concerns in the market for personal computer-based CAD engines, Softdesk resumed negotiations with Boomerang and divested and sold all of its rights in the IntelliCADD product to Boomerang pursuant to a Technology Transfer Agreement dated February 21, 1997. On that same date, Boomerang assigned and sold all of its rights to the IntelliCADD product to Visio Corporation.
+By late 1996 a formal search for new venture capital was underway. Marketing director Robert Drummer was referred to John Forbes at Visio Corporation and "gave him the pitch". Further according to his own first-hand account, "He (John Forbes) called back a few hours later and said that he along with Jeremy Jaech and Ted Johnson would be chartering a plane that day and would be down to take a look at a demo. They arrived in San Diego that evening." A core team of nine Softdesk/IntelliCADD developers soon moved to become employees of Visio. In March 1997 the FTC forbade "Autodesk or Softdesk from re-acquiring the IntelliCADD product or any entity that owns or controls it, without prior notice to the Commission for a 10 year period". The FTC granted Visio leave to acquire Boomerang completely for $6.7 million in the same ruling that prevented Autodesk from doing so (above).
+IntelliCAD's original architect, Mike Bailey, turned and left Visio before the first release. Nevertheless, after several years of background development, "Visio IntelliCAD" (one 'D' for the product, two for name of the original company) was finally released for the first time to the public in 1998 with a very low price compared to AutoCAD. Twelve thousand licenses of IntelliCAD were sold in the first three months before new concerns over software stability emerged.
+Visio's IntelliCAD 98 sold about 30,000 copies—far less than some expected. IntelliCAD development seemed to need more resources than Visio could grant it. At this point, Visio "granted a royalty-free, perpetual license for the IntelliCAD (2000 version) source code to The IntelliCAD Technology Consortium".
+
+1999-2010
+On September 15, 1999 Microsoft announced that it would acquire Visio Corporation (completed in January 2000)—a deal that evidently included Visio's IntelliCAD 98. A new IntelliCAD 2000 source code branch, however, continued independent development under the new ITC.
+IntelliCAD 3 (IntelliCAD 2001) introduced complex linetypes, XREF clipping and IntelliCAD's first display and printing of ACIS 3D solids on May 22, 2001. IntelliCAD 4 released with full ACIS 3D solid modelling in 2003. IntelliCAD 5 added workspaces with tabs and DWF file support in October 2004. Also in 2004, ITC announced a new partnership with SolidWorks, which added tabbed workspaces and DWF support.
+In November 2005, IntelliCAD 6 added True Color support (16 million colors), ADeko Raster raster image support tool, previewing thumbnails while viewing drawing files, drawing and viewing elements, and attaching WAV files as audio notes.
+During the 2008 ITC meeting in Athens, Greece, the first test release of IntelliCAD 7 was announced with a complete replacement of the old ITC internal database and the old "SDS" API with newer DWGdirect and DRX APIs from the ODA. In 2009, about 50 ITC members globally shared in IntelliCAD development. Work continued on IntelliCAD 7 while simultaneously releasing IntelliCAD 6.1 through 6.6 over the next several years.
+
+2011-2015
+The complete replacement of the old ITC internal database was released as IntelliCAD 7 in June 2011.
+IntelliCAD 8 was released on June 13, 2014, for 64-bit and 32-bit versions and allowed opening, saving and creating *.dwg files of the 2014 file format. New features included layer states, search layer filters, layer transparency and window freezing, custom menu *.cui files, quick selection, 3D orbits, additional mesh capabilities, Collada (.dae) file import, MrSID MG4 compressed raster image support and more. IntelliCAD 8.0 included Teigha® Open Design Alliance (ODA) version 3.9.1 and VBA 7.1 support. The source code for advanced rendering and image processing components was made available to all ITC members.
+
+2017-2021
+At the 2017 conference in Auckland, New Zealand, IntelliCAD as a native .dgn file editor was announced. IntelliCAD 8.4 was released in July 2017 and included the ability to attach IFC files as underlays.
+Released in June 2018, IntelliCAD 9 included native support for opening, editing and saving *.dwg 2018 file versions, incremental saving to increase performance, Mechanical entity support, tool palettes, and issues related to running IntelliCAD on Fall Creators 2017 Microsoft® Windows® 10 were also fixed. IntelliCAD 9 also included the ability to work with data from .rvt/.rfa files (Autodesk Revit files) and import IFC files as architectural entities.
+Released in July 2020, IntelliCAD 10 included import of Wavefront Technologies Object (.obj) files, import and export of Stereolithography (.stl) files, dynamic input, migrate user interface customizations, and clickable keywords.
+Released in August 2021, IntelliCAD 10.1 included significant speed enhancements, significant performance improvements, insert and work with geographic maps, restore default program settings from the operating system Start menu, create and edit tables and table styles, create and edit sheet sets, insert dynamic blocks, import .pdf files with more advanced options, import point data from .csv and .txt files, and import map files (.shp, .sdf, .sqlite files). Also included is integration with 3Dconnexion input devices for streamlining the CAD drawing experience.
+
+2022-2025
+Released in August 2022, IntelliCAD 11.0 emphasized viewing and vizualization tools such as a view cube, section planes, view and visual style controls, 3D walk and fly, and a 3D on-screen positioner. Other new commands and features were released, including specific additions to working with BIM and DGN files. Members received a pre-release of IntelliCAD IcAPI, which is highly compatible with AutoCAD Object ARX and allows ITC members to build applications with a single code base that runs on both platforms. Also released in 2022 was IntelliCAD 11.1, which focussed on adding new commands and abilities across several areas, including but not limited to dimensions, blocks, tables, custom paper sizes for .pc3 files, and export to IFC.
+Released in October 2023, IntelliCAD 12.0 emphasized reporting (data extraction), super hatches, Quick Properties pane, project geometry, section plane settings, PDF presets, legacy image tile menus, and many more new commands. IntelliCAD versions that work with BIM files focussed on levels, AEC styles, and plane symbols for creating roofs and ceilings. IntelliCAD versions that natively work with DGN files focussed on Explorer elements such as layers, linetypes, dimension styles, blocks, and layouts.
+Released in December 2023, IntelliCAD 12.1 emphasized creating and editing advanced blocks using parameters, actions, and visibility states; an enhanced attribute editor; drag and drop .dwg files as blocks to tool palettes, use print stamp setting (.pss) files, and more. IntelliCAD versions that work with BIM files added choosing the IFC4 or IFC4x3 schema when exporting to .ifc files, and display properties for AEC styles. IntelliCAD versions that natively work with DGN files added attaching cell library (.cel) files, using the Explorer command to work with layouts and text styles, and snapping to geometric centers.
+Released in July 2024, IntelliCAD 13.0 emphasized a new Options dialog, Quick Calculator, new surface commands, lookup tables for advanced blocks, ARX application loading, an all-new LISP API, and more. IntelliCAD versions that work with BIM files included IFC validation, RVT to IFC conversion, AEC dimensions, .ifc layers, and new AEC styles. IntelliCAD versions that natively work with DGN files included BMP Out, Undelete, and Copy Nested Entities commands; parallel entity snapping; and the Explorer for views, external references, blocks, and layer filters.
+Released in December 2024, IntelliCAD 13.1 emphasized enhanced reporting capabilities, customization of running and one-time entity snaps, printing to PNG files with transparent backgrounds, new capabilities for the 3D Positioner command, and more. IntelliCAD versions that work with BIM files focused on creating architectural spaces. IntelliCAD versions that natively work with DGN files focused on drawing polygons and more options for working with views.
+Released in July 2025, IntelliCAD 14.0 emphasized a new dark theme, QR codes, detached drawing windows, surface sculpting, SVG import, new DGN import options, an IntelliCAD Lisp Debugger extension, and more. IntelliCAD versions that work with BIM files focused on file support for RVT/RFA 2025 versions. IntelliCAD versions that natively work with DGN files focused on advanced print options.
+Released in December 2025, IntelliCAD 14.1 emphasized export and print to geospatial PDFs, additional GEO map service availability, a new block test window for advanced blocks, support for compiled and protected LISP applications in FAS and VLX formats, and more. IntelliCAD versions that support BIM files include better control over how openings interact with walls and IFC import improvements. Native DGN support targeted enhancements for exporting, printing, and hatching.
+Released in August 2026, IntelliCAD 15.0 emphasized AI workflows (feature preview), drawing compare (feature preview), a completed modernized LISP API, and more. IntelliCAD versions that support BIM files focused on parts catalogs of .rfa files and IFC import improvements. Native DGN support targeted enhancements for printing, exporting to PDF, and linking external references.
+
+Software based on IntelliCAD
+IntelliCAD serves as the backbone for several CAD applications, including:
+
+4M software
+ACCA software
+ActCAD
+ArCADia software
+BackToCAD CADdirect and Print2CAD
+BlueScope Steel ENDUROCADD
+BudCAD (Ukrainian: БудКАД) — Ukrainian commercial 2D and 3D CAD developed by the State Scientific-Research Institute for Automation Systems in Construction, a government-funded research institute of the Ministry of Communities and Territories Development of Ukraine.
+CAD Projekt software
+Cadian software
+Carlson software
+CMS IntelliCAD
+FRAMECAD software
+JyaCAD
+Leica IMS Map360
+MicroSurvey CAD
+Mitek Wrightsoft Right-CAD
+Progesoft ProgeCAD
+Trimble StabiCAD
+WebCAD
+Zwsoft ZWCAD
+IntelliCAD is used in these industries:
+
+AEC
+BIM (IDEA)
+Civil/Survey
+General CAD software
+Geospatial (Map360)
+Interior Design
+Machine Automation
+Manufacturing
+MEP/HVAC (Fine MEP), (ALCAD based on CMS IntelliCAD)
+
+See also
+Computer-aided design
+Comparison of CAD, CAM and CAE file viewers
+Comparison of CAD editors for AEC
+
+References
+
+External links
+Official website
+Members of the IntelliCAD Technology Consortium
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

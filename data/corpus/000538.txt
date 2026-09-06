@@ -1,0 +1,67 @@
+Functional ultrasound imaging
+Functional ultrasound imaging (fUS or fUSI) is a medical ultrasound imaging technique for detecting or measuring changes in neural activities or metabolism, such as brain activity loci, typically through measuring hemodynamic (blood flow) changes. It is an extension of Doppler ultrasonography.
+
+Background
+
+Brain activation can be directly measured by imaging electrical activity of neurons using voltage-sensitive dyes, calcium imaging, electroencephalography, or magnetoencephalography. It can also be indirectly measured hemodynamically, that is, by detecting changes in blood flow in the neurovascular systems through functional magnetic resonance imaging (fMRI), positron emission tomography (PET), Functional near-infrared spectroscopy (fNIRS), or Doppler ultrasonography, etc.
+Optics-based methods generally provide the highest spatial and temporal resolutions; however, due to scattering, they are limited to measuring regions close to the surface. Thus, they are often used on animal models after partially removing or thinning the skull to allow light to penetrate into brain tissue.
+fMRI and PET, which measure the blood-oxygen level dependent (BOLD) signal, were the only techniques capable of imaging brain activation in depth. BOLD signal increases when neuronal activation exceeds oxygen consumption, where blood flow increases significantly, resulting in cerebral blood volume (CBV) changes. This relationship between neuronal activity and blood flow is called neurovascular coupling. In fact, in-depth imaging of cerebral hemodynamic responses by fMRI, being noninvasive, paved the way for major discoveries in neurosciences in the early stage, and is applicable on humans.
+However, fMRI also suffers limitations. First, the cost and size of MRI machines can be prohibitive. Second, for fMRI to achieve a high spatial resolution necessarily decreases its time resolution and/or signal-noise ratio. As a result, it is hard to image fine spatial details of transient events such as epilepsy. Finally, fMRI is not appropriate for all clinical applications. For example, fMRI is rarely performed on infants, because infants do not stay still inside MRI machines.
+Like fMRI, Doppler-based functional ultrasound is based on the neurovascular coupling and are thus limited by the spatiotemporal features of neurovascular coupling, specifically cerebral blood volume (CBV) changes. CBV is a pertinent parameter for functional imaging that is already used by other modalities such as intrinsic optical imaging or CBV-weighted fMRI. The spatiotemporal extent of CBV response was extensively studied. The spatial resolution of sensory-evoked CBV response can go down to cortical column (~100 μm). Temporally, the CBV impulse response function was measured to typically start at ~0.3 s and peak at ~1 s in response to ultrashort stimuli (300μs), which is much slower than the underlying electrical activity.
+
+Conventional Doppler based approaches
+Hemodynamic changes in the brain are often used as a surrogate indicator of neuronal activity to map the loci of brain activity. Major part of the hemodynamic response occurs in small vessels; however, conventional Doppler ultrasound is not sensitive enough to detect the blood flow in such small vessels.
+
+Functional transcranial Doppler (fTCD)
+Ultrasound Doppler imaging can be used to obtain basic functional measurements of brain activity using blood flow. In functional transcranial Doppler sonography, a low frequency (1-3 MHz) transducer is used through the temporal bone window with a conventional pulse Doppler mode to estimate blood flow at a single focal location. The temporal profile of blood velocity is usually acquired in main large arteries such as the middle cerebral artery (MCA). The peak velocity is compared between rest and task conditions or between right and left sides when studying lateralization.
+The temporal window is the thinnest lateral area of the skull, and it is mostly hairless. It is often used for fTCD.
+
+Power Doppler
+Power Doppler is a Doppler sequence that measures the ultrasonic energy backscattered from red blood cells in each pixel of the image. It provides no information on blood velocity but is proportional to blood volume within the pixel. However, conventional power Doppler imaging lacks sensitivity to detect small arterioles/venules and thus is unable to provide local neurofunctional information through neurovascular coupling.
+
+Ultrasensitive Doppler imaging
+Functional ultrasound imaging was pioneered at ESPCI by Mickael Tanter's team following work on ultrafast imaging and ultrafast Doppler.
+
+Principles
+Ultrasensitive Doppler relies on ultrafast imaging scanners able to acquire images at thousands of frames per second (~1 kHz), thus boosting the SNR of power Doppler without any contrast agents. Instead of the line by line acquisition of conventional ultrasound devices, ultra-fast ultrasound takes advantage of successive tilted plane wave transmissions that afterward coherently compounded to form images at high frame rates. Coherent Compound Beamforming consists of the recombination of backscattered echoes from different illuminations achieved on the acoustic pressure field with various angles (as opposed to the acoustic intensity for the incoherent case). All images are added coherently to obtain a final compounded image. This very addition is produced without taking the envelope of the beamformed signals or any other nonlinear procedure to ensure a coherent addition. As a result, coherent adding of several echo waves leads to cancellation of out-of-phase waveforms, narrowing the point spread function (PSF), and thus increasing spatial resolution. A theoretical model demonstrates that the gain in sensitivity of the ultrasensitive Doppler method is due to the combination of the high signal-to-noise ratio (SNR) of the gray scale images, due to the synthetic compounding of backscattered echoes and the extensive signal samples averaging due to the high temporal resolution of ultrafast frame rates. The sensitivity was recently further improved using multiple plane wave transmissions and advanced spatiotemporal clutter filters for better discrimination between low blood flow and tissue motion. Ultrasound researchers have been using ultrafast imaging research platforms with parallel acquisition of channels and custom sequences programming to investigate ultrasensitive Doppler/fUS modalities. A custom real-time high-performance GPU beamforming code with a high data transfer rate (several GB/s) must then be implemented to perform imaging at high frame rate. Acquisitions can also typically easily provide gigabytes of data depending on acquisition duration.
+Ultrasensitive Doppler has a typical 50-200 μm spatial resolution depending on the ultrasound frequency used. It features temporal resolution ~10 ms, can image the full depth of the brain, and can provide 3D angiography.
+
+Functional ultrasound imaging
+This signal boost enables the sensitivity required to map subtle blood variations in small arterioles (down to 1mm/s) related to neuronal activity. By applying an external stimulus such as a sensory, auditory or visual stimulation, it is then possible to construct a map of brain activation from the ultrasensitive Doppler movie.
+Functional ultrasound (fUS) measures indirectly cerebral blood volume which provides an effect size close to 20% and as such is quite more sensitive than fMRI whose BOLD response is typically only a few percents. Correlation maps or statistical parametric maps can be constructed to highlight the activated areas. fUS has been shown to have a spatial resolution on the order of 100 μm at 15 MHz in ferrets and is sensitive enough to perform single trial detection in awake primates. Other fMRI-like modalities such as functional connectivity can also be implemented.
+Commercial scanners with specialized hardware and software are enabling fUS to rapidly expand behind ultrasound research labs to the neuroscience community.
+
+4D functional ultrasound imaging
+4D functional ultrasound imaging (4D fUS) means fUS imaging of a 3D region of the brain over time.
+Some researchers conducted 4D fUS of whole-brain activity in rodents. Currently, two different technological solutions are proposed for the acquisition of 3D and 4D fUS data, each with its own advantages and drawbacks. The first is a tomographic approach based on motorized translation of linear probes. This approach proved to be a successful method for several applications such as 3D retinotopic mapping in the rodent brain and 3D tonotopic mapping of the auditory system in ferrets. The second approach relies on high frequency 2D matrix array transducer technology coupled with a high channel count electronic system for fast 3D imaging. To counterbalance the intrinsically poor sensitivity of matrix elements, they devised a 3D multiplane-wave scheme with 3D spatiotemporal encoding of transmit signals using Hadamard coefficients. For each transmission, the backscattered signals containing mixed echoes from the different plane waves are decoded using the summation of echoes from successive receptions with appropriate Hadamard coefficients. This summation enables the synthetic building of echoes from a virtual individual plane wave transmission with a higher amplitude. Finally, they perform coherent compounding beamforming of decoded echoes to produce 3D ultrasonic images and apply a spatiotemporal clutter filter separating blood flow from tissue motion to compute a power Doppler volume, which is proportional to the cerebral blood volume.
+
+Applications
+
+Preclinical
+
+fUS can benefit in monitoring cerebral function in the whole brain which is important to understanding how the brain works on a large scale under normal or pathological conditions. The ability to image cerebral blood volume at high spatiotemporal resolution and with high sensitivity using fUS could be of great interest for applications in which fMRI reaches its limits, such as imaging of epileptic-induced changes in blood volume. fUS can be applied for chronic studies in animal models through a thinned-skull or smaller cranial window or directly through the skull in mice.
+
+Brain activity mapping
+Tonotopics or retinotopics maps can be constructed by mapping the response of frequency-varying sounds or moving visual targets.
+
+Functional connectivity / resting state
+When no stimulus is applied, fUS can be used to study functional connectivity during resting state. The method has been demonstrated in rats and awake mice and can be used for pharmacological studies when testing drugs. Seed-based maps, independent component analysis of resting states modes or functional connectivity matrix between atlas-based regions of interests can be constructed with high resolution.
+
+Awake fUS imaging
+Using dedicated ultralight probes, it is possible to perform freely-moving experiments in rats or mice. The size of the probes and electromagnetic-compatibility of fUS means it can also be used easily on head-fixed setups for mice or in electrophysiology chambers in primate.
+
+Clinical
+
+Neonates
+Thanks to its portability, fUS has also been used in clinics in awake neonates. Functional ultrasound imaging can be applied to neonatal brain imaging in a non-invasive manner through the fontanel window. Ultrasound is usually performed in this case, which means that the current procedures does not have to be changed. High quality angiographic images could help diagnose vascular diseases such as perinatal ischemia or ventricular hemorrhage.
+
+Adults / intraoperative
+For adults, this method can be used during neurosurgery to guide the surgeon through the vasculature and to monitor the patient's brain function prior to tumor resection
+
+See also
+Functional magnetic resonance imaging (fMRI)
+Functional neuroimaging
+
+References
+
+[[Infant]] [[Positron emission tomography]]

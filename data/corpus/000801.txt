@@ -1,0 +1,75 @@
+OrCAD
+OrCAD Systems Corporation was a software company that made OrCAD, a proprietary software tool suite used primarily for electronic design automation (EDA). The software is used mainly by electronic design engineers and electronic technicians to create electronic schematics, and perform mixed-signal simulation and electronic prints for manufacturing printed circuit boards (PCBs). OrCAD was acquired by Cadence Design Systems in 1999 and was integrated with Cadence Allegro in 2005.
+
+Company
+Founded in 1985 by John Durbetaki, Ken, and Keith Seymour as "OrCAD Systems Corporation" in Hillsboro, Oregon, the company became a supplier of desktop electronic design automation (EDA) software. The name OrCAD is a portmanteau, reflecting the company and its software's origins: Oregon + CAD. In 1984 Durbetaki began designing an expansion chassis for the IBM Personal Computer. Durbetaki, who had left Intel Corp. after five years as an engineer and project manager, decided, along with brothers Keith and Ken Seymour, to start his own company to develop add-on instrumentation for the PC. Durbetaki began creating his schematic capture tool for his use in the PC expansion chassis project; but essentially shelved the hardware project entirely in favor of developing low-cost, PC-based CAD software. The company's first product was SDT (Schematic Design Tools) for MS-DOS, which shipped first in late 1985.
+In 1986, OrCAD hired Peter LoCascio to develop sales, and co-founder Ken Seymour left the company. The flagship SDT product was soon followed with a digital simulator, VST (Verification and Simulation Tools), and printed circuit board (PCB) layout tools.
+Over time, OrCAD's product line broadened to include Microsoft Windows-based software products to assist electronics designers in developing field-programmable gate arrays (FPGAs), including complex programmable logic devices (CPLDs). In 1991, Durbetaki, then CEO and head of R&D, left the company. He was succeeded as CEO by Michael Bosworth.
+In June 1995, OrCAD acquired Massteck Ltd., a small company that offered a printed circuit board layout tool and a sophisticated autorouter, and Intelligent Systems Japan, KK, OrCAD's distributor in Japan. In 1996, OrCAD made a public offering.
+In late 1997 and early 1998, OrCAD and MicroSim Corporation merged, a business combination that ultimately proved to be disappointing. MicroSim has been a supplier of PC-based analog and mixed-signal simulation software for designing printed circuit board systems (PSpice).
+On 16 July 1999, the company and its products were acquired by a former competitor Cadence Design Systems.
+OrCAD Layout has been replaced by PCB Designer, sometimes called Allegro PCB Designer. The latest iteration of OrCAD CIS schematic capture software has the ability to maintain a database of available integrated circuits. This database may be updated by the user by downloading packages from component manufacturers, such as Analog Devices and others. Another announcement was that STMicroelectronics will offer OrCAD PSpice models for all the power and logic semiconductors. Intel offers reference PCBs designed with Cadence PCB Tools in the OrCAD Capture format for embedded and personal computers.
+
+Products
+OrCAD is a suite of products for PCB Design and analysis that includes a schematic editor (Capture), an analog/mixed-signal circuit simulator (PSpice), and a PCB layout solution (PCB Designer Professional).
+
+OrCAD Capture
+OrCAD Capture is a schematic capture application and part of the OrCAD circuit design suite.
+Unlike NI Multisim, Capture does not contain in-built simulation features, but exports netlist data to the simulator, OrCAD EE. Capture can also export a hardware description of the circuit schematic to Verilog or VHDL, and netlists to circuit board designers such as OrCAD Layout, Allegro, and others.
+Capture includes a component information system (CIS), that links component package footprint data or simulation behavior data, with the circuit symbol in the schematic.
+Capture includes a Tcl/Tk scripting functionality that allows users to write scripts, that allow customization and automation. Scripts may automate any task performed via the GUI.
+The OrCAD Capture Marketplace enables customers to share and sell add-ons and design resources. Such add-ons can customize the design environment and add features and capabilities.
+Capture can interface with any database that complies with Microsoft's ODBC standard, etc. Data in an MRP, ERP, or PDM system can be directly accessed for use during the component decision-making process.
+
+OrCAD PSpice
+OrCAD EE PSpice is a SPICE circuit simulator application for the simulation and verification of analog and mixed-signal circuits. PSpice is an acronym for Personal Simulation Program with Integrated Circuit Emphasis.
+OrCAD EE typically runs simulations for circuits defined in OrCAD Capture, and can optionally integrate with MATLAB/Simulink, using the Simulink to PSpice Interface (SLPS). OrCAD Capture and PSpice Designer together provide a complete circuit simulation and verification solution with schematic entry, native analog, mixed-signal, and analysis engines.
+PSpice was a modified version of the academically developed SPICE and was commercialized by MicroSim in 1984. MicroSim was purchased by OrCAD a decade later in 1998.
+OrCAD PSpice Designer is available in two options: PSpice Designer and PSpice Designer Plus.
+OrCAD PSpice Designer includes OrCAD Capture and OrCAD PSpice solution. An upgrade option to PSpice Designer Plus provides the PSpice Advanced Analysis simulation engine for functional simulation and improvement in design yield and reliability.
+The PSpice Advanced Analysis simulation capabilities cover various analyses: Sensitivity, Monte Carlo, Smoke (Stress), Optimizer, and Parametric Plotter providing an understanding of circuit performance beyond basic validation.
+The OrCAD PSpice Simulink — PSpice Integration(SLPS) provides co-simulation and helps verify system-level behavior.
+A circuit to be analyzed using PSpice is described by a circuit description file, which is processed by PSpice and executed as a simulation. PSpice creates an output file to store the simulation results, and such results are also graphically displayed within the OrCAD EE interface.
+OrCAD EE is an upgraded version of the PSpice simulator, and includes automatic circuit optimization and support for waveform recording, viewing, analysis, curve-fitting, and post-processing. OrCAD EE contains an extensive library of models for physical components, including around 33,000 analog and mixed-signal devices and mathematical functions. OrCAD EE also includes a model editor, support for parameterized models, auto-convergence and checkpoint restart, several internal solvers, and a magnetic part editor.
+
+History
+SPICE was first developed at the University of California, Berkeley, in the early 1970s. Subsequently, an improved version of SPICE 2 was available in the mid-1970s, especially to support computer-aided design.
+PSpice was released in January 1984 and was the first version of U.C. Berkeley SPICE available on an IBM Personal Computer. PSpice later included a waveform viewer and analyzer program called Probe. Subsequent versions improved on performance and moved to DEC/VAX minicomputers, Sun workstations, Apple Macintosh, and Microsoft Windows. Version 3.06 was released in 1988, and had a "Student Version" available that allowed a maximum of up to ten transistors to be inserted. PSpice — even the student version — increases the students' abilities to understand the behavior of electronic components and circuits.
+
+Analyses
+
+The type of simulation performed by PSpice depends on the source specifications and control statements. PSpice supports the following types of analyses:
+
+DC Analysis — for circuits with time–invariant sources, e.g., steady-state DC sources. It calculates all nodal voltages and branch currents over a range of values. Supported types include Linear sweep, Logarithmic sweep, and Sweep over a List of values.
+Transient Analysis — for circuits with time-variant sources, e.g., sinusoidal sources/switched DC sources. It calculates all nodal voltages and branch currents over a time interval and their instantaneous values are the outputs.
+AC Analysis — for small-signal analysis of circuits with sources of varying frequencies. It calculates the magnitudes and phase angles of all nodal voltages and branch currents over a range of frequencies.
+The operating temperature of analysis can be set to any desired value, and nodal parameters are assumed to be measured at a nominal temperature, by default 27 °C.
+
+PSpice User Community
+An open Web-based platform dedicated to PSpice SPICE circuit simulation discussions. It provides access to resources for all things related to the PSpice circuit simulator. Users can find datasheets, application notes, tutorials, videos, and also information about regional PSpice training events and webinars. The PSpice Web portal provides an extensive model library of more than 33,000 PSpice models, which are also easily available with the PSpice Lite Download.
+PSpice Lite version, which can be used by students comes with full software functionality, limited only by size and complexity.
+
+OrCAD PCB Designer
+OrCAD PCB Designer is a printed circuit board designer application, and part of the OrCAD circuit design suite. PCB Designer includes various automation features for PCB design, board-level analysis and design rule checks (DRC).
+The PCB design may be accomplished by manually tracing PCB tracks, or using the Auto-Router provided. Such designs may include curved PCB tracks, geometric shapes, and ground planes.
+PCB Designer integrates with OrCAD Capture, using the component information system (CIS) to store information about a certain circuit symbol and its matching PCB footprint.
+
+PCB Designer file formats references
+As of 2019 the following format files are used:
+
+OrCAD Library Builder
+IPC-7351 specification-compliant symbol and footprints library designer software. It also supports automatic generation of the STEP from footprint data.
+
+See also
+
+Specctra for OrCAD (Allegro PCB Router)
+Comparison of EDA software
+List of free electronics circuit simulators
+
+References
+
+External links
+Official website, OrCAD
+AiPCBA
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic circuit simulation]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[Schematic capture]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

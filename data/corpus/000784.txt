@@ -1,0 +1,76 @@
+Onyx Boox
+Onyx Boox (stylized as BOOX) is a brand of e-ink readers, tablets, and monitors produced by Onyx International Inc, based in China. Since 2013, all non-monitor Boox devices use the Android operating system which allows users to read books across many book sellers, including their own ebook files, and use any other applications available to Android.
+
+Devices
+
+i63ML Newton
+The Onyx Boox i63ML Newton (I63MLP_HD) device is the first eReader with access to Google Play. It has a 1 GHz processor, 512MB DDR and 8 GB internal storage memory. Build on SoC Rockchip RK2906 and Android Gingerbread 2.3.1 (API level 9, NDK 5) Linux kernel 2.6.32.27. It has 6" E-Ink Carta display 1024×758 px (14:1 contrast) with Moonight backlight.
+
+i62ML
+Onyx Boox i62ML (Moon Light) (also called "Firefly", "Angel Glow" or "Aurora" depending on the country it is sold in) is a device with 800 MHz Cortex A8 CPU, 128MB DDR, 4 GB internal memory, a 6-inch E Ink Pearl HD infrared touch screen, with 1024×758 resolution, 16 level grey scale and built in front-light technology called Moon Light.
+
+M92
+Onyx Boox M92 is a device with a 9.7-inch E Ink Pearl screen with electromagnetic touch, 1200×825 resolution and 16 level grey scale. It supports the Hanvon stylus for touchscreen navigation and note taking. It was released in November 2011.
+
+E43
+An Android-based (2.3) smart phone and e-reader, the primary screen of which will be a 4.3-inch e-Ink display.  The specs indicate it will be a tri-band device and will lack the 850 MHz band that is needed in the USA.
+
+C65HD/C65ML
+The Onyx BOOX C65 is an Android-based (2.3) device with a 6-inch E Ink HD EPD multi-touch capacitive touch screen with 1024×758 pixel resolution at 212 ppi and 16 grey levels. It comes in two versions, the C65HD "Storia" (burgundy) and the C65ML "AfterGlow" (graphite), the latter with a Modern Front-Light system. Specifications for the device include a 1 GHz Cortex A8 CPU, 512 MB RAM, 4 GB flash memory, 802.11 b/g/n WiFi, and a MicroSD card slot. Weight: 186 g (6.6 oz), Size: 170×117×8.7 mm (6.7x4.6x0.3 in).
+
+C67ML
+The Onyx BOOX C67 is an Android-based (4.2) device with a 6-inch E Ink HD EPD multi-touch capacitive touch screen with 1024x758 pixel resolution at 212 ppi and 16 grey levels. It comes in two versions, the C67ML (no Google Play store support) and the C67ML "Afterglow 2". Specifications for the device include a 1 GHz Cortex-A9 dual core cpu, 512 MB RAM, 4 GB flash memory, 802.11 b/g/n WiFi, and a MicroSD card slot. Weight: 186 g (6.6 oz), Size: 171×117×9 mm (6.7×4.6×0.3 in).
+
+T68
+The Onyx BOOX T68 is an Android 4.0 based e-reader/tablet with 6.8-inch E Ink Pearl HD (1440×1080) screen. It runs on a 1 GHz Freescale i.MX6 ARM Cortex A9 processor. It comes with 512 MB RAM, 4 GB of storage, a microSD card slot, audio jack,  wifi, bluetooth, can use Google Play Books and the Amazon Kindle Store and has a text-to-speech capability when a bluetooth speaker is used.
+
+i86
+The Onyx BOOX i86 is an Android 4.0 based e-reader with 8-inch E Ink Pearl 1600×1200, infrared touchscreen and runs on a 1 GHz Cortex A9 processor. It comes with 512 MB RAM, 4 GB of storage, a microSD card slot, audio jack, wifi, bluetooth.
+
+Onyx Boox Max
+The Onyx Boox Max is an Android 4.0 based e-reader/tablet with a 13.3-inch E Mobius 1200x1600 screen.
+
+The Onyx Boox Max Carta is an Android 4.0 based e-reader/tablet with 13.3-inch E Carta flexible display 1650×2200 screen.
+The Onyx Boox Max 2 is an Android 6 based e-reader/tablet with a 13.3-inch E Mobius 1650×2200 screen with 2 GB RAM, 32 GB internal memory, stereo output, microphone, HDMI and USB 2 specifications
+
+The Onyx Boox Max 2 Pro is an Android 6 based e-reader/tablet with a 13.3-inch E Mobius 1650×2200 screen with 4 GB RAM, 64 GB Internal memory, stereo output, microphone, micro HDMI and micro USB specifications
+
+The Onyx Boox Max 3 is an Android 9 based e-reader/tablet with a 13.3-inch E Mobius 1650×2200 screen with 4 GB RAM, 64 GB Internal memory, stereo output, microphone, micro HDMI and USB C specifications
+
+Onyx Boox Nova
+Onyx Boox Nova is a 7.8inch ereader with edge-to-edge glass and a brand new design. Onyx plans to make two different versions, a waterproof one with microUSB port, and standard one with USB-C. It was released in 2018.
+
+Onyx Boox Note Pro and Nova Pro
+After collecting feedback from many customers, Onyx decided to introduce Onyx Boox Note Pro and Boox Nova Pro at CES 2019. The two new models are equipped with pen input via Wacom digitizer and a CTM (warm and cold) frontlight. Onyx Boox Nova Pro and Onyx Boox Note Pro were released later in 2019.
+
+Onyx Boox Max Lumi
+Onyx Boox Max Lumi is the long-awaited 13" ebook reader with integrated frontlight. It is an evolution of the previous Onyx Boox Max 3 with a faster hardware platform and of course the new glowing E-Ink panel. Onyx Boox Max Lumi is available since the end of September 2020.
+
+Onyx Boox Poke
+The Onyx Boox Poke is a Kindle Paperwhite sized (6 inches) ereader. The Onyx Boox Poke 2 Color is the first color ereader that Onyx Boox ever made. The Poke series does not have any pens to take notes with. The earlier version has a sunken screen, but the current (monochrome) Poke 3 has a flush screen.
+
+Onyx Boox Tab Ultra and Tab X
+The Onyx Boox Tab Ultra is a 10.3" note taking device, with an optional keyboard cover. It contains a custom GPU to improve the refresh performance of the e-ink display. The Onyx Boox Tab X is a 13.3" note taking device, which supports a separate Bluetooth keyboard and also uses a custom GPU.
+
+Other Onyx Boox devices
+After release of the Tab X in 2023, Onyx released the Tab Ultra C, Poke 5, Tab Mini C, Palma, Page, Note Air3 C, Tab Ultra C, Tab Ultra C Pro, and Note Air3. In 2024, Onyx released the Go Color 7, Go 10.3, Note Air4 C, Go 6, Palma 2, and Note Max. For more information on these devices, see the following table.  
+
+Release dates
+
+GPL compliance
+As of 2022, Onyx International Inc. has declined to release the source code with Linux kernel modifications licensed under the GNU General Public License version 2 in response to a written request by a user. The GPLv2 license states that if a modified version of a covered work (such as the Linux kernel) is released, the corresponding source code must also be released under GPLv2.
+
+See also
+Comparison of e-book readers
+Comparison of tablet computers
+E-Ink
+E-Paper
+
+Notes
+
+References
+
+External links
+Official website (manufacturer)
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[GNU General Public License]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

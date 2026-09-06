@@ -1,0 +1,124 @@
+Tektronix
+Tektronix, Inc., historically widely known as Tek, is an American company best known for manufacturing electronic testing and measurement devices such as oscilloscopes, logic analyzers, and video and mobile test protocol equipment.  Originally an independent company, it is now a subsidiary of Ralliant, a spinoff from Fortive.
+
+History
+
+1946–1954
+
+The company traces its roots to the electronics revolution that immediately followed World War II. It was founded in December 1945 as Tekrad. The name was similar to that of a California company, Techrad, so in 1946, the four partners, Howard Vollum, Jack Murdock and Miles Tippery, who had both served in the Coast Guard, and accountant Glenn McDowell, formed Tektronix, Inc. Each contributed an initial $2,600 for equal shares.
+Howard Vollum had graduated in 1936 from Reed College with a degree in physics and a keen interest in oscilloscopes, then worked as a radio technician at Jack Murdock's Murdock Radio and Appliance Company (M.J. Murdock Company) prior to the outbreak of war, during which he served in the Signal Corps. Following the founding of Tektronix, Vollum invented the world's first triggered oscilloscope in 1946, a significant technological breakthrough. This oscilloscope—refined and developed by Tektronix—was the model 511 produced from 1947 to 1953. The model 511 was a triggered-sweep oscilloscope. The first oscilloscope with a true time-base was the Tektronix Model 513.
+The leading oscilloscope manufacturer at the time was DuMont Laboratories. DuMont pioneered the frequency-synch trigger and sweep. Allen DuMont personally tried the 511 at an electronics show and was impressed, but when he saw the price of $795 (equivalent to $11460 today), which was about twice as much as his equivalent model, he told Howard Vollum at the show that they would have a hard time selling many.
+Tektronix was incorporated in 1946 with its headquarters at SE Foster Road and SE 59th Avenue in Portland, Oregon, just six blocks from Murdock's first family home. In 1947 there were 12 employees. Four years later, in 1951, Tektronix had 250 employees. Murdock and Vollum were known humanitarians and sought to operate their business as one might run a large and caring family. In 1978, Tektronix was named by authors Robert Levering and Milton Moskowitz, et al., as among The 100 best companies to work for in America in their book of the same name.
+By 1950, the company began building a manufacturing facility in Washington County, Oregon, at Barnes Road and the Sunset Highway and, by 1956, had expanded the facility to 80,000 square feet (7,000 m2). The company then moved its headquarters to this site, following an employee vote.
+A detailed story of Howard Vollum and Jack Murdock along with the products that made Tektronix a leader in oscilloscopes can be found at the Museum of Vintage Tektronix Equipment.
+
+1955–1969
+In 1956, a large property in Beaverton became available, and the company's employee retirement trust purchased the land and leased it back to the company. Construction began in 1957 and on May 1, 1959, Tektronix moved into its new Beaverton headquarters campus, on a 313-acre (1.27 km2) site which came to be called the Tektronix Industrial Park.
+
+In the late 1950s (1957–58), Tektronix set a new trend in oscilloscope applications that would continue into the 1980s. This was the introduction of the plug-in oscilloscope. Starting with the 530 and 540 series oscilloscopes, the operator could switch in different horizontal sweep or vertical input plug-ins. This allowed the oscilloscope to be an adaptable test instrument. Later Tektronix added plug-ins to have the scope operate as a spectrum analyzer, waveform sampler, cable tester and transistor curve tracer. The 530 and 540 series also ushered in the delayed trigger, allowing to trigger between a sweep rather than at the beginning. This allows more stable triggering and better waveform reproduction.
+In 1961, Tektronix sold its first (possibly the world's first practical) completely portable oscilloscope, the model 321. This oscilloscope could run on AC line (power mains) or on rechargeable batteries. It also brought the oscilloscope into the transistor age (only a Nuvistor ceramic tube was used for the vertical amp input). A year and a half later, the all-transistor model 321A came out.
+
+The 560 series introduced the rectangular CRT to oscilloscopes. In 1964 Tektronix made an oscilloscope breakthrough: the world's first mass-produced analog storage oscilloscope, the model 564. Hughes Aircraft Company is credited with the first working storage oscilloscope (the model 104D) but it was made in very small numbers and is extremely rare today.
+In 1966, Tektronix brought out a line of high-frequency full-function oscilloscopes called the 400 series. The oscilloscopes were packed with features for field work applications. These scopes were outstanding performers often preferred over their laboratory bench models. The first models were the 422, a 16 MHz bandwidth and the 453, a 50 MHz bandwidth model. The following year the 454, a 150 MHz portable. These models put Tektronix well ahead of their competitors for years. The US military contracted with Tektronix for a model 453 "ruggedized" for field servicing. The 400 series models would continue to be popular choices in the 1970s and '80s. In addition the styling of the 400 series would be copied by Tektronix's competitors. 400 series oscilloscopes were still being used as of 2013.
+
+1970–1985
+
+In 1974, the company acquired 256 acres (1.0 km2) in Wilsonville, Oregon where it built a facility for its imaging group. By 1976, the company employed nearly 10,000, and was the state's largest employer. Tektronix's 1956 expansion and, in 1962, Electro Scientific Industries' similar move to Washington County and expansion are credited with fostering the development of a large high-tech industry in Washington County, a number of firms which collectively are often referred to as the "Silicon Forest".
+For many years, Tektronix was the major electronics manufacturer in Oregon, and in 1981, its U.S. payroll peaked at over 24,000 employees. Tektronix also had operations in Europe, South America and Asia.  European factories were located in Saint Peter's, Guernsey (then in the European Free Trade Association) until 1990, Hoddesdon (Hertfordshire, UK) and Heerenveen, Netherlands (then in the European Common Market). Some oscilloscopes marketed in Europe and the UK were sold under the brand name Telequipment but many in the UK used the Tektronix brand name in the 1960s and '70s.
+For many years, Tektronix operated in Japan as Sony-Tektronix, a 50-50 joint venture of Sony and Tektronix, Inc; this was due to Japanese trade restrictions at the time. Since then, Tektronix has bought out Sony's share and is now the sole owner of the Japanese operation.  Under the Sony-Tektronix name, the 300 series oscilloscopes were lightweight and totally portable. They replaced the model 321/321A oscilloscopes. Examples of the Sony/Tektronix models were 314, 323, 335 and 370.
+
+During the early 1970s, Tektronix made a major design change to their oscilloscopes. The 5000 and 7000 series oscilloscopes maintained the plug-in capabilities that originally started with the 530 and 540 series; however, the choice of plug-ins was even greater. These scopes used custom designed integrated circuits fabricated by Tektronix. The CRTs were all rectangular and were all fabricated by Tektronix. These oscilloscopes provided on screen controls setting. The 5000 series was the general purpose line while the 7000 series were capable of a wide variety of applications and could accept as many as 4 plug-ins. One model, the 7104 (introduced 1978), was a true 1 GHz bandwidth oscilloscope.
+Beginning with the firm's first cathode ray oscilloscopes, Tektronix has enjoyed a leading position in the test and measurement market. Although its equipment was expensive, it had performance, quality, and stability. Most test equipment manufacturers built their oscilloscopes with off-the-shelf, generally available components. But Tektronix, in order to gain an extra measure of performance, used many custom-designed or specially-selected components. They even had their own factory for making ultra-bright and sharp CRT tubes. Later on, they built their own integrated circuit manufacturing facility in order to make custom ICs for their equipment.
+Tektronix instruments contributed significantly to the development of computers, test, and telecommunications equipment and to the advancement of research and development in the high-technology electronics industry generally.
+As time went on, Tektronix fabricated more and more of their electronic parts. This led to very specialized skills and talents which in time led to employees forming new businesses. Some former Tektronix employees left to create other successful "Silicon Forest" companies. Spin-offs include Mentor Graphics, Planar Systems, Floating Point Systems, Cascade Microtech, Merix Corporation, Anthro Corporation and Northwest Instrument Systems (NWIS) – later renamed to MicroCase. Even some of the spin-offs have created spin-offs, such as InFocus. As Tektronix fabricated more specialized parts, they spread out their product base to include logic analyzers, digital multimeters and signal generators. The TM500 and TM5000 rack mount series was born featuring custom designed test instruments chosen by the buyer.
+During this period, Tektronix acquired what were sold as the 8000 and 8002 Microprocessor Development System (MDS), the 8000 being a software development system running editors and cross-compilers with twin floppy disk storage, while the 8002 could be fitted with real-time emulators for several processors including the 8080, Z80 and 6502. These were later replaced by the 8540/8550/8560. The 8550 was a standalone development system capable of being fitted with real time emulation hardware for several different processors. The 8560 emerged just after Bell Labs were able to sell UNIX commercially, and ran a mildly modified version of Version 7 UNIX, called TNIX, supporting 4 or 8 (depending on how many I/O processor cards were fitted) serial terminals, with a special High-Speed Input/Output, based on RS-422, to connect to a remote 8540. There was a hard drive of about 34MB, later increased, and a variable amount of RAM depending on the processor card fitted, which was either a DEC LSI11-23+ or a LSI11-73, which had a wider address bus as well as a higher clock speed. The final upgraded variant was the 8562. The 8540, of which several could be connected to the 8560, contained emulation hardware similar to that available for the 8550, including RAM cards, Trigger Trace Analyser, 1 or 2 processor emulator cards, each with external probe, etc. The 8540 had no software development capability, but worked with the 8560, or other systems such as a VAX, which would provide the software development environment. It was unique in its day, in that the serial terminal could be connected to the 8540, on the bench, or to the 8560, and would pass UNIX commands automatically to the 8560, which passed emulator commands back to the 8540 for execution, completely transparently. Thus a complete compile, link, load and emulate session could be run from a UNIX shell script, a facility probably not seen on any development system since. The 8540/8550/8560 supported many 8-bit and 16-bit microprocessor types, with a change of emulator cards and probes, and installation of assembler and possibly compiler software, and did not require any particular code to be linked in to the user's code to facilitate register tracing at breakpoints, a shortcoming of the only real alternative multi-manufacturer MDS of that era, by HP. However, an impressive feature was that by including a special instruction sequence, typically a double NOP followed by a call to a specific address, the emulator would generate a "Service Call" to take whatever action the user required, and continue execution. This for example could allow UNIX to write variables to a log file as commanded by the running program on the emulated microprocessor.
+It is not clear at present why Tektronix eventually withdrew from the MDS business, as their products were highly regarded.
+
+1986–2006
+
+Tektronix began to face big challenges to its business structure. In the 1980s, Tektronix found itself distracted with too many divisions in too many markets.  This led to decreasing earnings in almost every quarter.  A period of layoffs, top management changes and sell-offs followed. In 1994, Tektronix spun off its printed circuit board manufacturing operation as a separate company, Merix Corp., headquartered in Forest Grove, Oregon.
+Eventually, Tektronix was left with its original test and measurement equipment. Upon his promotion in 2000, the current CEO, Richard H. "Rick" Wills, carefully limited corporate spending in the face of the collapsing high-tech bubble. This led the way for Tektronix to emerge as one of the largest companies in its product niche, with a market capitalization of $3 billion as of April 2006. However, this failed to prevent it from becoming an acquisition target, and Tektronix was acquired by Danaher Corporation in 2007.
+With the advancement in signal sampling techniques and digital processing, oscilloscope manufacturers found a new horizon in the market: the ability to sample the signal and digitize it for real time viewing or digitally store it for future use and maintain the integrity of the waveform. In addition a computer can be integrated with the scope to store many waveforms or instruct the scope to do further analysis. Color-enhanced waveforms can be produced for ease in identification.
+Tektronix was heavily involved with designing digital sampling oscilloscopes. In the mid-1980s, they quickly replaced their analog oscilloscopes. Their 400, 5000 and 7000 series oscilloscopes were replaced with a new generation of digital oscilloscopes with storage capability, the 11000 and TDS series. The 11000 series were large rack mount laboratory models with large a flat CRT face and had touch screen, multiple color, and multiwaveform display capability. They were still plug-in units and could accept the older 7000 series 7- plug-ins and the new 11000 series 11A- plug-ins. The TDS series replaced the 300 and 400 series portable line. They had the same panel layout but with enhanced storage and measuring capabilities. During this period Tektronix would also expand its test equipment line to logic analyzers, signal generators etc.
+By the mid-1990s the use of the CRT was dropped and Tektronix started using LCD panels for display. The 11000 series would be replaced by the MSO (Mixed Signal Oscilloscope) which featured a color active matrix LCD. The TDS continued but with LCD panels starting with the TDS-210. In the TDS models, the lower priced models replaced the last of the 2000 series analog scopes and featured monochrome display while the higher end models were color LCD models which were more like the older 400 series scopes in performance. Spinoffs of the TDS was the TBS storage scope series. Later Tektronix would replace the 200 mini oscilloscopes with the TH series hand held digital oscilloscopes. All TDS and spinoff series with LCD are totally portable (light weight and can run AC or on batteries).
+
+2007–present
+On November 21, 2007, Tektronix was acquired by Danaher Corporation for $2.85 billion. Prior to the acquisition, Tektronix traded on the New York Stock Exchange under the symbol TEK, the nickname by which Tektronix is known to its employees, customers, and neighbors. On October 15, 2007, Danaher Corporation tendered an offer to acquire Tektronix for $38 cash a share, which equated to a valuation of approximately $2.8 billion. The deal closed five and a half weeks later, with 90 percent of TEK shares being sold in the tender offer.
+Also, as part of its acquisition by Danaher, the Communications Business division of Tektronix was spun off into a separate business entity under Danaher, Tektronix Communications.
+The digital oscilloscope line that was introduced in the 1990s (MSO, TDS, TH series) are still being manufactured in some form.
+On February 1, 2016, Tektronix introduced a new logo design, replacing a logo that had been in use since 1992, and indicated a shift in strategy to offer measurement products tailored for specific fields such as computing, communications and automotive. Danaher spun off several subsidiaries, including Tektronix, in 2016 to create Fortive.
+Tektronix Video, commonly known for their waveform monitors, was merged with Telestream via an agreement with Fortive on April 25, 2019.
+Production of oscilloscopes has moved to China in recent years.
+
+Early oscilloscope models
+(see also Tektronix analog oscilloscopes)
+For individual model history, Tektronix and Tektronix Collectors has complete details. Just go click to the reference number next to the Tek Product Series. You will be directed to the latest link.
+
+7000 series oscilloscopes and plug-ins 1970–1985
+5000 series oscilloscopes and plug-ins 1970–1985
+2000 series portable oscilloscopes (1978–?)
+500 series oscilloscopes and plug-ins 1946–1970
+400 series portable oscilloscopes and spectrum analyzers 1966–1989
+300 series portable oscilloscopes 1952–1969?
+200 series portable oscilloscopes (1975–?)
+
+'Non test' products
+Some important non-test equipment Tektronix created and sold include:
+
+Tektronix 4014 computer terminal
+Tektronix 405x graphical microcomputers
+Tektronix 408x graphical minicomputers (original DRADIS of Battlestar Galactica)
+Tektronix FEM181 Finite Element Modeling software system
+Tektronix 4115 color raster scan graphics or the TGRAPH emulator
+Tektronix 4132 workstation, using the NS32016 CPU and running UTek, a 4.2BSD-based Unix operating system. This was an evolution of the 6100 series.
+Tektronix 6100 series, using the NS32016 CPU and running a Real-time operating system (6110); or UTek, a 4.2BSD-based Unix operating system (6120/6130).
+Tektronix 6200 series, using the NS32016 (6205), NS32032 (6210), or multiple NS32032 CPUs (6212); and running UTek, a 4.2BSD-based Unix operating system
+Tektronix 4300 series of graphics terminals and workstations, using one Motorola 68020 CPU for terminals (423x), or two for workstations (433x) running UTek, a 4.2BSD-based Unix operating system
+Tektronix 4400 series of Artificial Intelligence Systems, using the Motorola 68010 CPU (4404) or the Motorola 68020 CPU (4405/4406) to run the UniFLEX operating system and the Smalltalk-80, MPROLOG, TEK Common LISP, or FRANZ LISP programming environments
+Tektronix XD88 series of Graphics Superworkstations, using the Motorola 88000 CPU and running UTek V, a Unix System V Release 3-based Unix operating system
+Flatbed plotters used with Tektronix computers
+TekXPress X terminals, later sold to Network Computing Devices
+Phaser-branded color computer printers, including their pioneering Solid Ink models, sold to Xerox in 1999
+Tektronix Microlab microprocessor development toolkit
+Television studio and video production equipment manufactured by onetime Tek subsidiary Grass Valley Group, which was spun off as an independent company (and later bought by Thomson SA). The Grass Valley is now owned by Black Dragon Capital.
+
+Notable employees
+The following notable individuals currently work for Tektronix, or have previously worked for Tektronix in some capacity. This list includes persons who are notable for reasons unrelated to their Tektronix careers.
+
+Howard Vollum: founder, former president and chairman of the board, recipient of the Legion of Merit award for work on radar for England in WWII, noted philanthropist. (See Howard Vollum Award)
+Jean Auel: technical writer; author of Children of Earth novels
+Kent Beck: engineer; Extreme Programming developer
+Tom Bruggere: engineer; later founded Mentor Graphics in 1981; 1996 candidate for United States Senate
+Ward Cunningham: engineer; Extreme Programming developer, inventor of the wiki
+Miller M. Duris: politician who served as mayor and county commissioner
+Barrie Gilbert: popularized the Gilbert cell, a type of electronic mixer
+Robert W. Lundeen: Director, CEO
+Vivek Maddala: composer and musician
+Steven McGeady: engineer; later Intel Vice-president and co-founder of Intel Architecture Labs
+Merrill A. McPeak: Director; former US Air Force chief of staff
+Keith Packard: engineer; X Window System developer
+Randal L. Schwartz: Perl and computer security expert, author
+Norm Winningstad: engineer; founder of Floating Point Systems, author
+Rebecca Wirfs-Brock: engineer; technical lead for the first commercial Smalltalk implementation; author of books on object-oriented programming
+Delbert Yocam: former president, COO; former COO of Apple Computer
+
+See also
+Semiconductor curve tracer
+Waveform monitor / Vectorscope
+First Tech Credit Union, originally Tektronix Federal Credit Union
+Tektronix Analog Oscilloscopes
+List of companies based in Oregon
+SyntheSys Research
+
+References
+
+Further reading
+Winning with People: The First 40 Years of Tektronix by Marshall M. Lee.  Published by Tektronix, Inc., October, 1986.
+
+External links
+
+Official website
+The Spirit of Tek Documentary produced by Oregon Public Broadcasting
+archive of Tektronix vintage catalog PDFs
+
+[[Computer]] [[Integrated circuit]] [[Market capitalization]] [[Mentor Graphics]]

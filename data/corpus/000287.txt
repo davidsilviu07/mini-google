@@ -1,0 +1,30 @@
+Cordotomy
+Cordotomy (or chordotomy) is a surgical procedure that disables selected pain-conducting tracts in the spinal cord, in order to achieve loss of pain and temperature perception. This procedure is commonly performed on patients experiencing severe pain due to cancer or other incurable diseases. Anterolateral cordotomy is effective for relieving unilateral, somatic pain while bilateral cordotomies may be required for visceral or bilateral pain.
+
+Indications
+Cordotomy is performed as for patients with severe intractable pain, usually but not always due to cancer.  Being irreversible and relatively invasive, cordotomy is used exclusively for pain where treatment to level 3 of the World Health Organization pain ladder (i.e., use of major opiates such as morphine) has proved inadequate. Cordotomy is especially indicated for pain due to asbestos-related cancers such as pleural and peritoneal mesothelioma.
+
+Procedure
+Most cordotomies are now performed percutaneously with fluoroscopic or CT guidance while the patient is awake under local anesthesia.  The spinothalamic tract is normally divided at the level C1-C2.
+Open cordotomy, which requires a laminectomy (removal of part of one or more vertebrae), takes place under general anaesthetic and has a longer recovery time and a higher risk of side-effects including permanent weakness.  However, it is still sometimes used where percutaneous cordotomy is unfeasible, especially in children or other patients who are unable to co-operate.  In open cordotomy, a thoracic approach is normally used so that the spinal cord tracts controlling the breathing muscles are not put at risk.
+
+Adverse effects
+Cordotomy can be highly effective in relieving pain, but there are significant side effects.  These include dysesthesia (abnormal sensation), urinary retention and (for bilateral cervical cordotomy) apnea during sleep (acquired central hypoventilation syndrome) caused by inadvertent division of the reticulospinal tracts.
+
+History
+Cordotomy was first performed in 1912 by the American neurosurgeons William Gibson Spiller (1863–1940) and Edward Martin (1859–1938).  Due to the surgical risks, it remained a rare procedure until the percutaneous technique was developed in 1965.  During the 1990s the procedure became less widely used, partly because medical pain-control options had improved, and partly due to concern about side-effects.  Nevertheless, it is still considered an effective treatment for severe pain.
+
+Alternative surgical procedures for pain
+A number of alternative surgical procedures have evolved in the 20th century. These include:
+Commissural myelotomy, for bilateral pain arising from pelvic or abdominal malignancies 
+Punctate or limited midline myelotomy for pelvic and abdominal visceral pain,
+Other options for medically intractable pain which do not involve open surgery include implantation of an intrathecal pump (a syringe driver delivering medication into the space around the spinal cord) administering local anaesthetics and/or opiates
+
+References
+
+External links
+Al-Chaer ED et al. A role for the dorsal column in nociceptive visceral input into the thalamus of primates. J Neurophysiol. 1998 Jun;79(6):3143-50
+Laboratory of Elie D. Al-Chaer for the Study of Pain
+A CBS HealthWatch: Breakthrough In Battling Back Pain, New Procedure Just 8 Minutes To Change Your Life
+
+[[Amygdalohippocampectomy]] [[Anterior temporal lobectomy]] [[Bilateral cingulotomy]] [[Brain biopsy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral shunt]] [[Cerebrum]] [[Clinical prediction rule]] [[Computed tomography of the head]] [[Corpus callosotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Hypophysectomy]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure monitoring]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[Myelography]] [[National Institutes of Health Stroke Scale]] [[Pallidotomy]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Psychosurgery]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Suboccipital puncture]]

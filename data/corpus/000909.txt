@@ -1,0 +1,32 @@
+Signoff (electronic design automation)
+In the automated design of integrated circuits, signoff (also written as sign-off) checks is the collective name given to a series of verification steps that the design must pass before it can be taped out. This implies an iterative process involving incremental fixes across the board using one or more check types, and then retesting the design. There are two types of sign-off's: front-end sign-off and back-end sign-off. After back-end sign-off, the chip goes to fabrication. After listing out all the features in the specification, the verification engineer will write coverage for those features to identify bugs, and send back the RTL design to the designer. Bugs, or defects, can include issues like missing features (comparing the layout to the specification), errors in design (typo and functional errors), etc. When the coverage reaches a maximum percentage then the verification team will sign it off. By using a methodology like UVM, OVM, or VMM, the verification team develops a reusable environment. Nowadays, UVM is more popular than others.
+
+History
+During the late 1960s engineers at semiconductor companies like Intel used rubylith for the production of semiconductor lithography photomasks. Manually drawn circuit draft schematics of the semiconductor devices made by engineers were transeferred manually onto D-sized vellum sheets by a skilled schematic designer to make a physical layout of the device on a photomask.
+The vellum would be later hand-checked and signed off by the original engineer; all edits to the schematics would also be noted, checked, and, again, signed off.
+
+Check types
+Signoff checks have become more complex as VLSI designs approach 22nm and below process nodes, because of the increased impact of previously ignored (or more crudely approximated) second-order effects. There are several categories of signoff checks.
+
+Layout Versus Schematic (LVS) – Also known as schematic verification, this is used to verify that the placement and routing of the standard cells in the design has not altered the functionality of the constructed circuit.
+Design rule checking (DRC) – Also sometimes known as geometric verification, this involves verifying if the design can be reliably manufactured given current photolithography limitations. In advanced process nodes, DFM rules are upgraded from optional (for better yield) to required.
+Formal verification – Here, the logical functionality of the post-layout netlist (including any layout-driven optimization) is verified against the pre-layout, post-synthesis netlist.
+Voltage drop analysis – Also known as IR-drop analysis, this check verifies if the power grid is strong enough to ensure that the voltage representing the binary high value never dips lower than a set margin (below which the circuit will not function correctly or reliably) due to the combined switching of millions of transistors.
+Signal integrity analysis – Here, noise due to crosstalk and other issues is analyzed, and its effect on circuit functionality is checked to ensure that capacitive glitches are not large enough to cross the threshold voltage of gates along the data path.
+Static timing analysis (STA) – Slowly being superseded by statistical static timing analysis (SSTA), STA is used to verify if all the logic data paths in the design can work at the intended clock frequency, especially under the effects of on-chip variation. STA is run as a replacement for SPICE, because SPICE simulation's runtime makes it infeasible for full-chip analysis modern designs.
+Electromigration lifetime checks – To ensure a minimum lifetime of operation at the intended clock frequency without the circuit succumbing to electromigration.
+Functional Static Sign-off checks –  which use search and analysis techniques to check for design failures under all possible test cases; functional static sign-off domains include clock domain crossing, reset domain crossing and X-propagation.
+
+Tools
+A small subset of tools are classified as "golden" or signoff-quality. Categorizing a tool as signoff-quality without vendor-bias is a matter of trial and error, since the accuracy of the tool can only be determined after the design has been fabricated. So, one of the metrics that is in use (and often touted by the tool manufacturer/vendor) is the number of successful tapeouts enabled by the tool in question. It has been argued that this metric is insufficient, ill-defined, and irrelevant for certain tools, especially tools that play only a part in the full flow.
+While vendors often embellish the ease of end-to-end (typically RTL to GDS for ASICs, and RTL to timing closure for FPGAs) execution through their respective tool suite, most semiconductor design companies use a combination of tools from various vendors (often called "best of breed" tools) in order to minimize correlation errors pre- and post-silicon. Since independent tool evaluation is expensive (single licenses for design tools from major vendors like Synopsys and Cadence may cost tens or hundreds of thousands of dollars) and a risky proposition (if the failed evaluation is done on a production design, resulting in a time to market delay), it is feasible only for the largest design companies (like Intel, IBM, Freescale, and TI). As a value add, several semiconductor foundries now provide pre-evaluated reference/recommended methodologies (sometimes referred to as "RM" flows) which includes a list of recommended tools, versions, and scripts to move data from one tool to another and automate the entire process.
+This list of vendors and tools is meant to be representative and is not exhaustive:
+
+DRC/LVS - Mentor HyperLynx DRC Free/Gold, Mentor Calibre, Magma Quartz, Synopsys Hercules, Cadence Assura
+Voltage drop analysis - Cadence Voltus, Apache Redhawk, Magma Quartz Rail
+Signal integrity analysis - Cadence CeltIC (crosstalk noise), Cadence Tempus Timing Signoff Solution, Synopsys PrimeTime SI (crosstalk delay/noise), Extreme-DA GoldTime SI (crosstalk delay/noise)
+Static timing analysis - Synopsys PrimeTime, Magma Quartz SSTA, Cadence ETS, Cadence Tempus Timing Signoff Solution, Extreme-DA GoldTime
+
+References
+
+[[Cadence Design Systems]] [[Clock domain crossing]] [[Electronic design automation]] [[Formal verification]] [[Functional verification]] [[GDSII]] [[Integrated circuit]] [[Integrated circuit layout]] [[Placement (electronic design automation)]] [[SPICE]] [[Static timing analysis]] [[Synopsys]]

@@ -1,0 +1,24 @@
+Electronic voting in Bangladesh
+Electronic voting machines (EVMs) were introduced in Bangladesh to resolve problems of using paper ballots. They were first successfully used in 2007 for the election of the working committee of Dhaka Officers' Club. Since then, EVMs have been used sparingly in various city corporation elections in the country. In 2018 they were used in six constituencies for the first time in a general election. In July 2025, usage of electronic voting was ruled out for all future polls.
+
+History
+In 2007 SM Lutfar Kabir, head of the ICT division of BUET took the charge of building EVMs and submitted the proposal to the Caretaker government. A EVM manufacturer named Pilab Bangladesh was involved in the project. They proposed to the government to use EVMs in all national elections after its successful use in the working committee of Dhaka Officers Club the same year. The project was not implemented as the work of making voter lists with pictures was not completed. Later, the commission headed by Election Commissioner ATM Shamsul Huda conducted EVMs in 14 polling stations on an experimental basis in the 2010 Chittagong City Corporation elections and it was a success. The EVMs were taken from the Bangladesh University of Engineering and Technology and Bangladesh Machine Tools Factory. Afterwards, the commission headed by Kazi Rakibuddin Ahmed tried to use the EVMs in the Rajshahi City Corporation elections. A sudden error appeared on the machine. The manufacturer could not resolve this error. As a result, about 1,200 EVMs were canceled. Later, the commission headed by KM Nurul Huda took the initiative to introduce a new voting system. The commission bought high quality EVMs from abroad and claims that these new machines are more efficient than before. As a result, the EVM system was used in two polling stations in Rangpur in December 2016 and Khulna City Corporation in May 2016. Following this success, the Bangladesh Election Commission has announced the introduction of EVMs in one-third of the seats in the Eleventh Parliamentary Elections. However, various political parties have protested against this decision. The Bangladesh Nationalist Party and other political parties have been agitating against the EVM system in Bangladesh since its inception. They think that the governing party will be able to rig the vote easily with the EVMs.
+In 2025, future usage of EVM was ruled out.
+
+150 Thousand EVM purchase project
+To reduce the use of paper ballots, the Election Commission (EC) has taken an initiative to buy 150,000 EVMs. With a budget of 4 thousand crore taka, this project will be implemented between July 2018 and June 2023. The project includes 3515.61 crore taka for EVM purchases, 5 crore taka for publicity, 6 crore taka for transport, 3.3 crore taka for motor vehicles, 50 crore taka for computer software and 75 crore taka for furniture.
+
+Use in elections
+130 EVMs were produced ahead of the Chittagong City Corporation Elections to be held on 16 June 2010. Of these, 100 machines were brought to Chittagong for voting. EVMs were installed in 79 booths in only 14 polling stations. A total of 93 EVMs were installed, one for each of the 79 booths and an additional 14 at each of the 14 centers. 25 thousand 238 voters cast their votes. This led to rapid voting and success in the results.
+Comilla City Corporation organized their first election in 2012. All the centers used EVMs.
+The first general election in which the EC used EVMs was in 2018. EVMs were installed in 6 out of 299 constituencies.
+
+EVM training
+Most Bangladeshi people live in rural areas. They are not familiar with modern voting technologies. It is a method completely unknown to educated voters too. Therefore, the Election Commission has sent experienced trainers to different parts of the country to train the voters on the rules and regulations of voting through EVMs.
+
+See also
+Electronic voting
+
+References
+
+[[Ballot]] [[Electronic voting]]

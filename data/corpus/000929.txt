@@ -1,0 +1,349 @@
+Sony Reader
+The Sony Reader (ソニー・リーダー) was a line of e-book readers manufactured by Sony. The first model was the PRS-500 released in September 2006 and was related to the earlier Sony Librie, the first commercial E Ink e-reader in 2004 using an electronic paper display developed by E Ink Corporation. The last model was the PRS-T3, after which Sony announced it would no longer release a new consumer e-reader.
+Sony sold e-books for the Reader from the Sony eBook Library in the US, UK, Japan, Germany, Austria, Canada, France, Italy, and Spain. The Reader also could display Adobe PDFs, ePub format, RSS newsfeeds, JPEGs, and Sony's proprietary BBeB ("BroadBand eBook") format. Some Readers could play MP3 and unencrypted AAC audio files. Compatibility with Adobe digital rights management (DRM) protected PDF and ePub files allowed Sony Reader owners to borrow ebooks from lending libraries in many countries. The DRM rules of the Reader allowed any purchased e-book to be read on up to six devices, at least one of which must be a personal computer running Windows or Mac OS X. Although the owner could not share purchased eBooks on others' devices and accounts, the ability to register five Readers to a single account and share books accordingly was a possible workaround.
+
+Models and availability
+Ten models were produced. The PRS-500 (PRS standing for Portable Reader System) was made available in the United States in September 2006. On 1 November 2006, Readers went on display and for sale at Borders bookstores throughout the US. Borders had an exclusive contract for the Reader until the end of 2006.  From April 2007, Sony Reader has been sold in the US by multiple merchants, including Fry's Electronics, Costco, Borders and Best Buy. The eBook Store from Sony is only available to US or Canadian residents or to customers who purchased a US-model reader with bundled eBook Store credit.
+On July 24, 2007, Sony announced that the PRS-505 Reader would be available in the UK with a launch date of September 3, 2008. Waterstone's is the official retail partner and the Reader is available at selected stores such as Argos, Sony Centres and Dixons; while a red edition is available exclusively from John Lewis.
+On October 2, 2008, the PRS-700, with touch screen and built-in lighting was announced.
+On August 5, 2009, Sony announced two new readers, the budget PRS-300 Pocket Edition and the more advanced PRS-600 Touch Edition.
+On August 25, 2009, Sony announced the Reader PRS-900 "Daily Edition."  This features a 7" diagonal screen to compete with the Amazon Kindle DX. It was also the first to feature free 3G wireless through AT&T to access the Sony eBookstore without the need of a computer, and to increase the grayscale level, from 8 to 16.
+On September 1, 2010, Sony introduced the PRS-350 Pocket Edition, PRS-650 Touch Edition, PRS-950 "Daily Edition" as replacements for the PRS-300, PRS-600 and PRS-900, with both new models featuring 16-level grey scale touch screens. The launch of the new models also represented the introduction of the Sony Reader into the Australian and New Zealand markets for the first time.
+On August 31, 2011, Sony announced a new reader replacing all of their previous models, the PRS-T1, featuring a 6" screen.
+On August 16, 2012, Sony announced the PRS-T1 successor, the PRS-T2.
+On September 4, 2013, Sony announced the PRS-T2 successor, the PRS-T3. Unlike previous Sony reader models, the T3 is not sold in the US, and Sony has abandoned the North American market due to competition from Amazon, B&N and Kobo.
+On February 6, 2014, Sony announced that it was closing its North American, Europe, and Australia Reader Stores in late March, migrating all its customers to the Kobo Reader Store.
+On August 1, 2014, Sony announced that it would not release another e-reader but would keep selling its remaining stock. In late 2014, Sony released the Sony Digital Paper DPTS1 - which only views PDFs and has a stylus for making notes - aimed at professional business users.
+
+2004 Model
+
+Sony Librie EBR-1000EP
+Launched in April 2004, it has a six-inch E Ink display and a QWERTY keyboard that was released in Japan.
+Specifications
+
+Display: 6-inch screen with a resolution of 600x800 dots at 170dpi
+10 MB, Memory Stick support
+Size  126mm x 190mm x 13mm
+Weight: 300 g
+
+2006 Model (Discontinued late 2007)
+
+PRS-500
+Launched in September 2006, it has a six-inch E Ink display from and is 13 mm thick. There is an internal memory of 64 MiB. This model was superseded by the PRS-505 in 2007.
+On November 16, 2009, Sony announced that a firmware update is available to owners of the original PRS-500.  This update "will allow your PRS-500 to support the ePub and Adobe DRM format and add the ability to re-flow PDF documents".  Owners must send the ereader in to the Sony Service Centers for the updated firmware.
+Specifications
+
+Size: 175.6 × 123.6 × 13.8 mm (6.9" × 4.9" × 0.5")
+Weight: 250 g (9 oz)
+Display:
+size: 15.5 cm (6 in) diagonal (approx 1/4 area of letter-sized page)
+resolution: 170 dpi, 4-level gray scale
+portrait: 90.6 × 122.4 mm (3.57" × 4.82"), 600 × 800 px | effective 115.4 × 88.2 mm (4.54 × 3.47 in), 754 × 584 px
+minimum font size: 6 pt legible, 7 pt recommended
+Memory: 64 MiB standard, Memory Stick (Pro Duo High Speed not supported. Normal memory sticks are only supported up to 4 GiB, despite Sony compatibility claims) or SD card expansion up to 2 GiB (some non-SDHC 4 GiB cards may work)
+Lithium-ion battery, up to 7500 "page turns" per charge
+PC interface: USB port
+
+2007 Model (Discontinued late 2009)
+
+PRS-505
+
+The PRS-505 was launched on 2 October 2007, a software and hardware updated version of the PRS-500 Reader, which it replaced. The 505 keeps the 6" E Ink display of the original Reader, but uses an improved version of E Ink Vizplex imaging film with faster refresh time, brighter white state, and 8-level grayscale.
+The PRS-505 is thinner than its predecessor (8 mm vs. 13 mm) and comes with more internal memory (256 MiB vs. 64 MiB).
+Other new product features included auto-synchronization to a folder on a host PC, support for the USB Mass Storage Device profile, and full USB charging capability (the PRS-500 could only be recharged via USB if the battery was not fully drained, and if the Sony Connect Reader software was installed on the host PC).  Also, adding books to "Collections" (a feature to organize and group book titles) is now possible on the storage card, unlike the PRS-500 model.
+Version 1.1 firmware, available as a free download since July 24, 2008 adds support for the EPUB format, Adobe Digital Editions 1.5 and Adobe DRM protected PDF files, automatic reflow of PDF files formatted for larger pages enlarges the text to improve readability, and support for high capacity SDHC memory cards.
+Specifications
+
+Size:  175 × 122 × 8 mm (6.9" × 4.8" × 0.3")
+Weight: 250 g (9 oz)
+Display:
+size: 15.5 cm (6 in) diagonal (approx 1/4 area of letter-sized page)
+resolution: 170 dpi, 8-level gray scale
+portrait: 90.6 × 122.4 mm (3.57" × 4.82"), 600 × 800 pixels | effective 88.2 × 115.4 mm (3.47 × 4.54 in), 584 × 754 pixels | for the Pictures application effective resolution is 600 × 766 pixels
+minimum font size: 6 pt legible, 7 pt recommended
+Memory: 256 MiB standard (200 MiB accessible), Sony Memory Stick Pro Duo 8 GiB, SD card up to 2 GiB (some non-SDHC 4 GiB cards may work), or up to 32 GiB with SDHC cards and version 1.1 firmware
+Lithium-ion battery, up to 6800 "page turns" per charge
+PC interface: USB port 2.0
+Available case colors:
+PRS505/LC: Dark Blue
+PRS505/SC: Silver
+PRS505SC/JP: Custom Skin (James Patterson Special Edition)
+PRS505/RC: Sangria Red (introduced in August 2008)
+
+2008 Model (Discontinued late 2009)
+
+PRS-700
+
+The PRS-700 was launched in October 2008, it has a touchscreen that can be used as a virtual keyboard. It became available in the U.S. in November 2008 at a MSRP of $399; in April 2009 it was selling for $349.99. Unlike Sony's LIBRIé, a close cousin of the Sony Reader, the PRS-500 and PRS-505 offered no way for the user to annotate a digital book since those lack a keyboard. This was addressed by the release of the PRS-700. Improvements of PRS-700 vs. the PRS-505 include the following:
+
+The 6-inch E Ink display (same resolution as before) is now a touch screen, removing the need for the 10 side buttons.
+Note taking and virtual keyboard, made possible by the touch screen.
+Page turning buttons remain but can also be accomplished by touch screen gestures.
+LED lighting for use in poor lighting conditions.
+Internal storage is doubled to 512 MB.
+PRS-700 specifications
+
+Size: Approx. 174.3 × 127.6 × 9.7 mm (67⁄9" × 51⁄9" × 0.4")
+Weight: 283.5 g (10 oz)
+Display:
+size: 15.5 cm (6 in) diagonal (approx 1/4 area of letter-sized page)
+resolution: 170 dpi, 8-level gray scale
+integrated touchscreen
+Memory: 512 MB standard (350 eBooks at 1.2 MB each average, 420 MB available), Sony Memory Stick Pro Duo 8 GB, SDHC card expansion up to 32 GB
+Lithium-ion battery, up to 7500 "page turns" per charge
+PC Interface: USB port 2.0
+Built-in LED reading light
+
+2009 Models (Discontinued late 2010)
+
+Pocket Edition PRS-300
+The PRS-300 was launched in August 2009 and it is also known as the "Pocket Edition".  The PRS-300 was announced at the same time as the touch-screen PRS-600.  It is Sony's smallest ever ereader as well as its entry-level device, priced at US$199.  It has a smaller screen than the PRS-600, no touch interface, no MP3 audio or expandable memory. It has a similar interface to the PRS-500 and PRS-505.
+Specifications
+
+Display: 5 inch.
+Resolution: 600 × 800 pixels
+Dimensions LxWxD (approx.): 61⁄4 × 41⁄4 × 13/32 inches (approx. 159×108×10 mm)
+Weight (approx.): 220 g (7.76 oz)
+Gray scale: 8-levels gray scale
+Internal Memory: 512MiB, 440MiB accessible
+Font Size: 3 adjustable font sizes
+Battery: Sealed internal, up to two weeks of reading on a single charge
+MSRP: US$150
+Available case colors:
+PRS-300BC: Navy Blue
+PRS-300RC: Rose Pink
+PRS-300SC: Silver
+PRS-300JPPI.YG: Midnight Blue (James Patterson Limited Edition, with Alex Cross embossed flip case, preloaded with the novel  Cross Country, and a limited time voucher to download Worst Case) 
+
+Touch Edition PRS-600
+
+The PRS-600 was launched in August 2009 and it is also known as the "Touch Edition". The PRS-600 was announced at the same time as the non-touch-screen PRS-300. It is Sony's middle-Range device and it priced at US$299. It is the replacement for the PRS-700 model (although it is missing the front-light feature). It is Sony's higher-scale, touch-screen edition of the ereader. It has a similar interface to the PRS-700. Unlike the PRS-700 which was only available in black, the PRS-600 is available in three colors. Note if the device is locked, using the optional 4 digit pin it will not mount via USB, the lock option needs to be disabled in order to mount the device.
+This edition has been criticized for having a very reflective screen, making it hard to read unless it is angled just right in relation to the light sources.
+This edition offers the possibility to highlight, quote or underline the text you are reading. Moreover, it comes with features such as Music player via a jack.
+Specifications
+
+Size: 175.3 × 121.9 × 10.2mm (6.9" × 4.8" × 0.4")
+Weight: 286 g (10.1 oz)
+Display: 6 inch. touch-screen
+Resolution: 600 × 800 pixels
+Document Search Capability
+Built-in Dictionary: American Oxford and English Oxford
+eBook support extension
+DRM Text : ePub (Adobe DRM protected), PDF (Adobe DRM protected), BBeB Book (PRS DRM protected)
+Unsecured Text : ePub, BBeB Book, PDF5, TXT, RTF, Microsoft Word (Conversion to the Reader requires Word installed on your PC)
+Gray scale: 8-levels gray scale
+Internal Memory: 512MB, 380MB accessible
+Expanded Memory: Support for Sony Memory Stick Pro DUO and SDHC up to @16 Gb
+Font Size: 5 adjustable font sizes
+Battery: Sealed internal, up to two weeks of reading on a single charge
+MSRP: US$170
+Available case colors:
+PRS-600BC: Black
+PRS-600SC: Silver
+PRS-600RC: Red
+
+Daily Edition PRS-900
+The PRS-900 was launched in December 2009 and it is also known as the "Daily Edition". The PRS-900 was announced at the same time as the touch-screen PRS-300. It is Sony's Top of the Range device and it priced at US$399. The device has a larger display (7"), 16-levels of grayscale, touch screen and 3G wireless access (through AT&T Mobility in a manner similar to the Kindle's whispernet) which enables computer-free access to the Sony eBookstore in the United States. Like earlier Sony Readers the display can be oriented horizontally, enabling a landscape style mode, and adds a new mode displaying two portrait-mode pages side-by-side (in a similar fashion to viewing a book).
+Specifications
+
+Size: 206.4 × 127 × 15.1 mm (8.1" × 5" × 0.6")
+Weight: 360 g (12.75 oz)
+Display: 7.1 inch touch-screen
+Resolution: 600 × 1024 pixels
+Gray scale: 16-levels gray scale
+Internal Memory: 2 GiB, 1.6 GiB accessible
+Expanded Memory: support for Sony Memory Stick Pro DUO and SDHC up to 32 GiB. According to Sony, it can take up to a 32 GiB Memory Stick.  But, according to its manual, 32 GiB memory sticks are not guaranteed to work.  Therefore, it is recommended to use 16 GiB memory sticks.
+Font Size: 6 adjustable font sizes
+Battery: user replaceable, up to two weeks of reading on a single charge
+Wireless: AT&T 3G wireless (free), access to eBook store only, no Web browser
+MSRP: US$250
+Available case colors: PRS-900: black
+
+2010 Models (Discontinued late 2011)
+
+Pocket Edition PRS-350
+
+The PRS-350 was launched in August 2010 and it is also known as the "Pocket Edition". The PRS-350 was announced at the same time as the touch-screen PRS-650. It is Sony's smallest ereader as well as its entry-level device replacing the PRS-300 and it is priced at US$179. It has a touch screen, and two GB of Memory but lacks an SD Card Slot and does not support MP3 playback.
+PRS-350 specifications
+
+Size: 145 × 104.3 × 8.5mm
+Weight: 155 g
+Display: 5 inch. E Ink Pearl, touch-screen, grey scale 16-levels
+Resolution 600 × 800 pixels
+Document Search Capability
+Built in flash memory: 2 GB
+Font Size: 6 sizes (XS - XXL)
+Supported e-book formats: EPUB, PDF, Microsoft Word, TXT, RTF, BBeB
+Hi-speed micro USB
+Color: Pink, Silver, Blue, Red, Black
+
+Touch Edition PRS-650
+
+The PRS-650 was launched in August 2010 and it is also known as the "Touch Edition". The PRS-650 was announced at the same time as the touch-screen PRS-350. It is Sony's mid-range device, priced at US$229. As the replacement for the PRS-600 model, it is Sony's higher-scale, touch-screen edition of the reader. It has a similar interface to the PRS-350.
+PRS-650 specifications
+
+Size: 168 × 118.8 × 9.6mm
+Weight: 215 g
+Display: 6 inch. E Ink Pearl, touch-screen, grey scale 16-levels
+Resolution 600 × 800 pixels
+Document Search Capability
+Built in flash memory: 2 GB
+SD card slot
+Memory Stick PRO Duo slot
+Font Size: 6 sizes (XS - XXL)
+Supported e-book formats: EPUB, PDF, Microsoft Word, TXT, RTF, BBeB
+Supported audio formats: MP3, AAC
+Available case colors:
+PRS-650BC: Black
+PRS-650SC: Silver
+PRS-650RC: Red
+
+Daily Edition PRS-950
+The PRS-950 was launched in August 2010 replacing the PRS-900 and it is also known as the "Daily Edition". It was introduced as Sony's top-of-the-line device, priced at US$299. The device has a larger display (7"), 16-levels of grayscale, touch screen Wi-Fi and 3G wireless access (through AT&T Mobility in a manner similar to the Kindle's whispernet) which enables computer-free access to the Sony eBookstore in the United States. Like earlier Sony Readers the display can be oriented horizontally, enabling a landscape style mode, and adds a new mode displaying two portrait-mode pages side-by-side (in a similar fashion to viewing a book).
+PRS-950 specifications
+
+Size: 199.9 × 128 × 9.6mm
+Weight: 272 g
+Display: 7 inch. E Ink Pearl, touch-screen, grey scale 16-levels
+Resolution 600 × 1024 pixels
+Document Search Capability
+Built in flash memory: 2 GB
+SD card slot
+Memory Stick PRO Duo slot
+Font Size: 6 sizes (XS - XXL)
+Supported e-book formats: EPUB, PDF, Microsoft Word, TXT, RTF, BBeB
+Supported audio formats: MP3, AAC
+Color: Silver only
+Wireless: 3G, Wi-Fi, Web Browser
+
+2011 Model (Discontinued late 2012)
+
+Reader Wi-Fi PRS-T1
+
+The PRS-T1 is a 6", Wi-Fi only model. Its touchscreen supports zoom in and out, look up in dictionary and adding notes. Up to 16 different languages are supported.
+PRS-T1 specifications
+
+Size: 173 x 110 x 8.9 mm
+Weight: 168 g
+Display:
+size: 15.5 cm (6 in) diagonal (approx 1⁄4 area of letter-sized page)
+resolution: 16-level gray scale E Ink Pearl display
+portrait: 90.6 x 122.4 mm (3.57" x 4.82"), 600 x 800 pixels | effective 88.2 x 115.4 mm (3.47" x 4.54"), 584 x 754 pixels
+minimum font size: 6 pt legible, 7 pt recommended
+Memory: 2 GB of internal storage (1.4 GB available to use) plus microSD expansion of up to 32 GB.
+Lithium-ion battery, up to one month per charge.
+PC interface: USB port
+Supported e-book formats: EPUB, PDF, TXT.
+Supported audio formats: MP3, AAC.
+Wireless: Wi-Fi, simple web browser.
+Colors: Black, Red and White.
+
+2012 Model (Discontinued late 2013)
+
+Reader Wi-Fi PRS-T2
+
+The PRS-T2 is a 6" Wi-Fi only model. Its touchscreen supports zoom in and out, dictionary and adding notes, including export to Evernote. The device has two English languages and four translation dictionaries built-in.
+PRS-T2 specifications.
+
+Size: 173 × 110 × 9.1 mm
+Weight: 164 g
+Display:
+size: 15.2 cm (6 in) diagonal (approx 1/4 area of letter-sized page)
+resolution: 16-level gray scale E Ink Pearl display
+portrait: 90.6 × 122.4 mm (3.57" × 4.82"), 600 × 800 pixels | effective 115.4 × 88.2 mm (4.54 × 3.47 in), 754 × 584 pixels
+minimum font size: 6 pt legible, 7 pt recommended
+Memory: 2 GB of internal storage (1.3 GB available to use) plus microSD expansion of up to 32 GB
+Battery Life: Up to 2 months with Wi-Fi off
+Lithium-ion battery: up to two months battery life, with wireless off (on reading 1/2h per day).
+Connectivity: Micro-USB
+PC interface: USB port
+Supported e-book formats: EPUB, PDF, TXT, BBeB*, Rtf*, Doc* (*After conversion with Sony software)
+Supported picture formats: JPG, GIF, PNG, BMP.
+Wireless: Wi-Fi, simple web browser.
+Colors: Black (Matte), Red (Glossy) and White (Glossy).
+
+2013 Model (Discontinued in August 2014)
+
+Reader Wi-Fi PRS-T3S
+The PRS-T3S is the latest 6", Wi-Fi only model.
+Announced in October 2013 in Japan, it is a PRS-T3 without a cover that costs $99 and was sold in Japan, the UK, Canada and Germany.
+
+Reader Wi-Fi PRS-T3
+
+The PRS-T3 is a 6", Wi-Fi only model with a snap cover.
+Specifications
+
+Size: 160 × 109 × 11.3 mm
+Weight: 200 grams including snap cover
+Display:
+size: 15.2 cm (6 in) diagonal (approx 1⁄4 area of letter-sized page).
+resolution: 16-level gray scale
+6" Pearl HD E Ink screen 1024 x 758 pixel resolution
+Memory: 2 GiB of internal storage (1.3 GiB available to use) plus microSD expansion of up to 32 GB
+Battery Life: 6–8 weeks, assuming 30 minutes reading per day
+Connectivity: Micro-USB
+PC interface: USB port
+Supported e-book formats: EPUB, PDF, FB2, TXT
+Supported picture formats: BMP, GIF, JPEG, PNG
+Wireless: Wi-Fi 802.11 b/g/n, simple Web browser
+Colors: Black (Matte), Red (Glossy) and White (Glossy)
+
+Formats supported
+DRM-free Text: BBeB Book (LRF), TXT, RTF, EPUB (PRS-T1: EPUB, PDF, TXT only). Typefaces in PDF files formatted for 216 × 280 mm (8.5 × 11 inch) pages may be too small to read comfortably.  Such files can be reformatted for the Reader screen size with Adobe Acrobat Professional, but not by Adobe Reader software.  The Reader does support Microsoft Word DOC format. The 'CONNECT Reader' application uses Word to convert the .DOC files to RTF before sending them to the Reader.
+DRM-protected Text: BBeB Book (LRX); ePub.
+Audio: MP3 and DRM-free AAC (except on the PRS-T2, PRS-300 & PRS-350)
+Image: JPEG, GIF, PNG, and BMP (Loading an animated GIF will freeze the Reader)
+RSS: Limited to 20 featured blogs such as Engadget and Wired, no ability to add others and no auto-update (as of 2006-12-01)
+The Reader supported TXT and RTF documents with Latin character set only. Other character sets (such as Cyrillic, for example) are not displayed correctly, but Cyrillic patches are available for Russian (and Bulgarian) users. Sony Customer Support have confirmed that units sold in the US only work with Latin characters (as of 2007-03-02).
+On August 13, 2009, Sony announced that by the end of 2009, it would only sell EPUB books from the Sony Reader Store, and would have dropped its proprietary DRM entirely in favor of Adobe's CS4 server side copy protection.
+
+Official software
+
+MS Windows
+Sony Reader came bundled with Sony's proprietary software called Sony Reader Library (or formerly eBook Library and Sony Connect). It requires MS Windows XP or higher (MS Windows Vista or 7), an 800 MHz processor, 128 MB of RAM, and 20 MB of hard disk space. This software does not work on the 64-bit versions of MS Windows XP. 64-bit MS Windows Vista and 7 is supported since Sony eBook Library version 2.5 for all but the 500 models.
+In February 2014 Sony Reader announced that they were transferring content to the Kobo Store. In March 2014 the Sony Reader store was closed and account holders received an email with a link that enabled them to transfer their library to Kobo. Most titles transferred; however, some were not able to be transferred even though the titles were sold on Kobo; the transfer period ended in May.
+
+Apple Mac OS X
+Sony released an official Apple Mac OS X client for the Reader with the release of the PRS-300 and PRS-600. It is reported to work with the PRS-505, PRS-700, Reader Pocket Edition and Reader Touch Edition. The software now works under 10.7 Lion.
+
+Linux and other OS
+Sony eBook Library was not officially supported on Linux-based systems or other operating systems, although when the device is connected it grants access to its internal flash memory and any memory card slots as though they were USB Mass Storage devices (on all models except PRS-500s that have not received the free EPUB upgrade from Sony), allowing the user to transfer files directly. See the Third party tools section below for a third-party software utility that provides comprehensive support for MS Windows, Apple Mac OS X, and Linux. Note if the device is locked, using the optional 4 digit pin it will not mount via USB, the lock option needs to be disabled in order to mount the device.
+
+Third party tools
+Several third-party tools exist for the Sony Reader. For example, the PRS Browser for Apple Mac OS X from Docudesk allows Apple Macintosh users to manage content on the Sony Reader. Users can also use the free software library and utility called Calibre to communicate with the Reader and manage their digital library. Calibre can convert many ebook formats as well as collate multiple HTML pages into a single ebook file with an automatically generated table of contents. Calibre can also manage RSS subscriptions, including scheduled pushes of newsfeeds to the reader. It has both a command line and graphical interface, and is available for MS Windows, Apple Mac OS X and Linux.  Calibre notably does not offer MS Windows 64-bit support for the PRS-500 model either.
+Specialized on notes, annotations, bookmarks and other input by the user, noteworks allows for listing, exporting and other handling of this data, extracted from the device.
+In addition, Adobe Digital Editions can deliver DRM-locked PDF and ePub documents to the PRS-350, PRS-505 and PRS-700. The software is officially available for Windows and Mac OS. It can be run on Linux using Wine.  After activating the reader on an officially supported platform, DRM-locked media can be downloaded and transferred to the reader on Linux as well.
+
+Alternative firmware
+
+PRS+
+PRS+ project seamlessly integrates into Sony UI and adds support for folder browsing, dictionary, key binding, book history, custom epub styles, games (Sudoku, Chess, Mahjong, etc.), localization (Catalan, German, Czech, English, French, Georgian, Russian, Spanish, and Simplified Chinese) and has built in FB2 to EPUB converter.
+
+Ebook applications
+Runs as an independent application. Adds support for FB2 / CBR / CBZ formats, drops support for LRF. Currently in beta state.
+
+Internal OS
+
+The PRS-T1, PRS-T2 and PRS-T3 run a heavily modified version of the Android operating system, which Sony mentions in the Legal Notices installed on the device. Its predecessors run the MontaVista Linux Professional Edition operating system with Kinoma FSK, a JavaScript virtual machine, optimized for devices with limited resources.
+
+Sales
+In December 2008, Sony disclosed that it had sold 300,000 units of its Reader Digital Book globally since the device launched in October 2006. According to an IDC study from March 2011, sales for all e-book readers worldwide grew to 12.8 million in 2010; 800,000 of those were Sony Readers.
+
+See also
+Comparison of e-book readers
+Amazon Kindle
+Barnes & Noble Nook
+Calibre – an open source third party software to manage digital library with support of conversion between common e-book formats. Created originally for Sony e-readers, it supports over 30 different brands and types of readers.
+Kobo eReader
+OverDrive, Inc. – ebook borrowing services for public libraries
+Tablet computer
+
+References
+
+External links
+
+"Reader", Learning center (product page), Sony, archived from the original on 2006-10-07.
+SONY Digital Reader
+"Web Reader", Products (web app), NZ: Web gear, archived from the original on 2013-02-08.
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[HTML]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]]

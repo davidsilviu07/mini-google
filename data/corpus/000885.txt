@@ -1,0 +1,95 @@
+STL (file format)
+STL is a file format native to the stereolithography CAD software created by 3D Systems. Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography, although it is also referred to as standard triangle language or standard tessellation language.
+An STL file describes a raw, unstructured triangulated surface by the unit normal and vertices (ordered by the right-hand rule) of the triangles using a three-dimensional Cartesian coordinate system. In the original specification, all STL coordinates were required to be positive numbers, but this restriction is no longer enforced and negative coordinates are commonly encountered in STL files today. STL files contain no scale information, and the units are arbitrary. STL files describe only the surface geometry of a three-dimensional object without any representation of color, texture or other common CAD model attributes. The STL format specifies both ASCII and binary representations. Binary files are more common, since they are more compact.
+STL is widely used for rapid prototyping, 3D printing and computer-aided manufacturing, and supported by many other software packages.
+
+History
+STL was developed by the Albert Consulting Group for the first commercial 3D printers of 3D Systems in 1987. Since its initial release, the format remained relatively unchanged for 22 years.
+In 2009, an update to the format dubbed STL 2.0 was proposed, which evolved into the additive manufacturing file format.
+
+Format
+
+ASCII
+An ASCII STL file begins with the line:
+
+solid name
+
+where name is an optional string (though if name is omitted there must still be a space after solid, for compatibility with some software). The remainder of the line is ignored and is sometimes used to store metadata (e.g., filename, author, modification date, etc). The file continues with any number of triangles, each represented as follows:
+
+facet normal ni nj nk
+    outer loop
+        vertex v1x v1y v1z
+        vertex v2x v2y v2z
+        vertex v3x v3y v3z
+    endloop
+endfacet
+
+where each n or v is a floating-point number in sign-mantissa-e-sign-exponent format, e.g., 2.648000e-002. The file concludes with:
+
+endsolid name
+
+The structure of the format suggests that other possibilities exist (e.g., facets with more than one loop, or loops with more than three vertices), although the file format description refers only to triangle tessellations.
+Whitespace (spaces, tabs, newlines) may be used anywhere in the file except within numbers or words. The spaces between facet and normal and between outer and loop are required.
+
+Binary
+Because ASCII STL files can be large, a binary version of STL exists. A binary STL file has an 80-character header that is generally ignored, but should never begin with the ASCII representation of the string solid, as that may lead some software to confuse it with an ASCII STL file. Following the header is a 4-byte little-endian unsigned integer indicating the number of triangular facets in the file. Following that is data describing each triangle in turn. The file simply ends after the last triangle.
+Each triangle is described by 12 32-bit floating-point numbers: 3 for the normal and then 3 for the X/Y/Z coordinate of each vertex – just as with the ASCII version of STL. After these follows a 2-byte ("short") unsigned integer that is the "attribute byte count" – in the standard format, this should be zero because most software does not understand anything else.
+Floating-point numbers are represented as IEEE floating-point numbers and are assumed to be little-endian, although this is not stated in documentation.
+
+UINT8[80]    – Header                 - 80 bytes
+UINT32       – Number of triangles    - 04 bytes
+foreach triangle                      - 50 bytes
+    REAL32[3] – Normal vector         - 12 bytes
+    REAL32[3] – Vertex 1              - 12 bytes
+    REAL32[3] – Vertex 2              - 12 bytes
+    REAL32[3] – Vertex 3              - 12 bytes
+    UINT16    – Attribute byte count  - 02 bytes
+end
+
+There are at least two non-standard variations on the binary STL format for adding color information:
+
+The VisCAM and SolidView software packages use the two "attribute byte count" bytes at the end of every triangle to store a 15-bit RGB color:
+bits 0–4 are the intensity level for blue (0–31),
+bits 5–9 are the intensity level for green (0–31),
+bits 10–14 are the intensity level for red (0–31),
+bit 15 is 1 if the color is valid, or 0 if the color is not valid (as with normal STL files).
+The Materialise Magics software uses the 80-byte header at the top of the file to represent the overall color of the entire part. If color is used, then somewhere in the header should be the ASCII string COLOR= followed by four bytes representing red, green, blue and alpha channel (transparency) in the range 0–255. This is the color of the entire object, unless overridden at each facet. Magics also recognizes a material description; a more detailed surface characteristic. Just after COLOR=RGBA specification should be another ASCII string ,MATERIAL= followed by three colors (3×4 bytes): first is a color of diffuse reflection, second is a color of specular highlight, and third is an ambient light. Material settings are preferred over color. The per-facet color is represented in the two "attribute byte count" bytes as follows:
+bits 0–4 are the intensity level for red (0–31),
+bits 5–9 are the intensity level for green (0–31),
+bits 10–14 are the intensity level for blue (0–31),
+bit 15 is 0 if this facet has its own unique color, or 1 if the per-object color is to be used.
+The red/green/blue ordering within those two bytes is reversed in these two approaches – so while these formats could easily have been compatible, the reversal of the order of the colors means that they are not – and worse still, a generic STL file reader cannot automatically distinguish between them. There is also no way to have facets be selectively transparent because there is no per-facet alpha value – although in the context of current rapid prototyping machinery, this is not important.
+
+Facet normal
+In both ASCII and binary versions of STL, the facet normal should be a unit vector pointing outward from the solid object. In most software this may be set to (0,0,0), and the software automatically calculates a normal based on the order of the triangle vertices using the "right-hand rule", i.e. the vertices are listed in counter-clock-wise order from outside. Some STL loaders (e.g. the STL plugin for Art of Illusion) check that the normal in the file agrees with the normal they calculate using the right-hand rule and warn the user when it does not. Other software may ignore the facet normal entirely and use only the right-hand rule. Although it is rare to specify a normal that cannot be calculated using the right-hand rule, in order to be entirely portable, a file should both provide the facet normal and order the vertices appropriately. A notable exception is SolidWorks, which uses the normal for shading effects.
+
+Characteristics
+It is not possible to use triangles to perfectly represent curved surfaces. To compensate, users often save enormous STL files to reduce the inaccuracy. However, native formats associated with many 3D design applications use mathematical surfaces to preserve detail losslessly in small files. For example, Rhino 3D and Blender implement NURBS to create true curved surfaces and store them in their respective native file formats, but must generate a triangle mesh when exporting a model to the STL format.
+
+3D printing
+
+3D printers build objects by solidifying (SLA, SLS, SHS, DMLS, EBM, DLP) or printing (3DP, MJM, FDM, FFF, PJP, MJS) one layer at a time. This requires a series of closed 2D contours (horizontal layers) that are filled in with solidified material as the layers are fused together. A natural file format for such a machine would be a series of closed polygons (layers or slices) corresponding to different Z-values. However, since it is possible to vary the layer thicknesses for a faster though less precise build, it was easier to define the model to be built as a closed polyhedron that can be sliced at the necessary horizontal levels. An incorrect facet normal can affect the way a file is sliced and filled. A slice at a different Z-value can be chosen to miss a bad facet or the file must be returned to CAD program to make corrections and then regenerate the STL file.
+To properly form a 3D volume, the surface represented by any STL files must be closed (no holes or reversed vector normal) and connected, where every edge is shared by exactly two faces, and not self-intersecting. Since the STL syntax does not enforce this property, it can be ignored for applications where the void does not matter. The missing surface matters insofar as the software that slices the triangles requires it to ensure that the resulting 2D polygons are closed. Sometimes such software can be written to clean up small discrepancies by moving vertices that are close together so that they coincide. The results are not predictable, and may require repair using another program. Vector 3D printers require a clean STL file and printing a bad data file either fails to fill or may stop printing.
+
+Other fields
+
+STL is simple and easy to output. Consequently, many computer-aided design systems can output the STL file format. Although the output is simple to produce, mesh connectivity information is discarded because the identity of shared vertices is lost.
+Many computer-aided manufacturing systems require triangulated models. STL format is not the most memory- and computationally efficient method for transferring this data, but STL is often used to import the triangulated geometry into the CAM system. The format is commonly available, so the CAM system can use it. In order to use the data, the CAM system may have to reconstruct the connectivity. As STL files do not save the physical dimension of a unit, a CAM system asks for it. Typical units are mm and inch.
+STL can also be used for interchanging data between CAD/CAM systems and computational environments such as Mathematica.
+
+See also
+3D Manufacturing Format – Open-source file format standard
+Additive Manufacturing File Format – Standard for describing objects for additive manufacturingPages displaying short descriptions of redirect targets
+FDM printing file formats – Data protocol used in 3D printing
+PLY (file format) – File format designed to store three-dimensional data from 3D scanners
+Voxel – Element representing a value on a grid in three dimensional space
+Wavefront .obj file – Geometry definition file format
+X3D – XML-based file format for 3D computer graphics
+
+References
+
+External links
+The STL Format
+ASCII stereolithography files
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

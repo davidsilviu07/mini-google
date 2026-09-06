@@ -1,0 +1,64 @@
+Rhinoceros 3D
+Rhinoceros (typically abbreviated Rhino or Rhino3D) is a commercial 3D computer graphics and computer-aided design (CAD) application software that was developed by TLM, Inc, dba Robert McNeel & Associates, an American, privately held, and employee-owned company that was founded in 1978. Rhinoceros geometry is based on the non-uniform rational B-spline (NURBS) mathematical model, which focuses on producing mathematically precise representation of curves and freeform surfaces in computer graphics (in contrast to a polygon mesh mathematical model).
+Rhinoceros is used for computer-aided design (CAD), computer-aided manufacturing (CAM), rapid prototyping, 3D printing and reverse engineering in industries including architecture, industrial design (e.g., automotive design, watercraft design), product design (e.g., jewelry design) as well as for multimedia and graphic design.
+Rhinoceros is developed for Microsoft Windows and macOS. A visual scripting language add-on for Rhino, Grasshopper, is developed by Robert McNeel & Associates.
+
+Overview
+
+Characteristics
+Rhinoceros is primarily a freeform surface modeler that uses the NURBS mathematical model. Rhinoceros's application architecture and open SDK make it modular and enable a user to customize the interface and create custom commands and menus.
+Since version 7, Rhinoceros has improved real-time rendering abilities for improved lighting and shading.
+
+File formats
+
+The Rhinoceros file format (.3DM) is useful for the exchange of NURBS geometry. The Rhino developers started the openNURBS Initiative to provide computer graphics software developers the tools to accurately transfer 3-D geometry between applications. An open-source toolkit, openNURBS includes the 3DM file format specification, documentation, C++ source code libraries and .NET 2.0 assemblies to read and write the file format on supported platforms – Windows, Windows x64, Mac, and Linux.
+
+Compatibility
+Rhinoceros offers compatibility with other software as it supports over 30 CAD file formats for importing and exporting.
+The following CAD or image files are natively supported (without the use of external plug-ins): 
+
+The following CAD file formats are supported with use of external plug-ins: 
+
+When opening CAD file formats not in its native .3dm file format, Rhinoceros will convert the geometry into its native format; when importing a CAD file, the geometry is added to the current file.
+When Autodesk AutoCAD's file format changes (see DWG file format for more information), the Open Design Alliance reverse engineers the file format to allow these files to be loaded by other vendors' software. Rhinoceros's import and export modules are actually plug-ins, so they can be easily updated via a service release. Rhinoceros service releases (SR) are frequent and freely downloadable. Rhinoceros 5 SR10 can import and export DWG/DXF file formats up to version 2014.
+
+Scripting and programming
+Rhinoceros supports two scripting languages, Rhinoscript (based on VBScript) and Python (v5.0+ and Mac). It also has an SDK and a complete plug-in system.
+
+Plugins
+Food4Rhino is the main hosting platform for plugins and add-ons for Rhinoceros 3D.
+
+Orca3D
+Orca3D is a plug-in for Rhinoceros 3D used in naval architecture. It adds tools for hull, deck, and superstructure modeling. It tests and tracks hydrostatics, stability analysis, computational fluid dynamics, weight and center of gravity. Orca3D is commonly used for designing yachts 
+and commercial vessels and integrates directly with Rhino's modeling environment.
+
+Grasshopper 3D
+Grasshopper 3D is a node-based procedural modeling plugin that runs within Rhinoceros 3D, allowing users to create parametric models.
+
+VisualARQ
+VisualARQ is a Building Information Modeling (BIM) plugin that adds parametric architectural objects, dynamic documentation tools, Grasshopper 3D integration, and IFC import/export for enhanced interoperability with other BIM platforms.
+
+Jewelry plugins
+Matrixgold, Panther 3D, Crayoo are plugins to help in jewellery design for Rhinoceros 3D.
+
+Rendering
+
+Rhino Render is a built in rendering engine that does real-time rendering in Rhinoceros 3D.
+
+Third-party rendering plugins
+
+Linux Compatibility
+There has been an ongoing urge for a Linux version of Rhino . With update 11.14 to Wine (software), a straightforward installation and usage on Linux systems has been made possible.
+
+See also
+Comparison of computer-aided design software
+Computer-aided industrial design
+List of BIM software
+List of 3D modeling software
+
+References
+
+External links
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computer graphics]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

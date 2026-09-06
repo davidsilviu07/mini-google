@@ -1,0 +1,31 @@
+Braille e-book
+A braille e-book is a refreshable braille display. Initial designs use electroactive polymers or heated wax rather than mechanical pins to raise braille dots on a display. Though not inherently expensive, due to the small scale of production they have not been shown to be economical.
+
+Production
+
+Some e-books are produced simultaneously with the production of a printed format, as described in electronic publishing.
+Braille books were initially written in paper, with Perkins Brailler typewriter, a machine invented in 1951, and improved in 2008, another way of produce braille books was with braille printers or embossers. In 2011 David S. Morgan produced the first SMART Brailler machine, with added text to speech function and allowed digital capture of data entered.
+In 1960, Robert Mann, a teacher at MIT, wrote DOTSYS, a software that allowed automatic braille translation, and another group created an embossing device called "M.I.T. Braillemboss.". The Mitre Corporation team of Robert Gildea, Jonathan Millen, Reid Gerhart and Joseph Sullivan (now president of Duxbury Systems) developed DOTSYS III, the first braille translator written in a portable programming language. DOTSYS III was developed for the Atlanta Public Schools as a public domain program. Braille translators allowed the automatic creation of braille text or books from a script into Braille scripture without the need of typing braille books in braille typewriters, but still needed embossers to produce books, this last step is not necessary when the e-book is read in a braille e-book.
+
+Commercial development
+
+The development of braille e-books and tablets has progressed through multiple prototypes and commercial products since the late 2000s. These devices use refreshable tactile displays to render graphics, maps, and multi-line text for blind and visually impaired users.  Refreshable braille displays have so far relied on the following underlying display technologies: piezoelectric, electromagnetic, electroactive polymer (EAP), pneumatic, shape memory alloy (SMA), and microfluidic technologies.
+A Korean concept design published in 2009 by Yanko Design attracted attention.  A British prototype design called "Anagraphs" was created in 2013, but funding from the European Union ran out before it could be brought to production.
+A braille ebook/tablet was slated to be released for purchase in the 4th quarter of 2016 by the Austrian company Blitab. It was expected to be priced under US$3000.  As of February 2019 the company was inviting people to sign up as a "tester", with the explanation, "Become one of the first to touch and feel the future of large scale tactile Braille displays."
+In 2018, the German company Metec introduced the Braille E-Book, which, unlike its predecessors, has a field size of 120 x 97 mm, which can accommodate eight lines of 16 characters each. This device allows blind users to study graphs and geographical maps in a tactile way. The cost of the device is €13,800 (in 2019). Since that time it has a couple of improvements including the display size, now it reaches 260 x 150 mm.
+In 2019, Orbit Research together with American Printing House for the Blind released the braille e-book Graphiti, which allows blind people to explore graphical information. 2,400 points that rise to different heights are capable of transmitting topographic maps and other graphic elements such as shadows and color. The device also includes an eight-key braille keyboard for text entry. The cost of the device is $24,666 (in 2021).
+In 2020, engineering startup 4Blind, Inc. from Boston created the tactile e-book called Braille Pad. This is an 8-inch tablet (contains 3249 tactile pixels) with a built-in camera, which gives access to any graphic images (maps, graphs, etc.), and also allows the user to take photos with instant tactile transmission. It is priced at $4,400.
+
+See also
+Book – Medium consisting of pages of text or images
+Braille translator – Software program used to translate text into braille script
+E-book – Book published in digital formPages displaying short descriptions of redirect targets
+Perkins Brailler – Braille embossing typewriter
+
+References
+
+External links
+View on Disability: How to make a cheap Braille e-reader
+Wax-based Braille display makes e-reading available to blind, 22 April 2014
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Assistive technology]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

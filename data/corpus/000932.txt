@@ -1,0 +1,22 @@
+Spectral band
+Spectral bands are regions of a given spectrum, having a specific range of wavelengths or frequencies. Most often, it refers to electromagnetic bands, regions of the electromagnetic spectrum. 
+More generally, spectral bands may also be defined in the spectra of other types of signals, e.g., noise spectrum.
+A frequency band is an interval in the frequency domain, limited by a lower frequency and an upper frequency. For example, it may refer to a radio band, such as wireless communication standards set by the International Telecommunication Union.
+
+In physics
+In physics, spectral bands refer to the electromagnetic emission of polyatomic systems, including condensed materials, large molecules, etc. Each spectral line corresponds to the difference in two energy levels of an atom. In molecules, these levels can split. When the number of atoms is large, one gets a continuum of energy levels, the so-called spectral bands. They are often labeled in the same way as the monatomic lines.
+The bands may overlap. In general, the energy spectrum can be given by a density function, describing the number of energy levels of the quantum system for a given interval. Spectral bands have constant density, and when the bands overlap, the corresponding densities are added.
+Band spectra is the name given to a group of lines that are closely spaced and arranged in a regular sequence that appears to be a band. It is a colored band, separated by dark spaces on the two sides and arranged in a regular sequence. In one band, there are various sharp and wider color lines, that are closer on one side and wider on other. The intensity in each band falls off from definite limits and indistinct on the other side. In complete band spectra, there is a number lines in a band.
+This spectra is produced when the emitting substance is in the molecular state. Therefore, they are also called molecular spectra. It is emitted by a molecule in vacuum tube, C-arc core with metallic salt. The band spectrum is the combination of many different spectral lines, resulting from molecular vibrational, rotational, and electronic transition.
+Spectroscopy studies spectral bands for astronomy and other purposes.
+
+Other applications
+Many systems are characterized by the spectral band to which they respond. For example:
+
+Musical instruments produce different ranges of notes within the hearing range.
+The electromagnetic spectrum can be divided into many different ranges such as visible light, infrared or ultraviolet radiation, radio waves, X-rays and so on, and each of these ranges can in turn be divided into smaller ranges.
+A radio communications signal must occupy a range of frequencies carrying most of its energy, called its bandwidth. A frequency band may represent one communication channel or be subdivided into many. Allocation of radio frequency ranges to different uses is a major function of radio spectrum allocation.
+
+See also
+
+References

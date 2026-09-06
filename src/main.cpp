@@ -1,5 +1,6 @@
 #include <algorithm>
 #include <chrono>
+#include <cstdlib>
 #include <filesystem>
 #include <fstream>
 #include <iostream>
@@ -9,10 +10,12 @@
 #include <vector>
 
 #include "bm25.h"
+#include "fusion.h"
 #include "index_store.h"
 #include "inverted_index.h"
 #include "link_graph.h"
 #include "pagerank.h"
+#include "vector_search.h"
 
 namespace fs = std::filesystem;
 using Clock = std::chrono::steady_clock;
@@ -107,6 +110,8 @@ static void usage() {
     std::cout << "Utilizare:\n"
               << "  search build <corpus_dir> <snapshot>  construieste si salveaza\n"
               << "  search load  <snapshot>               incarca de pe disc\n"
+              << "  search hybrid <snapshot> <doc_emb> <query_file>  cautare hibrida\n"
+              << "  search retrieve <snapshot> <k> <query>  top-k ca doc_id<TAB>titlu\n"
               << "  search <corpus_dir>                   construieste in memorie\n";
 }
 
@@ -147,6 +152,72 @@ int main(int argc, char** argv) {
         std::cout << "Incarcat de pe disc: " << index.num_docs()
                   << " documente in " << seconds_since(t0) << "s\n";
         demo_queries(index, pagerank);
+        return 0;
+    }
+
+    if (mode == "hybrid") {
+        if (argc < 5) { usage(); return 1; }
+        std::string snapshot = argv[2], doc_emb = argv[3], query_file = argv[4];
+
+        InvertedIndex index;
+        std::vector<double> pagerank;
+        if (!load_snapshot(snapshot, index, pagerank)) {
+            std::cerr << "Eroare la incarcarea snapshot-ului.\n";
+            return 1;
+        }
+        EmbeddingStore store;
+        if (!load_doc_embeddings(doc_emb, store)) {
+            std::cerr << "Eroare la incarcarea embeddings-urilor.\n";
+            return 1;
+        }
+        std::vector<float> qvec;
+        std::string qtext;
+        if (!load_query_embedding(query_file, qvec, qtext)) {
+            std::cerr << "Eroare la incarcarea query-ului.\n";
+            return 1;
+        }
+
+        // Semnalul lexical (BM25) si cel semantic (cosine), fiecare ca lista
+        // ordonata de doc_id-uri.
+        BM25Ranker ranker(index);
+        std::vector<int> lexical, semantic;
+        for (const auto& [id, s] : ranker.search(qtext, index.num_docs()))
+            lexical.push_back(id);
+        for (const auto& [id, s] : vector_search(store, qvec, store.count()))
+            semantic.push_back(id);
+
+        auto fused = reciprocal_rank_fusion({lexical, semantic}, 5);
+
+        std::cout << "Hybrid search pentru: \"" << qtext << "\"\n";
+        int rank = 1;
+        for (const auto& [id, score] : fused) {
+            std::cout << "  " << rank++ << ". [" << score << "]  "
+                      << index.doc(id).title << "\n";
+        }
+        return 0;
+    }
+
+    if (mode == "retrieve") {
+        // Mod masina-lizibil pentru RAG: scrie top-k ca doc_id<TAB>titlu,
+        // cate unul pe linie, fara alt text.
+        if (argc < 5) { usage(); return 1; }
+        std::string snapshot = argv[2];
+        int k = std::atoi(argv[3]);
+        std::string query;
+        for (int i = 4; i < argc; ++i) {
+            if (i > 4) query += " ";
+            query += argv[i];
+        }
+        InvertedIndex index;
+        std::vector<double> pagerank;
+        if (!load_snapshot(snapshot, index, pagerank)) {
+            std::cerr << "Eroare la incarcarea snapshot-ului.\n";
+            return 1;
+        }
+        BM25Ranker ranker(index);
+        for (const auto& [id, score] : ranker.search(query, k)) {
+            std::cout << id << "\t" << index.doc(id).title << "\n";
+        }
         return 0;
     }
 

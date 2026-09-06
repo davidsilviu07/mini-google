@@ -30,13 +30,18 @@ import requests
 
 API = "https://en.wikipedia.org/w/api.php"
 HEADERS = {
-    # Wikipedia asks every client to identify itself. Put a real contact here.
-    "User-Agent": "mini-google-crawler/0.1 (educational IR project)"
+   
+    "User-Agent": "mini-google-crawler/0.1 (https://github.com/davidsilviu07; davidsilviu900@example.com)"
 }
 
 
-def fetch_page(session, title):
-    """Fetch one article's plain text and its namespace-0 (article) links."""
+def fetch_page(session, title, max_retries=5):
+    """Fetch one article's plain text and its namespace-0 (article) links.
+
+    Retries on HTTP 429 (Too Many Requests) with exponential backoff, honoring
+    the server's Retry-After header when present. This is what keeps a large
+    crawl from getting stuck once the API starts rate limiting us.
+    """
     params = {
         "action": "query",
         "format": "json",
@@ -48,9 +53,27 @@ def fetch_page(session, title):
         "redirects": 1,            # follow redirects to the canonical title
         "titles": title,
     }
-    r = session.get(API, params=params, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    pages = r.json().get("query", {}).get("pages", {})
+
+    backoff = 1.0
+    for attempt in range(max_retries):
+        r = session.get(API, params=params, headers=HEADERS, timeout=30)
+
+        if r.status_code == 429:
+            # Server is telling us to slow down. Wait, then retry the SAME page.
+            retry_after = r.headers.get("Retry-After")
+            wait = float(retry_after) if retry_after else backoff
+            print(f"  429 rate limited on '{title}', astept {wait:.0f}s "
+                  f"(incercarea {attempt + 1}/{max_retries})", file=sys.stderr)
+            time.sleep(wait)
+            backoff *= 2               # exponential backoff: 1, 2, 4, 8...
+            continue
+
+        r.raise_for_status()
+        pages = r.json().get("query", {}).get("pages", {})
+        break
+    else:
+        # Am epuizat incercarile fara succes.
+        raise RuntimeError(f"still rate limited after {max_retries} retries")
     for page in pages.values():
         if "missing" in page:      # article does not exist
             return None
@@ -130,7 +153,7 @@ def main():
                     help="comma-separated seed article titles")
     ap.add_argument("--out", type=str, default="data/corpus",
                     help="output directory (default data/corpus)")
-    ap.add_argument("--delay", type=float, default=0.2,
+    ap.add_argument("--delay", type=float, default=0.5,
                     help="seconds to wait between requests (default 0.2)")
     args = ap.parse_args()
 

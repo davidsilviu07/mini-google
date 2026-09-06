@@ -1,0 +1,56 @@
+Creo Parametric
+Creo Parametric, formerly known, together with Creo Elements/Pro, as Pro/Engineer (commonly referred to as Pro E) and Wildfire, is a solid modeling or computer-aided design (CAD), computer-aided manufacturing (CAM), computer-aided engineering (CAE), and associative 3D modeling application, that runs on Microsoft Windows.
+Creo Parametric should not be confused with Creo Elements/Direct Modeling, formerly CoCreate ME10 (2D) and or ME30 (3D) CAD Products. The ex-CoCreate CAD Products are now owned by PTC and renamed Creo Elements/Direct Drafting and Creo Elements/Direct Modeling.
+Creo Parametric is an application of a suite of 10 that provide collaborative solid modeling, assembly modelling, 2D orthographic views, finite element analysis, parametric modelling, sub-divisional and non-uniform rational B-spline (NURBS) surface modeling, technical drawing (drafting), and numerical control (NC) and tooling functionality for mechanical designers.
+Creo Parametric competes directly with CATIA, SolidWorks, NX/Solid Edge, Inventor/Fusion, IRONCAD, and Onshape. It was created by Parametric Technology Corporation (PTC) and was the first of its kind to market.
+The software uses a specific file naming scheme, not allowing certain characters like ä, ö, é, ő, ł, Đ, ... (including spaces).
+
+Overview
+Creo Parametric (formerly Pro/Engineer), PTC's parametric, integrated 3D CAD/CAM/CAE software, is used by manufacturers for mechanical engineering, design, and manufacturing.
+Pro/Engineer was the industry's first rule-based constraint (sometimes called "parametric" or "variational") 3D CAD modeling system. The parametric modeling approach uses parameters, dimensions, features, and relationships to capture intended model behavior. This design approach can be family-based or platform-driven, where the strategy is to use engineering constraints and relationships to quickly optimize the design, or where the resulting geometry may be complex or based upon equations. Creo Parametric provides a complete set of design, analysis and manufacturing abilities on one, integral, scalable platform. These required abilities include solid modeling, surfacing, rendering, data Interoperability, routed systems design, simulation, tolerance analysis, numerical control (NC) and tooling design.
+Creo Parametric can be used to create a complete 3D digital model of manufactured goods. The models consist of 2D and 3D solid model data which can also be used downstream in finite element analysis, rapid prototyping, tooling design, and CNC manufacturing. All data are associative and interchangeable between the CAD, CAE, and CAM modules without data conversion. A product and its entire bill of materials (BOM) can be modeled accurately with fully associative engineering drawings, and revision control information. The associativity functionality in Creo Parametric enables users to make changes in the design at any time during the product development process and automatically update the end products. This ability enables concurrent engineering – design, analysis and manufacturing engineers working in parallel – and streamlines product development processes.
+
+Summary of abilities
+Creo Parametric is a software application within the CAID/CAD/CAM/CAE category.
+Creo Parametric is a parametric, feature-based modeling architecture incorporated into a single database philosophy with rule-based design abilities. It provides in-depth control of complex geometry. The abilities of the product can be split into the three main headings of Engineering Design, Analysis and Manufacturing. This data is then documented in a standard 2D production drawing or the 3D drawing standard ASME Y14.41-2003.
+
+Product design
+Creo Parametric offers a range of tools to enable the generation of a complete digital representation of the product being designed. In addition to the general geometry tools there is also the ability to generate geometry of other integrated design disciplines such as industrial and standard pipe work and complete wiring definitions. Tools are also available to support collaborative development.
+A number of concept design tools that provide up-front Industrial Design concepts can then be used in the downstream process of engineering the product. These range from conceptual Industrial design sketches, reverse engineering with point cloud data and comprehensive free-form surface.
+
+Analysis
+Creo Parametric has numerous analysis tools available and covers thermal, static, dynamic and fatigue finite element analysis along with other tools all designed to help with the development of the product. These tools include human factors, manufacturing tolerance, mould flow and design optimization. The design optimization can be used at a geometry level to obtain the optimum design dimensions and in conjunction with the finite element analysis.
+
+Surface modeling
+Creo Parametric has good surface modeling abilities, using commands like Boundary blend and Sweep. Advanced options like Style (Interactive Surface Design Extension - ISDX) and Freestyle provide more abilities to create complex models easily.
+
+Manufacturing
+Creo Parametric provides tooling design and simulated CNC machining and output for use in manufacturing environments. Tooling options cover specialty tools for molding, die-casting and progressive tooling design.
+
+Release history
+The UNIX version was discontinued after 4.0, except x86-64 Unix on Solaris. It was renamed Creo 1.0 after Pro/Engineer Wildfire 5.0 (rebranded PTC Creo Elements/Pro), occurred on October 28, 2010, which coincided with PTC's announcement of Creo, a new design software application suite.
+For the first 10 years, PTC generally released 2 versions per year, with some exceptions. The initial release (Rev 1) was in 1988.
+
+See also
+Comparison of computer-aided design software
+Creo
+Creo Elements/View
+Pro/DESKTOP
+Comparable software
+Inventor
+CATIA
+Cimatron
+Siemens NX
+Solid Edge
+SolidWorks
+IRONCAD
+Onshape
+KeyCreator
+
+References
+
+External links
+
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Ansys]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Fusion]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

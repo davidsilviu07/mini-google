@@ -1,0 +1,36 @@
+Sensorimotor rhythm
+The sensorimotor rhythm (SMR) is a brain wave.  It is an oscillatory idle rhythm of synchronized electric brain activity.  It appears in spindles in recordings of EEG, MEG, and ECoG over the sensorimotor cortex.  For most individuals, the frequency of the SMR is in the range of 7 to 11 Hz.
+
+Meaning
+The meaning of SMR is not fully understood. Phenomenologically, a person is producing a stronger SMR amplitude when the corresponding sensorimotor areas are idle, e.g. during states of immobility. SMR typically decreases in amplitude when the corresponding sensory or motor areas are activated, e.g. during motor tasks and even during motor imagery.
+Conceptually, SMR is sometimes mixed up with alpha waves of occipital origin, the strongest source of neural signals in the EEG. One reason might be, that without appropriate spatial filtering the SMR is very difficult to detect because it is usually flooded by the stronger occipital alpha waves. The feline SMR has been noted as being analogous to the human mu rhythm.
+
+Relevance in research
+
+Neurofeedback
+Neurofeedback training can be used to gain control over the SMR activity. Neurofeedback practitioners believe that this feedback enables the subject to learn the regulation of their own SMR.
+People with learning difficulties, ADHD, epilepsy, and autism may benefit from an increase in SMR activity via neurofeedback.
+In the field of Brain–Computer Interfaces (BCI), the deliberate modification of the SMR amplitude during motor imagery can be used to control external applications.
+
+See also
+Electroencephalography – Electrophysiological method to record electrical activity of the brain
+
+Brain waves
+Delta wave – (0.1 – 3 Hz)
+Theta wave – (4 – 7 Hz)
+Alpha wave – (8 – 12 Hz)
+Mu wave – (7.5 – 12.5 Hz)
+SMR wave – (12.5 – 15.5 Hz)
+Beta wave – (12 – 31 Hz)
+Gamma wave – (32 – 100 Hz)
+
+References
+
+Further reading
+Robbins, Jim (2000). A Symphony in the Brain. Atlantic Monthly Press. ISBN 978-0-87113-807-1.
+Sterman, M. B.; Wyrwicka, W. (1967). "EEG correlates of sleep: Evidence for separate forebrain substrates". Brain Research. 6 (1): 143–163. doi:10.1016/0006-8993(67)90186-2. PMID 6052533.
+Wyrwicka, W.; Sterman, M. B. (1968). "Instrumental conditioning of sensorimotor cortex eeg spindles in the waking cat". Physiology and Behavior. 3 (5): 703–707. doi:10.1016/0031-9384(68)90139-X.
+Warren, Jeff (2007). "The SMR". The Head Trip: Adventures on the Wheel of Consciousness. Toronto: Random House Canada. ISBN 978-0-679-31408-0.
+Arns, Martijn; Sterman, Maurice B. (2019). Neurofeedback: How it all started. Nijmegen, The Netherlands: Brainclinics Insights. ISBN 9789083001302.
+
+[[Amplitude integrated electroencephalography]] [[Bereitschaftspotential]] [[Brainstem auditory evoked potential]] [[Brain–computer interface]] [[Bruxism]] [[Delta wave]] [[Difference due to memory]] [[EEGLAB]] [[Early left anterior negativity]] [[Electrocorticography]] [[Electroencephalography]] [[Epilepsy]] [[Gamma wave]] [[K-complex]] [[Late positive component]] [[Mismatch negativity]] [[Mu wave]] [[N100]] [[N170]] [[N200 (neuroscience)]] [[N2pc]] [[N400 (neuroscience)]] [[Neural oscillation]] [[Neurofeedback]] [[Neurophysiological Biomarker Toolbox]] [[P200]] [[P3a]] [[P3b]] [[P50 (neuroscience)]] [[P600 (neuroscience)]] [[Polysomnography]] [[Rapid eye movement sleep]] [[Sleep cycle]] [[Sleep disorder]] [[Sleep spindle]] [[Slow-wave sleep]] [[Somatosensory evoked potential]]

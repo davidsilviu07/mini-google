@@ -1,0 +1,80 @@
+Cerebral hypoxia
+Cerebral hypoxia is a form of hypoxia (reduced supply of oxygen), specifically involving the brain; when the brain is completely deprived of oxygen, it is called cerebral anoxia. There are four categories of cerebral hypoxia; they are, in order of increasing severity: diffuse cerebral hypoxia (DCH), focal cerebral ischemia, cerebral infarction, and global cerebral ischemia. Prolonged hypoxia induces neuronal cell death via apoptosis, resulting in a hypoxic brain injury.
+Cases of total oxygen deprivation are termed "anoxia", which can be hypoxic in origin (reduced oxygen availability) or ischemic in origin (oxygen deprivation due to a disruption in blood flow). Brain injury as a result of oxygen deprivation either due to hypoxic or anoxic mechanisms is generally termed hypoxic/anoxic injury (HAI). Hypoxic ischemic encephalopathy (HIE) is a condition that occurs when the entire brain is deprived of an adequate oxygen supply, but the deprivation is not total. While HIE is associated in most cases with oxygen deprivation in the neonate due to birth asphyxia, it can occur in all age groups and is often a complication of cardiac arrest.
+
+Signs and symptoms
+
+The brain requires approximately 3.3 ml of oxygen per 100 g of brain tissue per minute. Initially, the body responds to lowered blood oxygen by redirecting blood to the brain and increasing cerebral blood flow. Blood flow may increase up to twice the normal flow but no more.  If the increased blood flow is sufficient to supply the brain's oxygen needs then no symptoms will result.
+However, if blood flow cannot be increased or if doubled blood flow does not correct the problem, symptoms of cerebral hypoxia will begin to appear. Mild symptoms include difficulties with complex learning tasks and reductions in short-term memory. If oxygen deprivation continues, cognitive disturbances and decreased motor control will result. The skin may also appear bluish (cyanosis) and heart rate increases. Continued oxygen deprivation results in fainting, long-term loss of consciousness, coma, seizures, cessation of brain stem reflexes, and brain death.
+Objective measurements of the severity of cerebral hypoxia depend on the cause. Blood oxygen saturation may be used for hypoxic hypoxia, but is generally meaningless in other forms of hypoxia.  In hypoxic hypoxia 95–100% saturation is considered normal; 91–94% is considered mild and 86–90% moderate. Anything below 86% is considered severe.
+Cerebral hypoxia refers to oxygen levels in brain tissue, not blood.  Blood oxygenation will usually appear normal in cases of hypemic, ischemic, and histotoxic cerebral hypoxia. Even in hypoxic hypoxia blood measures are only an approximate guide; the oxygen level in the brain tissue will depend on how the body deals with the reduced oxygen content of the blood.
+
+Causes
+Cerebral hypoxia can be caused by any event that severely interferes with the brain's ability to receive or process oxygen. This event may be internal or external to the body. Mild and moderate forms of cerebral hypoxia may be caused by various diseases that interfere with breathing and blood oxygenation. Severe asthma and various sorts of anemia can cause some degree of diffuse cerebral hypoxia. Other causes include status epilepticus, work in nitrogen-rich environments, ascent from a  deep-water dive, flying at high altitudes in an unpressurized cabin without supplemental oxygen, and intense exercise at high altitudes before acclimatization.
+Severe cerebral hypoxia and anoxia is usually caused by traumatic events such as choking, drowning, strangulation, smoke inhalation, drug overdoses, crushing of the trachea, status asthmaticus, and shock. It is also recreationally self-induced in the fainting game and in erotic asphyxiation.
+
+Transient ischemic attack (TIA), is often referred to as a "mini-stroke". The American Heart Association and American Stroke Association (AHA/ASA) refined the definition of transient ischemic attack. TIA is now defined as a transient episode of neurologic dysfunction caused by focal brain, spinal cord, or retinal ischemia, without acute infarction. The symptoms of a TIA can resolve within a few minutes, unlike a stroke. TIAs share the same underlying  etiology as strokes; a disruption of cerebral blood flow. TIAs and strokes present with the same symptoms such as contralateral paralysis (opposite side of body from affected brain hemisphere), or sudden weakness or numbness. A TIA may cause sudden dimming or loss of vision, aphasia, slurred speech, and mental confusion. The symptoms of a TIA typically resolve within 24 hours, unlike a stroke. Brain injury may still occur in a TIA lasting only a few minutes. Having a TIA is a risk factor for eventually having a stroke.
+Silent stroke is a stroke which does not have any outward symptoms, and the patient is typically unaware they have had a stroke. Despite its lack of identifiable symptoms, a silent stroke still causes brain damage and places the patient at increased risk for a major stroke in the future. In a broad study in 1998, more than 11 million people were estimated to have experienced a stroke in the United States. Approximately 770,000 of these strokes were symptomatic and 11 million were first-ever silent MRI infarcts or hemorrhages. Silent strokes typically cause lesions which are detected via the use of neuroimaging such as fMRI. The risk of silent stroke increases with age but may also affect younger adults. Women appear to be at increased risk for silent stroke, with hypertension and current cigarette smoking being predisposing factors.
+
+Pre- and postnatal
+
+Hypoxic-anoxic events may affect the fetus at various stages of fetal development, during labor and delivery, and in the postnatal period. Sometimes, even an infant that is still in the womb may exhibit signs of HIE or other hypoxic-ischemic injury. Fetal distress is one of the most common signs of HIE or other oxygen-depriving event. Other problems during pregnancy may include preeclampsia, maternal diabetes with vascular disease, congenital fetal infections, substance/alcohol use, severe fetal anemia, cardiac disease, lung malformations, or problems with blood flow to the placenta.
+Problems during labor and delivery can include umbilical cord occlusion, torsion or prolapse, rupture of the placenta or uterus, excessive bleeding from the placenta, abnormal fetal position such as the breech position, prolonged late stages of labor, or very low blood pressure in the mother. Problems after delivery can include severe prematurity, severe lung or heart disease, serious infections, trauma to the brain or skull, congenital malformations of the brain or very low blood pressure in the baby and due to suffocation in cases of Münchausen syndrome by proxy.
+The severity of a neonatal hypoxic-ischaemic brain injury may be assessed using Sarnat staging, which is based on clinical presentation and EEG findings, and also using MRI. Signs and symptoms of HIE may include:
+
+Low Apgar scores, <5 at 5 minutes and 10 minutes.
+Floppiness, or unreactive to sights or sounds, or more tense and agitated.
+Low heart rate.
+Low blood pressure.
+Poor muscle tone and absent reflexes.
+Weak breathing, no breathing at all, or rapid breathing.
+Need for resuscitation after delivery.
+Weak cry.
+Bluish or pale skin color.
+Excessive acid in the blood.
+Seizures or abnormal movements.
+Problems feeding
+
+Diagnosis
+
+Classification
+Cerebral hypoxia is typically grouped into four categories depending on the severity and location of the brain's oxygen deprivation:
+
+Diffuse cerebral hypoxia – A mild to moderate impairment of brain function due to low oxygen levels in the blood.
+Focal cerebral ischemia – A stroke occurring in a localized area that can either be acute or transient. This may be due to a variety of medical conditions such as an aneurysm that causes a hemorrhagic stroke, or an occlusion occurring in the affected blood vessels due to a thrombus (thrombotic stroke) or embolus (embolic stroke). Focal cerebral ischemia constitutes a large majority of the clinical cases in stroke pathology with the infarct usually occurring in the middle cerebral artery (MCA).
+Global cerebral ischemia – A complete stoppage of blood flow to the brain.
+Cerebral infarction – A "stroke",  caused by complete oxygen deprivation due to an interference in cerebral blood flow which affects multiple areas of the brain.
+Cerebral hypoxia can also be classified by the cause of the reduced brain oxygen:
+
+Hypoxic hypoxia – Limited oxygen in the environment causes reduced brain function. Divers, aviators, Mountain climbers and firefighters are all at risk for this kind of cerebral hypoxia. The term also includes oxygen deprivation due to obstructions in the lungs. Choking, strangulation, and the crushing of the windpipe all cause this sort of hypoxia. Severe asthma exacerbations may also lead to symptoms of hypoxic hypoxia.
+Hypemic hypoxia – Reduced brain function is caused by inadequate oxygen in the blood despite adequate environmental oxygen.  Anemia and carbon monoxide poisoning are common causes of hypemic hypoxia.
+Ischemic hypoxia ( or "stagnant hypoxia") – Reduced brain oxygen is caused by inadequate blood flow to the brain.  Stroke, shock, cardiac arrest and heart attack may cause stagnant hypoxia. Ischemic hypoxia can also be created by pressure on the brain.  Cerebral edema, brain hemorrhages and hydrocephalus exert pressure on brain tissue and impede their absorption of oxygen.
+Histotoxic hypoxia – Oxygen is present in brain tissue but cannot be metabolized by the brain tissue.  Cyanide poisoning is a well-known example.
+
+Treatment
+For newborn infants starved of oxygen during birth, there is now evidence that hypothermia therapy for neonatal encephalopathy applied within 6 hours of cerebral hypoxia effectively improves survival and neurological outcome. In adults, however, the evidence is less convincing and the first goal of treatment is to restore oxygen to the brain. The method of restoration depends on the cause of the hypoxia. For mild-to-moderate cases of hypoxia, removal of the cause of hypoxia may be sufficient. Inhaled oxygen may also be provided.  In severe cases, treatment may also involve life support and damage control measures.
+A deep coma will interfere with the body's breathing reflexes even after the initial cause of hypoxia has been dealt with; mechanical ventilation may be required. Additionally, severe cerebral hypoxia causes an elevated heart rate, and in extreme cases the heart may tire and stop pumping. CPR, defibrilation, epinephrine, and atropine may all be tried in an effort to get the heart to resume pumping. Severe cerebral hypoxia can also cause seizures, which put the patient at risk of self-injury, and various anti-convulsant drugs may need to be administered before treatment.
+
+There has long been a debate over whether newborn infants with cerebral hypoxia should be resuscitated with 100% oxygen or normal air. It has been demonstrated that high concentrations of oxygen lead to generation of oxygen free radicals, which have a role in reperfusion injury after asphyxia. Research by Ola Didrik Saugstad and others led to new international guidelines on newborn resuscitation in 2010, recommending the use of normal air instead of 100% oxygen.
+Brain damage can occur both during and after oxygen deprivation. During oxygen deprivation, cells die due to an increasing acidity in the brain tissue (acidosis). Additionally, during the period of oxygen deprivation, materials that can easily create free radicals build up. When oxygen enters the tissue these materials interact with oxygen to create high levels of oxidants. Oxidants interfere with the normal brain chemistry and cause further damage (this is known as "reperfusion injury").
+Techniques for preventing damage to brain cells are an area of ongoing research. Hypothermia therapy for neonatal encephalopathy is the only evidence-supported therapy, but antioxidant drugs, control of blood glucose levels, and hemodilution (thinning of the blood) coupled with drug-induced hypertension are some treatment techniques currently under investigation. Hyperbaric oxygen therapy is being evaluated with the reduction in total and myocardial creatine phosphokinase levels showing a possible reduction in the overall systemic inflammatory process.
+In severe cases, it is extremely important to act quickly.  Brain cells are very sensitive to reduced oxygen levels. Once deprived of oxygen they will begin to die off within five minutes.
+
+Prognosis
+Mild and moderate cerebral hypoxia may result in seizures and long-term memory impairment.
+The outcome of severe cerebral hypoxia will depend on the success of damage control, the amount of brain tissue deprived of oxygen, and the speed with which oxygen is restored.
+If cerebral hypoxia is localized to a specific part of the brain, brain damage will be localized to that region. A general consequence may be epilepsy. The long-term effects will depend on the purpose of that portion of the brain. Damage to the Broca's area and the Wernicke's area of the brain (left side) typically causes problems with speech and language.  Damage to the right side of the brain may interfere with the ability to express emotions or interpret what one sees. Damage on either side can cause paralysis of the opposite side of the body.
+The effects of certain kinds of severe generalized hypoxias may take time to develop.  For example, the long-term effects of serious carbon monoxide poisoning usually may take several weeks to appear. Recent research suggests this may be due to an autoimmune response caused by carbon monoxide-induced changes in the myelin sheath surrounding neurons.
+If hypoxia results in coma, the length of unconsciousness is often indicative of long-term damage. In some cases coma can allow the brain to heal and regenerate, but, in general, the longer a coma, the greater the likelihood that the person will remain in a vegetative state until death.  Even if the patient wakes up, brain damage is likely to be significant enough to prevent a return to normal functioning.
+Long-term comas can have a significant impact on a patient's family. Families of coma patients often have idealized images of the outcome based on Hollywood movie depictions of coma.  Adjusting to the realities of ventilators, feeding tubes, bedsores, and muscle wasting may be difficult.  Treatment decisions often involve complex ethical choices and can strain family dynamics.
+
+See also
+Altitude sickness
+Choking game
+Hypothermia cap
+Space exposure
+Ulegyria
+
+References
+
+[[Brain death]] [[Breech birth]] [[Cardiac arrest]] [[Cerebrospinal fluid]] [[Dementia]] [[Encephalopathy]] [[Epilepsy]] [[Focal seizure]] [[Generalized epilepsy]] [[Intracranial pressure]] [[Mayo Clinic]] [[Medical specialty]] [[Migraine]] [[Myoclonic epilepsy]] [[Parkinson's disease]] [[Spinal cord]] [[Status epilepticus]] [[Stroke]]

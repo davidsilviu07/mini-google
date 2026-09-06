@@ -1,0 +1,98 @@
+Computational statistics
+Computational statistics, or statistical computing, is the study which is the intersection of statistics and computer science, and refers to the statistical methods that are enabled by using computational methods. It is the area of computational science (or scientific computing) specific to the mathematical science of statistics. This area is fast developing. The view that the  broader concept of computing must be taught as part of general statistical education is gaining momentum.
+As in traditional statistics the goal is to transform raw data into knowledge, but the focus lies on computer intensive statistical methods, such as cases with very large sample size and non-homogeneous data sets.
+The terms 'computational statistics' and 'statistical computing' are often used interchangeably, although Carlo Lauro (a former president of the International Association for Statistical Computing) proposed making a distinction, defining 'statistical computing' as "the application of computer science to statistics",
+and 'computational statistics' as "aiming at the design of algorithm for implementing
+statistical methods on computers, including the ones unthinkable before the computer
+age (e.g. bootstrap, simulation), as well as to cope with analytically intractable problems" [sic].
+The term 'Computational statistics' may also be used to refer to computationally intensive statistical methods including resampling methods, Markov chain Monte Carlo methods, local regression, kernel density estimation, artificial neural networks and generalized additive models.
+
+History
+Though computational statistics is widely used today, it actually has a relatively short history of acceptance in the statistics community. For the most part, the founders of the field of statistics relied on mathematics and asymptotic approximations in the development of computational statistical methodology.
+In 1908, William Sealy Gosset performed his now well-known Monte Carlo method simulation which led to the discovery of the Student’s t-distribution. With the help of computational methods, he also has plots of the empirical distributions overlaid on the corresponding theoretical distributions. The computer has revolutionized simulation and has made the replication of Gosset’s experiment little more than an exercise.
+Later on, the scientists put forward computational ways of generating pseudo-random deviates, performed methods to convert uniform deviates into other distributional forms using inverse cumulative distribution function or acceptance-rejection methods, and developed state-space methodology for Markov chain Monte Carlo. One of the first efforts to generate random digits in a fully automated way, was undertaken by the RAND Corporation in 1947. The tables produced were published as a book in 1955, and also as a series of punch cards.
+By the mid-1950s, several articles and patents for devices had been proposed for random number generators. The development of these devices were motivated from the need to use random digits to perform simulations and other fundamental components in statistical analysis. One of the most well known of such devices is ERNIE, which produces random numbers that determine the winners of the Premium Bond, a lottery bond issued in the United Kingdom. In 1958, John Tukey’s jackknife was developed. It is as a method to reduce the bias of parameter estimates in samples under nonstandard conditions. This requires computers for practical implementations. To this point, computers have made many tedious statistical studies feasible.
+
+Methods
+
+Maximum likelihood estimation
+Maximum likelihood estimation is used to estimate the parameters of an assumed probability distribution, given some observed data. It is achieved by maximizing a likelihood function so that the observed data is most probable under the assumed statistical model.
+
+Monte Carlo method
+Monte Carlo is a statistical method that relies on repeated random sampling to obtain numerical results. The concept is to use randomness to solve problems that might be deterministic in principle. They are often used in physical and mathematical problems and are most useful when it is difficult to use other approaches. Monte Carlo methods are mainly used in three problem classes: optimization, numerical integration, and generating draws from a probability distribution.
+
+Markov chain Monte Carlo
+The Markov chain Monte Carlo method creates samples from a continuous random variable, with probability density proportional to a known function. These samples can be used to evaluate an integral over that variable, such as its expected value or variance. The more steps are included, the more closely the distribution of the sample matches the actual desired distribution.
+
+Bootstrapping
+The bootstrap is a resampling technique used to generate samples from an empirical probability distribution defined by an original sample of the population. It can be used to find a bootstrapped estimator of a population parameter. It can also be used to estimate the standard error of an estimator as well as to generate bootstrapped confidence intervals. The jackknife is a related technique.
+
+Applications
+Computational biology
+Computational linguistics
+Computational mathematics
+Computational materials science
+Computational physics
+Computational psychometrics
+Computational social science
+Computational sociology
+Data journalism
+Data science
+Econometrics
+Machine Learning
+Social data science
+
+Computational statistics journals
+Communications in Statistics - Simulation and Computation
+Computational Statistics
+Computational Statistics & Data Analysis
+Journal of Computational and Graphical Statistics
+Journal of Statistical Computation and Simulation
+Journal of Statistical Software
+The R Journal
+The Stata Journal
+Statistics and Computing
+Wiley Interdisciplinary Reviews: Computational Statistics
+
+Associations
+International Association for Statistical Computing
+
+See also
+Algorithms for statistical classification
+Data science
+Statistical methods in artificial intelligence
+List of statistical algorithms
+List of statistical packages
+Machine learning
+
+References
+
+Further reading
+
+Articles
+Albert, J.H.; Gentle, J.E. (2004), Albert, James H; Gentle, James E (eds.), "Special Section: Teaching Computational Statistics", The American Statistician, 58: 1, doi:10.1198/0003130042872, S2CID 219596225
+Wilkinson, Leland (2008), "The Future of Statistical Computing (with discussion)", Technometrics, 50 (4): 418–435, doi:10.1198/004017008000000460, S2CID 3521989
+
+Books
+Drew, John H.; Evans, Diane L.; Glen, Andrew G.; Lemis, Lawrence M. (2007), Computational Probability: Algorithms and Applications in the Mathematical Sciences, Springer International Series in Operations Research & Management Science, Springer, ISBN 978-0-387-74675-3
+Gentle, James E. (2002), Elements of Computational Statistics, Springer, ISBN 0-387-95489-9
+Gentle, James E.; Härdle, Wolfgang; Mori, Yuichi, eds. (2004), Handbook of Computational Statistics: Concepts and Methods, Springer, ISBN 3-540-40464-3
+Givens, Geof H.; Hoeting, Jennifer A. (2005), Computational Statistics, Wiley Series in Probability and Statistics, Wiley-Interscience, ISBN 978-0-471-46124-1
+Klemens, Ben (2008), Modeling with Data: Tools and Techniques for Statistical Computing, Princeton University Press, ISBN 978-0-691-13314-0
+Monahan, John (2001), Numerical Methods of Statistics, Cambridge University Press, ISBN 978-0-521-79168-7
+Rose, Colin; Smith, Murray D. (2002), Mathematical Statistics with Mathematica, Springer Texts in Statistics, Springer, ISBN 0-387-95234-9
+Thisted, Ronald Aaron (1988), Elements of Statistical Computing: Numerical Computation, CRC Press, ISBN 0-412-01371-1
+Gharieb, Reda. R. (2017), Data Science: Scientific and Statistical Computing, Noor Publishing, ISBN 978-3-330-97256-8
+
+External links
+
+Associations
+International Association for Statistical Computing
+Statistical Computing section of the American Statistical Association
+
+Journals
+Computational Statistics & Data Analysis
+Journal of Computational & Graphical Statistics
+Statistics and Computing
+
+[[Computational biology]] [[Computational chemistry]] [[Computational engineering]] [[Computational finance]] [[Computational linguistics]] [[Computational mathematics]] [[Computational physics]] [[Computational science]] [[Computational social science]] [[Computer]] [[Computer science]] [[Data science]]

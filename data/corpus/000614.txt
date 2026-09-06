@@ -1,0 +1,102 @@
+Infantile epileptic spasms syndrome
+Infantile epileptic spasms syndrome (IESS) previously known as West syndrome needs the inclusion  of epileptic spasms for diagnosis. Epileptic spasms (also known as infantile spasms) may also occur outside of a syndrome (that is, in the absence of hypsarrhythmia and cognitive regression) - notably in association with a severe brain disorder such as lissencephaly.
+IESS is an epileptic encephalopathy, a childhood epilepsy syndrome arising during infancy. It can often arise as a complication of various other medical conditions. It is clinically defined by the occurrence of the characteristic epileptic spasms, episodes of clusters of tonic spasms of the axial and limb musculature. Such spasms are found in association with characteristic abnormal electroencephalogram pattern findings (hypsarrhythmia), and cognitive delay or deterioration. The peak age of onset is 4-6 months of age, with 90% of cases presenting during the first year of life. The spasms are usually resistant to conventional antiepileptics. They may persist beyond infancy, or, rarely, commence only later in childhood. Many individuals with the syndrome go on to develop other forms of epilepsy later in life (notably Lennox–Gastaut syndrome), and persisting neurodevelopmental deficits are common; notably, up to about a third of children are subsequently diagnosed with autism. Pharmacotherapy consists of either adrenocorticotropic hormone (ACTH) or glucocorticoids (prednisone), or vigabatrin. Ketogenic diet may be effective as second-line therapy for treatment-resistant cases. Neurosurgery may be indicated in certain cases.
+Epileptic spasms are commonly classified as symptomatic when a potential cause can be identified, or as cryptogenic if not (though these designations are used inconsistently). A specific cause can be identified in ~70-75%. Any condition that may cause cerebral insult may give rise to IESS. Causes range from genetic disorders, infections, congenital malformations, malnutrition, to brain trauma. The most commonly identified common cause is tuberous sclerosis complex. Cryptogenic cases entail a more favourable prognosis overall.
+West syndrome is named for the English physician William James West who was first to describe the condition in an article in The Lancet in 1841 based on observations of the condition in his son.
+
+Signs and symptoms
+
+Epileptic spasms
+Epileptic spasms are a seizure type characteristic for the first year of life. The spasms are typically resistant to conventional pharmacotherapy. There are many episodes per day. Episodes may take place after waking or feeding, or less often before falling asleep. Episode duration, intensity, and muscle groups affected are variable. Mild spasms may involve mere nodding, muscle twitching or eye movements, whereas powerful spasms may result in the infant's body violently bending over (the so-called "salaam" or "jackknife" movements). Individual spasms typically last only seconds, but episodes may last over 20 minutes. An episode is typically followed by exhaustion; episodes are typically followed by over a minute of motionlessness and diminished responsiveness.
+The spasms present as episodes of brisk (0.2-2s) neck flexions-extensions and upper limp abductions-adductions, lower limb extension, and trunk musculature contractions, accompanied by upward deviation of the eyes. Nevertheless, individual muscle groups (abdominal, shoulder, neck) may be involved. Most often, there is simultaneous contraction of both flexors and extensors, followed by flexor spasms, and the least frequent extensor spasms. Spasms are usually symmetrical, but up to 30% of cases may exhibit varying degrees of lateralisation. Unilateral brain lesions often (but not always) result in asymmetric spasms; unilateral spasms may progress to generalised spasms. Drop attacks may be the initial presentation of West syndrome of later onset. Altered or absent breathing is common during episodes.
+When spontaneous remissions occurs, it is typically gradual. Remission by the age of three is 50%, rising to 90% by the age of five.
+
+Developmental
+The onset of epileptic spasms is often associated with developmental regression: autistic withdrawal, and loss of social smiling and of visual attention. A majority of individuals with West syndrome exhibit regression of psychomotor skills. However, developmental delay is noted in up to about two-thirds of infants with West syndrome already before the onset of spasms, whereas only about a third had exhibited normal development prior to spasm onset.
+
+Causes
+Based on etiology, cases of IESS are commonly classified as either symptomatic or cryptogenic - although these terms have not been used consistently. Symptomatic cases are most often defined as those in which a clear cause can be identified, though some investigators also use the designation in cases in which there was previous clinical or imaging evidence of brain lesions and/or abnormal development was noted prior to the onset of the syndrome. Cryptogenic cases are thus contrastingly defined as those in which no specific cause can be identified, or where no such lesions or abnormalities were noted prior to syndrome onset.
+
+Brain malformations
+Microcephaly
+Hemimegalencephaly
+Cortical dysplasia
+Cerebral atrophy
+Focal cortical dysplasia
+Lissencephaly (may be of heritable aetiology)
+Porencephaly
+Pachygyria
+Peri-sylvian polymicrogyria
+Gray matter heterotopia
+Aicardi syndrome
+Cerebrovascular malformations
+Genetic disorders
+Phakomatoses (e.g. tuberous sclerosis)
+lncontinentia pigmenti
+Foix–Chavany–Marie syndrome
+Down syndrome (trisomy 21)
+Patau syndrome (trisomy 13)
+Sturge–Weber syndrome
+Maple syrup urine disease
+Phenylketonuria
+Biotinidase deficiency
+Ohtahara syndrome
+PEHO syndrome
+Leukodystrophy
+Mitochondrial diseases
+Mutations of the ARX gene, or CDKL5 gene
+Chromosomal deletions (e.g. affecting MAGI2 gene that mediates glutamate receptor functioning)
+Infectious - may be either congenital or acquired. Infantile spasm outcomes tend to be especially poor when secondary to brain infection. Infectious agents include viral (cytomegalovirus, HSV, rubella, pertussis, adenovirus, enterovirus), bacterial (N. meningitidis, S. pneumoniae), protozoal (toxoplasmosis), and others.
+Metabolic
+Hypoglycemia
+Non-ketotic hyperglycemia
+Vitamin B6 deficiency
+Periventricular leukomalacia
+Cerebrovascular accidents
+Cephalhematoma
+Traumatic brain injury
+Hypoxic-ischaemic encephalopathy (e.g. perinatal asphyxia) - likely the most common aetiology
+
+Down syndrome
+Infantile epileptic spasms syndrome appears in 1% to 5% of infants with Down syndrome. IESS in those with Down syndrome is milder, more responsive to treatment (for unknown reasons), and less likely to evolve into Lennox-Gastaut syndrome or other forms of epilepsy. A child with Down syndrome presenting with seizures that are difficult to control should be assessed for autistic spectrum disorder.
+
+Genetic
+Mutations in several genes have been associated with IESS. These include the Aristaless related homeobox (ARX) and cyclin dependent kinase like 5 (CDKL5) genes. The ARX gene in particular seems to be responsible for at least some of the X linked cases. Variants in genes associated with channelopathies, such as KCNT1 and SCN2A, can also, in rare cases, result in West syndrome.
+
+Diagnosis
+Infantile spasms can be misdiagnosed as non-epileptic, non-pathological movements such as infantile colic, startle response, or Moro reflex.
+
+Treatment
+
+Pharmacotherapy
+There is limited evidence as to which pharmacotherapy approach is optimal. Hormone therapy with either adrenocorticotrophic hormone (ACTH) or oral prednisone is the standard of care (with the two treatments apparently producing equivalent outcomes). ACTH therapy is cost-prohibitive in the US. ACTH therapy produces improvement in spasms within days whereas neurodevelopmental improvements take weeks. ACTH therapy is associated with increased risk of infections (which account for the majority of deaths). Therapy with vigabatrin is also commonly undertaken (though long-term use is associated with a risk of visual field loss); vigabatrin is considered the treatment of choice for infantile spasms associated with tuberous sclerosis complex, and is also favoured in those with serious brain lesions or malformations.  Levetiracetam has been cited as having a rate of freedom from monotherapy failure higher than phenobarbital.
+
+Neurosurgery
+Prompt neurosurgery may be indicated in treatment-resistant cases with a demonstrated localised epileptic focus. Some 60% of persons having undergone neurosurgery are subsequently seizure-free. More specifically, these neurosurgical procedures include: hemispherectomy/hemispherotomy and non-hemispheric surgery. Small epileptic foci augur a favourable outcome, however, in most cases, resection of extensive multilobar cortical dysplasias is called for, resulting in limited cognitive improvement. In patients where there is a brain tumor involved as a potential cause of the epileptic focus, then tumor resection may be indicated.  
+
+Dietary interventions
+There is some evidence for the use of the ketogenic diet or modified Atkins diet in cases which have failed to respond to pharmacotherapy, though ketogenic diet was more effective.
+
+Prognosis
+Prognosis of epileptic spasms and IESS depends predominately upon aetiology, and less so on treatment. Unfavourable prognostic factors include: symptomatic aetiology, early onset (prior to 3 months), presence of other seizure types prior to onset of infantile spasms, poor treatment response, electroencephalogram asymmetry, absence of typical hypsarrhythmia, and (prolongued) developmental regression. Premature mortality rates range from 5% to 31%, and depend upon the underlying aetiology of the infantile spasms.
+Whereas some 80% of all individuals with IESS will exhibit residual neurodevelopmental impairment, the figure falls to only a third for cryptogenic cases. Brisk initiation of therapy appears to be associated with more favourable neurodevelopmental outcomes - especially in cryptogenic cases.
+
+Seizures
+In about one quarter to one third of children with IESS, seizures will subside completely with time; such resolution is more common when the cause is cryptogenic. In another third, the characteristic epilepstic spasms will persist in later life. Finally, a third will experience a deterioration with the appearance of additional recalcitrant seizure types - often evolving into Lennox–Gastaut syndrome. About 50% of cases will exhibit other types of epilepsy later in life.
+
+Autism
+From 10% to 35% of children with infantile spasms are eventually recognised as autistic. Autism may arise more frequently in those with bilateral temporal lobe epileptic foci. The aetiology of infantile spasms-associated autism may be idiopathic, or an additional comorbidity that itself better explains the autism may be identified. It is believed that early aggressive treatment of infantile spasms can often prevent the later development of autistic features, or lessen their severity.
+
+Epidemiology
+Incidence is around 1:3200 to 1:3500 of live births. Statistically, boys are more likely to be affected than girls at a ratio of around 3:2.
+
+See also
+Epilepsy Phenome/Genome Project
+
+References
+
+External links
+
+Much of this article is translated from the German Wikipedia article
+
+[[Absence seizure]] [[Anticonvulsant]] [[Atonic seizure]] [[Aura (symptom)]] [[Automatism (medicine)]] [[Benign familial neonatal seizures]] [[CACNA1C-related disorders]] [[Citizens United for Research in Epilepsy]] [[Complex partial status epilepticus]] [[Dentatorubral–pallidoluysian atrophy]] [[Early myoclonic encephalopathy]] [[Electroencephalography]] [[Encephalopathy]] [[Epilepsia partialis continua]] [[Epilepsy]] [[Epilepsy Action]] [[Epilepsy Action Australia]] [[Epilepsy Foundation]] [[Epilepsy Outlook]] [[Epilepsy Society]] [[Epilepsy and driving]] [[Epilepsy and employment]] [[Epilepsy in animals]] [[Epilepsy in children]] [[Epileptogenesis]] [[Epileptologist]] [[Febrile seizure]] [[Focal seizure]] [[Frontal lobe epilepsy]] [[Gelastic seizure]] [[Generalized tonic–clonic seizure]] [[Infant]] [[International League Against Epilepsy]] [[Issues for people with epilepsy]] [[Juvenile myoclonic epilepsy]] [[KCNH1-related disorders]] [[Lafora disease]] [[Landau–Kleffner syndrome]] [[Lennox–Gastaut syndrome]] [[MERRF syndrome]] [[Medical specialty]] [[Myoclonic astatic epilepsy]] [[Myoclonic epilepsy]] [[Neonatal seizure]] [[Neurology]] [[Panayiotopoulos syndrome]] [[Postictal state]] [[Progressive myoclonus epilepsy]] [[Psychogenic non-epileptic seizure]] [[Rolandic epilepsy]] [[Seizure types]] [[Sleep-related hypermotor epilepsy]] [[Status epilepticus]] [[Stroke]] [[Sudden unexpected death in epilepsy]]

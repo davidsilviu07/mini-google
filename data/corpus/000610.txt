@@ -1,0 +1,40 @@
+In-circuit emulation
+In-circuit emulation (ICE) is the use of a hardware device or in-circuit emulator used to debug the software of an embedded system. It operates by using a processor with the additional ability to support debugging operations, as well as to carry out the main function of the system. Particularly for older systems, with limited processors, this usually involved replacing the processor temporarily with a hardware emulator: a more powerful although more expensive version. It was historically in the form of bond-out processor which has many internal signals brought out for the purpose of debugging. These signals provide information about the state of the processor.
+More recently the term also covers JTAG-based hardware debuggers which provide equivalent access using on-chip debugging hardware with standard production chips.  Using standard chips instead of custom bond-out versions makes the technology ubiquitous and low cost, and eliminates most differences between the development and runtime environments. In this common case, the in-circuit emulator term is a misnomer, sometimes confusingly so, because emulation is no longer involved.
+Embedded systems present special problems for programmers because they usually lack keyboards, monitors, disk drives and other user interfaces that are present on computers. These shortcomings make in-circuit software debugging tools essential for many common development tasks.
+
+Function
+An in-circuit emulator (ICE) provides a window into the embedded system. The programmer uses the emulator to load programs into the embedded system, run them, step through them slowly, and view and change data used by the system's software.
+An emulator gets its name because it emulates (imitates) the central processing unit (CPU) of the embedded system's computer. Traditionally it had a plug that inserts into the socket where the CPU integrated circuit chip would normally be placed. Most modern systems use the target system's CPU directly, with special JTAG-based debug access. Emulating the processor, or direct JTAG access to it, lets the ICE do anything that the processor can do, but under the control of a software developer.
+ICEs attach a computer terminal or personal computer (PC) to the embedded system. The terminal or PC provides an interactive user interface for the programmer to investigate and control the embedded system. For example, it is routine to have a source code level debugger with a graphical windowing interface that communicates through a JTAG adapter (emulator) to an embedded target system which has no graphical user interface.
+Notably, when their program fails, most embedded systems simply become bricked. Embedded systems often lack basic functions to detect signs of software failure, such as a memory management unit (MMU) to catch memory access errors. Without an ICE, the development of embedded systems can be extremely difficult, because there is usually no way to tell what went wrong. With an ICE, the programmer can usually test pieces of code, then isolate the fault to a particular section of code, and then inspect the failing code and rewrite it to solve the problem.
+In usage, an ICE provides the programmer with execution breakpoints, memory display and monitoring, and input/output control. Beyond this, the ICE can be programmed to look for any range of matching criteria to pause at, in an attempt to identify the origin of a failure.
+Most modern microcontrollers use resources provided on the manufactured version of the microcontroller for device programming, emulating, and debugging features, instead of needing another special emulation-version (that is, bond-out) of the target microcontroller. Even though it is a cost-effective method, since the ICE unit only manages the emulation instead of actually emulating the target microcontroller, trade-offs must be made to keep prices low at manufacture time, yet provide enough emulation features for the (relatively few) emulation applications.
+
+Advantages
+Virtually all embedded systems have a hardware element and a software element, which are separate but tightly interdependent. The ICE allows the software element to be run and tested on the hardware on which it is to run, but still allows programmer conveniences to help isolate faulty code, such as source-level debugging (which shows a program as it was originally written) and single-stepping (which lets programmers run programs step-by-step to find errors).
+Most ICEs consist of an adaptor unit that sits between the ICE host computer and the system to be tested. A pin header and cable assembly connects the adaptor to a socket where the actual central processing unit (CPU) or microcontroller mounts within the embedded system. Recent ICEs enable programmers to access the on-chip debug circuit that is integrated into the CPU via JTAG or background debug mode interface (BDM) to debug the software of an embedded system. These systems often use a standard version of the CPU chip, and can simply attach to a debug port on a production system. They are sometimes called in-circuit debuggers or ICDs, to distinguish the fact that they do not replicate the functionality of the CPU, but instead control an already existing, standard CPU. Since the CPU need not be replaced, they can operate on production units where the CPU is soldered in and cannot be replaced. On x86 Pentiums, a special 'probe mode' is used by ICEs to aid in debugging.
+In the context of embedded systems, the ICE is not emulating hardware. Rather, it is providing direct debug access to the actual CPU. The system under test is under full control, allowing the developer to load, debug and test code directly.
+Most host systems are ordinary commercial computers unrelated to the CPU used for development. For example, a Linux PC might be used to develop software for a system using a Freescale 68HC11 chip, a processor that cannot run Linux.
+The programmer usually edits and compiles the embedded system's code on the host system, as well. The host system will have special compilers that produce executable code for the embedded system, termed cross compilers or cross assemblers.
+
+On-chip debugging
+On-chip debugging is an alternative to in-circuit emulation. It uses a different approach to address a similar goal.
+On-chip debugging, often loosely termed as Joint Test Action Group (JTAG), uses the provision of an additional debugging interface to the live hardware, in the production system. It provides the same features as in-circuit debugging, such as inspection of internal state or variables and may have the ability to set checkpoints, breakpoints and watchpoints. The difference is that this is provided by additional silicon within the production processor, rather than swapping the processor for an off-board debugging emulator.  For this reason, some of the functions of the ICE is changed by the specifications of the processor. An additional JTAG interface is added to the controller board, and this is required on every production system, but as this only requires a few signal pins the extra cost is minimal.  JTAG interfaces were originally developed for, and are still useful for, end of production testing.
+
+Intel
+To support in-circuit emulator (ICE) debugging on  Intel 286, five additional pins were available on the processor: one input pin to externally force an ICE breakpoint, (ICEBP#) and two alternative pairs of output pins to select operations via the ICE-bus instead of user memory.  On the 80286 two instructions (0F 04, 0F 05) exist to dump/restore the complete CPU state to memory offset 0x800, along with a single-byte override prefix (F1) to enable ICE-mode to access user-memory.
+
+See also
+Joint Test Action Group
+Background debug mode interface
+Hardware-assisted virtualization
+SoftICE
+
+References
+
+External links
+Jack Ganssle's Beginner's Corner article
+How to choose an in-circuit emulator By Jonathan Hector
+
+[[Central processing unit]] [[Embedded system]] [[Integrated circuit]]

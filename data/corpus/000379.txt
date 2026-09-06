@@ -1,0 +1,55 @@
+EXeLearning
+eXeLearning is a free / libre software tool under GPL-2 that can be used to create educational interactive web content.
+eXeLearning can generate interactive contents in XHTML or HTML5 format. It allows you to create easily navigable web pages including text, images, interactive activities, image galleries or multimedia clips.
+
+History
+eXeLearning was originally developed in New Zealand, in 2007, and was led by two universities (University of Auckland and Auckland University of Technology) and the Tairawhiti Polytechnic Institute. The project was originally supported by the New Zealand government. Development is now supported by government agencies and companies in Spain and other countries.
+The original project remained active until 2010. At that time eXeLearning had thousands of users and it was very well known.
+In 2009-2010, the Instituto de Tecnologías Educativas del Ministerio de Educación del Gobierno de España (now INTEF) decided to restart and to evolve the project. The new eXeLearning, as it was named, would keep alive the original open source spirit of the project, adapting the application to new web developments and standards and introducing major improvements.
+In 2013 eXeLearning evolved as a web application written in Python + Ext JS that can be used with the default or preferred browser of the user, capable for use in different browsers.
+Beginning with version 2.0, innovations included:
+
+Improvements in accessibility and presentation of contents.
+Replacement of the internal format used in eXe: the original version used a closed binary format and it has been changed to an open XML format.
+New option to export in XLIFF format to facilitate the translation of contents.
+Development of a command line version (exe_do) to facilitate the publishing and maintenance of contents through scripts.
+The Ability to generate editable SCORM packages with the tool itself.
+A new eXeLearning website was also developed, which allows users to actively participate in the project by making contributions and suggestions, and to find answers to different questions.
+The project is ongoing, with version 2.8.1 released in June 2023. The project roadmap includes plans for an online version of the application, rewriting in Python 3, and a new UI.
+
+Configuration
+Language management: we can work with eXeLearning in one language and generate content in another.
+It lets you choose the browser to work with.
+Advanced options:
+You can choose the type of document: XHTML or (the greatest improvement) HTML5.
+You can choose the level of tolerance of the text editor: Strict mode only allows XHTML or valid HTML5, Permissive mode allows us to enter any code.
+
+iDevices
+iDevices are the tools or blocks that can be included in our pages.
+eXeLearning 2.0 significantly improves its level of accessibility. Now it is much easier to generate accessible content.
+User experience has also improved: now the iDevices are grouped by categories and it is easier to select them. Users can also hide those they do not wish to use or show less common iDevices that can be relevant for them.
+Improvements in iDevices such as Image Gallery or Image Magnifier and proprietary solutions and / or Flash based are replaced.
+New iDevices are included.
+
+JavaScript and Styles
+jQuery is included in all contents generated.
+Import and export of Styles allowed.
+Responsive design. Now you can find Styles that can fit any device (smartphones, tablets, laptops....).
+Styles let you include JavaScript and customized HTML code.
+Some Styles let you hide Menu or minimize iDevices.
+
+Application handling
+Preview option: now you don't need to export to see the content edited so far.
+
+Text editor
+Layout by columns (tableless).
+New video and audio formats: mp4, ogv/ogg, webm, mp3, ogg, wav.
+The attribution and licensing is provided with the new option that allows users to add information in headers and footers of images, videos and audios.
+It is possible to use the Lightbox effect from the editor itself using the "rel" attribute in links.
+Now it is possible to export in two new formats:
+SCORM 2004 (educational standard)
+ePub3 (e-books standard)
+
+References
+
+[[EPUB]] [[GNU General Public License]] [[Web application]]

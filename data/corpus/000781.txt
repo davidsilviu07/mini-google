@@ -1,0 +1,48 @@
+Okular
+Okular is a free cross-platform document viewer developed by the KDE community based on the Qt and KDE Frameworks libraries. It is distributed as part of the KDE Applications bundle. It replaced KPDF, its main predecessor, alongside KGhostView, KFax, KFaxview and KDVI in KDE 4. Its functionality can be embedded in other applications.
+
+History
+Okular was started for the Google Summer of Code of 2005 by Piotr Szymański.  Okular was identified as a success story of the 2007 Season of Usability. In this season, the Okular toolbar mockup was created based on an analysis of other popular document viewers and a usage survey.
+When it was ported to Qt 5 in December 2016, the version numbering jumped from 0.26 to 1.0.
+Since September 2019, Okular has been available in the Windows Store.
+In December 2020, the software versioning scheme was changed from sequence-based identifier to CalVer.
+In February 2022, Okular was awarded the Blue Angel environmental label award by the German government for sustainable software design.
+
+Okular for Windows
+Okular is also available for Windows via the Microsoft Store As this version is often not the most recent version, the most current possibly unstable "test version" may be downloaded as an .exe from the project's website, older versions are not available for download 
+
+Features
+Okular's annotation features include commenting on PDF documents, highlighting and drawing lines, geometric shapes, adding textboxes, and stamps. Annotations are stored separately from the unmodified PDF file, or (since version 0.15 with Poppler 0.20) can be saved in the document as standard PDF annotations.
+Alongside regular text selection, rectangular selections can be copied or saved as images by right-clicking and dragging. Other features include reading text aloud using the Qt Speech module part of Qt since Qt 5 (previously using the Jovie,), trimming of white page borders, printing documents with a printer or to a PDF file, shifting colors, and bookmarks.
+
+Supported file formats
+Portable Document Format (PDF) with the Poppler backend
+PostScript with the libspectre backend
+Tag Image File Format (TIFF) with the libTIFF backend
+Microsoft Compiled HTML Help (CHM) with the libCHM backend
+DjVu with the DjVuLibre backend
+Device independent file format (DVI)
+Open XML Paper Specification (XPS)
+OpenDocument format (ODF) (only OpenDocument Text)
+FictionBook (*.fb2)
+ComicBook
+Plucker
+ePub
+Mobipocket
+Various image formats, such as JPG
+Markdown
+The official version obeys the DRM restrictions of PDF files by default, which may prevent copying, printing, or converting some PDF files. However, this can be turned off in the options under "Obey DRM limitations".
+
+See also
+
+List of PDF software
+Evince, the counterpart PDF viewer for GNOME
+
+References
+
+External links
+
+Official website
+Okular user wiki
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[GNU General Public License]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

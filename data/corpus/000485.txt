@@ -1,0 +1,14 @@
+Essential systems analysis
+Essential systems analysis was a new methodology for software specification published in 1984 by Stephen M. McMenamin and John F. Palmer for performing structured systems analysis based on the concept of event partitioning.
+The essence of a system is "its required behavior independent of the technology used to implement the system". It is an abstract model of what the system must do without describing how it will do it.
+The methodology proposed that finding the true requirements for an information system entails the development of an essential model for the system, based on the concepts of a perfect internal technology, composed of:
+
+a perfect memory, that is infinitely fast and big, and
+a perfect processor, that is infinitely potent and fast.
+Edward Yourdon later adapted it to develop modern structured analysis.
+The main result was a new and more systematic way to develop the data-flow diagrams, which are the most characteristic tool of structured analysis.
+Essential analysis, as adopted in Yourdon's modern structured analysis, was the main software development methodology until object-oriented analysis became mainstream.
+
+References
+
+[[Abstraction (computer science)]] [[Agile software development]] [[Aspect-oriented programming]] [[Backward compatibility]] [[CI/CD]] [[Capability Maturity Model Integration]] [[Compatibility layer]] [[Compatibility mode]] [[Component-based software engineering]] [[Computer compatibility]] [[Computer engineering]] [[Computer programming]] [[Computer science]] [[Data model]] [[Data modeling]] [[DevOps]] [[Empirical software engineering]] [[Enterprise architecture]] [[Enterprise unified process]] [[Entity–relationship model]] [[Executable UML]] [[Experimental software engineering]] [[Extreme programming]] [[Formal methods]] [[Forward compatibility]] [[Function model]] [[Functional specification]]

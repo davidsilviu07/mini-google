@@ -1,0 +1,70 @@
+OpenVSP
+OpenVSP (also Open Vehicle Sketch Pad) is an open-source parametric aircraft geometry tool originally developed by NASA. It can be used to create 3D models of aircraft and to support engineering analysis of those models.
+
+History
+Predecessors to OpenVSP including VSP and Rapid Aircraft Modeler (RAM) were developed by J.R. Gloudemans and others for NASA beginning in the early 1990s.  OpenVSP v2.0 was released as open source under the NOSA license in January 2012.  Development has been led by Rob McDonald since around 2012 and has been supported by NASA and AFRL among other contributions.
+OpenVSP allows the user to quickly generate computer models from ideas, which can then be analyzed. As such, it is especially powerful in generating and evaluating unconventional design concepts.
+
+Features
+
+User interface
+OpenVSP displays a graphical user interface upon launch, built with FLTK. A workspace window and a "Geometry Browser" window open. The workspace is where the model is displayed while the Geometry Browser lists individual components in the workspace, such as fuselage and wings. These components can be selected, added or deleted, somewhat like a feature tree in CAD software such as Solidworks. When a component is selected in the Geometry Browser window, a component geometry window opens. This window is used to modify the component.
+OpenVSP also provides API capabilities which may be accessed using Matlab, Python or AngelScript.
+
+Geometry modelling
+OpenVSP offers a multitude of basic geometries, common to aircraft modelling, which users modify and assemble to create models. Wing, pod, fuselage, and propeller are a few available geometries. Advanced components like body of revolution, duct, conformal geometry and such are also available.
+
+Analysis tools
+Besides the geometry modeler, OpenVSP contains multiple tools that help with aerodynamic or structural analysis of models. The tools available are:
+
+CompGeom - mesh generation tool that can handle model intersection and trimming
+
+Mass Properties Analysis - to compute properties like centre of gravity and moment of inertia
+Projected Area Analysis - to compute project area
+CFD Mesh - to generate meshes that may be used in Computational fluid dynamics analysis software
+FEA Mesh - to generate meshes that may be used in FEA analysis software
+DegenGeom - to generate various simplified representations of geometry models like point, beam and camber surface models
+VSPAERO - for vortex lattice or panel method based aerodynamic and flight dynamic analysis
+
+Wave Drag Analysis - for estimating wave drag of geometries
+Parasite Drag Analysis - for estimating parasite drag of geometries based on parameters like wetted area and skin friction coefficient
+Surface fitting - for fitting a parametric surface to a point cloud
+Texture Manager - for applying image textures to geometry for aiding visualization
+FEA Structure - for creating internal structures such as ribs and spars
+
+Compatibility with other software
+OpenVSP permits import of multiple geometry formats like STL, CART3D (.tri) and PLOT3D.
+Point clouds may also be imported and used to fit a parametric surface.
+Geometry created in OpenVSP may be exported as STL, CART3D (.tri), PLOT3D, STEP and IGES, OBJ, SVG, DXF and X3D file formats. These file formats allow geometries to be used for mesh generation and in CFD or FEA software.
+
+Community repository
+
+OpenVSP Hangar
+OpenVSP Hangar (also VSP Hangar) provides users a place to upload models and promotes sharing of geometry created in OpenVSP. Each model is allowed revisions with accompanying details on source quality.
+Since end of 2023, OpenVSP Hangar has been closed and no backup downloads has been provided.
+
+OpenVSP Airshow
+On 22 August 2024, OpenVSP Airshow (also VSP Airshow), a successor to OpenVSP Hangar, has been launched.
+
+All of the v3 models on the Hangar have been ported over to the Airshow.
+
+OpenVSP Workshop
+OpenVSP Workshop — is an offline event where developers and users meet to discuss progress and use of OpenVSP.  The Workshop has been held annually since 2012 (except 2018).  The 2020 and 2021 Workshops were held online due to the  COVID-19 pandemic.  The 2024 Workshop was held at the Museum of Flight in Seattle.
+Papers, slides and other workshops materials published on OpenVSP wiki site in a few days after workshops ends.
+
+OpenVSP Ground School
+OpenVSP Ground School is a set of comprehensive tutorials under development by Brandon Litherland at NASA. Ground school tutorials provide details on OpenVSP features and techniques, along with tutorials for beginner and advanced users, and are hosted on the Langley Research Center website.
+
+See also
+
+Comparison of computer-aided design software
+List of aerospace engineering software
+XFOIL
+XFLR5
+
+References
+
+External links
+VSP Airshow
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

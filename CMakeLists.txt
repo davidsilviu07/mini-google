@@ -13,6 +13,8 @@ set(CORE_SOURCES
     src/link_graph.cpp
     src/pagerank.cpp
     src/index_store.cpp
+    src/vector_search.cpp
+    src/fusion.cpp
 )
 
 add_executable(search src/main.cpp ${CORE_SOURCES})
@@ -27,6 +29,8 @@ add_executable(run_tests
     tests/test_link_graph.cpp
     tests/test_pagerank.cpp
     tests/test_persistence.cpp
+    tests/test_vector_search.cpp
+    tests/test_fusion.cpp
     ${CORE_SOURCES}
 )
 add_test(NAME unit_tests COMMAND run_tests)

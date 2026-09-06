@@ -1,0 +1,33 @@
+Nathaniel Rochester (computer scientist)
+Nathaniel Rochester (January 14, 1919 – June 8, 2001) was the chief architect of the IBM 701, the first mass-produced scientific computer, and of the prototype of its first commercial version, the IBM 702. He wrote the first assembler and participated in the founding of the field of artificial intelligence.
+
+Early work
+Rochester received his B.S. degree in electrical engineering from the Massachusetts Institute of Technology in 1941. He stayed on at MIT in the Radiation Laboratory for three years and then moved to Sylvania Electric Products where he was responsible for the design and construction of radar sets and other military equipment. His group built the arithmetic element for the Whirlwind I computer at MIT.
+
+IBM 701 computer
+In 1948, Rochester moved to IBM, where he co-designed, along with Jerrier Haddad, the first mass-produced scientific computer, the IBM 701. He wrote the first symbolic assembler, which allowed programs to be written in short, readable commands rather than pure numbers or punch codes. He became the chief architect of IBM's 700 series of computers.
+
+Artificial intelligence
+In 1955, IBM organized a group to study pattern recognition, information theory and switching circuit theory, headed by Rochester. Among other projects, the group simulated the behaviour of abstract neural networks on an IBM 704 computer.
+That summer John McCarthy, a young Dartmouth College mathematician, was also working at IBM. He and Marvin Minsky had begun to talk seriously about the idea of intelligent machines. They approached Rochester and Claude Shannon with a proposal for a conference on the subject. With the support of the two senior scientists, they secured $7,000 from the Rockefeller Foundation to fund a conference in the summer of 1956. The meeting, now known as the Dartmouth workshop, is widely considered the "birth of artificial intelligence."
+Rochester continued to supervise artificial intelligence projects at IBM, including Arthur Samuel's checkers program, Herbert Gelernter's Geometry Theorem Prover and Alex Bernstein's chess program. In 1958, he was a visiting professor at MIT, where he helped McCarthy with the development of the Lisp programming language.
+The artificial intelligence programs developed at IBM began to generate a great deal of publicity and were featured in articles in both Scientific American and The New York Times. IBM shareholders began to pressure Thomas J. Watson Jr., the president of IBM, to explain why research dollars were being used for such "frivolous matters." In addition, IBM's marketing people had begun to notice that customers were frightened of the idea of "electronic brains" and "thinking machines". An internal report prepared around 1960 recommended that IBM end broad support for AI and so the company ended its AI program and began to aggressively spread the message that "computers can only do what they were told."
+
+Later work
+In the 1960s, Rochester continued to work at IBM, directing research in cryogenics and tunnel diode circuits.  By 1975 he was working at IBM Cambridge Research on the IBM Chord Keyboard.  Later, he joined IBM's Data Systems Division, where he developed programming languages.
+
+Recognition
+Rochester was appointed an IBM Fellow in 1967, the company's highest technical position. In 1984 he received the Computer Pioneer Award from the IEEE Computer Society.
+
+Notes
+
+References
+Crevier, Daniel (1993). AI: The Tumultuous Search for Artificial Intelligence. New York, NY: BasicBooks. ISBN 0-465-02997-3.
+McCarthy, John; Minsky, Marvin; Rochester, Nathan; Shannon, Claude (1955), A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence
+United States National Research Council (1999), "Developments in Artificial Intelligence", Funding a Revolution: Government Support for Computing Research, National Academy Press, retrieved 30 August 2007
+Pigott, Diarmuid (1995), Nathaniel Rochester, data from IEEE Transactions August 1964, Special Issure on Computer Languages
+
+External links
+Oral history interview with Gene Amdahl Charles Babbage Institute, University of Minnesota, Minneapolis.  Amdahl discusses his role in the design of several computers for IBM including the STRETCH, IBM 701, 701A, and IBM 704. He discusses his work with Nathaniel Rochester and IBM's management of the design process for computers.
+
+[[Artificial intelligence]] [[Claude Shannon]] [[Electrical engineering]] [[IBM 700/7000 series]]

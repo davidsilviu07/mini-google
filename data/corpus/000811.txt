@@ -1,0 +1,65 @@
+PCB (software)
+PCB is a free and open-source software suite for electronic design automation (EDA) - for printed circuit boards (PCB) layout. It uses GTK+ for its GUI widgets.
+
+History
+PCB was first written by Thomas Nau for an Atari ST in 1990 and ported to UNIX and X11 in 1994. Initially PCB was not intended to be a professional layout system but as a tool for individuals to do small-scale development of hardware.
+The second release 1.2 introduced user menus. This made PCB easier to use and increased its popularity.
+Harry Eaton took over PCB development beginning with Release 1.5, although he contributed some code from Release 1.4.3.
+PCB includes a topological autorouter named Toporouter, developed by Anthony Blake in a Google-funded open source project mentored by DJ Delorie in 2008. It is mostly based on an implementation of the algorithms described in Tal Dayan's 1997 PhD thesis, "Rubberband based topological router". This router has meanwhile been adapted for use with the open-source KiCad project as well.
+In 2013, pcb-rnd was forked from PCB.
+
+Features
+Scalable fonts
+Layer groups to keep signals together
+Add on device drivers
+Gerber RS-274X and NC Drill output support
+Centroid (X-Y) data output
+PostScript and Encapsulated PostScript output
+Rats-nest generation from simple net lists
+Automatic clearance around pins that pierce a polygon
+Flags for pins and vias
+Groups of action commands can be undone by a single undo
+Simple design rule checker (DRC) - checks for minimum spacing and overlap rules
+Drawing directly on the silk layer
+Viewable solder-mask layers and editing
+Netlist window
+Netlist entry by drawing rats
+Auto router
+Snap to pins and pads
+Element files and libraries that can contain whole sub-layouts, metric grids
+Up to 16 copper layer designs by default
+Trace optimizer
+Rats nest
+Connectivity verification
+Can interoperate with free schematic capture tools such as gEDA and XCircuit
+GNU autoconf/automake based build system
+PCB is Free Software
+
+File formats
+
+Import
+PCB accepts textual file in the form of a network lists and associated pins. Such file may be produced from a GEDA or XCircuit program or some other
+
+Export
+bom: Bill of materials.
+gcode: G-code.
+gerber: Gerber.
+.ps: PostScript.
+.eps: Eps.
+.png: Image.
+.nelma: Nelma.
+.gsvit
+.ipc-d-356
+
+See also
+
+Comparison of EDA software
+List of free electronics circuit simulators
+
+References
+
+External links
+pcb.geda-project.org/pcb-cvs/pcb.html
+history of gEDA/PCB
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[GNU General Public License]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

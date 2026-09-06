@@ -1,0 +1,45 @@
+Shapr3D
+Shapr3D is 3D modeling software initially released for iPadOS to work with the Apple Pencil and multi-touch gesturing as a workflow.  It has been ported to run on macOS and Windows.
+
+History
+
+Founding and Early Development (2014-2016)
+Shapr3D was founded by István Csanády in Budapest, Hungary.
+In 2014, Csanády made a bet on Apple's (at the time rumored) iPad Pro, believing that Apple would reposition the iPad from a content consumption device to a content creation tool. This vision drove the founding of Shapr3D, combining his background in CAD with the emerging potential of professional tablet computing.
+Shapr3D has adopted the approach of creating accessible tools that enable anyone in a design organization to contribute to 3D modeling workflows.
+
+Product Launch (2016-2020)
+2016: Shapr3D 1.0 launched exclusively on the iPad Pro in March, designed specifically for the Apple Pencil and featured in Apple advertisements. The initial product took three years to establish solid foundations, as building an industrial-grade CAD system proved extremely challenging.
+2017: Shapr3D 3.0 marked a significant technical transition in December from the open-source Open Cascade Technology geometric modeling kernel to the industry-leading Parasolid geometry kernel, enhancing modeling precision and compatibility.
+2020: Shapr3D won the Apple Design Awards, recognizing the software for innovation, ingenuity, and outstanding design in mobile application development.
+2021: The company had reached approximately 100 employees. 
+
+Platform Expansion and Brand Evolution (2021-2024)
+2021: Shapr3D expanded to macOS in April, bringing more flexibility and processing power to users.
+2022: Introduction of cross-device synchronization in September, enabling seamless work continuation across different machines.
+2023: Launch of History-Based Parametric Modeling in September, moving from beta to full release. The year also marked significant brand and user interface refreshes, developed in collaboration with Berlin-based design studio Koto, reflecting the company's evolution and introducing the "Harness Complexity" philosophy.
+2024: Release on Apple Vision Pro in March, becoming the only full-featured CAD tool available on the platform. Introduction of Teamspace in June for collaborative design sharing.
+
+Technical Specifications
+
+Geometric Modeling Kernel
+Shapr3D utilizes the Parasolid geometric modeling kernel, transitioning from Open Cascade in 2017. This provides high-precision geometric calculations, boolean operations, and compatibility dicated by industry (ISO) standards.
+
+Platform Support
+Source:
+
+iPadOS: Native application optimized for iPad Pro and Apple Pencil
+macOS: Full-featured desktop application (launched 2021)
+Windows: Desktop version
+visionOS: Initially available via Apple Vision Pro (launched 2024)
+Cloud Integration (PDM): Cross-platform synchronization (launched 2022)
+
+Release history
+
+See also
+List of 3D modeling software
+Comparison of computer-aided design software
+
+References
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

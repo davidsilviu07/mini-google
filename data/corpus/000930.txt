@@ -1,0 +1,34 @@
+SpaceClaim
+SpaceClaim is a solid modeling CAD (computer-aided design) software that runs on Microsoft Windows and developed by SpaceClaim Corporation. The company is headquartered in Concord, Massachusetts.
+SpaceClaim Corporation was founded in 2005 to develop 3D solid modeling software for mechanical engineering. Its first CAD application was launched in 2007 and used an approach to solid modeling where design concepts are created by pulling, moving, filling, combining, and reusing 3D shapes.
+It was acquired by Ansys in May 2014, Inc, and was integrated in subsequent versions of Ansys Simulation packages as a built-in 3D modeler.
+SpaceClaim Corporation markets SpaceClaim Engineer directly to end-user and indirectly by other channels. SpaceClaim also licenses its software for OEMs, such as ANSYS, Flow International Corporation, CatalCAD.
+
+Modeling technology
+SpaceClaim's 3D direct modeling technology is primarily expressed through its user interface in four tools: pull, move, fill, and combine:
+
+Pull contains most creation features found in traditional CAD systems, determining its behavior through users’ selection and though the use of secondary tool guides. For example, using the Pull tool on a face by default offsets the face, but using the Pull tool on an edge rounds the edge.
+Move repositions components and geometry, and can also be used to create patterns (often called arrays).
+Fill primarily removes geometry from a part by extending geometry to fill in the surrounding area. Popular uses include deleting rounds and holes from a model. SpaceClaim Engineer also includes more specialized tools for model preparation.
+Combine performs boolean and splitting operations, such as merging parts and subtracting parts from each other.
+These functions were developed in the modelling kernel ACIS licensed to SpaceClaim by Dassault Systèmes.
+
+History
+In September 2005, Mike Payne, Danny Dean, David Taylor, and Blake Courter founded SpaceClaim Corporation. Mike Payne was previously a founder of PTC and SolidWorks, CTO of Dassault Systèmes, and COO of Spatial.  On April 1, 2007, SpaceClaim released SpaceClaim 2007 Professional, its first commercial release.
+On September 30, 2008, Chris Randles become CEO and Mike Payne become chairman of the board.
+On July 21, 2009, SpaceClaim announced support for multi-touch hardware.
+On April 29, 2014, technical software company ANSYS (NASDAQ: ANSS) acquired SpaceClaim for $85 million in cash, plus considerations. [2]. ANSYS is specialized in developing software for product development simulation and analysis, and has sold a version of SpaceClaim (named ANSYS SpaceClaim Direct Modeler) as an option for its CAE software since 2009.
+
+Release history
+
+See also
+Comparison of CAD software
+Comparison of CAD editors for CAE
+
+References
+
+External links
+Official Web Site
+CatalCAD SpaceClaim product
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Ansys]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

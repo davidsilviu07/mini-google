@@ -1,0 +1,35 @@
+Electronic voting in Belgium
+Electronic voting in Belgium started in 1991 when two locations were chosen to experiment on different electronic voting systems during the 24 November 1991 general elections. The law of 16 July 1991 to permit this experiment was passed by an absolute majority with no opposition at all. One of the systems tested was based on a touch panel similar to those used in the Netherlands. The other system, still in use in 2004, is based on a magnetic card and an electronic ballot marking device with a light pen.
+The experiments in 1991 were carried out in the Dutch-speaking municipality of Waarschoot (East Flanders) and the French-speaking municipality of Verlaine (Liège) during the general election of 24 November 1991.
+In 1994 (European and local elections) the electronic voting experiment was extended to around 22% of the Belgian population. Every kind of voting area was tested: big cities, small villages, French speaking, Dutch speaking or legally speaking both languages.
+In 1999 the system was extended to 44% of the population. However, due to lobbying from groups like PourEva and increasing doubt about the system, new tests were done and more controls were added. The most important test is the introduction of optical reading of paper ballots in two areas. This test was scheduled for 3 elections up to 2003 and was not re-conducted. The test was successful and gave no problems, despite this being the first election to use it. Optical reading of eVoting is Voter Verified Paper Audit Trail and guarantees the possibility of a human recount. The extra control introduced is the creation of an expert committee to monitor the electronic election process. That committee discovered the high dependency of the ministry of interior toward the vendor of the eVoting system.
+In 2000 the local elections in Auderghem (part of Brussels) were contested in all available Belgian courts and the issue of legality of eVoting was raised before the European Court of Human Rights. The European court discarded the request without analysing the content.
+In 2003 a new eVoting system was introduced to try to convince citizens that the system was safe. In the two locations that originally started eVoting, a "Ticketing" system was introduced. The principle of this is to add a printer next to the voting machine (magnetic card and light pen), and a paper copy of the vote is printed and approved by the voter. Once the elections are finished, all the paper votes (tickets) are counted and compared to the electronic result. In case of discrepancy, the paper version rules. The paper count and the electronic count matched nowhere, and it was decided (against the law) to favour the electronic result, which was considered more reliable. The law to organise this new test stated explicitly that this was for one election only.
+In 2004, for the European elections, all the tests were ended and all 44% of the population already voting electronically did so with the magnetic card. Ticketing or Optical Reading were no longer used. Since 1999 no further locations migrated from paper to eVoting. The equipment acquired in 1994 was not supposed to be used in 2004; however, the government chose to use it for one more year.
+As of 2024, electronic voting is used:
+
+In all 19 municipalities of the Brussels-Capital Region
+In all 9 municipalities of the German-speaking Community of Belgium
+In none of the (remaining, i.e. non-German-speaking) municipalities of Wallonia
+In 159 of the 300 municipalities of Flanders
+
+Reported problems
+In the elections on 18 May 2003 there was an electronic voting problem reported in Schaerbeek where MARIA (a political party) got 4096 extra votes. The error was only detected because the party had more preferential votes than their own list which is impossible in the voting system. The official explanation was "the spontaneous creation of a bit at the position 13 in the memory of the computer".
+One explanation for the error was a single-event upset caused by a cosmic ray, which the voting system did not protect against.
+Furthermore, a sourcecode analysis of the Digivote system in 2004 found several obvious errors with the security of the encryption keys, leaking of sensitive information, and lack of defensive secure coding practices. The voting system was also found to be vulnerable to a limited replay attack.
+
+See also
+Elections in Belgium
+Voting rights in Belgium
+
+Notes
+
+References
+
+External links
+PourEva, Pour une Ethique du Vote Automatisé
+DigiVote, web site of trade name owner
+UK, UK Brahler ICS site
+official source code release
+
+[[Ballot marking device]] [[Electronic voting]]

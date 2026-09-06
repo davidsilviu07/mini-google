@@ -1,0 +1,41 @@
+Foliate (software)
+Foliate is a free and open-source program for reading e-books in Linux. In English, foliate is an adjective meaning to be shaped like a leaf, from the Latin foliatus, meaning leafy.
+
+Features
+Foliate focuses on reading and supports book management with a dedicated library view. It supports typical e-book formats with reflowable text: EPUB (primary focus), Mobipocket, AZW(3), and no formats with fixed layout, although PDF support is also available.
+Its customizable and theme-based user interface is inspired by those of portable e-reader hardware devices. It follows the GNOME standards and automatically adapts to different screen formats. It is streamlined for distraction-free reading and is described as pleasant and more polished than other free desktop applications. Books are displayed in a paginated view, with double-page or single-page view depending on screen size, or in a continuous scrolling view, with customizable typeface, spacing/margins, brightness and size/zoom.
+Control elements hide with an automatic fading effect while basic navigation with hidden controls is still possible by clicking/tapping on pages or arrow keys. It has a toggleable navigation sidebar, can display a reading time estimate with a progress slider with chapter markers and supports multi-touch gestures such as pinch zoom. A full-screen mode can be activated.
+Foliate can browse the OPDS feed of Project Gutenberg, Standard Ebooks and Feedbooks, and can automatically download royalty free ebooks from these sources. It is also possible to manually add other OPDS sources.
+Foliate supports speech synthesis using eSpeak, eSpeakNG or Festival, albeit without automatic detection of the content language. It is also possible to use Google's text to speech service in Foliate.
+A full-text search is available (also for annotations), as well as word lookup (in Wikipedia and Wiktionary or offline dictionaries via a dictd interface) and integration of Google Translate.
+The application stores reading progress, bookmarks and annotations in a central directory using one JSON file per book. These can be synchronized with other devices, although it uses a format that does not work immediately with other reading software. It can also check for spelling errors in annotations and export them as Markdown.
+It is not able to synchronize e-books with a hardware reader device.
+
+Technology
+The application is written in JavaScript, based on the JavaScript interpreter GJS, the epub.js library, the rendering engine WebKit and GTK 4 (previously GTK 3) for the user interface. Optionally gspell can be used for spell checking of annotations. Support for the Kindle formats (mobi, azwX) was based on a Python module until version 3.0.0.
+Version 3.0.0 added GTK 4 and LibAdwaita support. Released in November 2023, it is a full rewrite of the app. It now has its own e-book parser and renderer.
+
+Distribution
+Foliate is published as Free Software, and therefore with its complete source code, under the terms of the GNU General Public License version 3 or later. It was first published on 26 May 2019 on GitHub.
+Binary files are distributed primarily as Flatpak packages via Flathub. These can be installed on several major Linux distributions using on-board tools.
+It has been included in the default package repositories of several distributions, including Fedora, Arch and OpenSUSE. Additionally, there are Snap packages available through the snap store and a .deb file for Debian-based distributions which can also be installed and updated via a Personal Package Archive under Ubuntu and its siblings. It can be also installed in an Android phone using Termux and VNC. Foliate can be installed on Windows with WSL. While Foliate cannot be installed on Windows, MacOS and Android as a native app, Readest, a modern rewrite of Foliate, is available as a cross platform ebook reader application in all these platforms, as well as Linux.
+
+See also
+
+Sumatra PDF, a free and open-source e-book reading application for Windows
+List of PDF software
+
+Sources
+Das, Ankush (2020-04-13). "Foliate: A Modern eBook Reader App for Linux". It's FOSS. Retrieved 2020-05-25.
+Langner, Christoph (December 2019). "Tutorial – Foliate". Linux Magazine. Retrieved 2020-05-25.
+Sneddon, Joey (2019-05-30). "Foliate is an Epic eBook Reader for Linux Desktops (Updated)". OMG! Ubuntu!. Retrieved 2020-05-25.
+
+References
+
+External links
+
+Website
+Flathub page
+GitHub page
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[GNU General Public License]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Wikipedia]] [[Writer2epub]]

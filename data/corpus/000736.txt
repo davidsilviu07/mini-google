@@ -1,0 +1,43 @@
+Myoclonic astatic epilepsy
+Myoclonic astatic epilepsy (MAE), also known as myoclonic atonic epilepsy or Doose syndrome, and renamed "Epilepsy with myoclonic-atonic seizures" in the ILAE 2017 classification, is a generalized idiopathic epilepsy. It is characterized by the development of myoclonic seizures and/or myoclonic astatic seizures. Some of the common monogenic causes include mutations in the genes SLC6A1 (3p25.3), CHD2 (15q26.1) and AP2M1 (10q23.2).
+
+Signs and symptoms
+Tonic-clonic seizures: seizures with repetitive sequences of stiffening and jerking of the extremities.
+Myoclonic seizures: seizures with rapid, brief contractions of muscles.
+Atonic seizures: seizures with a sudden loss of muscle tone, often resulting in sudden collapse. These are also called drop seizures or astatic seizures.
+Absence seizures: a generalized seizure characterized by staring off and occasionally some orofacial automatisms.
+Myoclonic astatic seizures: seizures that involve a myoclonic seizure followed immediately by an atonic seizure. This type of seizure is exclusive to MAE and is one of the defining characteristics of this syndrome.
+Tonic seizures: muscle stiffening or rigidity. This seizure is rare in this syndrome.
+
+Onset
+The onset of seizures is between the ages of 2 and 5 years of age. EEG shows regular and irregular bilaterally synchronous 2- to 3-Hz spike-waves and polyspike patterns with a 4- to 7-Hz background. 84% of affected children show normal development prior to seizures; the remainder show moderate psychomotor retardation mainly affecting speech. Boys (74%) are more often affected than girls (Doose and Baier 1987a).
+
+Treatments
+The treatment for seizures may include antiepileptic medications, diet and vagus nerve stimulator.
+
+Medication
+Any number of medications may be used to both prevent and treat seizures.
+Generally after three medications are tried, different treatment should be considered. Some medications are harmful to those with this syndrome and can increase seizures.
+
+Diet
+The ketogenic diet mimics some of the effects of starvation, in which the body first uses up glucose and glycogen before burning stored body fat. In the absence of glucose, the body produces ketones, a chemical by-product of fat metabolism that has been known to inhibit seizures.
+A modified version of a popular low-carbohydrate, high-fat diet which is less restrictive than the ketogenic diet.
+The low glycemic index treatment (LGIT) is a new dietary therapy currently being studied to treat epilepsy. LGIT attempts to reproduce the positive effects of the ketogenic diet. The treatment allows a more generous intake of carbohydrates than the ketogenic diet, but is restricted to foods that have a low glycemic index, meaning foods that have a relatively low impact on blood-glucose levels. These foods include meats, cheeses, and most vegetables because these foods have a relatively low glycemic index. Foods do not have to be weighed, but instead careful attention must be paid to portion size and balancing the intake of carbohydrates throughout the day with adequate amounts of fats and proteins.
+
+Prognosis
+Epilepsy with myoclonic-astatic seizures has a variable course and outcome. Spontaneous remission with normal development has been observed in a few untreated cases. Complete seizure control can be achieved in about half of the cases with antiepileptic drug treatment (Doose and Baier 1987b; Dulac et al. 1990). In the remainder of cases, the level of intelligence deteriorates and the children become severely intellectually disabled. Other neurologic abnormalities such as ataxia, poor motor function, dysarthria, and poor language development may emerge (Doose 1992b). However, this proportion may not be representative because in this series the data were collected in an institution for children with severe epilepsy.
+The outcome is unfavorable if generalized tonic-clonic, tonic, or clonic seizures appear at the onset or occur frequently during the course. Generalized tonic-clonic seizures usually occur during the daytime in this disorder, at least in the early stages. Nocturnal generalized tonic-clonic seizures, which may develop later, are another unfavorable sign. If tonic seizures appear, prognosis is poor.
+Status epilepticus with myoclonic, astatic, myoclonic-astatic, or absence seizures is another ominous sign, especially when prolonged or appearing early.
+Failure to suppress the EEG abnormalities (4- to 7-Hz rhythms and spike-wave discharges) during therapy and absence of occipital alpha-rhythm with therapy also suggest a poor prognosis (Doose 1992a).
+
+History
+Myoclonic-astatic epilepsy was first described and identified in 1970 by Hermann Doose as an epilepsy syndrome, hence its original label, Doose syndrome. 1989, it was classified as a symptomatic generalized epilepsy by the International League Against Epilepsy (ILAE).
+
+See also
+SLC6A1 epileptic encephalopathy
+
+References
+
+External links
+
+[[Absence seizure]] [[Anticonvulsant]] [[Atonic seizure]] [[Aura (symptom)]] [[Automatism (medicine)]] [[Benign familial neonatal seizures]] [[CACNA1C-related disorders]] [[Cerebrospinal fluid]] [[Citizens United for Research in Epilepsy]] [[Complex partial status epilepticus]] [[Dementia]] [[Dentatorubral–pallidoluysian atrophy]] [[Early myoclonic encephalopathy]] [[Electroencephalography]] [[Encephalopathy]] [[Epilepsia partialis continua]] [[Epilepsy]] [[Epilepsy Action]] [[Epilepsy Action Australia]] [[Epilepsy Foundation]] [[Epilepsy Outlook]] [[Epilepsy Society]] [[Epilepsy and driving]] [[Epilepsy and employment]] [[Epilepsy in animals]] [[Epilepsy in children]] [[Epileptogenesis]] [[Epileptologist]] [[Febrile seizure]] [[Focal seizure]] [[Frontal lobe epilepsy]] [[Gelastic seizure]] [[Generalized epilepsy]] [[Generalized tonic–clonic seizure]] [[International League Against Epilepsy]] [[Intracranial pressure]] [[Issues for people with epilepsy]] [[Juvenile myoclonic epilepsy]] [[KCNH1-related disorders]] [[Lafora disease]] [[Landau–Kleffner syndrome]] [[Lennox–Gastaut syndrome]] [[MERRF syndrome]] [[Migraine]] [[Myoclonic epilepsy]] [[Neonatal seizure]] [[Panayiotopoulos syndrome]] [[Parkinson's disease]] [[Postictal state]] [[Progressive myoclonus epilepsy]] [[Psychogenic non-epileptic seizure]] [[Rolandic epilepsy]] [[Seizure types]] [[Sleep-related hypermotor epilepsy]] [[Spinal cord]] [[Status epilepticus]] [[Stroke]] [[Sudden unexpected death in epilepsy]]

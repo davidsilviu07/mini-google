@@ -1,0 +1,34 @@
+George Forsythe
+George Elmer Forsythe (January 8, 1917 – April 9, 1972) was an American computer scientist and numerical analyst who founded and led Stanford University's Computer Science Department.
+Forsythe came to Stanford in the Mathematics Department in 1959, and served as professor and chairman of the Computer Science department from 1965 until his death. He served as the president of the Association for Computing Machinery (ACM), coauthored four books on computer science and a fifth on meteorology, and edited more than 75 other books on computer science.
+
+Early life
+George Elmer Forsythe was born on January 8, 1917, in State College, Pennsylvania. Forsythe's family moved to Ann Arbor, Michigan when George was a young boy. Forsythe became interested in computing at a young age, experimenting with hand-cranked desk calculators.
+Forsythe earned a Bachelor of Science in mathematics at Swarthmore College in 1937, where he was awarded a scholarship. He completed a Ph.D. in mathematics at Brown University in 1941 under the direction of Jacob David Tamarkin. After receiving his doctorate, Forsythe went to Stanford University to work as an instructor in mathematics. His teaching career was interrupted by service in the U.S. Air Force and a stint at Boeing.
+
+Professional life
+Forsythe married Alexandra I. Forsythe, who wrote the first published textbook in computer science and actively participated in her husband's work, while promoting a more active role for women than was common at the time. Between 1950 and 1958 both of them programmed using the SWAC at the National Bureau of Standards (NBS) in Los Angeles and later at UCLA after the western division of NBS was closed due to political pressures (see Oral History cited below). With his wife, Forsythe had a daughter and a son.
+According to Donald Knuth, Forsythe's greatest contributions were helping to establish computer science as its own academic discipline and starting the field of refereeing and editing algorithms as scholarly work. Professor Forsythe supervised 17 PhD graduates; many of them went into academic careers. He won a Lester R. Ford Award in 1969 and again in 1971.
+
+Books by Forsythe
+Dynamic Meteorology (with William Gustin and Jørgen Holmboe), John Wiley & Sons, New York, 1945, 378+xvi pp.
+Bibliographical Survey of Russian Mathematical Monographs, 1930 to 1951. National Bureau of Standards Report, 1628. Washington, DC: National Bureau of Standards. 1952.
+Bibliography of Russian Mathematics Books, Chelsea, New York, 1956, 106 pp.
+Numerical analysis and partial differential equations. Contemporary state of numerical analysis, Wiley 1958 (with Paul C. Rosenbloom: Linear partial equations)
+Finite Difference Methods for Partial Differential Equations (with Wolfgang Wasow), John Wiley, New York, 1966, 444 pp.
+Computer Solution of Linear Algebraic Systems (with Cleve B. Moler), Prentice-Hall, Englewood Cliffs, New Jersey, 1967, 153 pp.
+Computer methods for mathematical computations (with Michael A. Malcolm and Cleve B. Moler), Prentice-Hall Series in Automatic Computation, Prentice-Hall., Englewood Cliffs, New Jersey, 1977.  MR 0458783 ISBN 0-13-165332-6 This book about numerical methods was partly finished when Forsythe died.
+Knuth's 1972 CACM article lists all of Forsythe's published works.
+
+References
+
+External links
+
+O'Connor, John J.; Robertson, Edmund F., "George Forsythe", MacTutor History of Mathematics Archive, University of St Andrews
+George Elmer Forsythe at the Mathematics Genealogy Project 
+George E. Forsythe at DBLP Bibliography Server 
+Oral history interview with Alexandra Forsythe, Charles Babbage Institute, University of Minnesota.  Forsythe discusses the career of her husband, George Forsythe, and his founding and early years of the Stanford Computer Science Department.
+Oral history interview with Albert H. Bowker, Charles Babbage Institute.  Bowker discusses his role in the formation of the Stanford University computer science department, his hiring of George Forsythe in 1959, and the creation of a Division of Computer Science in 1963
+Oral history interview with John Herriot, Charles Babbage Institute, University of Minnesota.  Discusses the formation and development of the Stanford Computer Science Department, centering on the role of George Forsythe.
+
+[[Algorithm]] [[Association for Computing Machinery]] [[Computer science]] [[Computer scientist]] [[Donald Knuth]]

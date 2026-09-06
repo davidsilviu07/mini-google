@@ -1,0 +1,23 @@
+Anterior temporal lobectomy
+Anterior temporal lobectomy (ATL) is the complete or partial removal of the anterior portion of the temporal lobe of the brain. The exact boundaries for removal can vary slightly in practice and between neurosurgeons. It is a treatment option for temporal lobe epilepsy for those in whom anticonvulsant medications do not control epileptic seizures, and who have frequent seizures, and who additionally qualify based on a WADA test to localize the dominant hemisphere for language module.
+
+Techniques
+The techniques for removing temporal lobe tissue vary from resection of large amounts of tissue, including lateral temporal cortex along with medial structures, from using more restricted ATL to more restricted removal of only the medial structures (selective amygdalohippocampectomy).
+Nearly all reports of seizure outcome following these procedures indicate that the best outcome group includes patients with MRI evidence of mesial temporal sclerosis (hippocampal atrophy with increased T-2 signal). The range of seizure-free outcomes for these patients is reported to be between 80% and 90%, which is typically reported as a sub-set of data within a larger surgical series.
+
+Risks and complications
+Open surgical procedures such as ATL have inherent risks including damage to the brain (either directly or indirectly by injury to important blood vessels), bleeding (which can require re-operation), blood loss (which can require transfusion), and infection. Furthermore, open procedures require several days of care in the hospital including at least one night in an intensive care unit. Although such treatment can be costly, multiple studies have demonstrated that ATL in patients who have failed at least two anticonvulsant drug trials (thereby meeting the criteria for medically intractable temporal lobe epilepsy) has lower mortality, lower morbidity and lower long-term cost in comparison with continued medical therapy without surgical intervention.
+The strongest evidence supporting ATL over continued medical therapy for medically refractory temporal lobe epilepsy is a prospective, randomized trial of ATL compared to best medical therapy (anticonvulsants), which convincingly demonstrated that the seizure-free rate after surgery was about 60% as compared to only 8% for the medicine only group. Furthermore, there was no mortality in the surgery group, while there was seizure-related mortality in the medical therapy group. Therefore, ATL is considered the standard of care for patients with medically intractable mesial temporal lobe epilepsy.
+
+Recovery
+Recovery after ATL can take several weeks to months. Anti-seizure medications will be continued for several months after ATL. As it is an open surgery it takes time for the brain to heal. Speech therapy, occupational therapy, etc. can help recovery. About 90% of people experience an improvement in seizures after temporal lobectomy. In mesial temporal lobe epilepsy, NAA (N-acetyl aspartate) has reduced concentration in epileptogenic hippocampus and contralateral hippocampus. In post-operative seizure free patients, NAA levels were significantly higher than post-operative non-seizure free patients and then returned to the normal level.
+
+History
+ATL was popularised in the early 1980s and was found effective.
+
+References
+
+External links
+Surgery Encyclopedia: Anterior temporal lobectomy
+
+[[Amygdalohippocampectomy]] [[Anticonvulsant]] [[Bilateral cingulotomy]] [[Brain biopsy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral shunt]] [[Cerebrum]] [[Clinical prediction rule]] [[Computed tomography of the head]] [[Cordotomy]] [[Corpus callosotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Hypophysectomy]] [[Intensive care unit]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure monitoring]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[Myelography]] [[National Institutes of Health Stroke Scale]] [[Pallidotomy]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Psychosurgery]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Suboccipital puncture]]

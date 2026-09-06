@@ -1,0 +1,34 @@
+Grasshopper 3D
+Grasshopper is a visual programming language and environment that runs within the Rhinoceros 3D computer-aided design (CAD) application. The program was created by David Rutten, at Robert McNeel & Associates. Programs are created by dragging components onto a canvas. The outputs of those components are then connected to the inputs of subsequent components.
+
+Overview
+Grasshopper is primarily used to build generative algorithms, such as for generative art. Many of Grasshopper's components create 3D geometry. Programs may also contain other types of algorithms including numeric, textual, audio-visual and haptic applications. 
+Advanced uses of Grasshopper include parametric modelling for structural engineering, architecture and fabrication, lighting performance analysis for energy efficient architecture, and building energy use.
+The first version of Grasshopper, then named Explicit History, was released in September 2007. Grasshopper was made part of the standard Rhino toolset in Rhino 6.0, and continues to be.
+AEC Magazine stated that Grasshopper is "Popular among students and professionals, McNeel Associate’s Rhino modelling tool is endemic in the architectural design world. The Grasshopper environment provides an intuitive way to explore designs without having to learn to script." Research supporting this claim has come from product design and architecture.
+Grasshopper 2 has been in development since at least 2014, when David Rutten mentioned development of it on his blog.  It is possible to download a "WIP" / Alpha release version into Rhino 8 via the package manager.  It is not clear when GH2 will be included in standard Rhino.
+
+See also
+Architectural engineering
+Comparison of computer-aided design software
+Design computing
+Parametric design
+Generative design
+Responsive computer-aided design
+Visual programming language
+
+References
+
+Further reading
+K Lagios, J Niemasz and C F Reinhart, "Animated Building Performance Simulation (ABPS) - Linking Rhinoceros/Grasshopper with Radiance/Daysim", Accepted for Publication in the Proceedings of SimBuild 2010, New York City, August 2010 (full article).
+J Niemasz, J Sargent, C F Reinhart, "Solar Zoning and Energy in Detached Residential Dwellings", Proceedings of SimAUD 2011, Boston, April 2011
+Arturo Tedeschi, Architettura Parametrica - Introduzione a Grasshopper, II edizione, Le Penseur, Brienza 2010, ISBN 978-88-95315-08-9 (in Italian)
+Arturo Tedeschi, Parametric Architecture with Grasshopper, Le Penseur, Brienza 2011, ISBN 978-88-95315-10-2
+Arturo Tedeschi, AAD Algorithms-Aided Design, Parametric Strategies using Grasshopper, Le Penseur, Brienza 2014, ISBN 978-88-95315-30-0
+Pedro Molina-Siles, Parametric Environment. The Handbook of grasshopper. Nodes & Exercises , Universitat Politècnica de València, 2016. ISBN 978-84-9048-499-9
+Diego Cuevas, Advanced 3D Printing with Grasshopper: Clay and FDM (2020). ISBN 979-8635379011
+
+External links
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

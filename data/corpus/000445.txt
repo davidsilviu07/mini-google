@@ -1,0 +1,27 @@
+Electronic voting machine
+An electronic voting machine is a voting machine based on electronics. 
+Two main technologies exist: optical scanning and direct recording (DRE).
+
+Optical scanning
+
+In an optical scan voting system, or marksense, each voter's choices are marked on one or more pieces of paper, which then go through a scanner. The scanner creates an electronic image of each ballot, interprets it, creates a tally for each candidate, and usually stores the image for later review.
+The voter may mark the paper directly, usually in a specific location for each candidate. Or the voter may select choices on an electronic screen, which then prints the chosen names, and a bar code or QR code summarizing all choices, on a sheet of paper to put in the scanner.
+Hundreds of errors in optical scan systems have been found, from feeding ballots upside down, multiple ballots pulled through at once in central counts, paper jams, broken, blocked or overheated sensors which misinterpret some or many ballots, printing which does not align with the programming, programming errors, and loss of files. The cause of each programming error is rarely found, so it is not known how many were accidental or intentional.
+
+Direct-recording electronic (DRE)
+
+In a DRE voting machine system, a touch screen displays choices to the voter, who selects choices, and can change their mind as often as needed, before casting the vote. Staff initialize each voter once on the machine, to avoid repeat voting. Voting data are recorded in memory components, and can be copied out at the end of the election.
+Some of these machines also print names of chosen candidates on paper for the voter to verify, though less than 40% verify.  These names on paper are kept behind glass in the machine, and can be used for election audits and recounts if needed. The tally of the voting data is printed on the end of the paper tape. The paper tape is called a Voter-verified paper audit trail (VVPAT). The VVPATs can be tallied at 20–43 seconds of staff time per vote (not per ballot).
+For machines without VVPAT, there is no record of individual votes to check. For machines with VVPAT, checking is more expensive than with paper ballots, because on the flimsy thermal paper in a long continuous roll, staff often lose their place, and the printout has each change by each voter, not just their final decisions.
+Problems have included public web access to the software, before it is loaded into machines for each election, and programming errors which increment different candidates than voters select. The Federal Constitutional Court of Germany found that existing machines could not be allowed because they could not be monitored by the public.
+Successful hacks have been demonstrated under laboratory conditions.
+
+See also
+Electronic voting#Machines
+Vote counting#Electronic counting
+Electronic voting
+Electronic voting in India
+
+References
+
+[[Absentee ballot]] [[Certification of voting machines]] [[Chad (paper)]] [[DRE voting machine]] [[Election Systems & Software]] [[Election audit]] [[Electronic voting]] [[Electronic voting in India]] [[Electronic voting in the United States]] [[Hart InterCivic]] [[Help America Vote Act]] [[Independent Testing Authority]] [[Independent verification systems]]

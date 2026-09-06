@@ -1,0 +1,28 @@
+Logic simulation
+Logic simulation is the use of simulation software to predict the behavior of digital circuits and hardware description languages. Simulation can be performed at varying degrees of physical abstraction, such as at the transistor level, gate level, register-transfer level (RTL), electronic system-level (ESL), or behavioral level.
+
+Use in verification
+Logic simulation may be used as part of the verification process in designing hardware.
+Simulations have the advantage of providing a familiar look and feel to the user in that it is constructed from the same language and symbols used in design. By allowing the user to interact directly with the design, simulation is a natural way for the designer to get feedback on their design.
+
+Length of simulation
+The level of effort required to debug and then verify the design is proportional to the maturity of the design. That is, early in the design's life, bugs and incorrect behavior are usually found quickly. As the design matures, the simulation will require more time and resources to run, and errors will take progressively longer to be found. This is particularly problematic when simulating components for modern-day systems; every component that changes state in a single clock cycle on the simulation will require several clock cycles to simulate.
+A straightforward approach to this issue may be to emulate the circuit on a field-programmable gate array instead. Formal verification can also be explored as an alternative to simulation, although a formal proof is not always possible or convenient.
+A prospective way to accelerate logic simulation is using distributed and parallel computations.
+To help gauge the thoroughness of a simulation, tools exist for assessing code coverage,
+functional coverage, finite state machine (FSM) coverage, and many other metrics.
+
+Event simulation versus cycle simulation
+Event simulation allows the design to contain simple timing information – the delay needed for a signal to travel from one place to another. During simulation, signal changes are tracked in the form of events. A change at a certain time triggers an event after a certain delay. Events are sorted by the time when they will occur, and when all events for a particular time have been handled, the simulated time is advanced to the time of the next scheduled event. How fast an event simulation runs depends on the number of events to be processed (the amount of activity in the model).
+While event simulation can provide some feedback regarding signal timing, it is not a replacement for static timing analysis.
+In cycle simulation, it is not possible to specify delays. A cycle-accurate model is used, and every gate is evaluated in every cycle. Cycle simulation therefore runs at a constant speed, regardless of activity in the model. Optimized implementations may take advantage of low model activity to speed up simulation by skipping evaluation of gates whose inputs didn't change. In comparison to event simulation, cycle simulation tends to be faster, to scale better, and to be better suited for hardware acceleration / emulation.
+However, chip design trends point to event simulation gaining relative performance due to activity factor reduction in the circuit (due to techniques such as clock gating and power gating, which are becoming much more commonly used in an effort to reduce power dissipation). In these cases, since event simulation only simulates necessary events, performance may no longer be a disadvantage over cycle simulation. Event simulation also has the advantage of greater flexibility, handling design features difficult to handle with cycle simulation, such as asynchronous logic and incommensurate clocks. Due to these considerations, almost all commercial logic simulators have an event based capability, even if they primarily rely on cycle based techniques.
+
+See also
+Logic synthesis
+List of HDL simulators
+Functional verification
+
+References
+
+[[Abstraction (computer science)]] [[Distributed computing]] [[Formal verification]] [[Functional verification]] [[SPICE]] [[Static timing analysis]]

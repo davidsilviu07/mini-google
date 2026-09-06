@@ -1,0 +1,31 @@
+Lector (software)
+Lector is a free e-book reading application for desktop Linux systems that also has basic collection management features.
+
+History
+Lector was developed by a Spanish programmer known as BasioMeusPuga He started publishing code on GitHub in November 2017. and released on March 10, 2018.
+Initially there was no support for annotations or text highlighting, neither for PDF files. Preliminary PDF support via Poppler was released in spring 2018 in version 0.2.
+
+Features
+It deals with both popular e-book formats and comic books: EPUB, Mobipocket, AZW(3/4), comic book archive (CBR/CBZ), Portable Document Format (PDF), DjVu, FictionBook (FB2) It does not support files with digital rights management.
+Lector opens to an overview of the book collection ("library"), which can be sorted by the content of different metadata fields or last reading time and can search/filter titles. It can be configured as an array of book cover thumbnails or as a simple table. A book metadata editor is available via the context menu.
+The reading view has a distraction-free mode, saves the reading position and offers zoom controls, full-text search, text annotations and an integrated dictionary.
+Text rendering (font, size, spacing) and page color can be configured. It can save several configuration profiles, switch between them and export them.
+Bookmarks can be organized via a sidebar.
+
+Distribution
+Lector is released as Free Software, and thus with its complete source code, under the terms of the GNU General Public License in version 3 or later on GitHub. It has been included in the default package repositories of Arch (AUR), openSUSE and Gentoo.
+
+Technology
+The application is written in Python, using Qt 5 widgets via PyQt for the user interface. Given a folder with e-books, it indexes them in place. Metadata and cover images are stored in a SQLite database.
+
+Sources
+Okoi, Martins Divine (2018-03-22). "Lector – A Qt Based eBook Reader for Linux". FOSSMint. Retrieved 2020-05-26.
+Sneddon, Joey (2018-03-16). "This Qt eBook App for Linux is a Real Page Turner". OMG! Ubuntu!. Retrieved 2020-05-26.
+
+References
+
+External links
+Official website
+App Store download link
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[GNU General Public License]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

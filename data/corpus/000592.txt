@@ -1,0 +1,63 @@
+HelpNDoc
+HelpNDoc ( HELP-ən-dok) is a Windows-based help authoring tool published by French company IBE Software.
+
+Features
+HelpNDoc allows the writer to create a single source text which it then converts to a number of target formats such as:
+
+CHM ( HTML Help)
+PDF
+RTF
+DocX
+Qt Help
+HTML
+EPUB (including Amazon Kindle compatible E-books)
+Markdown 
+HelpNDoc integrates a WYSIWYG editor which aims to look like popular word processing software such as Microsoft Word or OpenOffice.org Writer. HelpNDoc has the ability to include variables and external files. It also has the ability to generate code for the C++, Delphi, Fortran, Pascal and Visual Basic programming languages for integration of the generated CHM help files with the application being developed. As of version 4 HelpNDoc comes with a project analyzer that can track the document’s layout, provide  statistics and identify potential problems such as broken links or problems with media items. HelpNDoc can also be used to publish mobile websites, using the table of contents as a navigation menu, the content of the topics with navigation buttons, the keyword index menu, a built-in search engine, and mobile-specific user interface elements.
+
+Licensing terms
+HelpNDoc's licensing model offers a free version of the program (Personal Edition) for personal use and three paid Editions for commercial use:
+
+Standard
+Professional
+Ultimate
+The free version includes an advertisement at the bottom of each generated documentation page, while the Professional / Ultimate Editions do not. The Standard Edition removes those ads from the CHM- and HTML-generated documentation.
+The Ultimate Edition was first released with version 8.0 of the software. It allows you to "Encrypt and sign Word and PDF documents". These are new features that were released with 8.0.
+
+History
+1.0 was released to the public in December 2004 and only provided CHM and HTML documentation generation.
+2.0.0.25 was released on May 16, 2009. Other 2.x versions followed during 2009 - 2010.
+3.0.0.223 was released on August 23, 2011. Other 3.x versions were released during 2011 - 2013.
+4.0.3.164 was released on October 9, 2013. Other 4.x versions were released during 2013 - 2016.
+5.0.1.188 was released on March 7, 2017. Other 5.x versions were released during 2017 - 2018.
+6.0.0.154 was released on March 7, 2019. Other 6x versions were released during 2019 - 2020.
+7.0.0.199 was released on December 8, 2020.
+7.1.0.253 was released on February 2, 2021.
+7.1.1.256 was released on February 3, 2021.
+7.1.2.266 was released on February 12, 2021.
+7.1.3.270 was released on February 15, 2021.
+7.2.0.306 was released on March 24, 2021.
+7.3.0.348 was released on May 4, 2021.
+7.4.0.390 was released on June 15, 2021.
+7.5.0.435 was released on July 27, 2021.
+7.6.0.479 was released on September 9, 2021.
+7.7.0.519 was released on October 19, 2021.
+7.8.0.569 was released on December 7, 2021.
+7.9.0.612 was released on January 19, 2022.
+7.9.1.631 was released on February 8, 2022.
+8.0.0.187 was released on July 19, 2022.
+8.1.0.243 was released on September 13, 2022.
+8.2.0.286 was released on October 25, 2022.
+8.3.1.337 was released on December 13, 2022.
+8.4.0.372 was released on January 17, 2023.
+8.5.0.413 was released on February 28, 2023.
+8.6.0.462 was released on April 18, 2023.
+8.7.0.500 was released on May 25, 2023.
+8.8.0.547 was released on July 11, 2023.
+8.9.0.604 was released on September 5, 2023 and is the latest release.
+
+References
+
+External links
+HelpNDoc home page
+
+[[Amazon Kindle]] [[Computing platform]] [[EPUB]] [[HTML]]

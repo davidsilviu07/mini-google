@@ -1,0 +1,1530 @@
+Glossary of astronomy
+This glossary of astronomy is a list of definitions of terms and concepts relevant to astronomy and cosmology, their sub-disciplines, and related fields. Astronomy is concerned with the study of celestial objects and phenomena that originate outside the atmosphere of Earth. The field of astronomy features an extensive vocabulary and a significant amount of sophisticated terminology.
+
+A
+
+A-type main-sequence star
+In the Harvard spectral classification system, a class of main-sequence star having spectra dominated by Balmer absorption lines of hydrogen. Main-sequence stars of spectral class A are typically blue-white or white in color, measure between 1.4 and 2.1 times the mass of the Sun, and have surface temperatures of 7,600–10,000 kelvin.
+
+absolute magnitude
+A measure of a star's absolute brightness. It is defined as the apparent magnitude the star would show if it were located at a distance of 10 parsecs, or 32.6 light-years.
+
+accretion disk
+A roughly circular mass of diffuse material in orbit around a central object, such as a star or black hole. The material is acquired from a source external to the central object, and friction causes it to spiral inward towards the object.
+
+active galactic nucleus (AGN)
+A compact region in the center of a galaxy displaying a much higher than normal luminosity over some part of the electromagnetic spectrum with characteristics indicating that the luminosity is not produced by stars. A galaxy hosting an AGN is called an active galaxy.
+
+airborne observatory
+An airplane with an astronomical telescope, which relies upon altitude to reduce atmospheric absorption and improve seeing conditions. Drawbacks include the instability of the lifting platform and higher costs.
+
+albedo
+A measure of the proportion of the total solar radiation received by an astronomical body, such as a planet, that is diffusely reflected away from the body. It is a dimensionless quantity typically measured on a scale from 0 (indicating total absorption of all incident radiation, as by a black body) to 1 (indicating total reflection). The albedo reported for an astronomical body may vary widely by the spectral and angular distribution of the incident radiation, by the "layer" of the body being measured (e.g. upper atmosphere versus surface), and by local variation within these layers (e.g. cloud cover and geological or environmental surface features).
+
+albedo feature
+A large area on the surface of a reflecting object that shows a significant contrast in brightness or darkness (albedo) compared to adjacent areas.
+
+Alfvén surface
+The boundary separating a star's corona from the stellar wind, defined as the point at which the coronal plasma's Alfvén speed equals the large-scale stellar wind speed.
+
+Am star
+A chemically peculiar star belonging to the more general class of A-type stars. The spectrum of the Am stars shows abnormal enhancements and deficiencies of certain metals. They are generally slow rotators, and are often found in binary systems where tidal braking has slowed the rate of spin. See metallicity.
+
+aphelion
+The point at which a body orbiting the Earth's Sun is furthest from the Sun. Contrast perihelion.
+
+apoapsis
+The point at which an orbiting body is furthest from its primary. Contrast periapsis.
+
+apogee
+The point at which a body orbiting the Earth (such as the Moon or an artificial satellite) is furthest from the Earth. Contrast perigee.
+
+apparent magnitude
+Also visual brightness (V).
+A measure of the brightness of a celestial body as seen by an observer on Earth, adjusted to the value it would have in the absence of the atmosphere. The brighter the object appears, the lower its magnitude.
+
+appulse
+The closest approach of one celestial object to another, as viewed from a third body.
+
+apsis
+In the orbit of a planetary body, one of the two extreme points of distance between the body and its primary – either the point of minimal distance, called the periapsis, or the point of maximal distance, called the apoapsis. The term may also be used to refer to the value of the distance rather than the point itself. All elliptical orbits have exactly two apsides.
+
+argument of periapsis
+Also argument of perifocus or argument of pericenter.
+The angle from an orbiting body's ascending node to its periapsis, measured in the direction of motion. It is one of six canonical orbital elements used to characterize an orbit.
+
+artificial satellite
+An object that has been intentionally placed into orbit by humans, often around the Earth but also around other bodies within the Solar System. Contrast natural satellite.
+
+ascending node
+Also the north node.
+The orbital node at which an orbiting object moves north through the plane of reference (in geocentric and heliocentric orbits) or at which the orbiting object moves away from the observer (in orbits outside of the Solar System). The position of the ascending node with respect to a reference direction, called the longitude of the ascending node, is used along with other parameters to describe an orbit. Contrast descending node.
+
+aspect
+The position of a planet or Earth's Moon with respect to the Sun, as viewed from Earth.
+
+asterism
+Any pattern of stars recognizable in Earth's night sky. An asterism may form part of an official constellation or it may be composed of stars from more than one constellation.
+
+asteroid
+A minor planet of the inner Solar System. They are primarily found orbiting the Sun between Jupiter and Mars, but can approach the Earth or occupy trojan orbits with Jupiter. Asteroids are somewhat arbitrarily distinguished from many different types of similar objects: small Solar System bodies primarily composed of dust and ice instead of mineral and rock are known as comets; bodies less than one meter in diameter are known as meteoroids; very large asteroids are sometimes called planetoids or planetesimals; and bodies similar to asteroids in size and composition but which lie beyond Jupiter are known as distant minor planets.
+
+asteroid belt
+The circumstellar disc in the Solar System located roughly between the orbits of Mars and Jupiter that is occupied by numerous irregularly shaped small Solar System bodies ranging in size from dust particles to asteroids and minor planets. The asteroid belt is often called the main asteroid belt or main belt to distinguish it from other asteroid populations in other parts of the Solar System.
+
+astrobiology
+Also exobiology.
+An interdisciplinary field that studies the origins, evolution, distribution, and future of living systems in the universe, encompassing research on organic compounds in space, abiogenesis and extreme-environment adaptation on Earth, the habitability of extrasolar planets, the possible existence of extraterrestrial life, and how humans might be able to detect extraterrestrial biosignatures, among other topics.
+
+astrodynamics
+See orbital mechanics.
+
+astrogeology
+Also planetary geology.
+A field that studies the geology of solidified bodies such as the planets and their moons, asteroids, comets, and meteorites. Investigations are centered around the composition, structure, processes, and history of these objects.
+
+astrometric binary
+A type of binary system where evidence for an unseen orbiting companion is revealed by periodic gravitational perturbation of the visible component. See also spectroscopic binary.
+
+astrometry
+The branch of astronomy that involves precise measurements of the positions and movements of stars and other celestial bodies.
+
+astronomical body
+Also celestial body.
+A type of naturally occurring physical entity, association, or structure within the observable universe that is a single, tightly bound, contiguous structure, such as a star, planet, moon, or asteroid. Though the terms astronomical "body" and astronomical "object" are often used interchangeably, there are technical distinctions.
+
+astronomical catalogue
+Also spelled astronomical catalog.
+A list of astronomical objects, typically grouped together because they share a common type, morphology, origin, means of detection, or method of discovery.
+
+astronomical object
+Also celestial object.
+A type of naturally occurring physical entity, association, or structure that exists within the observable universe but is a more complex, less cohesively bound structure than an astronomical body, consisting perhaps of multiple bodies or even other objects with substructures, such as a planetary system, star cluster, nebula, or galaxy. Though the terms astronomical "object" and astronomical "body" are often used interchangeably, there are technical distinctions.
+
+astronomical symbol
+Any abstract pictorial symbol used to represent one or more astronomical objects, events, or theoretical constructs, e.g. those of the planets of the Solar System, the phases of the Moon, the zodiacal constellations, and the solstices and equinoxes. Many of these symbols were commonly used historically, though in the modern era they are usually limited to almanacs and astrology, and their appearance in scientific literature has become increasingly infrequent. Exceptions include the symbols for the Sun (☉), the Earth (🜨), and the Moon (☾), which are sometimes used for astronomical constants and in other forms of shorthand.
+
+astronomical unit (AU)
+A unit of length used primarily for measuring distances within the Solar System, or secondarily between the Earth and distant stars. Originally conceived as the semi-major axis of the Earth's orbit around the Sun, the astronomical unit is now more rigidly defined as exactly 149,597,870.7 kilometres (92,956,000 miles; 4.8481×10−6 parsecs; 1.5813×10−5 light-years).
+
+astronomy
+The scientific study of celestial objects and phenomena, the origins of those objects and phenomena, and their evolution.
+
+astrophotography
+The photography or imaging of astronomical objects, celestial events, or areas of the night sky.
+
+astrophysics
+The branch of astronomy that employs principles of physics and chemistry to determine the nature of astronomical objects and phenomena, examining properties such as luminosity, density, temperature, and chemical composition (rather than the positions or motions of objects in space, which is more specifically the emphasis of celestial mechanics).
+
+atmosphere
+An envelope of gases surrounding an astronomical body such as a planet and held in place by its gravity. This shell of gas has no clearly defined exterior boundary, but instead grows increasingly tenuous with altitude. The term can also be applied to a stellar atmosphere, referring to the visible outer layers of a star.
+
+axial precession
+A slow, continuous, gravity-induced change (a precession) in the orientation of an astronomical body's axis of rotation. The term often refers in particular to the gradual shift in the orientation of Earth's rotational axis with respect to its orbital plane over a cycle of approximately 25,771.5 years, which is caused predominantly by the gravitational influence of the Moon and the Sun on the Earth's equatorial bulge. The phenomenon is similar to but much larger in magnitude than other changes in the alignment of Earth's axis such as nutation and polar motion, and is the cause of the apparent precession of the equinoxes in the night sky.
+
+axial tilt
+Also obliquity.
+The angle between an object's rotational axis and its orbital axis, or, equivalently, the angle between its equatorial plane and orbital plane. Axial tilt usually does not change considerably during a single orbital period; Earth's axial tilt is the cause of the seasons. Axial tilt is distinct from orbital inclination.
+
+axis of rotation
+The imaginary central line around which a compact body such as a star or planet undergoes circular rotation. On Earth, the points where this axis intersect the surface define the geographical poles. A rotational axis can "wobble" due to precession and nutation.
+
+azimuth
+An angular measurement of an object's orientation along the horizon of the observer, relative to the direction of true north. When combined with the altitude above the horizon, it defines an object's current position in the spherical coordinate system.
+
+B
+
+B-type main-sequence star
+A type of main-sequence star which is typically blue in color, temperatures ranges from 10,700 to 31,400 K and have 2.75 to 18  solar masses.
+
+Babcock model
+A model that attempts to explain magnetic and sunspot patterns observed on the Sun.
+
+barycenter
+The common center of mass about which any two or more bodies of a gravitationally bound system orbit. The barycenter is one of the foci of the elliptical orbit of each body participating in the system; its location is strongly influenced by the mass of each body and the distances between them. For example, in a planetary system where the mass of the central star is significantly larger than the mass of an orbiting planet, the barycenter may actually be located within the radius of the star, such that the planet appears to orbit the star itself, though both bodies actually orbit the shared barycenter.
+
+baryogenesis
+The process by which the class of subatomic particles known as baryons were generated in the early Universe, including the means by which baryons outnumber antibaryons.
+
+Big Bang
+The prevailing cosmological model for the origin of the observable universe. It depicts a starting condition of extremely high density and temperature, followed by an ongoing expansion that led to the current conditions.
+
+binary star
+A star system consisting of exactly two stars orbiting around their common barycenter. The term is often used interchangeably with double star, though the latter can also refer to an optical double star, a type of optical illusion which is entirely distinct from true binary star systems.
+
+black hole
+A concentration of mass so compact that it creates a region of space from which not even light can escape. The outer boundary of this region is called the event horizon.
+
+blazar
+An active galactic nucleus (AGN) with a relativistic jet directed very nearly towards the observer.
+
+break-up velocity
+Also critical velocity or critical rotation.
+The surface velocity at which the centrifugal force generated by a rapidly spinning star matches the force of Newtonian gravity. At higher rotational velocities, the star begins to eject matter from its surface.
+
+brown dwarf
+A substellar object that is too low in mass to sustain the nuclear fusion of hydrogen-1 in its core, with the latter being a characteristic of stars on the main sequence. Brown dwarfs can still generate energy from gravitational contraction and by the fusion of deuterium.
+
+bulge
+A tightly packed group or cluster of stars within a larger star formation.
+
+C
+
+calibrator star
+A fixed star used for calibration of high-powered telescopes.
+
+celestial equator
+The imaginary great circle of a body's celestial sphere that is coplanar with the body's terrestrial equator. On Earth, the plane of the celestial equator is the basis of the equatorial coordinate system. Due to Earth's axial tilt, this plane is currently inclined at an angle of 23.44 degrees with respect to the ecliptic.
+
+celestial mechanics
+The branch of astronomy that studies the motions of all types of astronomical objects, including stars, planets, and natural and artificial satellites, among others.
+
+celestial meridian
+See meridian.
+
+celestial pole
+One of two coordinates in the Earth's sky at which a hypothetical indefinite extension of the Earth's axis of rotation "intersects" the celestial sphere, i.e. the two points in the sky that are directly overhead the terrestrial North and South Poles, around which all fixed stars appear to revolve during the course of a day. The celestial poles form the north and south poles of the equatorial coordinate system.
+
+celestial sphere
+An imaginary sphere that encompasses the Earth's entire sky and is stationary with respect to the background stars. It is the basis for spherical astronomy.
+
+centaur
+A small Solar System body with either a perihelion or a semi-major axis between those of the outer planets, i.e. generally inward of the Kuiper belt but beyond the Jupiter trojans. Centaurs are cis-Neptunian objects that typically exhibit characteristics of both asteroids and comets, and generally also have unstable orbits because they cross the orbits of one or more of the giant planets.
+
+central massive object (CMO)
+Any very large concentration of mass at the center of a galaxy, typically either a supermassive black hole or a compact stellar nucleus, but sometimes both.
+
+central star
+In the case of a planetary nebula, the central star is the collapsing remnant that ejected the material forming the nebula. In other cases it may refer to the host star of a system.
+
+chromosphere
+A thin transition region of a star's outer atmosphere, positioned above the cooler photosphere and below the hot corona. For the Sun, the chromosphere is only visible during a total eclipse, when it gives off a red glow due to Balmer Hydrogen-alpha emission. Rising solar spicules occur in this region of magnetic activity.
+
+chromospheric activity index
+A parameter indicating the magnetic activity in a star's chromosphere. One measure of this activity is log R′HK, where R′HK is the ratio of the equivalent width of a star's singly ionized calcium H and K lines, after correction for photospheric light, to the bolometric flux. Schröder et al. (2009) divide solar-type stars into four groups depending on their activity index: very active (log R′HK above −4.2), active (−4.2 to −4.75), inactive (−4.75 to −5.1), and very inactive (below −5.1).
+
+circumstellar disc
+Also circumstellar disk.
+A loose disk of material in orbit around a star. It can be composed of gas, dust, and/or various smaller bodies. An example is the asteroid belt.
+
+cis-Neptunian object (CNO)
+Any small Solar System body that orbits the Sun closer than Neptune — that is, with a semi-major axis less than about 30 astronomical units (AU). These include centaurs and Neptunian trojans.
+
+clearing the neighbourhood
+In celestial mechanics, clearing the neighborhood around a celestial body's orbit describes the body becoming gravitationally dominant such that there are no other bodies of comparable size other than its natural satellites or those otherwise under its gravitational influence.
+
+color index
+A numeric value that is used to compare the brightness of a star measured from different frequency bands of the electromagnetic spectrum. Because the energy output of a star varies by frequency as a function of temperature, the color index can be used to indicate the star's temperature.
+
+comet
+A relatively small, icy body that displays extended features when it approaches the Sun. The energy from the Sun vaporizes volatiles on a comet's surface, producing a visible coma around the cometary body. Sometimes a comet can produce a long tail radiating away from the Sun.
+
+commensurability
+A property of two objects orbiting the same body whose orbital periods are in a rational proportion. For example, the orbital period of Saturn around the Sun is very nearly 5/2 the orbital period of Jupiter.
+
+common proper motion
+A term used to indicate that two or more stars share the same motion through space, within the margin of observational error. That is, either they have nearly the same proper motion and radial velocity parameters, which may suggest that they are gravitationally bound or share a common origin, or they are known to be gravitationally bound (in which case their proper motions may be rather different but average to be the same over time).
+
+compact star
+Also compact object.
+Any astronomical body with a very high mass relative to its radius, compared to most ordinary atomic matter. The term typically refers to very high-density objects such as white dwarfs, neutron stars, and black holes, or to stellar remnants with very small radii.
+
+compact stellar nucleus
+See nuclear star cluster.
+
+conjunction
+A phenomenon during which two astronomical objects or spacecraft have either the same right ascension or the same ecliptic longitude as observed from a third body (usually the Earth), such that, from the observer's perspective, the objects appear to closely approach each other in the sky.
+
+constellation
+A region on the celestial sphere surrounding a specific and identifiable grouping of stars. The names of constellations are assigned by tradition and often have an associated folklore based in mythology, while the modern demarcation of their borders was established by the International Astronomical Union in 1930. Compare asterism.
+
+corona
+An aura of plasma that surrounds cooler stars such as the Sun. It can be observed during a solar eclipse as a bright glow surrounding the lunar disk. The temperature of the corona is much higher than that of the stellar surface, and the mechanism that creates this heat remains subject to debate among astronomers.
+
+coronal loop
+An arch-like structure in the Sun's atmosphere made up of relatively dense plasma confined and isolated from the surrounding medium by magnetic flux tubes.
+
+coronal mass ejection (CME)
+A significant release of plasma and the accompanying magnetic field from the Sun's corona, often following a solar flare or during a solar prominence eruption.
+
+cosmic distance ladder
+
+cosmic dust
+Also space dust.
+Dust which exists in outer space or has fallen on Earth, generally composed of fine particles of solid matter far smaller than those found in terrestrial dust.
+
+cosmic microwave background (CMB)
+Also cosmic microwave background radiation (CMBR).
+
+cosmic ray
+A type of radiation consisting of high-energy protons and atomic nuclei which move through space at nearly the speed of light, and which may originate from the Sun or from outside the Solar System. Collisions of cosmic rays with the Earth's atmosphere can produce dramatic effects both in the air and on the surface.
+
+cosmogony
+Any model concerning the origin of either the universe or the cosmos.
+
+cosmology
+The scientific study of the origin, evolution, and eventual fate of the Universe.
+
+coudé spectrograph
+A type of optical spectrometer placed at the Coudé focus of a reflecting telescope. The focus remains stationary as the telescope is re-oriented, which is advantageous for the stable mounting of heavy spectroscopic instruments.
+
+critical rotation
+
+critical velocity
+Also break-up velocity.
+The surface velocity at the equator of a rotating body where the centrifugal force balances the Newtonian gravity. At this rotation rate, mass can be readily lost from the equator, forming a circumstellar disc. See also break-up velocity.
+
+culmination
+Also meridian transit.
+The apparent movement of an astronomical object (e.g. the Sun, the Moon, a planet, a star, a constellation, etc.) across the observer's local meridian. During each day, the Earth's rotation causes every astronomical object to appear to move along a circular path on the celestial sphere, creating two points at which it crosses the meridian: an upper culmination, at which the object reaches its highest point above the horizon, and a lower culmination, at which it reaches its lowest point, nearly 12 hours later. When not otherwise qualified, the time of culmination typically refers to the time at which the upper culmination occurs.
+
+D
+
+debris disk
+A ring-shaped circumstellar disc of dust and debris orbiting its host star. It is created by collisions between planetesimals. A debris disk can be discerned from an infrared excess being emitted from the star system, as the orbiting debris re-radiates the star's energy into space as heat.
+
+declination
+In the equatorial coordinate system, the celestial equivalent of terrestrial latitude. Coordinates north of the celestial equator are measured in positive degrees from 0° to 90°, while coordinates to the south are measured in negative degrees. See also right ascension.
+
+decretion disk
+A circumstellar disc formed from gas ejected from a central star that now follows a nearly Keplerian orbit around it. This type of disk can be found around many Be stars.
+
+deep-sky object (DSO)
+Any astronomical object that is not an individual star or an object within the Earth's Solar System. The classification is used mostly in amateur observational astronomy to distinguish faint objects in the night sky such as star clusters, nebulae, and galaxies.
+
+degenerate star
+A star composed of degenerate matter, e.g. a white dwarf or a neutron star. These stars are in an advanced state of evolution and have suffered extreme gravitational collapse, such that normal atoms cannot exist in them.
+
+descending node
+Also the south node.
+The orbital node at which an orbiting object moves south through the plane of reference (in geocentric and heliocentric orbits) or at which the orbiting object moves toward the observer (in orbits outside of the Solar System). Contrast ascending node.
+
+detached object
+Also distant detached object and extended scattered disc object.
+A dynamical class of minor planet in the outer reaches of the Solar System whose point of closest approach to the Sun is so distant that the object is only moderately or weakly affected by the gravitational influence of Neptune and the other known planets, such that it appears to be "detached" from the rest of the Solar System. Detached objects are thus distinct from other populations of trans-Neptunian objects, such as cubewanos and scattered disc objects.
+
+direct motion
+See prograde motion.
+
+diurnal motion
+The apparent motion of an astronomical object (e.g. the Sun, a planet, or a distant star) around the two celestial poles in the Earth's night sky over the course of one day. Diurnal motion is caused by Earth's rotation about its own axis, such that every object appears to follow a circular path called the diurnal circle.
+
+double star
+Any pair of stars which appear near each other on the celestial sphere, either because the two stars coincidentally lie along nearly the same line of sight from the Earth, though they are in fact physically distant from each other, or because the two stars are actually located in physical proximity to each other, by which they may form a co-moving pair or a binary star system.
+
+dust astronomy
+
+dwarf planet
+
+dwarf star
+Any star belonging to a category of ordinary main-sequence stars like the Sun, in contrast to evolved giant stars like Betelgeuse and Antares. Confusingly, the term has also come to include stellar remnants known as white dwarfs as well as low-mass substellar objects known as brown dwarfs.
+
+E
+
+early-type star
+A hotter and more massive star, in contrast to late-type stars that are cooler and less massive. The term originated from historical stellar models that assumed stars began their early life at a high temperature then gradually cooled off as they aged. It may be used to refer to the higher-temperature members of any particular population or category of stars, rather than of all stars in general.
+
+eccentricity
+See orbital eccentricity.
+
+ecliptic
+Also ecliptic plane or plane of the ecliptic.
+The plane defined by the Earth's orbit around the Sun. Hence, the position of the Sun as viewed from the Earth defines the intersection of this plane with the celestial sphere. The ecliptic is widely used as a reference plane for describing the position of other Solar System bodies within various celestial coordinate systems. It differs from the celestial equator because of the axial tilt of the Earth.
+
+ecliptic coordinate system
+An astronomical coordinate system commonly used to specify the apparent positions, orbits, and axial orientations of objects within the Solar System, with an origin at the geometric center of either the Sun or the Earth, a fundamental plane defined by the plane of Earth's orbit around the Sun (i.e. the plane of the ecliptic), a primary direction towards the vernal equinox, and a right-handed convention. This system is convenient because most of the planets and many small Solar System bodies orbit the Sun with only slight inclinations to the ecliptic. It may be implemented in either spherical or rectangular coordinates.
+
+effective temperature
+(of a star or planet) The temperature of an ideal black body that would emit the same total energy as electromagnetic radiation.
+
+elliptical galaxy
+A type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless appearance. They are one of three main morphological classes of galaxy, along with spiral and lenticular galaxies.
+
+elliptical orbit
+Also elliptic orbit.
+A type of Kepler orbit with an orbital eccentricity of less than 1 (often inclusive of circular orbits, which have eccentricity equal to 0), or one with negative energy. Elliptical orbits take the shape of an ellipse, and are very common in two-body astronomical systems.
+
+elongation
+The angular separation between the Sun and an orbiting body, such as a planet, as it appears from Earth.
+
+ephemeris
+A list or table of the expected positions of astronomical objects or artificial satellites in the sky at various dates and times. Modern ephemerides are generally provided by computer software.
+
+epoch
+A moment in time used as a reference point for some time-varying astronomical quantity, such as the celestial coordinates or orbital elements of an astronomical object, because such quantities are subject to perturbations and change over time. The primary use of astronomical quantities specified by epochs is to calculate other relevant parameters of motion in order to predict future positions and velocities. In modern usage, astronomical quantities are often specified as a polynomial function of a particular time interval, with a given epoch as the temporal point of origin.
+
+equator
+The imaginary line on a gravitationally rounded spheroid such as a planet that represents the intersection of the spheroid's surface with a plane perpendicular to its axis of rotation and equidistant from its geographical poles. The plane of the Earth's terrestrial equator is the basis for the celestial equator.
+
+equatorial coordinate system
+An astronomical coordinate system defined by an origin at the geometric center of the Earth, a fundamental plane created by projecting the Earth's terrestrial equator onto the celestial sphere (forming the celestial equator), a primary direction towards the vernal equinox, and a right-handed convention. This system is widely used to specify the positions of celestial objects as viewed from Earth. It may be implemented in either spherical or rectangular coordinates.
+
+equinoctial
+Of, relating to, or occurring at an equinox.
+
+equinox
+Either of the two precise times of year when the imaginary plane of the Earth's equator, extended indefinitely in all directions, passes through the center of the Sun (i.e. the two points at which this plane intersects the plane of the ecliptic); or, equivalently, when the Sun's apparent geocentric longitude is either 0 degrees or 180 degrees. The two equinoxes, known as the vernal equinox and the autumnal equinox, occur on or near March 20 and September 22 each year. On the day of an equinox, the center of the visible Sun appears to be directly above the equator, and the durations of day and night are approximately equal all over the planet. Compare solstice.
+
+escape velocity
+The minimum speed that must be achieved for a free, non-propelled object to escape from the gravitational influence of a massive body, i.e. to achieve an infinite distance from it; more generally, escape velocity is the speed at which the sum of an object's kinetic energy and gravitational potential energy is equal to zero. It is a function of the mass of the body and of the distance between the object and the body's center of mass. An object which has achieved escape velocity is neither on the surface nor in a closed orbit of any radius.
+
+evolutionary track
+A curve on the Hertzsprung–Russell diagram that a solitary star of a particular mass and composition is expected to follow during the course of its evolution. This curve predicts the combination of temperature and luminosity that a star will have during part or all of its lifetime.
+
+extinction
+The absorption and scattering of electromagnetic radiation by matter (dust and gas) between an emitting astronomical object and the observer. Atmospheric extinction varies by the wavelength of the radiation, with the attenuation being greater for blue light than for red.
+
+extragalactic astronomy
+The branch of astronomy that studies objects and phenomena outside of the Milky Way galaxy, i.e. all objects not covered by galactic astronomy.
+
+extrasolar object
+Any astronomical object that exists outside the Solar System. The term is generally not applied to stars or any objects larger than a star or the Solar System itself, such as galaxies.
+
+extrasolar planet
+Also exoplanet.
+Any planet outside the Earth's Solar System that is orbiting a more massive object, such as a star or brown dwarf.
+
+exobiology
+See astrobiology.
+
+F
+
+F-type main-sequence star
+A type of main-sequence star which is typically yellow-white in color, temperatures ranges from 6,000 to 7,200 K and have 1.1 to 1.6 solar masses.
+
+facula
+A bright spot on a star's photosphere formed by concentrations of magnetic field lines. For the Sun in particular, solar faculae are most readily observed near the solar limb. An increase in faculae as a result of a stellar cycle increases the star's total irradiance.
+
+field galaxy
+Any galaxy that does not belong to a larger cluster of galaxies and is gravitationally isolated.
+
+field star
+A randomly situated star that lies along the line of sight to a group of physically associated stars under study, such as a star cluster. These field stars are important to identify in order to prevent them from contaminating the results of a study.
+
+field of view
+The angular extent of the observable world that can be seen from a given place at a given moment. In astronomy, the field of view is the angular area viewed by an instrument such as a telescope, usually expressed in square degrees, or for higher magnification instruments, in square arc-minutes.
+
+first light
+The first use of a newly constructed telescope or other instrument to observe or capture an astronomical image.
+
+first magnitude star
+A term used to classify the brightest stars in the night sky, specifically those having an apparent magnitude lower (i.e. brighter) than 1.50. There are 22 stars that are classified as first magnitude stars.
+
+First Point of Aries (♈︎)
+Also the Cusp of Aries.
+The location of the March equinox upon the celestial sphere, used as a reference point in celestial coordinate systems. Located in the constellation Pisces, the First Point of Aries defines the ecliptic coordinate of (0°, 0°) and represents the point at which the Sun meets the celestial equator while traveling from south to north each year. It is directly opposite the First Point of Libra.
+
+First Point of Libra
+The location of the September equinox upon the celestial sphere, used as a reference point in celestial coordinate systems. Located in the constellation Virgo, the First Point of Libra represents the point at which the Sun meets the celestial equator while traveling from north to south each year. It is directly opposite the First Point of Aries.
+
+fixed stars
+Also background stars.
+The "background" of astronomical objects in the night sky which are so distant from observers on Earth that they do not appear to move relative to each other, as opposed to the "foreground" of objects within the Solar System which do. The fixed stars are typically taken to include all stars other than the Sun, as well as all other extrasolar and deep-sky objects.
+
+flare star
+A class of variable star that undergoes sudden, dramatic increases in brightness due to magnetic activity on its surface. This change in brightness occurs across the electromagnetic spectrum from radio waves to X-rays. Most flare stars are faint red dwarfs.
+
+Fulton gap
+The apparent uncommonness of planets having a size between 1.5 and 2 times that of the Earth.
+
+G
+
+G-type main-sequence star
+A type of main-sequence star which is typically yellow in color, temperatures range from 5,300 and 6,000 K and have 0.9 to 1.1 solar masses, it is also the Sun's spectral type.
+
+galactic astronomy
+The branch of astronomy that studies objects and phenomena within the Milky Way galaxy, as opposed to everything outside of the Milky Way, which is the domain of extragalactic astronomy.
+
+galactic anticenter
+The direction in space that is directly opposite the center of the Milky Way Galaxy, as viewed from Earth; considered as a point on the celestial sphere, the Milky Way's anticenter is in the constellation Auriga.
+
+Galactic Center
+The rotational center of the Milky Way galaxy, consisting of a supermassive black hole of 4.100 ± 0.034 million solar masses. It is approximately 8,200 parsecs (27,000 ly) away from Earth in the direction of the constellations Sagittarius, Ophiuchus, and Scorpius, where the Milky Way appears brightest.
+
+galactic coordinate system
+
+galactic corona
+
+galactic nucleus
+Also galactic core or galactic center.
+The region at the center of a galaxy, usually home to a very dense concentration of stars and gas. It almost always includes a supermassive black hole which, when active, can generate a much higher luminosity in a compact region than its surroundings. This excess luminosity is known as an active galactic nucleus, and the brightest such active galaxies are known as quasars.
+
+galactic period
+Also galactic year or cosmic year.
+The time a given astronomical object within a galaxy takes to complete one orbit around the galactic center. Estimates of the duration of one revolution of the Solar System about the center of the Milky Way range from 225 to 250 million terrestrial years.
+
+galactic tide
+The tidal force experienced by objects subject to the gravitational field of a galaxy such as the Milky Way.
+
+galactocentric distance
+A star or cluster's distance from the gravitational center of a particular galaxy. For example, the Sun is about 27,000 light-years (approximately 8 kiloparsecs) away from the Galactic Center of the Milky Way. Galactocentric distance may also refer to a galaxy's distance from another galaxy.
+
+galaxy
+A large, gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter, each of which orbits a center of mass. Galaxies may contain hundreds of billions of stars and are categorized according to their visual morphology as elliptical, spiral, or irregular. Most of the galaxies in the observable universe are between 1,000 and 3,000 parsecs (3,300 and 9,800 ly) in diameter, though some, including the Milky Way, are much larger.
+
+galaxy cluster
+A large-scale structure consisting of hundreds or thousands of galaxies bound together by gravity. Galaxy clusters are distinct from similarly named galactic clusters and other types of star clusters and from smaller aggregates of galaxies known as galaxy groups. Galaxy groups and galaxy clusters can themselves cluster together to form superclusters.
+
+galaxy group
+Also group of galaxies (GrG).
+A gravitationally bound aggregation of up to 50 galaxies, each at least as luminous as the Milky Way Galaxy. Larger aggregations may be called galaxy clusters, and galaxy groups and clusters can themselves cluster together to form superclusters.
+
+Galilean moons
+The collective name for the four moons of Jupiter discovered by Galileo Galilei in 1610: Io, Europa, Ganymede, and Callisto.
+
+gamma-ray astronomy
+The subfield of astronomy that studies astronomical objects detectable at gamma-ray wavelengths.
+
+gamma-ray burst (GRB)
+A cataclysmic event that generates a brief but intense outburst of gamma ray radiation which can be detected from billions of light-years away. The source of most GRBs is theorized to be supernova or hypernova explosions of high-mass stars. Short GRBs may also result from the collision of neutron stars.
+
+gas giant
+A giant planet composed mainly of hydrogen and helium gases rather than heavier elements, e.g. Jupiter and Saturn in the Solar System.
+
+geocenter
+The geometric center of the Earth, i.e. the arithmetic mean position of all points within the oblate spheroid that is the precise shape of the Earth.
+
+geocentric
+With reference to, or pertaining to, the geometric center of the Earth; centered upon the Earth, e.g. a geocentric orbit.
+
+geocentric zenith
+The point projected upon the celestial sphere by a straight line that passes through the geocenter and an observer; i.e. the observer's zenith as defined with respect to the center of the Earth.
+
+geomagnetic storm
+A temporary disturbance of the Earth's magnetosphere that is driven by interactions between the magnetosphere and large-scale transient plasma and magnetic field structures that originate on or near the Sun.
+
+geometric albedo
+The ratio of the brightness of an astronomical body at a phase angle of zero to an idealized flat, fully reflecting, diffusively scattering (Lambertian) disk with the same cross-section. It is a measure of how much of the incoming illumination is being scattered back toward an observer and has a value between zero and one.
+
+geometric position
+The position of an object (celestial or otherwise) with respect to the center of the Earth or to the position of an observer, i.e. as defined by a straight line between the center of the Earth (or the observer) and the object at a given time, without any corrections for light-time, aberration, etc.
+
+geostationary orbit
+Also geosynchronous equatorial orbit (GEO).
+A circular geosynchronous orbit, which maintains a constant altitude of 35,786 kilometres (22,236 mi) directly above Earth's equator in the same direction as Earth's rotation such that, to an observer on Earth's surface, the orbiting object appears motionless, in a fixed position in the sky. Artificial satellites are often placed in geostationary orbit so that antennas on Earth do not have to rotate to track them.
+
+geosynchronous orbit (GSO)
+A synchronous orbit about the Earth, i.e. with an orbital period equal to Earth's rotational period, such that the orbiting object appears to return to exactly the same position in the sky after a period of one sidereal day. All geosynchronous orbits have a semi-major axis equal to 35,786 kilometres (22,236 mi); geostationary orbits are a special case of geosynchronous orbits.
+
+giant planet
+Any very large or massive planet, including gas giants and ice giants.
+
+globular cluster
+A tight, spherical conglomeration of many thousands of stars which are gravitationally bound to each other and which orbit a galactic core as a satellite. They differ from open clusters in having a much higher combined mass, with a typical lifespan extending for billions of years.
+
+gravitational collapse
+
+gravitational lens
+Any very large distribution of mass, such as a galactic cluster, which can bend passing light from a distant source by a noticeable degree. The effect, known as gravitational lensing, can make background objects appear to an observer to take on a ring or arc shape.
+
+gravitational-wave astronomy
+A branch of observational astronomy which analyzes minute distortions in the curvature of spacetime known as gravitational waves to collect observational data about astronomical objects and events such as neutron stars, black holes, supernovae, and the Big Bang.
+
+H
+
+H II region
+An ionized nebula powered by young, massive O-type stars. Ultraviolet photons from these hot stars ionize gas in the surrounding environment, and the nebular gas shines brightly in spectral lines of hydrogen and other elements. Because O-type stars have relatively short lifetimes (typically a few million years), the presence of an H II region indicates that massive star formation has taken place recently at that location. H II regions are often found in the arms of spiral galaxies and in star-forming irregular galaxies.
+
+heliocenter
+The precise geometric center of the Earth's Sun, i.e. the arithmetic mean position of all points within the approximate spheroid that is the shape of the Sun.
+
+heliocentric
+With reference to, or pertaining to, the geometric center of the Earth's Sun; centered upon the Sun, e.g. a heliocentric orbit.
+
+heliopause
+
+heliosphere
+The vast, bubble-like cavity in the interstellar medium which surrounds and is created by the plasma emanating from the Earth's Sun. The heliosphere encompasses the entirety of the Solar System and a vast region of space beyond it. Its outer limit is often considered the boundary between matter originating from the Sun and matter originating from the rest of the galaxy.
+
+Hertzsprung–Russell diagram
+A plot of luminosity versus effective temperature for a population of stars; depending on the usage, the star's absolute magnitude may be substituted for luminosity, and its color index or spectral type for temperature. Single stars of known mass and composition follow predictable tracks across this chart over the course of their evolution. Hence, knowing a star's mass and metallicity allows its age to be estimated. Stars of similar types are also found grouped together in specific regions of the chart, including main-sequence, red giant, and white dwarf stars.
+
+Hill sphere
+Also the Hill radius.
+The approximate region around an astronomical object within which its gravitational attraction dominates the motions of satellites. It is computed with respect to the next most gravitationally attractive object, such as the nearest star or the galactic core. Satellites moving outside this radius tend to be perturbed away from the main body.
+
+horizon
+The apparent boundary between the surface of a celestial body and its sky when viewed from the perspective of an observer on or near that body's surface; more specifically, the plane perpendicular to a line from an observer to the zenith that passes through the point of observation.
+
+hour angle
+For a given celestial object, the angular distance on the celestial sphere measured westward along the celestial equator from the observer's local meridian to the hour circle that passes through the celestial object; or, equivalently, the angle between the plane containing Earth's rotational axis and the zenith, and the plane containing Earth's rotational axis and the object of interest. Analogous to right ascension, the hour angle is one of many ways commonly used to specify the longitudinal position of an object upon the celestial sphere.
+
+hour circle
+Any imaginary great circle drawn upon the celestial sphere that passes through both of the celestial poles and is therefore perpendicular to the celestial equator. Similar to a meridian but additionally taking into account the terrain and the depth to the geocenter at a ground observer's particular location, the concept of the hour circle is employed to describe the longitudinal position of a celestial object relative to the observer's local meridian.
+
+hybrid-chromosphere star
+These hybrid stars are G and K giant and supergiant stars that display the spectra of a hot coronae found in more massive giants and the cool stellar winds of M-type giants. They can be a source of X-ray emission.
+
+hybrid pulsator
+A hybrid class of pulsating stars that display pulsation frequencies of two different classes of variables. An example are variables displaying characteristic frequencies of both Delta Scuti and Gamma Doradus variables. On the Hertzsprung–Russell diagram, these stars are positioned where the instability strips of both variable classes overlap.
+
+hydrogen burning limit
+A critical mass below which an astronomical object cannot sustain its surface luminosity through nuclear fusion. This mass limit, equal to about 7% of the mass of the Sun, forms the dividing line between brown dwarfs and hydrogen-fusing stars.
+
+hypergalaxy
+A system consisting of a large galaxy accompanied by multiple smaller satellite galaxies (often elliptical) as well as its galactic corona. The Milky Way and Andromeda systems are examples of hypergalaxies.
+
+I
+
+ice giant
+A giant planet composed mainly of elements heavier than hydrogen or helium (such as oxygen, carbon, nitrogen, and sulfur), especially chemical volatiles with freezing points above 100 K (−173 °C), e.g. Uranus and Neptune in the Solar System.
+
+inclination
+See orbital inclination.
+
+inferior planet
+An archaic term that is sometimes used to refer to the planets Mercury and Venus. The name originated from the fact that these planets orbit closer to the Sun than the Earth and hence, in the geocentric cosmology of Ptolemy, both appear to travel with the Sun across the sky. This is in contrast to the so-called superior planets, such as Mars, which appear to move independently of the Sun.
+
+infrared astronomy
+The subfield of astronomy that studies astronomical objects detectable at infrared wavelengths.
+
+International Astronomical Union (IAU)
+
+interstellar medium (ISM)
+The matter that exists in the space between the stars in a galaxy. This medium mainly consists of hydrogen and helium, but is enhanced by traces of other elements contributed by matter expelled from stars.
+
+interstellar reddening
+An effect produced by the incremental absorption and scattering of electromagnetic energy from interstellar matter, known as extinction. This effect causes more distant objects such as stars to appear redder and dimmer than expected. It is not to be confused with the separate phenomenon of redshift.
+
+invariable plane
+Also Laplace's invariable plane or the Laplace plane.
+The imaginary plane passing through the barycenter of a planetary system and perpendicular to its angular momentum vector, and which may be regarded as the weighted average of all planetary orbital and rotational planes comprising the system.
+
+ionosphere
+
+irregular galaxy
+
+irregular moon
+A natural satellite following a distant, inclined, and often eccentric and retrograde orbit about its primary. Irregular moons are thought to be captured from other orbits, as opposed to regular moons, which are thought to form in situ.
+
+isochrone
+A curve on the Hertzsprung–Russell diagram that represents the evolutionary positions of stars having the same age but differing masses. This is in contrast to an evolutionary track, which is a plot of stars having the same mass but differing ages. In fact, multiple evolutionary tracks can be used to build isochrones by putting curves through equal-age points along the tracks. When the mass of a star can be determined, an isochrone can be used to estimate the star's age.
+
+J
+
+Jeans instability
+A physical state in which an interstellar cloud of gas will begin to undergo collapse and form stars. A cloud can become unstable against collapse when it cools sufficiently or has perturbations of density, allowing gravity to overcome the gas pressure.
+
+Julian year (a)
+A unit of time defined as exactly 365.25 days of 86,400 SI seconds each. Because these are units of constant duration, the Julian year is also constant and does not vary with a specific calendar or with any of the other means of determining the length of a year, such as the tropical year. It is therefore widely used as the basis for defining the standard astronomical epoch and the light-year.
+
+K
+
+K-type main-sequence star
+A type of main-sequence star which is typically orange in color, temperatures ranges from 3,900 to 5,270 K and have 0.6 to 0.8 solar masses.
+
+Kelvin–Helmholtz mechanism
+A process where the surface of a planet or star undergoes rapid cooling.
+
+Kepler orbit
+Also Keplerian orbit.
+The motion of one orbiting body relative to another, as an ellipse, parabola, or hyperbola, which forms a two-dimensional orbital plane (or sometimes a straight line) in three-dimensional space. Kepler orbits are idealized mathematical constructions which consider only the point-like gravitational attraction of two bodies, neglecting more complex orbital perturbations that may exist in reality.
+
+King radius
+In 1962, Ivan R. King devised a model of globular clusters that had a truncated Maxwellian distribution of velocities. The model describes a cluster using three parameters: an amplitude based on the number of stars, a core radius r0 that depends on the internal dynamics of the cluster, and a tidal radius rt that depends on the Galactic potential well. In the King model, the working parameters are the King radius and a concentration, defined as 
+  
+    
+      
+        log
+        ⁡
+        
+          
+            
+              
+                r
+                
+                  t
+                
+              
+              
+                r
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \log {\tfrac {r_{t}}{r_{0}}}}
+  
+. These models generally provide a good fit to the density distribution of Galactic globular clusters. The King radius is referred to as the core radius of the King model.
+
+Kuiper belt
+Also Edgeworth–Kuiper belt.
+A circumstellar disc of small Solar System bodies such as asteroids, trojans, and centaurs in the outer Solar System, extending between 30 and 50 AU from the Sun. It is similar to the asteroid belt but far larger, and is home to several dwarf planets, including Pluto.
+
+L
+
+Lagrangian point
+Also Lagrange point, libration point, or L-point.
+Any of a set of points near two large bodies in orbit at which a smaller object will maintain a constant position relative to the larger bodies. At other locations, a small object would eventually be pulled into its own orbit around one of the large bodies, but at the Lagrangian points the gravitational forces of the large bodies, the centripetal force of orbital motion, and (in certain scenarios) the Coriolis acceleration all align in a way that causes the small object to become "locked" in a stable or nearly stable relative position. For each combination of two orbital bodies, there are five such Lagrangian points, typically identified with the labels L1 to L5. The phenomenon is the basis for the stable orbits of trojan satellites and is commonly exploited by man-made satellites, such as the James Webb Space Telescope.
+
+Laniakea Supercluster
+Also the Lenakaeia Supercluster, Local Supercluster, or Local SCI.
+
+late-type star
+See early-type star.
+
+libration
+A slight oscillating motion of the Moon as seen from the Earth, a result of the Moon's elliptical orbit. It can allow normally hidden parts of the Moon's far side to be visible along the limbs of the lunar disk.
+
+light-year (ly)
+A unit of length used to express astronomical distances that is equivalent to the distance that an object moving at the speed of light in vacuum would travel in one Julian year: approximately 9.46 trillion kilometres (9.46×1012 km) or 5.88 trillion miles (5.88×1012 mi). Though the light-year is often used to measure galactic-scale distances in non-specialist publications, the unit of length most commonly used in professional astrometry is the parsec.
+
+limb
+The apparent circumferential edge of any celestial body with a detectable disk, e.g. the Sun, the Moon, a planet, or a small Solar System body.
+
+limb darkening
+An optical effect seen in stars (including the Sun), where the center part of the disk appears brighter than its edge or limb.
+
+line of apsides
+The imaginary line connecting the two apsides (the periapsis and the apoapsis) of an elliptical orbit, and which therefore represents the distance of the orbit's longest axis.
+
+lobster-eye optics
+An X-ray optics design with an ultra wide field of view, based on the structure of the eyes of a lobster. It allows X-ray light to enter from multiple angles, thereby capturing more X-rays from a larger area than other X-ray telescopes.
+
+Local Group
+The proximal galaxy group that includes the Milky Way and Andromeda as its main constituents.
+
+longitude of the ascending node (☊ or Ω)
+The angle between a specified reference direction, called the origin of longitude, and the direction of an orbit's ascending node, as measured on a specified plane of reference. The angle is typically measured eastwards from the reference direction to the ascending node (i.e. counterclockwise as seen from the north). It is one of six canonical orbital elements used to characterize an orbit.
+
+luminosity
+The total amount of energy emitted per unit time by a star, galaxy, or other astronomical object. In SI units, luminosity is measured in joules per second or watts, and is often given in terms of astronomical magnitude. Luminosity is related to but distinct from visual brightness.
+
+lunar
+Of or relating to the Earth's Moon.
+
+lunar phase
+Also Moon phase.
+The shape of the portion of the Moon that is illuminated by direct sunlight as viewed from Earth. This shape is referred to as a phase because it gradually changes in a regular cycle over the course of a synodic month: as the orbital positions of the Moon around Earth and Earth around the Sun change, the visibility of the side of the Moon that constantly faces Earth alternates between completely illuminated (known as a full moon) and completely darkened by the Moon's own shadow (known as a new moon). There are also intermediate phases, during which the visible side may be only partially sunlit, e.g. when the Moon appears as a crescent. During the part of the lunar cycle in which the illuminated portion is growing larger, the Moon is said to be waxing; when the illuminated portion is becoming smaller, it is said to be waning. The phase of the Moon at any particular time appears the same from every point on Earth.
+
+M
+
+M-type main-sequence star
+A type of main-sequence star which is typically red in color, temperatures ranges from 2,400 to 3,900 K and have 0.08 to 0.6 solar masses, they are also the most common type of main sequence star.
+
+massive compact halo object (MACHO)
+A class of astronomical body that might explain the apparent presence of dark matter in galactic halos. A MACHO is a body that emits little or no radiation and drifts through interstellar space unassociated with any planetary system. Examples of MACHOs include black holes and neutron stars as well as brown dwarfs and rogue planets.
+
+magnetic switchback
+A sudden reversal in the magnetic field of the solar wind.
+
+magnetosphere
+A mostly convex region formed when a plasma, such as the solar wind, interacts with the magnetic field of a body, such as a planet or star.
+
+magnitude
+A numerical logarithmic scale indicating the brightness of an astronomical object, where the lower the value, the brighter the object. By convention, a first magnitude star is 100 times as bright as a sixth magnitude star. Magnitude 6 is considered the lower limit of objects that can be seen with the naked eye, although this can vary depending on sky conditions and eyesight.
+
+main sequence
+A category of stars which form a continuous and distinctive band on plots of stellar temperature versus luminosity, in particular the Hertzsprung–Russell diagram. These stars are characterized by being in hydrostatic equilibrium and undergoing nuclear fusion of hydrogen-1 in their core region. The Sun is a main-sequence star.
+
+major axis
+See semi-major axis.
+
+March equinox
+Also the Northward equinox.
+The precise time of year on Earth when the Sun appears to cross the celestial equator, while generally trending northward at each zenith passage. It represents the moment at which the North Pole of the Earth begins to tilt toward the Sun, and typically occurs on or near March 20 each year. It is the vernal equinox in the Northern Hemisphere and the autumnal equinox in the Southern Hemisphere. Contrast September equinox.
+
+mean anomaly (M)
+The fraction of an elliptical orbit's period that has elapsed since the orbiting body passed periapsis, expressed as the angular distance from the pericenter which a fictitious body would have if it moved in a perfectly circular orbit in the same orbital period as the actual body in its elliptical orbit. Unlike the true anomaly, the mean anomaly does not correspond to a real geometric angle but is instead a contrived parameter used to make calculating the position of the orbiting body in the two-body problem mathematically convenient.
+
+mean-motion resonance (MMR)
+See orbital resonance.
+
+meridian
+An imaginary line running north–south across the sky and passing through the point directly overhead known as the zenith.
+
+meridian astronomy
+The measurement of positions of celestial objects based on observation of the times of their transit across the meridian and of their zenith distance at those times, with the intention of obtaining accurate star positions which are self-consistent over large areas of sky.
+
+Messier object
+One of a set of 110 "nebulous" astronomical objects, 103 of which were catalogued as non-comets by French comet hunter Charles Messier between 1771 and 1781. The Messier catalogue includes most of the deep-sky objects easily visible from the Northern Hemisphere.
+
+meteor
+Also shooting star or falling star.
+The visible passage of a glowing meteoroid, micrometeoroid, comet, or asteroid through the Earth's atmosphere, usually as a long streak of light produced when such an object is heated to incandescence by collisions with air molecules in the upper atmosphere, leaving an ionization trail as a result of its rapid motion and sometimes also shedding material in its wake.
+
+meteorite
+A solid piece of debris from a meteor that originated in outer space and survived its passage through the atmosphere to reach the surface of a planet or moon.
+
+meteoroid
+A small rock or boulder that has entered a planetary atmosphere. If it survives to reach the surface, it is then termed a meteorite.
+
+meteor shower
+A series of meteors that seemingly radiate from a single area in the night sky. These are produced by debris left over from a larger body, such as a comet, and hence they follow roughly the same orbit. This makes many meteor showers predictable events, as they recur every year.
+
+metallicity
+A measure of the abundance of elements other than hydrogen and helium within an astronomical object. Note that this definition includes elements that are not traditionally considered metallic by chemical convention.
+
+micrometeorite
+A very small meteorite that has survived its passage through the atmosphere to reach the surface of a planet or moon, usually ranging in size from 50 μm to 2 mm. Micrometeorites are a major component of cosmic dust.
+
+micrometeoroid
+A very small meteoroid, usually weighing less than one gram. If it survives to reach a planetary surface, it is then termed a micrometeorite.
+
+microvariable
+A stellar object such as a variable star that undergoes very small variations in luminosity, in which the amplitude of the fluctuations amounts to just a few thousandths of a magnitude. Detecting microvariability typically requires a sufficient number of observations to rule out random error as a source.
+
+Milky Way
+1.  The barred spiral galaxy that includes the Earth's Solar System. The name describes the galaxy's appearance from the Earth: a hazy band of light visible in the night sky, formed from billions of stars that cannot be individually distinguished by the naked eye. The Milky Way Galaxy has a diameter of 100,000–200,000 light-years and is estimated to contain 100–400 billion stars and at least that number of planets. The Solar System is located on the inner edge of one of the Milky Way's spiral arms, about 27,000 light-years from the Galactic Center, which the Sun orbits with a period of 240 million years.
+2.  The hazy band of light itself, which from Earth appears as a band because the galaxy's disk-shaped structure is viewed side-on from within.
+
+minor axis
+See semi-minor axis.
+
+minor planet
+An object in direct orbit around the Sun that is neither a dominant planet nor originally classified as a comet. A moon is not a minor planet because it orbits another body instead of the Sun.
+
+minor-planet moon
+A natural satellite that orbits a minor planet. See also moonlet and subsatellite.
+
+molecular cloud
+An interstellar cloud in which the prevailing physical conditions allow molecules to form, including molecular hydrogen. They represent overdensities in the interstellar medium and are searched for by the presence of carbon monoxide emission.
+
+moment of inertia factor
+Also normalized polar moment of inertia.
+A dimensionless quantity that characterizes the radial distribution of mass inside a planet or moon.
+
+moon
+See natural satellite.
+
+Moon
+The solid, rocky body that orbits the Earth as its only natural satellite, completing a full orbit every 27.3 days. The Moon's gravitational influence is responsible for tides on Earth; because of tidal locking, only one side of the Moon is ever visible from the Earth. Sunlight reflected from its surface makes the Moon appear very bright in the night sky, though its orbital position with respect to the Earth and the Sun causes its visibility to change in a regular cycle of phases when viewed from the Earth. The adjectival lunar is often used specifically to describe the orbit, gravity, and other properties of the Earth's Moon.
+
+moonlet
+Also minor moon or minor natural satellite.
+An especially small natural satellite orbiting a planet, dwarf planet, or other minor planet. See also minor-planet moon and subsatellite.
+
+moonmoon
+See subsatellite.
+
+Morgan–Keenan stellar classification system
+Also MK classification.
+A system of classifying stars based on their spectrum. It was introduced in 1943 by William Wilson Morgan, Philip C. Keenan, and Edith Kellman from Yerkes Observatory. Their approach used a two-dimensional system of temperature versus luminosity, which is based on stellar spectral lines sensitive to stellar temperature and surface gravity – the latter being related to luminosity. In 1953, after some revisions to the list of standard stars and classification criteria, the scheme was named the Morgan–Keenan classification, or MK, which remains in use today.
+
+morning width
+Also rise width.
+The horizontal angular distance between the rise azimuth of a celestial body and the east direction.
+
+moving cluster
+A cluster of closely related stars which share a common motion in space (e.g. the Hyades) such that, from the perspective of a distant observer, their proper motions all appear to be directed toward a single convergent point. If the linear velocity of the cluster is known, then the distance of each star can be estimated from the total proper motion, a technique known as moving cluster parallax.
+
+moving group
+Also stellar association.
+A loose grouping of stars which travel together through space. Although the members were formed together in the same molecular cloud, they have since moved too far apart to be gravitationally bound as a cluster.
+
+multi-messenger astronomy
+A type of astronomy based on the acquisition of information about astronomical objects through the coordinated observation and interpretation of four disparate classes of "messenger" signals with extrasolar origins: electromagnetic radiation, gravitational waves, neutrinos, and cosmic rays. Because these four extrasolar messengers are created by different astrophysical processes, their presence or absence during a celestial event can reveal useful information about their sources.
+
+multiverse
+
+N
+
+N galaxy
+An early classification for active galaxies that had the visual appearance of a galaxy with a particularly bright, star-like nucleus. As a group, they are intermediate between Seyfert galaxies and quasars. Most are giant ellipticals that are radio sources and display prominent emission lines.
+
+nadir
+The point on the celestial sphere that is exactly opposite the zenith. Thus, where the zenith is directly above an observer, the nadir is underfoot. The zenith and nadir form the two poles of the horizon line.
+
+naked eye
+Also bare eye or unaided eye.
+The human eye as used without any magnifying or light-collecting optical aid, such as a telescope, nor any eye protection. Many astronomical objects emit or reflect visible light that is sufficiently bright to fall within the limits of normal human visual perception, allowing observers to see them from the Earth's surface without any special equipment. Vision corrected to normal acuity using eyeglasses or contact lenses is still considered unaided.
+
+natural satellite
+Also moon.
+Any astronomical body that orbits a planet, minor planet, or sometimes another small Solar System body.
+
+near-Earth object (NEO)
+Any small Solar System body, such as an asteroid or comet, whose orbit brings it into proximity with Earth, generally by being less than 1.3 AU from the Sun at its closest approach.
+
+nebula
+Any astronomical object of indistinct nebulosity. In modern usage, the term typically refers to an interstellar cloud of dust, hydrogen, helium, and other ionized gases. Historically, it was also used to refer to extended sources of luminosity that could not be resolved into their individual components, such as star clusters and galaxies.
+
+neutrino
+A type of elementary particle, electrically neutral and with an extremely small rest mass, that interacts with other particles only via the weak interaction and the gravitational interaction. Neutrinos therefore typically pass through normal matter unimpeded and undetected.
+
+neutron star
+A type of compact star that is composed almost entirely of neutrons, which are a type of subatomic particle with no electrical charge. Typically, neutron stars have a mass between about 1.35 and 2.0 times the mass of the Sun, but with a radius of only 12 km (7.5 mi), making them among the densest known objects in the universe.
+
+New General Catalogue (NGC)
+
+night sky
+The appearance of the Earth's sky at nighttime, when the Sun is below the horizon, and more specifically when clear weather and low levels of ambient light permit visibility of celestial objects such as stars, planets, and the Moon. The night sky remains a fundamental setting for both amateur and professional observational astronomy.
+
+non-inclined orbit
+Any orbit that is coplanar with a specified plane of reference, such that the orbital inclination is 0 degrees for prograde orbits and 180 degrees for retrograde ones.
+
+nova
+
+nuclear star cluster (NSC)
+A compact and dense concentration of stars located at the center of a galaxy.
+
+number density
+The quantity of some specified particle or object class per unit volume. For atoms, molecules, or subatomic particles, the volume is typically expressed in cm3 or m3. With stars, cubic parsecs (pc3) are often used.
+
+nutation
+A continuous, gravity-induced change in the orientation of an astronomical body's axis of rotation which results from the combined effects of small, short-term variations. Nutation is distinguished from precession, which is a similar but longer-term change in axial orientation.
+
+O
+
+O–C diagram
+A diagram of observed minus calculated values over time, showing how observed data differ from theoretical values which have been calculated according to a particular scientific model. It is often used as a diagnostic tool to determine the accuracy of the model. With a variable star, it is typically used to compare phase differences over time.
+
+O-type main-sequence star
+A type of main-sequence star which is typically blue in color, temperatures ranges from above 31,400 K and have more than 16 solar masses, they are also the most rare type of main sequence star.
+
+OB association
+A group of massive stars which are not gravitationally bound to each other, but move together through space in a loose association. The OB in the name is a reference to stars of stellar classifications O and B.
+
+obliquity
+See axial tilt.
+
+observation arc
+Also arc length.
+The duration of time between the earliest and latest observations made by astronomers of an object within the Solar System, which defines the length of the path traced by the object between these same observations. The term is primarily used in the discovery and tracking of asteroids and comets, which can be difficult to continuously track because of their size and great distance from Earth. Very short observation arcs, e.g. where the time between the initial observation and the most recent observation is less than 30 days, are of limited descriptive power because they represent only a very small fraction of the total path traced by the object in its orbit around the Sun (or other primary), and therefore result in a high degree of uncertainty when estimating the shape and characteristics of the object's orbit.
+
+observable universe
+
+observational astronomy
+The practice and study of directly observing astronomical objects with the use of telescopes and other astronomical instruments. It is concerned with recording data about the observable universe, as opposed to theoretical astronomy, which is concerned with calculating the measurable implications of astronomical models.
+
+occultation
+A celestial event that occurs when a distant astronomical body or object is hidden by another, nearer body or object that passes between it and the observer, thereby blocking the first object from view. Solar and lunar eclipses are specific types of occultations.
+
+Oort cloud
+Also the Öpik–Oort cloud.
+A vast theoretical cloud of predominantly icy planetesimals hypothesized to surround the Sun at distances ranging from 2,000 to 200,000 AU. It is thought to be divided into two regions: a disc-shaped inner Oort cloud and a spherical outer Oort cloud. The outer limit of the Oort cloud is often considered the cosmographical boundary of the Solar System.
+
+opacity
+A measure of the resistance of a medium to the radiative transmission of energy. Within a star, it is an important factor in determining whether convection occurs.
+
+open cluster
+A gravitationally bound group of up to one thousand stars that formed together in the same molecular cloud.
+
+opposition
+The positioning of two celestial objects on opposite sides of the sky, as seen from the perspective of an observer. This occurs, for example, when a planet makes its closest approach to the Earth, placing it in opposition to the Sun.
+
+optical depth
+Optical depth is a measure of the extinction coefficient or absorptivity up to a specific 'depth' of a star's makeup.
+
+orbit
+The gravitationally curved trajectory of an object, such as the trajectory of a planet moving around a star or a natural satellite around a planet. Though the smaller body is often said to orbit the larger body itself, both bodies actually follow approximately elliptical orbits around a common center of mass positioned at a focal point of each ellipse. The word "orbit" can variously refer to the elliptical trajectory itself or the act of following this trajectory, and can refer to a stable, regularly repeating trajectory as well as a non-repeating trajectory.
+
+orbit plot
+Also orbital plot.
+A schematic diagram of a complete orbit. For a binary system, it is typically presented from the primary's frame of reference.
+
+orbital eccentricity
+A parameter that determines how much an orbit deviates from a perfect circle. For an elliptical orbit, the eccentricity ranges from greater than zero to less than one.
+
+orbital elements
+The set of parameters that uniquely define an orbit.
+
+orbital inclination
+The tilt of an object's orbit around an astronomical body, expressed as the angle between the orbital plane or axis of direction of the orbiting object and a specified plane of reference.
+
+orbital mechanics
+
+orbital node
+One of two points at which the plane of an orbit intersects a specified plane of reference to which it is inclined; in some contexts, the two nodes may be distinguished as the ascending node and the descending node. A non-inclined orbit, which is coplanar with the reference plane, has no nodes.
+
+orbital period
+Also revolution period.
+The time a given astronomical object takes to complete one orbit around another object. For objects in the Solar System, the orbital period is often referred to as the sidereal period.
+
+orbital plane
+The imaginary geometric plane defined by the orbit of an astronomical body around its primary. The Earth's orbital plane, which defines the ecliptic, is commonly used as a plane of reference for the orbits of other objects in the Solar System.
+
+orbital resonance
+The situation that occurs when two or more orbiting bodies exert regular, periodic gravitational influences on each other such that one or more of their orbital parameters (e.g. eccentricity, semi-major axis, inclination, etc., or any combination thereof) exist in some definite mathematical relationship with each other. Most commonly, the term refers to mean-motion orbital resonance, in which the bodies' orbital periods are related by a ratio of small integers. For example, the dwarf planet Pluto exists in a stable 2:3 resonance with Neptune, such that Pluto completes two orbits around the Sun in the same time it takes Neptune to complete three. Resonance may act on any time scale, from short-term to secular, and often leads to either long-term stabilization of the orbits or their eventual destabilization.
+
+orbital speed
+The speed at which an astronomical body or object orbits around a barycenter, or its speed relative to the center of mass of the most massive body in the system. The term may be used to refer to either the mean orbital speed, i.e. the average speed over the entire orbital period, or the instantaneous speed at a particular point in the orbit. Maximum instantaneous orbital speed typically occurs at periapsis.
+
+origin of longitude
+
+orphan planet
+See rogue planet.
+
+osculating orbit
+The hypothetical, idealized Kepler orbit that an orbiting object would follow around its primary if all perturbations were absent, i.e. the orbit that coincides with the instantaneous orbital state vectors at a given moment in time.
+
+outer space
+Also simply space.
+The vast, nearly empty expanse that exists beyond the Earth and between all celestial bodies, characterized generally by extremely low densities of particles, extremely low temperatures, and minimal gravity. Most of the volume of the universe is intergalactic space, and even galaxies and star systems consist almost entirely of empty space.
+
+P
+
+parallax
+1.  The angular difference between an object’s apparent direction as seen from two different points of observation. In astronomy, when not otherwise qualified, the term is usually taken to mean the difference in the apparent position of a celestial object (relative to more distant background objects) as seen from opposite sides of the Earth’s orbit, known as the trigonometric parallax.
+2.  The angular distance between two points as seen from a third point in space, such as the radius of the Earth’s orbit as seen from a star. By extension, the term can also be used to mean a star’s distance, even if measured by some indirect method such as photometry or spectroscopy.
+
+parsec (pc)
+A unit of length defined as the distance at which a star would show a parallax shift of exactly one arcsecond as observed from Earth's orbit. It is equal to 3.2616 light-years or 206,265 astronomical units. The word "parsec" is a portmanteau of the words parallax and second.
+
+partial solar eclipse
+
+peak magnitude
+The brightest absolute magnitude achieved during the periodic rise in luminosity that characterizes a variable star. This data point can provide useful distance information for a cataclysmic variable and can be determined from a light curve of the stellar variability.
+
+periapsis
+Also pericenter.
+The point at which an orbiting body is closest to its primary. Contrast apoapsis.
+
+perigee
+The point at which a body orbiting the Earth (such as the Moon or an artificial satellite) is closest to the Earth. Contrast apogee.
+
+perihelion
+The point at which a body orbiting the Earth's Sun is closest to the Sun. Contrast aphelion.
+
+perturbation
+The complex motion of an astronomical body that is subject to forces other than the gravitational attraction of its primary alone, or any force which complicates the orbital characteristics of the body such that the idealized Kepler orbit of the two-body problem is not an accurate representation of the body's actual orbit. Perturbing forces may include the gravitational forces exerted by any number of additional bodies, the off-center gravitational forces which are consequences of bodies not being perfectly spherical, and/or atmospheric resistance.
+
+phase angle
+The elongation or angle between an orbiting body and the Sun as viewed from a particular perspective, such as from the Earth. It determines the amount of a planet or moon's visible surface that lies in shadow. Inferior planets such as Venus generally have low phase angles as seen from Earth, so they often appear as a slim crescent; superior planets such as Mars and Jupiter usually have high phase angles, so that little of the shadowed side is visible.
+
+photometric system
+A set of well-defined optical filters with a known sensitivity to incident radiation.
+
+photosphere
+The opaque outer shell of a star, from which light is radiated. In the case of the Sun, this layer is ~ 400 km thick. It produces the absorption lines in a stellar spectrum.
+
+plane of reference
+Also reference plane.
+An arbitrarily chosen, imaginary plane from which to measure and define orbital elements such as inclination and longitude of the ascending node. The ecliptic plane, invariable plane, and equatorial plane are all commonly used as reference planes in various contexts.
+
+plane of the ecliptic
+See ecliptic.
+
+plane of the sky
+An imaginary plane that is perpendicular to the line of sight. Typically this is used as a reference plane for determining the inclination of an orbital plane of a distant star system.
+
+planemo
+See planetary-mass object.
+
+planet
+A type of astronomical body orbiting the Sun, which is massive enough to be rounded by its own gravity (but not massive enough to achieve thermonuclear fusion) and has cleared its neighbouring region of all planetesimals. The term exoplanet is used in reference to a planet-like object that is not orbiting the Sun.
+
+planetary
+Of or relating to a planet or planets.
+
+planetary body
+Also planetary object.
+Any secondary body that is geologically differentiated or in hydrostatic equilibrium and therefore has a planet-like geology, such as a planet, dwarf planet, or other planetary-mass object, but excluding smaller objects such as planetesimals.
+
+planetary differentiation
+The process of separating out different constituents of a planetary body, causing it to develop compositionally distinct layers (such as a metallic core). The tendency is for more dense materials to sink under gravity, while lower density materials rise.
+
+planetary nebula
+A type of emission nebula formed from a glowing shell of expanding plasma that has been ejected from a red giant star late in its life. The name derives from their resemblance to a planet. An example is the Ring Nebula.
+
+planetary science
+Also planetology.
+The scientific study of planets, moons, and planetary systems, with the aim of understanding their formation, composition, topography, dynamics, and interactions with other bodies.
+
+planetary system
+Any set of gravitationally bound non-stellar objects in or out of orbit around a star or star system. In general, planetary systems include one or more planets, though such systems may also consist of dwarf planets, moons, asteroids, meteoroids, planetesimals, and debris discs, among other objects.
+
+planetary-mass object (PMO)
+Also planemo or planetary body.
+
+planetesimal
+Any solid object (generally larger than 1 kilometre (0.62 mi) in diameter) that arises during the formation of a planet whose internal strength is dominated by self-gravity and whose orbital dynamics are not significantly affected by gas drag. The term is most commonly applied to small bodies thought to exist in protoplanetary disks and debris disks during the process of planet formation, but is also sometimes used to refer to various types of small Solar System bodies which are left over from the formation process. There is no precise distinction between a planetesimal and a protoplanet.
+
+planetoid
+Another name for a minor planet or dwarf planet.
+
+planetology
+See planetary science.
+
+polar orbit
+An orbit in which the orbiting object passes directly over or nearly over both poles of the body being orbited during each revolution. It therefore has an inclination equal or nearly equal to 90 degrees to the body's equator.
+
+positional astronomy
+See spherical astronomy.
+
+precession
+Any slow change in the orientation of an object's axis of rotation. For the Earth in particular, this phenomenon is referred to as the precession of the equinoxes. Apsidal precession refers to a steady change in the orientation of an orbit, such as the precession in the orbit of Mercury that was explained by the theory of general relativity.
+
+precession of the equinoxes
+
+primary
+Also gravitational primary, primary body, or central body.
+The main physical body of a gravitationally bound, multi-object system. The primary constitutes most of the system's mass and is generally located near the system's barycenter.
+
+prograde motion
+Also direct motion.
+Orbital or rotational motion of an object in the same direction as the rotation of the object's primary. The direction of rotation is determined by an inertial frame of reference such as the fixed stars. Contrast retrograde motion.
+
+projected separation
+The observed physical separation between two astronomical objects, as determined from their angular separation and estimated distance. For planets and double stars, this distance is usually given in astronomical units. The actual separation of the two objects depends on the angle of the line between the two objects to the line-of-sight of the observer.
+
+proper motion
+The rate of angular motion of an object over an interval of time, usually years. For stars, this is typically given in milliarcseconds per year.
+
+proplyd
+See protoplanetary disk.
+
+protoplanet
+A large planetary embryo that originated within a protoplanetary disk and has since undergone internal melting to produce an interior of non-uniform composition. Protoplanets represent an intermediate step in the formation of a full-sized planet; they are thought to form out of smaller planetesimals as they collide with each other and gradually coalesce into larger bodies.
+
+protoplanetary disk
+Also proplyd.
+
+protostar
+A concentration of mass formed by the contraction of a collapsing interstellar cloud. Once sufficient mass has fallen onto this central core, it becomes a pre-main-sequence star.
+
+pseudo-synchronous rotation
+The near-synchronization of revolution and rotation at periastron of a body with an eccentric orbit.
+
+pulsar
+A highly magnetized rotating neutron star or white dwarf that emits a beam of electromagnetic radiation. This beam is observed only when it is pointing toward Earth, making the object appear to pulse.
+
+Q
+
+quadratic field strength
+A method of computing the mean strength of a varying stellar magnetic field. It is determined by calculating the root mean square of a series of longitudinal magnetic field strength measurements taken at different times.
+
+quadrature
+A configuration in which two celestial bodies have apparent ecliptic longitudes that differ by 90 degrees as viewed from a third body, e.g. when a planet's elongation is perpendicular to the direction of the Sun as viewed from the Earth. The term is used especially to describe the position of a superior planet or the Moon at its first and last quarter phases.
+
+quasar
+Also quasi-stellar radio source.
+A distant, point-like energy source originating from a powerful active galactic nucleus. Its luminosity is generated by the accretion of gas onto a supermassive black hole. Quasars emit radiation across the electromagnetic spectrum from radio waves to X-rays, and their ultraviolet and optical spectra are characterized by strong, broad emission lines.
+
+R
+
+radial velocity
+The velocity of an object along the line of sight to the observer, which in astronomy is usually determined via Doppler spectroscopy. Positive values are used to indicate a receding object. An object such as a star can undergo changes in its radial velocity because of the gravitational perturbation of another body, or because of radial pulsations of its surface. The latter, for example, occurs with a Beta Cephei variable star.
+
+radio astronomy
+The subfield of astronomy that studies astronomical objects at radio frequencies, using large radio antennas known as radio telescopes.
+
+radio source
+Any astronomical object that emits strong radio waves into space. These objects are the basis for radio astronomy.
+
+red-giant branch
+A conspicuous trail of enlarged red stars found on the Hertzsprung–Russell diagram for a typical globular cluster. It begins at the main-sequence turnoff point and extends toward the higher luminosity and lower temperature range until reaching the red-giant tip. This branch consists of older stars that have evolved away from the main sequence but have not yet initiated helium fusion in their core region.
+
+redshift
+An increase in the wavelength, and a corresponding decrease in the frequency and photon energy, of electromagnetic radiation.
+
+reference plane
+See plane of reference.
+
+regular moon
+A natural satellite following a relatively close and prograde orbit with little or no orbital inclination or orbital eccentricity. Regular moons are thought to form in situ about their primary, as opposed to irregular moons, which are thought to be captured.
+
+relativistic jet
+A beam of ionised matter accelerated close to the speed of light. Most have been observationally associated with central black holes of some active galaxies, radio galaxies or quasars.
+
+réseau
+A grid of fine lines or crosshatches engraved upon a transparent glass plate, which when placed in front of film during a photographic exposure produces a corresponding grid in the resulting photograph by creating permanent shadows on the film negative. These grids are used in some photographic telescopes to produce reference markers in photographs of distant stars, allowing precise and convenient measurement of astrometric positions.
+
+retrograde motion
+Orbital or rotational motion of an object in the direction opposite the rotation of the object's primary. The direction of rotation is determined by an inertial frame of reference such as the fixed stars. Contrast prograde motion.
+
+revolution period
+See orbital period.
+
+right ascension
+In the equatorial coordinate system, the celestial equivalent of terrestrial longitude. It divides the celestial equator into 24 hours, each of 60 minutes.
+
+ring system
+A disk- or ring-shaped accumulation of various solid material such as dust and moonlets that orbits an astronomical body such as a planet. Ring systems are common components of satellite systems around giant planets, as with the Rings of Saturn. See also circumplanetary disk.
+
+Roche limit
+The distance from an astronomical object at which the tidal force matches an orbiting body's gravitational self-attraction. Inside this limit, the tidal forces will cause the orbiting body to disintegrate, usually to disperse and form a ring. Outside this limit, loose material will tend to coalesce.
+
+rogue planet
+Also interstellar planet, nomad planet, orphan planet, and starless planet.
+Any planetary-mass object that orbits a galactic center directly rather than a star or substellar object. Such objects have often been ejected from the planetary system in which they formed, or otherwise have never been gravitationally bound to any star system.
+
+Rosseland optical depth
+An extinction coefficient of an atmosphere, which describes the net opacity to radiation at a given depth. See optical depth.
+
+rotation period
+The time that an object takes to complete a single revolution about its own axis of rotation relative to the background stars. It is not necessarily the same as the object's synodic day or sidereal day.
+
+rotational modulation
+A phenomenon which causes the luminosity of a star to vary as rotation carries star spots or other localized activity across the line of sight. Examples include RS CVn and BY Dra variables.
+
+S
+
+satellite galaxy
+A smaller companion galaxy that orbits within the gravitational potential of a more massive and luminous host galaxy; e.g. the Large Magellanic Cloud is a satellite galaxy of the Milky Way.
+
+scattered disc
+A distant circumstellar disc in the Solar System that is sparsely populated by icy small Solar System bodies, which are a subset of the broader family of trans-Neptunian objects.
+
+scintillation
+Also twinkling.
+Rapid variations in the apparent brightness, color, or position of a star (or any other distant luminous object) as viewed through a medium, such as the Earth's atmosphere, caused by the passing of light through layers of turbulence in the medium. Most terrestrial scintillation effects are the result of atmospheric refraction caused by small-scale fluctuations in air density, and are much more pronounced near the horizon, since light rays near the horizon must travel longer paths through the atmosphere before reaching the observer.
+
+secular
+Continuing, or changing in a non-periodic way, over a long period of time.
+
+secular motion
+Any change in movement that happens over a very long time period. Examples include the perihelion precession of Mercury, the tidal acceleration of the Earth–Moon system, and precession of the Earth's axis.
+
+seeing
+The movement or distortion of a telescopic image as a result of turbulence in the Earth’s atmosphere. It is thought to be caused by undulations between separate layers of air, which disturb the path of light. The scale of these undulations is often regarded as producing "cells" of seeing, each typically around 100–150 mm across at sea level, and larger at higher altitudes. A small telescope may look through individual cells, whose movements give rise to a sharp but wandering image, while a larger one may look through several at once, producing multiple images. The "boiling" sometimes visible at the limb of the Moon or the Sun is another manifestation of poor seeing. The Antoniadi scale is widely used by amateur astronomers to evaluate seeing conditions.
+
+selenocentric
+With reference to, or pertaining to, the geometric center of the Earth's Moon.
+
+semi-diameter
+The angle at the position of an observer subtended by the equatorial radius of the Sun, the Moon, or a planet.
+
+semi-major axis
+Also major semi-axis.
+One half of the longest diameter (the major axis) of an ellipse. It is expressed in units of length and often used to give a physical dimension to a two-body elliptical Kepler orbit, such as for a binary star system or star–planet system. When the distance between the orbiting bodies is unknown, the semi-major axis may be given as an angle.
+
+September equinox
+Also southward equinox.
+The precise time of year on Earth when the Sun appears to cross the celestial equator, while generally trending southward at each zenith passage. It represents the moment at which the North Pole of the Earth begins to tilt away from the Sun, and typically occurs on or near September 22 each year. It is the autumnal equinox in the Northern Hemisphere and the vernal equinox in the Southern Hemisphere. Contrast March equinox.
+
+sidereal day
+The rotation period of an object (e.g. the Earth) with respect to the distant fixed stars of its own celestial sphere (rather than to its primary star, e.g. the Sun), measured as the time it takes for the fixed stars, as viewed from a particular point on the object's surface, to return to the same position in the sky on consecutive nights. The Earth's sidereal day is equal to approximately 86,164.09 seconds (23 hours, 56 minutes, 4.09 seconds), about four minutes shorter than the solar day, which instead reckons time based on the Sun's position in the sky.
+
+sidereal period
+The orbital period of an object within the Solar System, e.g. the Earth's orbital period around the Sun. The name "sidereal" implies that the object returns to the same position relative to the fixed stars of the celestial sphere as observed from the Earth.
+
+sidereal time
+The calculation of the passage of time based on the diurnal motion of the fixed stars in the Earth's sky. The fundamental unit of sidereal time is the sidereal day, i.e. the time interval between two successive returns of the fixed stars to the local meridian, as viewed from a given location on the Earth's surface.
+
+sidereal year
+The time that Earth or another planetary body takes to orbit the Sun once with respect to the fixed stars.
+
+sky
+Everything that lies above the surface of the Earth, including the atmosphere and outer space. In the context of astronomy, the term "sky" is also used as another name for the celestial sphere. See also night sky.
+
+small Solar System body (SSSB)
+An object in the Solar System that is neither a planet, a dwarf planet, nor a natural satellite. The SSSBs are: the comets; the classical asteroids, with the exception of the dwarf planet Ceres; the trojans; and the centaurs and trans-Neptunian objects, with the exception of the dwarf planets.
+
+solar day
+A synodic day on Earth, i.e. the rotation of the Earth with respect to the Sun, measured as the time it takes for the Sun, as viewed from a particular point on the Earth's surface, to return to the same position in the sky (e.g. to cross the same meridian) on consecutive days. Because the Earth's orbit around the Sun affects the angle at which the Sun is seen from the Earth, the Sun appears to take slightly longer to return to the same position than do the fixed stars, which results in the solar day being on average about four minutes longer than the sidereal day. The length of the solar day is also not constant, but rather changes over the course of the year because the Earth's orbit is not perfectly circular and because its rotational axis is not perpendicular to its orbital plane. One mean solar day (averaged over the Earth's orbital period) is currently equal to 86,400 seconds, or exactly 24 hours.
+
+solar eclipse
+An occultation of the Sun by the Earth's Moon, in which a portion of the Earth passes through the shadow cast by the Moon, temporarily blocking sunlight, fully or partially, from reaching that portion of the Earth's surface. A solar eclipse occurs when the Moon is precisely aligned between the Sun and the Earth. Because all three bodies are continuously moving, the shadow of the Moon traces out a narrow path across the Earth's surface, and from any given location within or very close to this path, the eclipse is visible only for a short duration. Depending on the observer's location and on the apparent sizes of the solar and lunar disks in the sky, an eclipse may appear to be total, partial, or annular.
+
+solar facula
+A bright spot visible in the photosphere of the Sun that forms in the canyons between solar granules. They are produced by concentrations of magnetic field lines. The Sun's faculae are most readily observed near the solar limb. Faculae can also occur on other stars.
+
+solar flare
+An intense, localized emission of electromagnetic radiation in the Sun's atmosphere.
+
+solar granule
+A convection cell in the Sun's photosphere.
+
+solar jet
+A transient, collimated flow of plasma in the Sun's atmosphere.
+
+solar mass (M☉)
+A standard unit of mass equal to the mass of the Earth's Sun, or approximately 1.98847×1030 kg. It is commonly used to express the masses of other stars and astronomical objects relative to the Sun.
+
+solar moss
+A feature in the Sun's atmosphere that appears as bright, "sponge-like" patches in extreme ultraviolet light, occurring above the Sun's visible surface at the base of hot coronal loops in active regions.
+
+solar prominence
+A large, bright, transient feature, often in the shape of a loop, consisting of plasma extending outward from the Sun's photosphere into the corona. Prominences may be hundreds of thousands of kilometers long.
+
+solar radius (R☉)
+A standard unit of distance equal to the radius of the Earth's Sun (typically measured from the Sun's center to the layer in the photosphere at which the optical depth equals 2/3), or approximately 695,700 kilometres (432,300 mi). It is commonly used to express the radii of other stars and astronomical objects relative to the Sun.
+
+solar storm
+See geomagnetic storm.
+
+solar spicule
+A dynamic jet of plasma in the Sun's chromosphere, about 300 km in diameter.
+
+Solar System
+The gravitationally bound planetary system of the Earth's Sun and all of the objects that orbit it, either directly or indirectly, including the eight true planets, five dwarf planets, and numerous small Solar System bodies such as asteroids, comets, and natural satellites.
+
+solar time
+The calculation of the passage of time based on the diurnal motion of the Sun in the Earth's sky. The fundamental unit of solar time is the solar day, i.e. the time interval between two successive returns of the Sun to the local meridian, as viewed from a given location on the Earth's surface. Because the duration of this interval changes during the Earth's orbit around the Sun, apparent solar time is distinguished from mean solar time. Solar time and sidereal time were employed by astronomers as time reckoning systems before the introduction of ephemeris time.
+
+solar wind
+A stream of charged particles, primarily protons, electrons, and alpha particles, released from the Sun's corona and flowing outwards at up to 900 kilometres per second (2,000,000 mph) into interplanetary space. Phenomena influenced by the solar wind include aurora, geomagnetic storms, and the plasma tails of comets.
+
+solstice
+Either of the two precise times of year when the Sun reaches its most northerly or most southerly point in the sky as seen from Earth; or, equivalently, when the Sun's apparent geocentric longitude is either 90 degrees or 270 degrees. The solstices occur on or near June 20 and December 21 each year. The June solstice, called the summer solstice in the Northern Hemisphere, is the annual date featuring the longest duration of daylight and the shortest duration of nighttime for any given point in the Northern Hemisphere; the reverse is true in the Southern Hemisphere, where the June date is the winter solstice.
+
+spectral classification
+See stellar classification.
+
+spectroscopic binary
+A type of binary star system where the individual components have not been resolved with a telescope. Instead, the evidence for the binarity comes from shifts observed in the spectrum. This is caused by the Doppler effect as the radial velocity of the components change over the course of each orbit.
+
+spectroscopy
+The measurement and interpretation of the electromagnetic spectrum emitted by a radiating source. Many physical properties of a source can be deduced from features and changes in its spectrum.
+
+speed of light
+The rate of travel of electromagnetic radiation through a medium. The speed of light in a vacuum is a universal physical constant, denoted by c. Massless particles and gravitational waves also travel at the speed of light. Light speed forms an upper limit for how fast information and matter can travel through space, while the large-scale expansion of space itself is not restricted.
+
+spherical astronomy
+Also positional astronomy.
+A branch of observational astronomy which is used to locate the positions of astronomical objects on the celestial sphere as they would appear from a particular date, time, and location on Earth. It relies on the mathematical methods of spherical geometry and the measurements of astrometry.
+
+spiral galaxy
+
+standard gravity (ɡ0 or ɡn)
+Also standard acceleration due to gravity.
+The nominal gravitational acceleration of an object in a vacuum near the surface of the Earth, as a result of Earth's gravity and, less importantly, the centrifugal force generated by its rotation. It is by definition equal to 9.80665 m/s2 (approximately 32.17405 ft/s2).
+
+star
+A massive, luminous spheroid of plasma held together by its own gravity which, for at least a portion of its life, radiates energy into outer space due to the thermonuclear fusion of hydrogen into helium within its core. Astronomers can determine the mass, age, temperature, chemical composition, and many other properties of a star by observing its motion through space, its luminosity, and its emission spectrum.
+
+star catalogue
+Also spelled star catalog.
+
+star cluster
+
+star system
+Also stellar system.
+Any small number of stars that orbit each other, bound by gravitational attraction, such as a binary star system. In the broadest sense, very large groups of stars bound by gravitation such as star clusters and galaxies are also star systems. Star systems are distinct from planetary systems, which include planets and other bodies such as comets.
+
+starburst galaxy
+Any galaxy that has an anomalously high rate of star formation. The criteria for a starburst is a star formation rate that would normally consume the galaxy's available supply of unbound gas within a time period shorter than the age of the galaxy. Most starbursts occur as a result of galactic interactions, such as a merger.
+
+starfield
+Any set of stars visible in an arbitrarily sized field of view of a telescope, usually in the context of some region of interest within the celestial sphere. For example, the starfield surrounding the stars Betelgeuse and Rigel could be defined as encompassing some or all of the Orion constellation.
+
+stellar
+Of or relating to a star or star system.
+
+stellar atmosphere
+Also stellar envelope.
+The outermost region of a star, located above the stellar core, radiation zone, and convection zone. Although it constitutes only a small portion of the star's mass, for some evolved stars the stellar envelope can encompass a significant fraction of the radius.
+
+stellar classification
+Also spectral classification.
+The categorization of stars based upon their spectra. The modern Morgan–Keenan spectral classification scheme is a two-dimensional classification based on temperature and luminosity.
+
+stellar designation
+
+stellar dynamics
+
+stellar envelope
+1.  The region within the volume of a star that transports energy from the stellar core to the stellar atmosphere; or another name for the stellar atmosphere itself.
+2.  The common envelope of gases encompassing a binary star system.
+
+stellar evolution
+
+stellar evolution model
+Also simply stellar model.
+An astrophysical model of a star's stellar evolution over time based upon its mass and chemical composition.
+
+stellar magnetic field
+A magnetic field generated by the convective motion of plasma inside a star, responsible for phenomena such as starspots and coronal loops. Even when a dynamo no longer exists, a fossil magnetic field may persist from an earlier epoch of stellar evolution.
+
+stellar parallax
+
+stellar remnant
+
+submillimetre astronomy
+The subfield of astronomy that studies astronomical objects detectable at submillimetre wavelengths (i.e. terahertz radiation).
+
+subsatellite
+Any natural or artificial satellite that orbits another natural satellite, i.e. "a moon of a moon".
+
+substellar object
+Also substar.
+An astronomical object whose mass is smaller than the smallest mass at which the fusion of hydrogen nuclei can be sustained (equivalent to approximately 0.08 solar masses), including brown dwarfs and some stellar remnants, as well as certain planetary-mass objects.
+
+Sun
+The star occupying the center of the Solar System. It is a massive, nearly perfect sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core. The physical properties of the Sun are used as a standard to describe the mass, radius, and luminosity of other stars.
+
+supercluster
+
+superior planet
+An archaic term used to refer to the planets of the Solar System that orbit further from the Sun than the Earth; i.e. Mars, Jupiter, Saturn, Neptune, and Uranus. The name originated from the geocentric cosmology of Ptolemy. Contrast inferior planet.
+
+supermassive black hole (SMBH)
+One of a class of very large black holes which possess masses ranging from hundreds of thousands to many billions of times the mass of the Sun. These are typically found at a galactic core, where they can have a profound effect upon the evolution of the surrounding galaxy.
+
+supernova
+An extremely luminous, transient stellar explosion occurring during a massive star's final evolutionary stages or when a white dwarf is triggered into runaway nuclear fusion.
+
+surface gravity (g)
+The gravitational acceleration experienced at the equatorial surface of an astronomical body or other object, including that produced by the effects of rotation. It is typically expressed in units of acceleration such as meters per second squared (m/s2) or as a multiple of the Earth's standard gravity, which is equal to 9.80665 m/s2.
+
+synchronous orbit
+Any orbit in which an object orbits its primary with an orbital period equal to the average rotational period of the primary and in the same direction as the primary's rotation.
+
+synodic day
+Also synodic rotation period.
+The time it takes for an object to rotate once about its own axis (i.e. its rotation period) relative to the primary it is orbiting (rather than to the much more distant fixed stars). The synodic day may be described as the time between two consecutive sunrises (in the case where the primary is a star), which is not necessarily the same as the sidereal day. As it does on Earth, an object's synodic day may change slightly in duration over the course of the orbital period due to eccentricity and axial tilt; Earth's synodic day is often called a solar day.
+
+synodic period
+The time it takes for a body visible from another body (often the Earth) to complete a cycle with respect to the background stars visible in the second body's celestial sphere. Synodic period is most commonly used to indicate the elapsed time between a given body's consecutive appearances in the same location in the night sky as observed from Earth, but can in principle be calculated with respect to the sky as observed from any body. It is related to but distinct from the orbital period, a result of the fact that both the body being studied (e.g. Jupiter) and the body from which it is being observed (e.g. Earth) are independently orbiting a third body (the Sun).
+
+synodic time
+The calculation of the passage of time based on successive conjunctions of an astronomical object, such as a planet (i.e. successive returns of the object to the same aspect in the Earth's sky).
+
+syzygy
+The straight-line configuration of three celestial bodies in a gravitational system.
+
+T
+
+tangential velocity
+The component of the velocity of a star or other astronomical body that is perpendicular to the line of sight of the observer (i.e. in the tangent plane). This component can be computed from the body's observed proper motion and its measured distance from the observer.
+
+telescope
+A device used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation. It employs an assembly of components that collect and focus the incoming radiation, providing an enlarged view with higher luminosity and better angular resolution than can be observed with the naked eye alone.
+
+telluric star
+A star with nearly featureless continuum spectra that can be used to correct for the effect of telluric contamination of the Earth's atmosphere on the spectra of other stars. For example, water vapor in the atmosphere creates significant telluric absorption bands at wavelengths above 6800 Å. These features need to be corrected for in order to more accurately measure the spectrum.
+
+termination shock
+The boundary within the heliosphere, approximately 75 to 90 AU from the Sun, beyond which the solar wind slows to subsonic speeds (relative to the Sun) as a result of interactions with the local interstellar medium.
+
+terminator
+The line that divides the illuminated side of a moon or planet from its dark side. The line moves as the object rotates with respect to its parent star.
+
+theoretical astronomy
+A branch of astronomy that uses analytical and computational models based on principles from physics and chemistry to describe, explain, and model the properties of astronomical objects and phenomena, with the ultimate goal of accurately predicting the observable or testable consequences of those models.
+
+thick disk population
+One of the structural components of about 2⁄3 of all disk galaxies, including the Milky Way.
+
+thin disk population
+The layer of the Milky Way galaxy where the spiral arms are found and where most of the star formation takes place. It is about 300–400 parsecs (980–1,300 light-years) deep and centered on the galactic plane. Stars belonging to this population generally follow orbits that lie close to this plane. This is in contrast to members of the thick disk population and halo stars.
+
+tidal braking
+Also tidal acceleration.
+The transfer of momentum between an astronomical body and an orbiting satellite as the result of tidal forces. This can cause changes in the rotation periods for both bodies as well as modification of their mutual orbit. A satellite in a prograde orbit will gradually recede from its primary while slowing the rotation rate of both bodies.
+
+tidal force
+Also tide-generating force.
+The difference in gravitational attraction between different points in a gravitational field; the residual or differential force of gravity which causes different points in space to be affected by gravity unevenly, such that a body is stretched along the line connecting it to the center of mass of another body due to spatial variations in gravitational potential.
+
+tidal locking
+The net result of continued tidal braking such that, over the course of an orbit, there is no net transfer of angular momentum between an astronomical body and its gravitational partner. When the orbital eccentricity is low, the result is that the satellite orbits with the same face always pointed toward its primary. An example is the Moon, which is tidally locked with the Earth.
+
+tidal stream
+A stream of stars and gases which are stripped from gas clouds and star clusters because of interaction with the gravitational field of a galaxy such as the Milky Way.
+
+tilt erosion
+The gradual reduction of the obliquity of an orbiting satellite due to tidal interactions.
+
+Tisserand's parameter (T)
+Also Tisserand parameter.
+A measure of the orbital motion of a relatively small body (e.g. an asteroid or comet) with respect to a larger, perturbing body (e.g. a planet), used for restricted three-body problems in which the three bodies all differ greatly in mass. The parameter is calculated from the orbital elements of each body, including the small body's semimajor axis, eccentricity, and inclination, and is useful in specifically identifying small bodies observed before and after planetary encounters, as its numerical value remains largely constant throughout the body's lifetime. It is also used to distinguish between different kinds of orbits which are characteristic of different classes of bodies.
+
+topocentric
+With reference to, or pertaining to, a point on the surface of the Earth.
+
+total solar eclipse
+A solar eclipse in which the disk of the Earth's Sun is completely obscured by the Earth's Moon. At totality, this formation allows the Sun's corona and prominences to be directly observed.
+
+trans-Neptunian object (TNO)
+Any minor planet in the Solar System that orbits the Sun at a greater average distance than Neptune.
+
+transit
+1.  The passage of a particular celestial object across a particular meridian.
+2.  An astronomical event during which a celestial body or object passes visibly across the face of a much larger body. An example is the transit of Venus across the face of the Sun, which was visible from Earth in 2004 and 2012. Because a transit results in a decrease in the net luminosity from the two objects, the transit method can be used to detect extrasolar planets as they pass in front of their host stars. A transit by an object that appears roughly the same size or larger than the body it is transiting is called an occultation or eclipse.
+
+trojan
+A small celestial body (mostly asteroids) that shares the orbit of a larger body, remaining in a stable orbit approximately 60° ahead of or behind the main body near one of its Lagrangian points.
+
+tropical year
+The time that the Sun takes to return to the same position in the sky.
+
+true anomaly (ν, θ, or f)
+The angle between the direction of periapsis and the current position of an orbiting body as it moves along an elliptical orbit, as measured from the nearest focus of the ellipse. The true anomaly is one of three angular parameters that define a position along an orbital path, the other two being the eccentric anomaly and the mean anomaly, and also one of six canonical orbital elements used to characterize an orbit.
+
+Tully–Fisher relation
+An empirical relationship between the mass or intrinsic luminosity of a spiral galaxy and its angular velocity or emission line width. It can be used to estimate the distance of the galaxy, and hence forms a rung on the cosmic distance ladder.
+
+twilight
+The time period immediately before sunrise and after sunset during which, despite the Sun being completely below the horizon, the scattering of sunlight by the Earth's atmosphere supplies significant illumination to the ambient environment. Several definitions of twilight are commonly distinguished, including astronomical, civil, and nautical twilight.
+
+two-body problem
+A problem of classical mechanics to calculate and predict the motion of two massive bodies that are orbiting each other in space.
+
+U
+
+UBV photometric system
+Also the Johnson system or Johnson–Morgan system.
+A photometric system usually employed for classifying stars according to their colors.
+
+universe
+1.  The entirety of space and time and their contents, including galaxies, stars, planets, all other forms of matter and energy, and the physical laws and constants that describe them. When not otherwise qualified, "the universe" usually refers to the entire universe, whose spatial extent is unknown because it is not directly measurable; this is distinguished from the observable universe, whose size it is possible to measure.
+2.  One of many hypothetical parallel universes which exist as causally disconnected constituent parts of a larger multiverse, which itself comprises all of space and time and their contents.
+
+V
+
+variable star
+Any star that is observed to vary in brightness. This variation may be periodic, with one or more cycles that last hours, days, months, or even years. Some stars vary in an irregular manner, while others undergo cataclysmic changes in brightness. Other forms of variability are intrinsic changes to the star's radial velocity or its profile of spectral lines.
+
+velocity dispersion
+The statistical dispersion of velocities about the mean velocity for a group of objects, such as stars in a globular cluster or galaxies in a galactic cluster. This value can be used to derive the combined mass of the group by using the virial theorem.
+
+Virgo Supercluster (Virgo SC)
+Also the Local Supercluster (LSC or LC). 
+A massive association of over 100 galaxy groups and clusters that includes the Local Group, and thus the Milky Way galaxy. At its core is the Virgo Cluster of galaxies, which is centered on the constellation of Virgo.
+
+W
+
+walled plain
+This term is used as a label for any shallow lunar crater with a diameter of 80–240 km, having little or no external walls and a relatively smooth, flat floor. These features typically lack a central peak and have a degraded rim. They are often found in mountainous areas of the Moon. The term walled plain has no exact scientific definition and in the present day it is mainly used by lay persons. However, the term may sometimes be used to describe topological features on other bodies, such as Ruach Planitia on the moon Triton.
+
+weak-line star
+A reference to the faintness of the spectral lines for a star compared to standard stars with the same stellar classification. Since most absorption lines are caused by elements other than hydrogen and helium—what astronomers refer to as "metals"—these are sometimes called metal weak stars.
+
+white dwarf
+A type of stellar remnant composed mostly of electron-degenerate matter. A white dwarf lacks the mass needed to continue the nuclear fusion process with its constituent atoms, so the object's energy output normally comes from radiative cooling. See also nova.
+
+Wilson–Bappu effect
+A correlation between the width of the singly ionized calcium K-line (Ca II K) at 3933 Å and the absolute visual magnitude of the emitting late-type stars. This linear relation makes it useful for determining the distances of G, K, and M-type stars.
+
+X
+
+XBONG
+An acronym of X-ray bright optically normal galaxy.
+A seemingly normal galaxy that does not appear to have an active galactic nucleus, yet displays an anomalous level of excess X-ray emission.
+X-ray source
+A source of X-rays. They are usually produced when a high-mass object, usually a neutron star or black hole and a companion star are in a binary system.
+
+Z
+
+zenith
+The point in the sky that is directly overhead from the perspective of a particular location on the Earth.
+
+zero-age main sequence (ZAMS)
+The sequence of positions along the Hertzsprung–Russell diagram achieved by newly formed, chemically homogeneous stars which have finished contracting and have reached hydrostatic equilibrium, with energy being derived solely from nuclear fusion.
+
+zodiac
+The area of the sky that extends approximately 8 degrees north or south (in celestial latitude) of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year as observed from Earth. The Sun, Moon, and visible planets appear to travel across a band of twelve Zodiac constellations within this belt as the Earth orbits the Sun.
+
+zodiacal light
+A faint glow in the night sky from sunlight reflected by an interplanetary dust cloud. It is concentrated near the plane of the zodiac, or ecliptic, particularly toward the Sun. The dust is mostly the result of cometary collisions, with a contribution from asteroids.
+
+Zone of Avoidance
+Also Zone of Galactic Obscuration (ZGO).
+The region of the sky obscured by the Milky Way’s disk, making it difficult for observers on Earth and telescopes within the Solar System to observe distant objects behind it.
+
+See also
+
+Outline of astronomy
+List of astronomical catalogues
+List of astronomy acronyms
+List of common astronomy symbols
+Modern constellations
+
+References
+
+External links
+
+"Astronomical Glossary", A Knowledgebase for Extragalactic Astronomy and Cosmology, NASA/IPAC, January 10, 2006, retrieved 2012-02-19
+Astronomy Terms, Sky & Telescope Media, retrieved 2018-03-09
+"ESO Astronomical Glossary", Public Outreach, European Southern Observatory, retrieved 2018-03-09
+"Glossary", HubbleSite – Reference Desk, Space Telescope Science Institute (STScI), retrieved 2018-03-09
+"Glossary of (comet and) astronomical terms", International Comet Quarterly, Harvard University, retrieved 2012-02-20
+"A–Z Glossary of Space Terms, Space Words, and Astronomy Terms", Stargazing 101 - Beginner Stargazing Guides, Tools & Tips to Explore the Night Sky with Confidence, Stargazing101, 30 April 2025, retrieved 2025-05-11
+
+[[Cambridge University Press]] [[Engineering]] [[Glossary of Arabic toponyms]] [[Glossary of Hebrew toponyms]] [[Glossary of aerospace engineering]] [[Glossary of agriculture]] [[Glossary of archaeology]] [[Glossary of architecture]] [[Glossary of areas of mathematics]] [[Glossary of artificial intelligence]] [[Glossary of biology]] [[Glossary of bird terms]] [[Glossary of botanical terms]] [[Glossary of calculus]] [[Glossary of cellular and molecular biology (0–L)]] [[Glossary of cellular and molecular biology (M–Z)]] [[Motion]]

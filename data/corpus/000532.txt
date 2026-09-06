@@ -1,0 +1,78 @@
+Frontal lobe
+The frontal lobe is the largest lobe of the vertebrate brain and the most anterior lobe of the cerebral hemispheres. The anatomical groove known as the central sulcus separates the frontal lobe from the parietal lobe, and the deeper anatomical groove called the lateral sulcus separates the frontal lobe from the temporal lobe. The most anterior ventral, orbital end of the frontal lobe is known as the frontal pole, which is one of the three so-called poles of the cerebrum.
+The outer, multifurrowed surface of the frontal lobe is called the frontal cortex. Like all cortical tissue, the frontal cortex is a thin layer of gray matter making up the outer portion of the brain. The frontal cortex is further subdivided into several anatomical and functional structures, including those of the motor cortex (the premotor cortex, the nonprimary motor cortex, the primary motor cortex) and the prefrontal cortex (e.g., the dorsolateral prefrontal cortex).
+Located in the frontal lobe are also four principal gyri. The precentral gyrus is directly anterior to the central sulcus, running parallel to it and containing the primary motor cortex, which controls voluntary movements of specific body parts. Three other frontal gyri, horizontally arranged, are the superior frontal gyrus, the middle frontal gyrus, and the inferior frontal gyrus. The inferior frontal gyrus is further subdivided into the orbital part, the triangular part, and the opercular part, and it is functionally known as the ventrolateral prefrontal cortex.
+The frontal lobe further contains most of the dopaminergic neurons in the cerebral cortex. Dopaminergic pathways are associated with reward, attention, short-term memory, planning, and motivation. Dopamine tends to limit and select sensory information coming from the thalamus to the forebrain.
+
+Structure
+
+The frontal lobe is the largest lobe of the brain and makes up about a third of the surface area of each hemisphere. On the dorsal surface of each hemisphere, the central sulcus separates the frontal lobe from the parietal lobe. The lateral sulcus separates the frontal lobe from the temporal lobe.
+The frontal lobe can be divided into a lateral, polar, orbital (above the orbit; also called basal or ventral), and medial part. Each of these parts consists of a particular gyrus:
+
+Lateral part: lateral part of the superior frontal gyrus, middle frontal gyrus, and inferior frontal gyrus
+Polar part: frontopolar cortex, transverse frontopolar gyri, frontomarginal gyrus.
+Orbital part: Lateral orbital gyrus, anterior orbital gyrus, posterior orbital gyrus, medial orbital gyrus, and gyrus rectus
+Medial part: Medial part of the superior frontal gyrus, cingulate gyrus.
+The gyri are separated by sulci. For example, the precentral gyrus is in front of the central sulcus, and behind the precentral sulcus. The superior and middle frontal gyri are divided by the superior frontal sulcus. The middle and inferior frontal gyri are divided by the inferior frontal sulcus.
+The human frontal lobe reaches full maturity only after 30—in fact, the prefrontal cortex, in particular, continues to mature well into the third decade. A small amount of atrophy, however, is normal in the aging person's frontal lobe. Fjell et al. (2009), studying the rate of brain atrophy over time among 142 healthy adults aged 60–91 years compared with 122 patients with Alzheimer's disease, showed that there was a marked volumetric decline in those with Alzheimer's and a much smaller decline (averaging 0.5%) in the healthy group at the 1-year follow-up.  These findings replicate those of Coffey et al. (1992), whose results also showed that the frontal lobe decreases in volume approximately 0.5–1% per year.
+
+Function
+The frontal lobe, which comprises several anatomical and functional structures, supports, among other things, goal-directed behavior and abstract mental representations (e.g., the phenomenal, human ability to transcend the immediate spatiotemporal context by imagining oneself in the future). It is a mistake to believe that the primary function of the frontal lobe is action—that it is wholly committed, for instance to reasoning and thus the regulation of sensory phenomena such as emotion or affect.
+Psychological tests that measure the functional integrity of the structures belonging to the frontal lobe include finger tapping, the Wisconsin Card Sorting Test, and measures of language, numeracy skills, and decision making.
+
+Clinical significance
+
+Damage
+Damage to the frontal lobe can occur in a number of ways and result in many different consequences. Transient ischemic attacks (TIAs) also known as mini-strokes, and strokes are common causes of frontal lobe damage in older adults (65 and over). These strokes and mini-strokes can occur due to the blockage of blood flow to the brain or as a result of the rupturing of an aneurysm in a cerebral artery. Other ways in which injury can occur include traumatic brain injuries incurred following accidents, diagnoses such as Alzheimer's disease or Parkinson's disease (which cause dementia symptoms), and frontal lobe epilepsy (which can occur at any age). Very often, frontal lobe damage is recognized in those with prenatal alcohol exposure.
+
+Symptoms
+Common effects of damage to the frontal lobe are varied. Patients who have experienced frontal lobe trauma may know the appropriate response to a situation but display inappropriate responses to those same situations in real life . Similarly, emotions that are felt may not be expressed in the face or voice. For example, someone who is feeling happy would not smile, and the voice would be devoid of emotion. Along the same lines, though, the person may also exhibit excessive, unwarranted displays of emotion. Depression is common in stroke patients. Also common is a loss of or decrease in motivation. Someone might not want to carry out normal daily activities and would not feel "up to it". Those who are close to the person who has experienced the damage may notice changes in behavior. The case of Phineas Gage was long considered exemplary of these symptoms, though more recent research has suggested that accounts of his personality change have been poorly evidenced. The frontal lobe is the same part of the brain that is responsible for executive functions such as planning for the future, judgment, decision-making skills, attention span, and inhibition. These functions can decrease in someone whose frontal lobe is damaged.
+Consequences that are seen less frequently are also varied. Confabulation may be the most frequently indicated "less common" effect. In the case of confabulation, someone gives false information while maintaining the belief that it is the truth. In a small number of patients, uncharacteristic cheerfulness can be noted. This effect is seen mostly in patients with lesions to the right frontal portion of the brain.
+Another infrequent effect is that of reduplicative paramnesia, in which patients believe that the location in which they currently reside is a replica of one located somewhere else. Similarly, those who experience Capgras syndrome after frontal lobe damage believe that an identical "replacement" has taken the identity of a close friend, relative, or other person and is posing as that person. This last effect is seen mostly in schizophrenic patients who also have a neurological disorder in the frontal lobe.
+
+DNA damage
+In the human frontal cortex, a set of genes undergo reduced expression after age 40 and especially after age 70.  This set includes genes that have key functions in synaptic plasticity important in learning and memory, vesicular transport and mitochondrial function.  During aging, DNA damage is markedly increased in the promoters of the genes displaying reduced expression in the frontal cortex.  In cultured human neurons, these promoters are selectively damaged by oxidative stress.
+Individuals with HIV associated neurocognitive disorders accumulate nuclear and mitochondrial DNA damage in the frontal cortex.
+
+Genetic
+A report from the National Institute of Mental Health says a gene variant of (COMT) that reduces dopamine activity in the prefrontal cortex is related to poorer performance and inefficient functioning of that brain region during working memory tasks, and to a slightly increased risk for schizophrenia.
+
+History
+
+Psychosurgery
+In the early 20th century, a medical treatment for mental illness, first developed by Portuguese neurologist Egas Moniz, involved damaging the pathways connecting the frontal lobe to the limbic system. A frontal lobotomy (sometimes called frontal leucotomy) successfully reduced distress but at the cost of often blunting the subject's emotions, volition and personality. The indiscriminate use of this psychosurgical procedure, combined with its severe side effects and a mortality rate of 7.4 to 17 per cent, earned it a bad reputation. The frontal lobotomy has largely died out as a psychiatric treatment.  More precise psychosurgical procedures are still used, although rarely. They may include anterior capsulotomy (bilateral thermal lesions of the anterior limbs of the internal capsule) or the bilateral cingulotomy (involving lesions of the anterior cingulate gyri) and might be used to treat otherwise untreatable obsessional disorders or clinical depression.
+
+Theories of function
+Theories of frontal lobe function can be separated into four categories:
+
+Single-process theories, which propose that "damage to a single process or system is responsible for a number of different dysexecutive symptoms"
+Multi-process theories, which propose "that the frontal lobe executive system consists of a number of components that typically work together in everyday actions (heterogeneity of function)"
+Construct-led theories, which propose that "most if not all frontal functions can be explained by one construct (homogeneity of function) such as working memory or inhibition"
+Single-symptom theories, which propose that a specific dysexecutive symptom (e.g., confabulation) is related to the processes and construct of the underlying structures.
+Other theories include:
+
+Stuss (1999) suggests a differentiation into two categories according to homogeneity and heterogeneity of function.
+Grafman's managerial knowledge units (MKU) / structured event complex (SEC) approach (cf. Wood & Grafman, 2003)
+Miller & Cohen's integrative theory of prefrontal functioning (e.g. Miller & Cohen, 2001)
+Rolls's stimulus-reward approach and Stuss's anterior attentional functions (Burgess & Simons, 2005; Burgess, 2003; Burke, 2007).
+It may be highlighted that the theories described above differ in their focus on certain processes/systems or construct-lets. Stuss (1999) remarks that the question of homogeneity (single construct) or heterogeneity (multiple processes/systems) of function "may represent a problem of semantics and/or incomplete functional analysis rather than an unresolvable dichotomy" (p. 348). However, further research will show if a unified theory of frontal lobe function that fully accounts for the diversity of functions will be available.
+
+Other primates
+Many scientists had thought that the frontal lobe was disproportionately enlarged in humans compared to other primates. This was thought to be an important feature of human evolution and seen as the primary reason why human cognition differs from that of other primates. However, this view in relation to great apes has since been challenged by neuroimaging studies. Using magnetic resonance imaging to determine the volume of the frontal cortex in humans, all extant ape species, and several monkey species, it was found that the human frontal cortex was not relatively larger than the cortex of other great apes, but was relatively larger than the frontal cortex of lesser apes and the monkeys. The higher cognition of the humans is instead seen to relate to a greater connectedness given by neural tracts that do not affect the cortical volume. This is also evident in the pathways of the language network connecting the frontal and temporal lobes.
+
+See also
+
+Broca's area
+Limen insulae
+List of regions in the human brain
+
+References
+
+Further reading
+Donald T. Stuss and Robert T. Knight (Eds.), Principles of Frontal Lobe Function, Second Edition, Oxford University Press, New York, 2013.
+
+External links
+
+NIF Search – Frontal Lobe Archived 2013-07-03 at the Wayback Machine via the Neuroscience Information Framework
+
+[[Amygdala]] [[Bilateral cingulotomy]] [[Cerebral cortex]] [[Cerebrum]] [[Cingulate cortex]] [[Dementia]] [[Emotion]] [[Frontal lobe epilepsy]] [[Gyrus]] [[Lobes of the brain]] [[Lobotomy]] [[Numeracy]] [[Parkinson's disease]] [[Psychosurgery]] [[Stroke]] [[Sulcus (neuroanatomy)]]

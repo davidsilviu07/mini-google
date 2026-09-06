@@ -1,0 +1,42 @@
+Autodesk Inventor
+Autodesk Inventor is a computer-aided design extension application for 3D mechanical design, simulation, visualization, and documentation developed by Autodesk.
+
+Features
+Inventor allows analyzing 2D and 3D CAD models by creating a virtual representation of the final product in order to validate the form, fit, and functioning before it is built.
+Autodesk Inventor supports parametric, direct edit, freeform modeling part modeling, and assembly modeling. It provides support for various CAD  formats and standard DWG drawings. Autodesk also offers another 3D CAD/CAM software, Fusion.
+Inventor uses ShapeManager, Autodesk's proprietary geometric modeling kernel. 
+The software can be licensed as a subscription or through pre-paid Flex Tokens (daily use, consumption-based). Autodesk Inventor Professional is also a part of a collection license Autodesk Product Design & Manufacturing Collection. Autodesk Inventor competes directly with SolidWorks, Solid Edge, and Creo.
+
+Editions
+The latest Autodesk Inventor product line includes the following software titles:
+
+Autodesk Inventor LT 2021 (discontinued)
+Autodesk Inventor Professional 2026
+
+File formats
+Exports:
+.iam - Assembly file
+.ipt - Part file
+.idw, .dwg - Drawing file
+.ipn - Presentation file
+Imports:
+Inventor imports most types of foreign CAD formats
+
+Release dates and names
+
+See also
+Comparison of computer-aided design software
+PTC Creo
+Solid Edge
+SolidWorks
+
+References
+
+External links
+
+Autodesk Inventor official website
+Autodesk Inventor Forums
+Autodesk Inventor Blog
+Autodesk Education Community
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Fusion]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,0 +1,32 @@
+Dup15q
+Dup15q syndrome is the common name for maternally inherited chromosome 15q11.2-q13.1 duplication syndrome. This is a genomic copy number variant that leads to a type of neurodevelopmental disorder, caused by partial duplication of the proximal long arm of Chromosome 15. This variant confers a strong risk for autism spectrum disorder, epilepsy, and intellectual disability. It is the most common genetic cause of autism, accounting for approximately 1-3% of cases. Dup15q syndrome includes both interstitial duplications and isodicentric duplications (i.e., Idic15) of 15q11.2-13.1.
+Important genes likely involved in the etiology of Dup15q syndrome include UBE3A, GABRA5, GABRB3, and GABRG3. UBE3A is a ubiquitin-protein ligase that is involved in targeting proteins for degradation and plays an important role in synapse function. GABRA5, GABRB3, and GABRG3 are gamma aminobutyric acid type A (GABAA) receptor subunit genes and are likely important in Dup15q syndrome given the established role of GABA in the etiologies of autism and epilepsy.
+
+Diagnosis
+Genetic testing methods such as fluorescence in situ hybridization (FISH) and chromosomal microarray are available for diagnosing Dup15q syndrome and similar genetic disorders.
+With the increase in genetic testing availability, more often duplications outside of the 15q11.2-13.1 region are being diagnosed. The global chromosome 15q11.2-13.1 duplication syndrome specific groups only provide medical information and research for chromosome 15q11.2-13.1 duplication syndrome and not the outlying 15q duplications.
+
+Clinical presentation
+Individuals with Dup15q syndrome are at high risk for epilepsy, autism, and intellectual disability. Motor impairments are very common in individuals with the disorder. Rates of epilepsy in children with isodicentric duplications are higher than in children with interstitial duplications. A majority of patients with either duplication type (isodicentric or interstitial) have a history of gastrointestinal problems.
+A study at the University of California, Los Angeles (UCLA) of 13 children with Dup15q syndrome and 13 children with nonsyndromic ASD (i.e., autism not caused by a known genetic disorder) found that, compared to children with nonsyndromic autism, children with Dup15q had significantly lower autism severity as measured by the Autism Diagnostic Observation Schedule (ADOS) (all children in the study met diagnostic criteria for ASD). However, children with Dup15q syndrome had significantly greater motor impairment and impairment of daily living skills than children in the nonsyndromic ASD group. Within the Dup15q syndrome cohort, children with epilepsy had greater cognitive impairment.
+
+Genetics
+Dup15q syndrome is caused by copy number variation (CNV) in which extra copies of certain genes are present in the genome. Two duplication types are commonly described in Dup15q syndrome, interstitial and isodicentric. Interstitial duplications are typically partial trisomies (i.e., one extra copy of each gene) and features these extra gene copies on the Chromosome 15 alongside the "original" copies. Isodicentric duplications are typically partial tetrasomies (i.e., two extra copies of each gene) and feature an extranumerary chromosome that contains the extra genes.
+Many important genes in the 15q11.2-13.1 region likely play crucial roles in the etiology of Dup15q syndrome. UBE3A is the causative gene of Angelman syndrome and has been associated with autism. It is involved in protein degradation via the ubiquitin pathway and also plays an important role in synaptic functioning. GABRA5, GABRB3, and GABRG3 encode the α5, β3, and γ3 subunits of GABAA receptors, respectively. Because GABA is the principal inhibitory neurotransmitter of the human brain, it is likely that duplications of these GABAA receptor genes affect or disrupt inhibitory neural transmission in Dup15q syndrome.
+
+EEG biomarker
+
+Patients with Dup15q syndrome feature a distinctive electroencephalography (EEG) signature or biomarker in the form of high amplitude spontaneous beta frequency (12–30 Hz) oscillations. This EEG signature was first noted as a qualitative pattern in clinical EEG readings and was later described quantitatively  by researchers at the UCLA and their collaborators within the network of national Dup15q clinics. This group of researchers found that beta activity in children with Dup15q syndrome is significantly greater than that observed in (1) healthy, typically developing children of the same age and (2) children of the same age and IQ with autism not caused by a known genetic disorder (i.e., nonsyndromic ASD). The EEG signature appears almost identical to beta oscillations induced by benzodiazepine drugs that modulate GABAA receptors, suggesting that the signature is driven by overexpression of duplicated GABAA receptor genes GABRA5, GABRB3, and GABRG3. Treatment monitoring and identification of molecular disease mechanisms may be facilitated by this biomarker.
+
+Advocacy
+Dup15q Alliance is an advocacy organization in the United States for families affected by the disorder. The organization holds biannual family conferences to bring together families, as well as annual science conferences to bring together Dup15q syndrome researchers from around the world.
+
+References
+
+External links
+Dup15q Alliance
+Idic15 Canada
+Idic15 Spain
+Dup15q e.V. Germany Austria Switzerland
+
+[[Attention deficit hyperactivity disorder]] [[Benzodiazepine]] [[CACNA1C-related disorders]] [[Damla Şentürk]] [[Electroencephalography]] [[Epilepsy]] [[Medical specialty]] [[Sleep disorder]]

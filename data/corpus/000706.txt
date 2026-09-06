@@ -1,0 +1,55 @@
+Metastability (electronics)
+Metastability is the ability of a digital electronic system to persist for an unbounded time in an unstable equilibrium or metastable state.
+In digital logic circuits, a digital signal is required to be within certain voltage or current limits to represent a '0' or '1' logic level for correct circuit operation; if the signal is within a forbidden intermediate range it may cause faulty behavior in logic gates the signal is applied to.  In metastable states, the circuit may be unable to settle into a stable '0' or '1' logic level within the time required for proper circuit operation.  As a result, the circuit can act in unpredictable ways, and may lead to a system failure, sometimes referred to as a "glitch". Metastability is an instance of the Buridan's ass paradox.
+Metastable states are inherent features of asynchronous digital systems, and of systems with more than one independent clock domain.  In self-timed asynchronous systems, arbiters are designed to allow the system to proceed only after the metastability has resolved, so the metastability is a normal condition, not an error condition.
+In synchronous systems with asynchronous inputs, synchronizers are designed to make the probability of a synchronization failure acceptably small. 
+Metastable states are avoidable in fully synchronous systems when the input setup and hold time requirements on flip-flops are satisfied.
+
+Example
+
+A simple example of metastability can be found in an SR NOR latch, when both Set and Reset inputs are true (R=1 and S=1) and then both transition to false (R=0 and S=0) at about the same time.  Both outputs Q and Q are initially held at 0 by the simultaneous Set and Reset inputs. After both Set and Reset inputs change to false, the flip-flop will (eventually) end up in one of two stable states, one of Q and Q true and the other false.  The final state will depend on which of R or S returns to zero first, chronologically, but if both transition at about the same time, the resulting metastability, with intermediate or oscillatory output levels, can take arbitrarily long to resolve to a stable state.
+
+Arbiters
+
+In electronics, an arbiter is a circuit designed to determine which of several signals arrive first. Arbiters are used in asynchronous circuits to order computational activities for shared resources to prevent concurrent incorrect operations. Arbiters are used on the inputs of fully synchronous systems, and also between clock domains, as synchronizers for input signals.  Although they can minimize the occurrence of metastability to very low probabilities,  all arbiters nevertheless have metastable states, which are unavoidable at the boundaries of regions of the input state space resulting in different outputs.
+
+Synchronous circuits
+
+Synchronous circuit design techniques make digital circuits that are resistant to the failure modes that can be caused by metastability. A clock domain is defined as a group of flip-flops with a common clock.  Such architectures can form a circuit guaranteed free of metastability (below a certain maximum clock frequency, above which first metastability, then outright failure occur), assuming a low-skew common clock. However, even then, if the system has a dependence on any continuous inputs then these are likely to be vulnerable to metastable states.
+Synchronizer circuits are used to reduce the likelihood of metastability when receiving an asynchronous input or when transferring signals between different clock domains. Synchronizers may take the form of a cascade of D flip-flops (e.g. the shift register in Figure 3). Although each flip-flop stage adds an additional clock cycle of latency to the input data stream, each stage provides an opportunity to resolve metastability. Such synchronizers can be engineered to reduce metastability to a tolerable rate.
+Schmitt triggers can also be used to reduce the likelihood of metastability, but as the researcher Chaney demonstrated in 1979, even Schmitt triggers may become metastable. He further argued that it is not possible to entirely remove the possibility of metastability from unsynchronized inputs within finite time and that "there is a great deal of theoretical and experimental evidence that a region of anomalous behavior exists for every device that has two stable states." In the face of this inevitability, hardware can only reduce the probability of metastability, and systems can try to gracefully handle the occasional metastable event.
+
+Failure modes
+Although metastability is well understood and architectural techniques to control it are known, it persists as a failure mode in equipment.
+Serious computer and digital hardware bugs caused by metastability have a fascinating social history. Many engineers have refused to believe that a bistable device can enter into a state that is neither true nor false and has a positive probability that it will remain indefinite for any given period of time, albeit with exponentially decreasing probability over time.  However, metastability is an inevitable result of any attempt to map a continuous domain to a discrete one.  At the boundaries in the continuous domain between regions which map to different discrete outputs,  points arbitrarily close together in the continuous domain map to different outputs, making a decision as to which output to select a difficult and potentially lengthy process.  If the inputs to an arbiter or flip-flop arrive almost simultaneously, the circuit most likely will traverse a point of metastability. Metastability remains poorly understood in some circles, and various engineers have proposed their own circuits said to solve or filter out the metastability; typically these circuits simply shift the occurrence of metastability from one place to another.  Chips using multiple clock sources are often tested with tester clocks that have fixed phase relationships, not the independent clocks drifting past each other that will be experienced during operation.  This usually explicitly prevents the metastable failure mode that will occur in the field from being seen or reported. Proper testing for metastability frequently employs clocks of slightly different frequencies and ensuring correct circuit operation.
+
+See also
+Analog-to-digital converter
+Buridan's ass
+Asynchronous CPU
+Ground bounce
+Tri-state logic
+
+References
+
+External links
+Metastability Performance of Clocked FIFOs
+The 'Asynchronous' Bibliography
+Asynchronous Logic
+Efficient Self-Timed Interfaces for Crossing Clock Domains 
+Dr. Howard Johnson: Deliberately inducing the metastable state
+Detailed explanations and Synchronizer designs
+Metastability Bibliography
+Clock Domain Crossing: Closing the Loop on Clock Domain Functional Implementation Problems, Cadence Design Systems
+Stephenson, Jennifer. Understanding Metastability in FPGAs. Altera Corporation white paper. July 2009.
+Bahukhandi, Ashirwad. Metastability. Lecture Notes for Advanced Logic Design and Switching Theory. January 2002.
+Cummings, Clifford E. Synthesis and Scripting Techniques for Designing Multi-Asynchronous Clock Designs. SNUG 2001.
+Haseloff, Eilhard. Metastable Response in 5-V Logic Circuits. Texas Instruments Report. February 1997.
+Nystrom, Mika, and Alain J. Martin. Crossing the Synchronous Asynchronous Divide. WCED 2002.
+Patil, Girish, IFV Division, Cadence Design Systems. Clock Synchronization Issues and Static Verification Techniques. Cadence Technical Conference 2004.
+Smith, Michael John Sebastian. Application-Specific Integrated Circuits. Addison Wesley Longman, 1997, Chapter 6.4.1.
+Stein, Mike. Crossing the abyss: asynchronous signals in a synchronous world EDN design feature. July 24, 2003.
+Cox, Jerome R. and Engel, George L., Blendics, Inc. White Paper [1] "Metastability and Fatal System Errors"] Nov. 2010
+Adam Taylor, "Wrapping One's Brain Around Metastability", EE Times, 2013-11-20
+
+[[Computer architecture]] [[Computer hardware]] [[Digital electronics]] [[Integrated circuit]] [[Placement (electronic design automation)]]

@@ -1,0 +1,56 @@
+ASIMO
+ASIMO (Advanced Step in Innovative Mobility) is a humanoid robot created by Honda. After developing experimental walking robots in the 1980s–1990s, the company introduced the original ASIMO in 2000. Three updated models followed from 2004 to 2011. The line was retired in 2022, with Honda stating that it would utilize some of the technology for other projects.
+
+Development
+
+E0 was the first bipedal model produced as part of the Honda E series, which was an early experimental line of self-regulating walking robots with wireless movements created between 1986 and 1993. This was followed by the Honda P series of robots produced from 1993 through 1997. The research made on the E- and P-series led to the creation of ASIMO. Development began at Honda's Wako Fundamental Technical Research Center in Japan in 1999, and ASIMO was unveiled in October 2000. In 2002, 20 units of the first model were produced. 
+In July 2018, Honda stated that it would be ceasing all development and production of ASIMO robots in order to focus on more practical applications using the technology developed through ASIMO's lifespan. It made its last active appearance in March 2022, as Honda announced the retirement of ASIMO to concentrate on remote-controlled, avatar-style robotic technology.
+
+Design
+ASIMO stands 130 cm (4 ft 3 in) tall and weighs 54 kg (119 lb). Research conducted by Honda found that the ideal height for a mobility assistant robot was between 120 cm and the height of an average adult, which is conducive to operating door knobs and light switches. ASIMO is powered by a rechargeable 51.8 V lithium-ion battery with an operating time of one hour. Switching from a nickel–metal hydride battery in 2004 increased the amount of time ASIMO can operate before recharging. ASIMO has a three-dimensional computer processor created by Honda that consists of three stacked dies, a processor, a signal converter, and memory. The computer that controls ASIMO's movement is housed in the robot's waist area and can be controlled using a PC, wireless controller, or voice commands.
+
+Abilities
+Using visual information captured by two camera "eyes", ASIMO has the ability to recognize moving objects (and determine their distance and direction), postures, gestures, its surrounding environment, sounds, and faces. Some of these features enable ASIMO to interact with humans, including by facing a person when approached or following them. The robot interprets voice commands and gestures, e.g. enabling it to respond accordingly when a handshake is offered or when a person waves or points. ASIMO's ability to distinguish between voices and other sounds allows it to identify its companions. ASIMO is able to respond to its name and recognizes sounds associated with a falling object or collision. This allows the robot to face a person when spoken to or look towards a sound. ASIMO responds to questions by nodding or providing a verbal answer in different languages and can recognize approximately 10 different faces and address them by name.
+ASIMO is equipped with sensors that assist in autonomous navigation. The two cameras inside its head act as visual sensors to detect obstacles. The lower portion of the torso has two ground sensors—one laser sensor and one infrared sensor. The laser sensor is used to detect the ground surface, and the infrared sensor with automatic shutter adjustment based on brightness is used to detect pairs of floor markings to navigate along paths. A pre-loaded map and the detection of floor markings help the robot to precisely identify its present location and continuously adjust its position. There are front and rear ultrasonic sensors to sense obstacles; the front sensor is located at the lower torso together with the ground sensors, and the rear sensor is located at the bottom of the "backpack".
+
+Impact and technologies
+Honda's work with ASIMO led to further research on walking assist devices, resulting in the Stride Management Assist and Bodyweight Support Assist prototypes.
+In 2004, ASIMO was inducted into the Carnegie Mellon Robot Hall of Fame.
+In honor of ASIMO's 10th anniversary in November 2010, Honda developed a mobile app called "Run with ASIMO", wherein users learn about the robot by virtually walking it through the steps of a race and then sharing their lap times on Twitter and Facebook.
+ASIMO was also the inspiration behind the 2012 film Robot & Frank, wherein a similar humanoid robot, portrayed by an actress in a costume, assists an aging cat burglar.
+
+Specifications
+
+Public appearances
+
+Since ASIMO was introduced in 2000, the robot has traveled around the world and performed in front of international audiences.
+ASIMO made its first public appearance in the United States in 2002 when it rang the bell to open trade sessions for the New York Stock Exchange.
+The robot first visited the United Kingdom in January 2003 for private demonstrations at the Science Museum in London. ASIMO continued on a world tour, making stops in countries such as Spain, the United Arab Emirates, Russia, South Africa, and Australia.
+From January 2003 to March 2005, the robot toured the US and Canada, demonstrating its abilities for more than 130,000 people. From 2003 to 2004, ASIMO was part of a North American educational tour, where it visited top science and technology museums and academic institutions throughout North America. The goal of the tour was to encourage students to study science through a live show that highlighted ASIMO's abilities. Additionally, the robot visited top engineering and computer science colleges and universities across the US as part of the ASIMO Technology Circuit Tour in an effort to encourage students to consider scientific careers.
+In March 2005, ASIMO walked the red carpet at the world premiere of the animated film Robots. In June of that year, the robot became a feature in a show called "Say 'Hello' to Honda's ASIMO" at Disneyland's Innoventions attraction, which was aa part of the Tomorrowland area of the park. This was the only permanent installation of ASIMO in North America until Innoventions was closed in April 2015.
+In a demonstration at Honda's Tokyo headquarters in 2007, the company demonstrated new intelligence technologies that enabled multiple ASIMO robots to work together. The demonstration showed the robot's ability to identify and avoid oncoming people, work with another ASIMO, recognize when to recharge its battery, and perform new tasks such as carrying a tray and pushing a cart.
+In October 2008, ASIMO greeted Prince Charles during a visit to the Miraikan museum in Tokyo, where it performed a seven-minute step and dance routine. In 2014, then–US President Barack Obama was introduced to ASIMO at Miraikan.
+In 2008, ASIMO conducted the Detroit Symphony Orchestra in a performance of "The Impossible Dream" to bring attention to its partnership with the orchestra and support performing arts in Detroit. A 49-foot replica of ASIMO made with natural materials, such as lettuce seed, rice and carnations, led the 120th Rose Parade in celebration of Honda's 50th year of operation in the US. Later that year, the robot made an appearance at the Genoa Science Festival in Italy.
+In January 2010, Honda debuted a 10-minute documentary at the Sundance Film Festival that focuses on the experience of human interaction with robots like ASIMO. The robot attended the Ars Electronica festival in Linz, Austria, in September 2010, which allowed Honda to study the results of human–robot interaction and use the results to guide development of future versions of the robot. In April 2011, ASIMO was demonstrated at the FIRST Championship in St. Louis, Missouri, to encourage students to pursue studies in math, science and engineering. That November, ASIMO was one of the star attractions at the first Abu Dhabi Science Festival.
+ASIMO visited the Ontario Science Center in Toronto in May 2011 and demonstrated its abilities to Canadian students. The robot later traveled to Ottawa for the unveiling of an exhibit at the Canadian Museum of Civilization 19 May through 22 May 2011.
+ASIMO appeared as a guest on the British quiz show QI on 2 December 2011. After serving water to host Stephen Fry and dancing with comedian Jo Brand, ASIMO won with 32 points.
+On 24 March 2017, Honda revealed ASIMO in Disneyland's Autopia attraction.
+
+Failures
+On multiple occasions, audience members at public showcasings of ASIMO have filmed the robot malfunctioning and falling down stairs. These videos have been uploaded on YouTube, and some have become viral for their comedic nature.
+
+See also
+
+References
+
+External links
+
+Official website (Worldwide) – Honda
+Official website (Japan) – Honda (in Japanese)
+Official website (United States) – Honda
+"Humanoid robot learns how to run" – BBC News Online
+"Humanoid robot gets a job as a receptionist" – New Scientist
+Japan product demonstration
+Honda unveils helmet that lets wearer control a robot by thought alone
+
+[[Computer vision]]

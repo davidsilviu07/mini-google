@@ -1,0 +1,72 @@
+Cobalt (CAD program)
+Cobalt is a parametric-based computer-aided design (CAD) and 3D modeling program that runs on both Macintosh and Microsoft Windows operating systems. The program combines the direct-modeling way to create and edit objects (exemplified by programs such as SpaceClaim) and the highly structured, history-driven parametric way exemplified by programs like Pro/ENGINEER. A product of Ashlar-Vellum, Cobalt is Wireframe-based and history-driven with associativity and 2D equation-driven parametrics and constraints. It offers surfacing tools, mold design tools, detailing, and engineering features. Cobalt includes a library of 149,000 mechanical parts.
+Cobalt's interface, which the company named the "Vellum interface" after its eponymous flagship product, was designed in 1988 by Dr. Martin Newell (who created the Utah teapot in 1975 and went on to work at Xerox PARC, where the WIMP paradigm for graphical user interfaces was invented) and Dan Fitzpatrick. The central feature of the Vellum interface is its "Drafting Assistant," which facilitates the creation and alignment of the new geometry.
+Cobalt has received praise for its free-form surfaces on solid modeled objects.
+
+Design
+The distinguishing characteristics of Cobalt are its ease of use and the quick learning curve for new users. Cobalt inherited its 2D and 3D wire frame features from "Vellum." However, with Cobalt, wire frame geometry—which does not have to be planar—can be subsequently revolved or extruded relative to any plane or along a curved path to create 3D solids. Cobalt also allows 3D objects to be created directly using 3D tools while still retaining the designer's ability to edit those objects via history-driven parametrics and later to add further constraints. Both types of solids—extruded 2D wire frame and directly created 3D solids—can be seamlessly mixed in the same drawing. Whereas most history-based parametric solid modelers require the designer to rigorously follow a logical progression while creating models and tend to require that the designer think ahead about the planned order of transmutations of the solid model, Cobalt has a more freeform, less structured way of solid modeling that the developer refers to as "Organic Workflow".
+Cobalt's less structured modeling environment coupled with an integral ray-tracing capability makes it suitable for brainstorming and product development. The program's history-driven modeling and equation-driven parametrics and constraints permit designers to edit the dimensions and locations of key features in models without the need for major redesign—much like changing the value of a single cell in a complex spreadsheet.
+
+Drafting Assistant
+
+Ashlar-Vellum's patented, 38-year-old "Drafting Assistant" is the central component of Ashlar's "Vellum interface".
+The Drafting Assistant tracks the position of the designer's cursor and looks for nearby geometry. It then automatically displays information alongside the cursor regarding nearby geometric features to which the designer can snap. The designer can create new geometry at those snap points, or create construction lines to serve as guides. The Drafting Assistant is sensitive to the following geometric attributes:
+
+Centers
+Endpoints
+Intersections
+Midpoints
+Perpendicularity
+Quadrants
+Tangents
+Vertexes
+Drafting Assistant remembers the last snaps with a weighted algorithm to intuit the designer's intentions; thus, it is easy to snap to intersections in empty 3D space.
+In the animation at right, the designer first snaps to the X-, Y-, and Z-axis coordinates at the midpoint of the top edge and then snaps to the same spot on the leading edge, which has different X- and Z-axis coordinates. He moves his cursor to a point in 3D space where there are no geometric attributes to snap to. Although there may be 3D surfaces underneath the cursor, Drafting Assistant intuits the designer's intent and offers an intersection point comprising the Y- and Z-axis coordinates of the first edge and the X-axis coordinate of the nearest edge. At this location, the designer adds a circle freehand and then specifies a diameter of 200 millimeters by typing it into the box at bottom right. Last, the designer uses the "Remove profile from solid" tool to cut through the block. Here again, Drafting Assistant enables prompt definition of the depth of the cut by snapping to the back quadrant of the intersecting hole.
+The Drafting Assistant also provides a "Message line" at the top. This displays instructions appropriate for the selected tool, prompts the designer with what he should do next with any given tool, and reminds the designer of optional modes for those tools.
+Cobalt's parametrics and history tracking work permit the designer to edit later the diameter and location of either circle—both of which have dependencies (holes in the block)—and the model updates accordingly.
+
+Tool sets
+
+Cobalt features the following tool sets:
+
+Animation tools
+Cobalt features several modes for making animation, notably "Static" (where the sun and shadows move in a stationary scene), "Walk-through," and "Fly-by". Cobalt is also capable of six different levels of photorealistic rendering, from "Raytrace Preview Render [Shadows Off]" through "Auto Full Render [Shadows On, Antialias]". Choosing less realistic modes for trial animations allows very quick rendering—even those with several hundred frames—because Cobalt fully exploits multi-core microprocessors during rendering. The click-to-play animation (upper right) shows two industrial pushbutton switches surrounded by a virtual "photo studio" in a Cobalt model. The mirrored hemisphere enables the reader to see the back wall, floor, and ceiling lights, which all contribute to the nature of the light reflecting off the switches. Face-on images of these switches were used in the development of a touchscreen-based human–machine interface (HMI) for use in industrial manufacturing settings. To create fly-by animations, Cobalt prompts the designer to specify a path (a line or curve) for the "camera eye" to follow as well as a point at which the camera should point, and then renders the animation. A designer can specify such attributes as the angle for the camera's field of view and can turn on settings such as perspective, which gives rendered images a vanishing point. Whether the designer is rendering a single image or a multi-frame animation, Cobalt offers broad control of lighting, including the ability to illuminate images with sunlight wherein the date, time of day, latitude, and longitude are all user-adjustable to obtain accurate shadows.
+Surfacing
+Cobalt includes freeform Class-A NURBS surface modeling for creating complex, aesthetic, or technical shapes. The self-running animation (lower right) demonstrates two capabilities of Cobalt: 1) how a limited number of control points govern complex NURBS surface geometry, and 2) demonstrates a fly-by animation produced by Cobalt whereby the "camera eye path" was attached to a 360-degree circle.
+2D/3D Wireframe
+
+Drafting
+
+PDF Presentation
+
+CAM connections
+Cobalt exports topologically correct ACIS, Parasolids, and STEP files for finite element analysis (FEA) meshing.
+Photo-realistic rendering
+Often used for concept development, wireframe models can be done in both 2D or 3D as necessary. Shapes can be drawn precisely or pushed and pulled as the designer chooses.
+Solid modelling
+Cobalt exports topologically correct ACIS, Parasolids, and STEP files for tool-path and G‑code generation using external computer-aided manufacturing (CAM) software. Alternatively IGES and DXF files can be used to send surface or profile data to external CAM software.
+
+Product family
+Cobalt is the high-end member of a four-member family of products. The other three Ashlar-Vellum offerings are "Graphite", "Argon", and "Xenon":
+
+Graphite essentially inherited the feature-set of Ashlar's flagship product, Vellum. It offers 2D and 3D wireframe drafting and equation-driven parametrics.
+Argon is the most affordable, offering 3D solid modeling (but not history-based), ray tracing, and animation.
+Xenon is a less capable cousin of Cobalt, offering all of the 2D and 3D solid modeling functions of Cobalt as well as ray-trace rendering and animation. However, Xenon lacks Cobalt's geometric and equation-driven parametrics, "Associative Assembly Tools" and the mechanical parts library, nor does it support dimensioning using geometric dimensioning and tolerancing (GD&T).
+
+See also
+3D computer graphics software
+3D computer graphics
+3D modeling
+Comparison of 3D computer graphics software
+Freeform surface modelling
+Geometric dimensioning and tolerancing
+List of computer-aided design editors
+Comparison of CAD editors for CAE
+
+References
+
+External links
+
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,0 +1,73 @@
+Static timing analysis
+Static timing analysis (STA) is a simulation method of computing the expected timing of a synchronous digital circuit without requiring full circuit-simulation.
+High-performance integrated circuits have traditionally been characterized by the clock frequency at which they operate. Measuring the ability of a circuit to operate at the specified speed requires an ability to measure, during the design process, its delay at numerous steps. Moreover, delay calculation must be incorporated into the inner loop of timing optimizers at various phases of design, such as logic synthesis, layout (placement and routing), and in in-place optimizations performed late in the design cycle. While such timing measurements can theoretically be performed using a rigorous circuit simulation, such an approach is liable to be too slow to be practical. Static timing analysis plays a vital role in facilitating the fast and reasonably accurate measurement of circuit timing. The speedup comes from the use of simplified timing models and by mostly ignoring logical interactions in circuits. This has become a mainstay of design over the last few decades.
+One of the earliest descriptions of a static timing approach was based on the Program Evaluation and Review Technique (PERT), in 1966.  More modern versions and algorithms appeared in the early 1980s.
+
+Purpose
+In a synchronous digital system, data is supposed to move in "lockstep", advancing one stage on each tick of the clock signal. This is enforced by synchronizing elements such as flip-flops or latches, which copy their input to their output when instructed to do so by the clock. Only two kinds of timing errors are possible in such a system:
+
+A Max time violation, when a signal arrives too late, and misses the time when it should advance. These are more commonly known as setup violations/checks which actually are a subset of max time violations involving a cycle shift on synchronous paths.
+A Min time violation, when an input signal changes too soon after the clock's active transition. These are more commonly known as hold violations/checks which actually are a subset of min time violations in synchronous path.
+The time when a signal arrives can vary due to many reasons. The input data may vary, the circuit may perform different operations, the temperature and voltage may change, and there are manufacturing differences in the exact construction of each part.
+Prior to the development of static timing analysis, the allowable clock rates for a system were determined heuristically.  Engineers would guess which paths were longest (there were too many paths to evaluate exhaustively), write test vectors that would exercise that path, and then verify their estimates by testing chips to see how fast they could run.  This procedure had several disadvantages - the proposed critical path might not be real one, it was hard to account for process variation, and there was no verification of hold time constraints.  Static timing analysis addresses these issues.
+The main goal of static timing analysis is to verify that despite these possible variations, all signals will arrive neither too early nor too late, and hence proper circuit operation can be assured.  Since STA is capable of verifying every path, it can detect other problems like glitches, slow paths and clock skew.
+
+Definitions
+
+Basics
+The critical path is defined as the path between an input and an output with the maximum delay. Once the circuit timing has been computed by one of the techniques listed below, the critical path can easily be found by using a traceback method. Identifying critical paths estimate the worst case timing for the circuit so that the circuit timing will not be underestimated.
+The arrival time of a signal is the time elapsed for a signal to arrive at a certain point. The reference, or time 0.0, is often taken as the arrival time of a clock signal. Sometimes positive input arrival time can be used to model some effects, like input port delays. To calculate the arrival time, delay calculation of all the components in the path will be required. Arrival times, and indeed almost all times in timing analysis, are normally kept as a pair of values - the earliest possible time at which a signal can change, and the latest.
+Another useful concept is required time. This is the latest time at which a signal can arrive without making the clock cycle longer than desired.  The computation of the required time proceeds as follows: at each primary output, the required times for rise/fall are set according to the specifications provided to the circuit. Next, a backward topological traversal is carried out, processing each gate when the required times at all of its fanouts are known.
+The slack associated with each connection is the difference between the required time and the arrival time. A positive slack s at some node implies that the arrival time at that node may be increased by s, without affecting the overall delay of the circuit. Conversely, negative slack implies that a path is too slow, and the path must be sped up (or the reference signal delayed) if the whole circuit is to work at the desired speed.
+
+False Path Problem
+In STA, identifying the critical path involves analyzing the longest topological path through a logic network. However, not all topological paths are functionally feasible, as some paths may never be activated by any valid input combination. These are referred to as false paths, and if not excluded, they can lead to overestimation of timing delays.
+False paths can be classified as single-cycle or multi-cycle paths. A multi-cycle path does not require data to propagate within a single clock cycle. For instance, control signals such as reset often take multiple cycles to complete their function. If such signals are incorrectly treated as part of the critical path, they can distort timing results by suggesting stricter timing requirements than necessary.
+
+Delay Models
+Delay models define the propagation delay of logic gates in digital circuits. In the context of Static Timing Analysis (STA), delay models are essential for estimating signal arrival times and verifying timing constraints. Given that modern integrated circuits can include millions of gates, delay models should balance between computational efficiency and modelling accuracy. Common delay models used in STA include:
+
+Unit delay
+Constant delay
+Pin-to-pin delay
+PVT corners
+Statistical delay
+
+Basic Models
+The unit delay model assumes that every gate has a fixed delay of one time unit. This is the simplest abstraction and is typically used for early-stage design validation or educational purposes where modeling simplicity is prioritized over accuracy.
+The constant delay model assigns fixed propagation delays to each type of logic gate. Unlike the unit delay model, it reflects differences in gate behavior and can be adapted for either technology-dependent or technology-independent timing analysis. It remains one of the most widely used models in both academic studies and commercial tools for its simplicity and practicality.
+Pin-to-pin delay models specify the propagation delay between specific input and output pins of a cell. This approach allows timing to be estimated without detailed gate-level netlists, which improves simulation speed and modeling flexibility. Pin-to-pin delay also decouples timing analysis from the underlying circuit implementation, making it suitable for high-level synthesis and abstract design representations.
+
+PVT Corners
+Process, Voltage, and Temperature (PVT) variations affect gate delays significantly. PVT corner-based models represent delays under extreme conditions (e.g., worst-case slow process and low voltage) to ensure robustness. Each corner represents a specific combination of PVT parameters. STA tools evaluate timing across multiple corners to guarantee correct functionality under all expected operating conditions. 
+Quite often, designers will want to qualify their design across many conditions. Behavior of an electronic circuit is often dependent on various factors in its environment like temperature or local voltage variations. In such a case either STA needs to be performed for more than one such set of conditions, or STA must be prepared to work with a range of possible delays for each component, as opposed to a single value.
+With proper techniques, the patterns of condition variations are characterized and their extremes are recorded. Each extreme condition can be termed as a corner. Extremes in cell characteristics can be considered as ‘process, voltage and temperature (PVT) corners’ and extremes in net characteristics can be considered as ‘extraction corners’. Then each combination pattern of PVT extraction corners is referred to as a ‘timing corner’ as it represents a point where timing will be extreme. If the design works at each extreme condition, then under the assumption of monotonic behavior, the design is also qualified for all intermediate points.
+The use of corners in static timing analysis has several limitations. It may be overly optimistic, since it assumes perfect tracking: if one gate is fast, all gates are assumed fast, or if the voltage is low for one gate, it is also low for all others. Corners may also be overly pessimistic, for the worst case corner may seldom occur. In an IC, for example, it may not be rare to have one metal layer at the thin or thick end of its allowed range, but it would be very rare for all 10 layers to be at the same limit, since they are manufactured independently. Statistical static timing analysis replaces delays with distributions, and tracking with correlation, and offers a more sophisticated approach to the same problem.
+
+Statistical Delay
+Traditional (deterministic) delay models assume fixed values, which cannot capture the process variations that occur across a die. These variations can significantly impact timing, especially in advanced manufacturing nodes. Statistical delay models address this by representing delays using statistical parameters such as mean and variance. This enables a more realistic analysis of worst-case and typical-case timing paths. More details about statistical delay models are introduced in statistical static timing analysis (SSTA).
+
+The most prominent techniques for STA
+In static timing analysis, the word static alludes to the fact that this timing analysis is carried out in an input-independent manner, and purports to find the worst-case delay of the circuit over all possible input combinations. The computational efficiency (linear in the number of edges in the graph) of such an approach has resulted in its widespread use, even though it has some limitations. A method that is commonly referred to as PERT is popularly used in STA. However, PERT is a misnomer, and the so-called PERT method discussed in most of the literature on timing analysis refers to the critical path method (CPM) that is widely used in project management. While the CPM-based methods are the dominant ones in use today, other methods for traversing circuit graphs, such as depth-first search, have been used by various timing analyzers.
+
+Interface timing analysis
+Many of the common problems in chip designing are related to interface timing between different components of the design. These can arise because of many factors including incomplete simulation models, lack of test cases to properly verify interface timing, requirements for synchronization, incorrect interface specifications, and lack of designer understanding of a component supplied as a 'black box'. There are specialized CAD tools designed explicitly to analyze interface timing, just as there are specific CAD tools to verify that an implementation of an interface conforms to the functional specification (using techniques such as model checking).
+
+See also
+Dynamic timing verification
+Electronic design automation
+Integrated circuit design
+Logic analyzer—for verification of STA
+Logic simulation
+Simulation
+Timing margin
+Worst-case execution time
+Signoff (electronic design automation)
+
+Notes
+
+References
+Electronic Design Automation For Integrated Circuits Handbook, by Lavagno, Martin, and Scheffer, ISBN 0-8493-3096-3 A survey of the field. This article was derived from Volume II, Chapter 8, 'Static Timing Analysis' by Sachin Sapatnekar, with permission.
+Static Timing Analysis for Nanometer Designs, by R. Chadha and J. Bhasker, ISBN 978-0-387-93819-6, Springer, 2009.
+
+[[Electronic design automation]] [[Functional specification]] [[Integrated circuit]] [[Logic simulation]] [[SPICE]] [[Signoff (electronic design automation)]]

@@ -1,0 +1,39 @@
+Lint (software)
+Lint is a Unix utility that performs static program analysis on C language source code.  The software gives its name to modern computing tools responsible for checking for coding style or formatting errors, known as "linters" or "linting tools", even though the original Lint program performed static program analysis.
+
+History
+Stephen C. Johnson, a computer scientist at Bell Labs, came up with the term "lint" in 1978 while debugging the yacc grammar he was writing for C and dealing with portability issues stemming from porting Unix to a 32-bit machine. The term was borrowed from lint, the tiny bits of fiber and fluff shed by clothing, as the command he wrote would act like a lint trap in a clothes dryer, capturing waste fibers while leaving whole fabrics intact. The lint program was released outside of Bell Labs in Unix V7, in 1979.
+In his 1978 paper, Johnson explained his reasons for creating a new program to detect errors: "...the general notion of having two programs is a good one" because they concentrate on different things, thereby allowing the programmer to "concentrate at one stage of the programming process solely on the algorithms, data structures, and correctness of the program, and then later retrofit, with the aid of lint, the desirable properties of universality and portability".
+The paper lists lint's additional checks as:
+
+checks for unused variables and functions;
+checks for variables used before they're set or set but never used;
+checks for unreachable code;
+checks for functions that sometimes return with a return value and sometimes return with no return value;
+additional type checking;
+optional checks for non-portable type casts;
+checks for char values being non-portably tested for being negative;
+assignments of values that might not fit in the target variable, e.g. long values being assigned to an int variable;
+valid C statements that don't make sense, such as a statement *p++;, which increments p but does not use the pre-incremented value;
+possible pointer misalignment;
+code that behaves differently if the order of expression evaluation is done differently on different platforms or compilers;
+type mismatches between formal and actual parameters to functions.
+ANSI C introduced function prototypes, allowing ANSI C compilers to perform the checks for type mismatches between formal and actual function parameters if a function prototype has been seen before the function is called; it also added the void type for functions that return no value, allowing compilers to check for void functions that return a value, in addition to checks for functions that have a return value type but that return with no return value. Many of lint's checks can also be performed as part of the analysis done by optimizing compilers, so, when a sufficiently high level of optimization is being performed, C compilers would also perform checks for unused variables and functions, used-before-set and set-and-unused variable checks, checks for unreachable code. Other lint checks have also been added to C compilers over time.
+
+Successors of Lint
+Separate lint-like programs are still being developed to perform additional code checking, such as code style checks and static program analysis. Even though modern compilers have evolved to include many of lint's historical functions, lint-like tools have also evolved to detect an even wider variety of suspicious constructs. These include "warnings about syntax errors, uses of undeclared variables, calls to deprecated functions, spacing and formatting conventions, misuse of scope, implicit fallthrough in switch statements, missing license headers, [and]...dangerous language features".
+Checks to enforce grammar and style guides for given language source code are now referred to as linting. LLVM's clang-format for C and C++, Rustfmt for Rust, PHP CodeSniffer for PHP, ESLint for JavaScript, Stylelint for CSS, Pylint for Python, RuboCop for Ruby, and golint for Go are examples of these tools. Some such tools, such as ESLint, also allow rules to be auto-fixable: a rule definition can also come with the definition of a transform that resolves the warning. Rules about style are especially likely to come with an auto-fix. If the linter is run in "fix all" mode on a file that triggers only rules about formatting, the linter will act just like a formatter.
+Tools that perform more detailed static program analysis than compilers have also been developed, such as Coverity, cppcheck, and the Clang static analyzer. For JavaScript, ESLint performs static program analysis in addition to code style analysis.
+Lint-like tools are especially useful for dynamically typed languages like JavaScript and Python. Because the interpreters of such languages typically do not enforce as many and as strict rules during execution, linter tools can also be used as simple debuggers for finding common errors (e.g. syntactic discrepancies) as well as hard-to-find errors such as heisenbugs (drawing attention to suspicious code as "possible errors"). Lint-like tools generally perform static analysis of source code.
+
+See also
+Splint (programming tool)
+List of tools for static code analysis
+
+References
+
+Further reading
+Darwin, Ian F. (1991). Checking C Programs with Lint: C Programming Utility (Revised ed.). United States: O'Reilly Media. ISBN 978-0-937175-30-9.
+"LINT(1)". NetBSD General Commands Manual. 2024-01-24.
+
+[[Algorithm]] [[Compiler]] [[Correctness (computer science)]] [[Data structure]]

@@ -1,0 +1,155 @@
+QuarkXPress
+QuarkXPress is desktop publishing software for creating and editing complex page layouts in a WYSIWYG (What You See Is What You Get) environment. It was first released in 1987 by Quark, Inc., who continue to develop and maintain the software, which is available for both macOS and Windows. As of 2026, the current version is QuarkXPress 2026 (internal version number 22.0.0), and is compatible with macOS Tahoe.
+
+QuarkXPress is used by designers, publishing houses and corporations to produce from printable to multimedia projects. Recent versions have added support for ebooks/flipbooks, Web and mobile apps.
+
+History
+QuarkXPress was founded by Tim Gill in 1981 with a $2,000 loan from his parents, with the introduction of Fred Ebrahimi as CEO in 1986.
+The first version of QuarkXPress was released in 1987 for the Macintosh. Five years passed before a Microsoft Windows version (3.1) followed in 1992. In the 1990s, QuarkXPress became widely used by professional page designers, the typesetting industry and printers. In particular, the Mac version of 3.3 (released in 1996) was seen as stable and trouble-free, working seamlessly with Adobe's PostScript fonts as well as with Apple's TrueType fonts. Quark's AppleScript support was a significant factor in both Quark's and AppleScript's success.
+In 1989, QuarkXPress incorporated an application programming interface called XTensions which allows third-party developers to create custom add-on features to the desktop application. Xtensions, along with Adobe's Photoshop plugins, was one of the first examples of a developer allowing others to create software add-ons for their application.
+Although competitors like PageMaker existed, QuarkXPress was so dominant that it had an estimated 95% market share during the 1990s. After QuarkXPress 3.3, QuarkXPress was seen as needing significant improvements and users criticized it for its overly long innovation cycles.
+Gill sold his 50% stake in the company in 1999 for a reported $500 million.
+The release of QuarkXPress version 5 in 2002 led to disappointment from Apple's user base, as QuarkXPress did not support Mac OS X, while Adobe InDesign 2.0—launched in the same week—did. QuarkXPress also lost marketshare due to an increasing price gap between it and InDesign. InDesign CS cost $699, while QuarkXPress 6 cost $945. The later Adobe Creative Suite (2003), which users purchased for access to Photoshop and Illustrator, included InDesign.
+In response to a shrinking user base, Quark started to lower its pricing levels in 2004. In December 2006, Quark licensed the Windows version of QuarkXPress 5 to be distributed for free on the cover of a UK computer magazine, Computer Shopper, with the idea of enticing consumers to upgrade to later versions.
+Having arrived late with a Mac OS X version, Quark took a different approach to porting to Intel-native applications on Mac (Universal Binary), and released its Universal Binary version 7 months before Adobe ported InDesign.
+QuarkXPress 9 won Product of the Year in 2011 (MacWorld Awards 2011: Grand Prix Winner).
+From 2015 to 2022, QuarkXPress updated on an annual cycle. Since 2023, QuarkXPress releases on a biannual basis.
+
+Use and features
+The package provides the basic functionality of font, alignment, spacing, and color, but it also provides its users with professional typesetting options such as kerning, curving text along a line, and ligatures.
+A QuarkXPress document contains text and graphics boxes. The boxes can be reshaped, layered, and given varying levels of transparency and text alignment (runaround). Both box positioning and graphic or text positioning is allowed within a box with an accuracy of one-thousandth of an inch.
+Color control allows the full-use of printing-press standard Pantone or Hexachrome inks, along with a variety of other color-space options. Draft output can be printed on conventional desktop printers. Process color (CMYK) separation films can be produced for printing-presses. QuarkXPress also offers the ability for composite work-flows, both with PostScript and PDF output.
+QuarkXPress offers layout synchronization, multiple undo/redo functionality, XML and web page (HTML) features, and support for direct PDF import and output. Documents can be verified (pre-flight) before printing. This high-level print preview automatically identifies conflicts and other printing problems. Adobe has a similar feature in InDesign.
+Composition zones feature makes it the only desktop application with multi-user capabilities by allowing multiple users to edit different zones on the same page. Composition Zones pushes collaboration a step further than just simultaneous text/picture (as possible with Quark CopyDesk since 1991), as it allows layout and graphic elements to be edited outside the layout application.
+User-defined rules, output specs, and layout specs can be used for intelligent templates and enable resource sharing (for example, server-based style sheet definitions).
+Version 6.5, released at the end of 2004, added enhanced support for the Photoshop format (PSD). The PSD integration and picture manipulation features led to QuarkXPress receiving a number of awards, such as the Macworld Editor's Choice for 2004.
+Version 7 added support for OpenType, Unicode, JDF, and also PDF/X-export. QuarkXPress 7 also added unique features, such as native transparency at the color level.
+QuarkXPress 8 introduced a completely new user interface, support for drag and drop, PDF 1.7 import, AI Import and a global file format. Design grids can be assigned to pages and boxes to allow unlimited baseline grids. Hanging characters can be applied and customized by character and amount to hang outside the box. This is the first version to include built-in Adobe Flash authoring. Designers can create Flash content including sound, video, animation and interactivity without programming. In October 2008, QuarkXPress 8 won the MacUser Award for Print Publishing Software of the Year.
+With version 9 QuarkXPress extended its crossmedia publishing approach and can be used now to also export to eBooks (ePub3 and Blio) and native apps (for the iPad). With App Studio, which is shipped with QuarkXPress, designers can even create and design their own apps. Additionally QuarkXPress 9 offers cascading styles (stylesheets based on text content), callouts (anchored objects that flow with the text based on position rules), create complex ad editable Bézier paths using a wizard (ShapeMaker), bullets and numbers (with import and export from/to Microsoft Word) and more.
+The Mac version of QuarkXPress 9 is for Intel processors only, making QuarkXPress 8.5.1 the last choice for PPC-based Macs.
+QuarkXPress 10, was described by Quark as a major re-write of the software on the Mac platform in particular to move it from the older Carbon API to Cocoa. It also included a new, modern graphics engine, Xenon. During the lifecycle of version 10, new features included Retina Display support, PDF pass-through transparency, notes, redlining, increased zoom (8000%) and the ability to create HTML5 animations for inclusion in App Studio tablet and smartphone apps.
+QuarkXPress 2015 was the first version to use a different naming scheme. It was completely 64-bit and added fixed-layout ePub and Kindle export as well as exporting layouts as PDF/X-4. Quark claimed to have added the top 10 of all user-requested features.
+QuarkXPress 2016 included the ability to import and copy and paste from other applications and file formats to native QuarkXPress objects. The release also includes revamped digital capabilities including being able to create HTML5 Publications. Top user requested features include multi-gradient blends and a color picker tool.
+QuarkXPress 2017 continued the new naming scheme and established an annual release cycle. The headline features include non-destructive image editing, various typography enhancements such as text stroking and text shading, responsive HTML5, and unlimited iOS apps for no additional cost (outside of the Apple Developer fees). Other user-requested features included adaptive layout conversion for print, smart quotes, and proportional leading.
+On March 1, 2018, Quark announced QuarkXPress 2018, stating it would be available on May 16, 2018. The headline features in version 2018 include new OpenType controls, hyphenation strictness, support for color fonts, IDML import (to convert Adobe InDesign documents to QuarkXPress) and the ability to create unlimited Android apps for no additional cost (outside of the Google Play fees).
+On November 14, 2023,  the company released QuarkXPress 2024's, including integration with 1,500 Google fonts, a new Visual Fonts and Picture Links palette, macOS Sonoma compatibility, image format support for WebP, HEIF and HEIC, local image libraries support, IDML export format, GREP support, and enhanced Right-to-Left language capabilities.
+
+Server version
+In the beginning of 2003 Quark released a server version of QuarkXPress, originally called QuarkDDS. Renamed in 2006 to "QuarkXPress Server", the product is now primarily sold with Quark Publishing Platform — the central hub of the company's content automation solutions. QuarkXPress Server is a Java application that takes content components (text, images, video, data, charts, etc.) and assembles them into different formats from PDFs to responsive HTML and Web apps. As the content is assembled into templates using granular content components, the output can be customized for different audiences in terms of the content and the brand. The system relies on XML.
+
+Extensions and tools
+
+Quark Interactive Designer
+Quark Interactive Designer is an extension and tool for creating Adobe Flash context from QuarkXPress documents. It enables the export QuarkXPress projects in SWF (Flash) file format.  This allows documents created for print or web production to also be output as a Flash advertisement.  No knowledge of timelines or ActionScript is necessary for this purpose. Since QuarkXPress is natively capable of creating HTML projects, this allows web designers to design and build their HTML and Flash elements and combine them all in a single application. Resulting files can be exported as SWF Flash files or standalone Projector applications for macOS or Windows. Quark Interactive Designer makes use of palette-based actions, similar to those found in PowerPoint, in order to animate text and graphics.  It also allows some use of button-triggered behaviors and embedding of QuickTime and Flash Video, and audio files.
+
+Reception
+InfoWorld said in 1993 that QuarkXPress 3.12 was superior to PageMaker and Ventura Publisher for high-end professional publishing.
+
+Version history
+QuarkXPress 1 (1987) – Mac OS only.
+QuarkXPress 2 (1989) – First non-English versions (e.g. French, German).
+QuarkXPress 2.1 (1989) – Enhanced typographic control, such as user-definable kerning tables.
+QuarkXPress 3 (1990) – First version with measurement palette and support for libraries.
+QuarkXPress 3.1 (1992) – First version to also support Windows.
+QuarkXPress 3.2 (1993) – First version to support Applescript and color management.
+QuarkXPress 3.3 (1996) – First version to support PPC natively. First Passport Version (optional).
+QuarkXPress 3.32 (1996) – Support for QuarkImmedia. This is the last version which works on Windows 3.x (requires Win32s to be installed).
+QuarkXPress 4 (1997) – First version with bézier curves. Notable interface improvements include pop-up tools and tabbed dialog boxes.
+QuarkXPress 4.1 (1999) – First version to also support PDF and XML.
+QuarkXPress 5 (2002) – First version to offer tables and to export HTML.
+QuarkXPress Server (QuarkDDS) released.
+QuarkXPress 6 (2003) – First version to support Mac OS X.
+QuarkXPress 6.1 (2004) – First version with Excel Import filter.
+QuarkXPress 6.5 (2004) – First version to also support the Document Object Model and features for picture retouching.
+QuarkXPress 6.52 (2006) – Bug fixes, released after Quark 7.
+QuarkXPress 7 (2006) – First version to support OpenType, Unicode, PDF/X, Shadows/Transparencies, Job Definition Format and Composition Zones.
+QuarkXPress 7.01 (August 8, 2006) – First native version for Intel Macs (Universal binary), plus PPML support.
+QuarkXPress 7.02 (2006) – Additional language support in Passport.
+QuarkXPress 7.1 (2007) – Performance update.
+QuarkXPress 7.2 (2007) – First version to support Windows Vista, additional languages.
+QuarkXPress 7.3 (2007) – Increased UI localization and PDF support, improved performance and stability.
+QuarkXPress 7.31 (2007) – Certification on Windows Vista, support for Mac OS X 10.5 ("Leopard"), enhancements to spell checking.
+QuarkXPress 7.4 (2008) – non public release, only for QPS customers.
+QuarkXPress 7.5 (2008) – Bug-fix release, released after release of Quark 8.
+QuarkXPress 8 (2008) – New UI, drag-and-drop support, direct image manipulation, customizable optical margin alignment, multiple baseline grids, East Asian support, built-in Flash authoring.
+QuarkXPress 8.01 (2008) – Spellchecker enhancements
+QuarkXPress 8.02 (2009) – Five new languages and new Pantone libraries.
+QuarkXPress 8.1 (2009) – Numerical scale, native transparency and layers in PDF, improved spell checker and other feature improvements. Supports Snow Leopard and Windows 7.
+QuarkXPress 8.12 (2009) – Bug-fix release.
+QuarkXPress 8.15 (2010) (Mac OS X only) – Fixes activation issues on certain Apple hardware.
+QuarkXPress 8.1.6 (2010) – Speed optimizations
+QuarkXPress 8.1.6.2 (2010) – Bug-fix release.
+QuarkXPress 8.5 (2010) – Bug fixes, auto updater, DOCX import.
+QuarkXPress 8.5.1 (2011) – Bug fixes, last Universal Binary version.
+QuarkXPress 9 (2011) – Nested Styles, callouts (anchored elements outside text boxes), bullets and numbers, shape wizard, multi-image import, ePUB Export.
+QuarkXPress 9.0.1 (2011) – Bug-fix release
+QuarkXPress 9.1 (2011) – Addition of "App Studio", which allows to export multimedia apps for iPad out of QuarkXPress. First version to officially support Mac OS X Lion
+QuarkXPress 9.2 (2012) – Export to ePUB 3.0, plus ability to create ePUB files from scratch. Improvements to App Studio, including iOS 5 support.
+QuarkXPress 9.2.1 (2012) (Mac OS X only) – Fix "missing icons" bug caused by Lion 10.7.3
+QuarkXPress 9.2.1.1 (2012) – Added support for exporting to the Retina iPad
+QuarkXPress 9.3 (2012) – Export eBooks directly to Amazon Kindle format, plus other minor fixes including EPS and PDF color management.
+QuarkXPress 9.3.1 (2012) – Compatibility with the OS X Mountain Lion (10.8) Gatekeeper feature.
+QuarkXPress 9.3.1.1 (2012) – Fixes a spellchecker crash.
+QuarkXPress 9.5 (2012) – Allows the creation of 100% HTML5-based content on native apps and platforms such as Android.
+QuarkXPress 9.5.1 (2013) – Adds page stacks, bugfixes
+QuarkXPress 9.5.1.1 (2013) – Bugfixes
+QuarkXPress 9.5.2 (2013) – Download manager, bugfixes
+QuarkXPress 9.5.3 (2013) – Fixes known issues with PDF export
+QuarkXPress 9.5.4 (2013) – Support for OS X Mavericks
+QuarkXPress 10 (September 2013)
+QuarkXPress 10.0.1 (2013) – Support for OS X Mavericks and Windows 8.1
+QuarkXPress 10.1 (2014) – 8000% zoom, smart guides, HTML5-based animations, image export, new book function
+QuarkXPress 10.2 (2014) – Speed Improvements, Notes, Redlining
+QuarkXPress 10.2.1 (2014) – Bug fixes
+QuarkXPress 10.5 (2014) – Support for OS X Yosemite
+QuarkXPress 2015
+QuarkXPress 2015 Release 11.0 (April 2015) – 64-bit version only, over 5 meters max page size, fixed-layout interactive eBooks (FXL ePUB), footers and end notes, text variables, custom paper sizes, user-definable shortcut keys (Mac only), table styles, PDF/X-4.
+May 2015 Release (11.0.0.1) – bug fixes
+July 2015 Release (11.0.1) – faster launch speed
+Sep 2015 Release (11.1) – Support for Windows 10
+Oct 2015 Release (11.2) – Support for OS X El Capitan
+QuarkXPress 2016
+QuarkXPress 2016 Release 12.0 (May 2016) – Convert AI/EPS/PDF to editable objects, copy Illustrator, InDesign, MS Office as editable objects; create HTML5 Publications, multi-color gradients, OpenType Stylistic Sets, Eyedropper
+QuarkXPress 2017
+QuarkXPress 2017 Release 13.0 (May 2017) – Non-destructive image editing, transparency blend modes, text shading and test framing, stroke live text, merge/split columns, create responsive HTML5 Publications, create iOS Apps (for free, no monthly fees)
+QuarkXPress 2017 Release 13.0.1 (June 2017)
+QuarkXPress 2017 Release 13.0.2 (July 2017)
+QuarkXPress 2017 Release 13.1 (October 2017)  – Support for macOS High Sierra
+QuarkXPress 2017 Release 13.1.1 (December 2017) – Fix for PSD filter
+QuarkXPress 2017 Release 13.2 (January 2018) – Beta support for opening Adobe InDesign Markup Language (IDML) files
+QuarkXPress 2017 Release 13.2.1 (January 2018) – Fix for PDF output
+QuarkXPress 2017 Release 13.2.4 (June 2018)
+QuarkXPress 2018
+QuarkXPress 2018 Release 14.0 (May 2018) - OpenType enhancements, color fonts support, hyphenation strictness, InDesign IDML Import, tagged/accessible PDF, built-in JavaScript v8 support, create Android Apps, digital preview improvements, HTML5 export optimizations, unified Windows/Mac interface.
+QuarkXPress 2018 Release 14.0.1 (July 2018)
+QuarkXPress 2018 Release 14.1.2 (October 2018) – Now available in the Mac App Store. Dark Theme for Mojave.
+QuarkXPress 2018 Release 14.2 (December 2018) – Adds typography for Indian languages like Hindi
+QuarkXPress 2018 Release 14.2.1 (January 2019)
+QuarkXPress 2019
+QuarkXPress 2019 Release 15.0 (July 2019)
+QuarkXPress 2020
+QuarkXPress 2020 Release 16.0 (2020)
+QuarkXPress 2021
+QuarkXPress 2021 Release 17.0.01 (October 2021)
+QuarkXPress 2022
+QuarkXPress 2022 Release 18.0 (February 2022) - subscription offering in addition to perpetual license option, access to a royalty-free stock image library
+QuarkXPress 2023
+QuarkXPress 2023 Release 19.0 (November 2022)
+QuarkXPress 2023 Release 19.1 (April 2023)
+QuarkXPress 2024
+QuarkXPress 2024 Release 20.0 (November 2023)
+QuarkXPress 2026
+QuarkXPress 2026 Release 22.0 (October 2025)
+
+See also
+Comparison of desktop publishing software
+List of desktop publishing software
+Quark Publishing Platform
+
+References
+
+External links
+Official website 
+Quark User Blog Archived April 16, 2021, at the Wayback Machine
+
+[[Adobe InDesign]] [[Blio]] [[Collabora Online]] [[Desktop publishing]] [[Electronic publishing]] [[HTML]] [[IPad]] [[IStudio Publisher]] [[PagePlus]] [[Pages (word processor)]]

@@ -1,0 +1,200 @@
+Timeline of ebooks
+An ebook (short for "electronic book"), also spelled as e-book or eBook, is a book publication made available in electronic form, consisting of text, images, or both, readable on the flat-panel display of computers or other electronic devices. Some trace the concept of an e-reader, a device that would enable the user to view books on a screen, to a 1930 manifesto by Bob Brown titled The Readies, in which he correctly predicted the miniaturization and portability of e-readers, writing that such a machine would allow readers to adjust the size of the text.
+The inventor of the first ebook is not widely agreed upon. One candidate is Roberto Busa, the creator of the Index Thomisticus, a digital humanities project he initiated in 1946 that created a concordance to 179 texts centering around the works of Thomas Aquinas. In 1949 Ángela Ruiz Robles, a teacher from Ferrol, Spain, patented the Enciclopedia Mecánica (transl. Mechanical Encyclopedia), a mechanical device which operated on compressed air where text and graphics were contained on spools that users would load onto rotating spindles.
+Some historians consider electronic books to have started in the early 1960s with the NLS project headed by Douglas Engelbart at Stanford Research Institute (SRI), and the Hypertext Editing System and FRESS projects headed by Andries van Dam at Brown University. FRESS documents were formatted dynamically for different users, display hardware, window sizes, and so on, as well as having automated tables of contents, indexes, etc. All these systems also provided extensive hyperlinking, graphics, and other capabilities, and Van Dam is generally thought to have coined the term "electronic book".
+Several publications report Michael S. Hart as the inventor of the ebook, who planned to create documents using plain text to make them as easy as possible to download and view on devices. His work led to the launch of Project Gutenberg, an online ebook library.
+Dedicated hardware devices for ebook reading began to appear in the 70s and 80s. One early ebook implementation was the desktop prototype for a proposed notebook computer, the Dynabook, in the 1970s at PARC. In 1987 the Department of Defense finished tests on four prototypes from Texas Instruments for the Portable Electronic Aid for Maintenance (PEAM) project, a portable electronic delivery device for technical maintenance information. In 1992, Sony launched the Data Discman, an electronic book reader that could read ebooks that were stored on CDs. In 1993, Paul Baim released a freeware HyperCard stack, called EBook, that allowed easy import of any text file to create a pageable version similar to an electronic paperback book, which allowed users to quickly return to the last page they read after leaving, and the stack's name may have popularized the term "ebook".
+The publication of ebooks gained support from major software companies, with Adobe introducing the PDF format in 1993. The Open eBook format, developed by the Open eBook Forum and endorsed by Microsoft, was released in September 1999. It was soon superseded by the EPUB format, which became an official standard in 2007. EPUB provides pagination and allows text content to be reflowable even as parameters like font size are changed by the reader.
+The first commercially available ebook readers or "e-readers" were launched in 1998: the Rocket eBook and the SoftBook Reader by SoftBook. Sony released the first e-reader to use an E Ink screen in 2004. Electronic paper screen technologies like E Ink mimic the appearance of ink on paper by reflecting ambient light, allowing for greater energy efficiency and a more comfortable reading experience. Beyond e-readers, ownership of tablet computers among online consumers in the United States jumped from 5% in 2011 to 44% in 2014.
+With the rise of e-readers, authors with books that were not accepted by publishers offered their works online so they could be seen by others. In 2010, a Public Library Funding and Technology Access Study by the American Library Association found that 66% of public libraries in the U.S. were offering ebooks, and a large movement in the library industry began to seriously examine the issues relating to ebook lending, acknowledging a "tipping point" when ebook technology would become widely established. By January 2011, ebook sales at Amazon had surpassed its paperback sales. In 2014, The New York Times predicted that by 2018 ebooks will make up over 50% of total consumer publishing revenue in the United States and Great Britain.
+
+Before the 1980s
+
+c. 1949
+Ángela Ruiz Robles invents the Mechanical Encyclopedia, in Galicia, Spain.
+Roberto Busa is sponsored by IBM to compile the Index Thomisticus.
+c. 1963
+Douglas Engelbart starts the NLS (and later Augment) projects.
+c. 1965
+Andries van Dam starts the HES (and later FRESS) projects, with assistance from Ted Nelson, to develop and use electronic textbooks for humanities and in pedagogy.
+1971
+Michael S. Hart types the US Declaration of Independence into a computer to create the first ebook available on the Internet and launches Project Gutenberg in order to create electronic copies of more books.
+c. 1979
+Roberto Busa finishes the Index Thomisticus, a complete lemmatization of the 56 printed volumes of Saint Thomas Aquinas and of a few related authors.
+
+1980s and 1990s
+1980
+The United States Department of Defense (DoD) begins work on the Portable Electronic Aid for Maintenance (PEAM).
+1985
+Texas Instruments applies for a patent for a device developed as part of the PEAM program, titled "Apparatus for delivering procedural type instructions", listing John K. Harkins and Stephen H. Morriss as the inventors.
+1986
+Judy Malloy writes and programs the first online hypertext fiction, Uncle Roger, with links that take the narrative in different directions depending on the reader's choice.
+Texas Instruments delivers its prototypes for the PEAM to the DoD.
+1989
+Franklin Computer releases an electronic edition of the Bible that can only be read with a stand-alone device.
+1990
+Eastgate Systems publishes the first hypertext fiction released on floppy disk, afternoon, a story, by Michael Joyce.
+Electronic Book Technologies releases DynaText, the first SGML-based system for delivering large-scale books such as aircraft technical manuals. It was later tested on a US aircraft carrier as a replacement for paper manuals.
+Sony launches the Data Discman e-book player.
+1991
+Voyager Company develops Expanded Books, which are books on CD-ROM in a digital format.
+
+1992
+F. Crugnola and I. Rigamonti design and create the first e-reader, called Incipit, as a thesis project at the Polytechnic University of Milan.
+Apple starts using its Doc Viewer format "to distribute documentation to developers in an electronic form", which effectively meant Inside Macintosh books.
+1993
+Peter James publishes his novel Host on two floppy disks, which at the time was called the "world's first electronic novel", a copy of it is stored at the Science Museum.
+Hugo Award and Nebula Award nominee works are included on a CD-ROM by Brad Templeton.
+Launch of Bibliobytes, a website for obtaining e-books, both for free and for sale on the Internet.
+Paul Baim releases the EBook 1.0 HyperCard stack that allows the user to easily convert any text file into a HyperCard based pageable book.
+1994
+C & M Online is founded in Raleigh, North Carolina and begins publishing ebooks through its imprint, Boson Books; authors include Fred Chappell, Kelly Cherry, Leon Katz, Richard Popkin, and Robert Rodman.
+More than two dozen volumes of Inside Macintosh are published together on a single CD-ROM in Apple Doc Viewer format. Apple subsequently switches to using Adobe Acrobat.
+The popular format for publishing ebooks changes from plain text to HTML.
+1995
+Online poet Alexis Kirke discusses the need for wireless internet electronic paper readers in his article "The Emuse".
+1996
+Project Gutenberg reaches 1,000 titles.
+Joseph Jacobson works at MIT to create electronic ink, a high-contrast, low-cost, read/write/erase medium to display ebooks.
+1997
+E Ink Corporation is co-founded by MIT undergraduates J.D. Albert, Barrett Comiskey, MIT professor Joseph Jacobson, as well as Jeremy Rubin and Russ Wilcox to create an electronic printing technology. This technology is later used on the displays of the Sony Reader, Barnes & Noble Nook, and Amazon Kindle.
+
+1998
+Nuvo Media releases the first handheld e-reader, the Rocket eBook.
+SoftBook launches its SoftBook reader. This e-reader, with expandable storage, could store up to 100,000 pages of content, including text, graphics and pictures.
+The Cybook is sold and manufactured at first by Cytale (1998–2003) and later by Bookeen.
+1999
+The NIST releases the Open eBook format based on XML to the public domain; most future ebook formats derive from Open eBook.
+Publisher Simon & Schuster creates a new imprint called iBooks and becomes the first trade publisher to simultaneously publish some of its titles in ebook and print format.
+Oxford University Press makes a selection of its books available as ebooks through netLibrary.
+Publisher Baen Books opens up the Baen Free Library to make available Baen titles as free ebooks.
+Kim Blagg, via her company Books OnScreen, begins selling multimedia-enhanced ebooks on CDs through retailers including Amazon, Barnes & Noble and Borders.
+
+2000s
+2000
+Joseph Jacobson, Barrett O. Comiskey and Jonathan D. Albert are granted US patents related to displaying electronic books; these patents are later used in the displays for most e-readers.
+Stephen King releases his novella Riding the Bullet exclusively online and it became the first mass-market ebook, selling 500,000 copies in 48 hours.
+Microsoft releases the Microsoft Reader with ClearType for increased readability on PCs and handheld devices.
+Microsoft and Amazon work together to sell ebooks that can be purchased on Amazon, and using Microsoft software downloaded to PCs and handhelds.
+A digitized version of the Gutenberg Bible is made available online at the British Library.
+2001
+Adobe releases Adobe Acrobat Reader 5.0 allowing users to underline, take notes and bookmark.
+2002
+Palm, Inc and OverDrive, Inc make Palm Reader e-books available worldwide, offering over 5,000 ebooks in several languages; these could be read on Palm PDAs or using a computer application.
+Random House and HarperCollins start to sell digital versions of their titles in English.
+
+2004
+Sony Librie, the first e-reader using an E Ink display is released; it has a six-inch screen.
+Google announces plans to digitize the holdings of several major libraries, as part of what would later be called the Google Books Library Project.
+2005
+Amazon buys Mobipocket, the creator of the mobi e-book file format and e-reader software.
+Google is sued for copyright infringement by the Authors Guild for scanning books still in copyright.
+2006
+Sony Reader PRS-500, with an E Ink screen and two weeks of battery life, is released.
+LibreDigital launches BookBrowse as an online reader for publisher content.
+
+2007
+The International Digital Publishing Forum releases EPUB to replace Open eBook.
+In November, Amazon.com releases the Kindle e-reader with 6-inch E Ink screen in the US and it sells outs in 5.5 hours. Simultaneously, the Kindle Store opens, with initially more than 88,000 ebooks available.
+Bookeen launches Cybook Gen3 in Europe; it can display ebooks and play audiobooks.
+2008
+Adobe and Sony agree to share their technologies (Adobe Reader and DRM) with each other.
+Sony sells the Sony Reader PRS-505 in UK and France.
+2009
+Bookeen releases the Cybook Opus in the US and Europe.
+Sony releases the Reader Pocket Edition and Reader Touch Edition.
+Amazon releases the Kindle 2 that includes a text-to-speech feature.
+Amazon releases the Kindle DX that has a 9.7-inch screen in the U.S.
+Barnes & Noble releases the Nook e-reader in the US.
+Amazon releases the Kindle for PC application in late 2009, making the Kindle Store library available for the first time outside Kindle hardware.
+
+2010s
+
+2010
+January – Amazon releases the Kindle DX International Edition worldwide.
+April – Apple releases the iPad bundled with an ebook app called iBooks.
+May – Kobo Inc. releases its Kobo eReader to be sold at Indigo/Chapters in Canada and Borders in the United States.
+July – Amazon reports that its ebook sales outnumbered sales of hardcover books for the first time during the second quarter of 2010.
+August – PocketBook expands its line with an Android e-reader.
+August – Amazon releases the third generation Kindle, available in Wi-Fi and 3G & Wi-Fi versions.
+October – Bookeen reveals the Cybook Orizon at CES.
+October – Kobo Inc. releases an updated Kobo eReader, which includes Wi-Fi capability.
+November – The Sentimentalists wins the prestigious national Giller Prize in Canada; due to the small scale of the novel's publisher, the book is not widely available in printed form, so the ebook edition becomes the top-selling title on Kobo devices for 2010.
+November – Barnes & Noble releases the Nook Color, a color LCD tablet.
+December – Google launches Google eBooks offering over three million titles, becoming the world's largest ebook store to date.
+
+2011
+May – Amazon.com announces that its ebook sales in the US now exceed all of its printed book sales.
+June – Barnes & Noble releases the Nook Simple Touch e-reader and Nook Tablet.
+August – Bookeen launches its own ebooks store, BookeenStore.com, and starts to sell digital versions of titles in French.
+September – Nature Publishing releases the pilot version of Principles of Biology, a customizable, modular textbook, with no corresponding paper edition.
+June/November – As the e-reader market grows in Spain, companies like Telefónica, Fnac, and Casa del Libro launch their e-readers with the Spanish brand "bq readers".
+November – Amazon launches its first Android-based tablet, the Kindle Fire, and the touchscreen Kindle Touch, both devices designed for e-reading.
+2012
+Ebook sales in the US market collect over three billion in revenue.
+January – Apple releases iBooks Author, software for creating iPad ebooks to be directly published in its iBooks bookstore or to be shared as PDF files.
+January – Apple opens a textbook section in its iBooks bookstore.
+February – Nature Publishing announces the worldwide release of Principles of Biology, following the success of the pilot version some months earlier.
+February – Library.nu (previously called ebooksclub.org and gigapedia.com, a popular linking website for downloading ebooks) is accused of copyright infringement and closed down by court order.
+March – The publishing companies Random House, Holtzbrinck, and arvato bring to market an ebook library called Skoobe.
+March – US Department of Justice prepares anti-trust lawsuit against Apple, Simon & Schuster, Hachette Book Group, Penguin Group, Macmillan, and HarperCollins, alleging collusion to increase the price of books sold on Amazon.
+March – PocketBook releases the PocketBook Touch, an E Ink Pearl e-reader, winning awards from German magazines Tablet PC and Computer Bild.
+June – Kbuuk releases the cloud-based ebook self-publishing SaaS platform on the Pubsoft digital publishing engine.
+September – Amazon releases the Kindle Paperwhite, its first e-reader with built-in front display lighting.
+2013
+April – Kobo releases the Kobo Aura HD with a 6.8-inch screen, which is larger than the current models produced by its US competitors.
+May – Mofibo launches the first Scandinavian unlimited access ebook subscription service.
+June – Association of American Publishers announces that ebooks now account for about 20% of book sales. Barnes & Noble estimates it has a 27% share of the US ebook market.
+June – Barnes & Noble announces its intention to discontinue manufacturing Nook tablets, but to continue producing black-and-white e-readers such as the Nook Simple Touch.
+June – Apple executive Keith Moerer testifies in the ebook price fixing trial that the iBookstore held approximately 20% of the ebook market share in the United States within the months after launch – a figure that Publishers Weekly reports is roughly double many of the previous estimates made by third parties. Moerer further testified that iBookstore acquired about an additional 20% by adding Random House in 2011.
+
+Five major US ebook publishers, as part of their settlement of a price-fixing suit, are ordered to refund about $3 for every electronic copy of a New York Times best-seller that they sold from April 2010 to May 2012. This could equal $160 million in settlement charges.
+Barnes & Noble releases the Nook Glowlight, which has a 6-inch touchscreen using E Ink Pearl and Regal, with built-in front LED lights.
+July – US District Court Judge Denise Cote finds Apple guilty of conspiring to raise the retail price of ebooks and schedules a trial in 2014 to determine damages.
+August – Kobo releases the Kobo Aura, a baseline touchscreen six-inch e-reader.
+September – Oyster launches its unlimited access ebook subscription service.
+November – US District Judge Chin sides with Google in Authors Guild v. Google, citing fair use. The authors said they would appeal.
+December – Scribd launches the first public unlimited access subscription service for ebooks.
+2014
+April – Kobo releases the Aura H₂0, the world's first waterproof commercially produced e-reader.
+June – US District Court Judge Cote grants class action certification to plaintiffs in a lawsuit over Apple's alleged ebook price conspiracy; the plaintiffs are seeking $840 million in damages. Apple appeals the decision.
+June – Apple settles the ebook antitrust case that alleged Apple conspired to ebook price fixing out of court with the States; however if the District Court ruling is overturned in appeal the settlement would be reversed.
+July – Amazon launches Kindle Unlimited, an unlimited-access ebook and audiobook subscription service.
+2015
+June – The 2nd US Circuit Court of Appeals with a 2:1 vote concurs with Judge Cote that Apple conspired to ebook price fixing and violated federal antitrust law. Apple appealed the decision.
+June – Amazon releases the Kindle Paperwhite (3rd generation) that is the first e-reader to feature Bookerly, a font exclusively designed for e-readers.
+September – Oyster announces its unlimited access ebook subscription service would be shut down in early 2016 and that it would be acquired by Google.
+September – Malaysian ebook company, e-Sentral, introduces for the first time geo-location distribution technology for ebooks via Bluetooth beacon. It was first demonstrated in a large scale at Kuala Lumpur International Airport.
+October – Amazon releases the Kindle Voyage that has a 6-inch, 300 ppi E Ink Carta HD display, which was the highest resolution and contrast available in e-readers as of 2014. It also features adaptive LED lights and page turn sensors on the sides of the device.
+October – Barnes & Noble releases the Glowlight Plus, its first waterproof e-reader.
+October – The US appeals court sides with Google instead of the Authors' Guild, declaring that Google did not violate copyright law in its book scanning project.
+December – Playster launches an unlimited-access subscription service including ebooks and audiobooks.
+By the end of 2015, Google Books scanned more than 25 million books.
+By 2015, over 70 million e-readers had been shipped worldwide.
+2016
+March – The Supreme Court of the United States declines to hear Apple's appeal against the court's decision of July 2013 that the company conspired to ebook price fixing, hence the previous court decision stands, obliging Apple to pay $450 million.
+April – The Supreme Court declines to hear the Authors Guild's appeal of its book scanning case, so the lower court's decision stands; the result means that Google can scan library books and display snippets in search results without violating US copyright law.
+April – Amazon releases the Kindle Oasis, its first e-reader in five years to have physical page turn buttons and, as a premium product, it includes a leather case with a battery inside; without including the case, it is the lightest e-reader on the market to date.
+August – Kobo releases the Aura One, the first commercial e-reader with a 7.8-inch E Ink Carta HD display.
+By the end of the year, smartphones and tablets have both individually overtaken e-readers as methods for reading an ebook, and paperback book sales are now higher than ebook sales.
+2017
+February – The Association of American Publishers releases data showing that the US adult ebook market declined 16.9% in the first nine months of 2016 over the same period in 2015, and Nielsen Book determines that the ebook market had an overall total decline of 16% in 2016 over 2015, including all age groups. This decline is partly due to widespread ebook price increases by major publishers, which has increased the average ebook price from $6 to almost $10.
+February – The US version of Kindle Unlimited comprises more than 1.5 million titles, including over 290,000 foreign language titles.
+March – The Guardian reports that sales of physical books are outperforming digital titles in the UK, since it can be cheaper to buy the physical version of a book when compared to the digital version due to Amazon's deal with publishers that allows agency pricing.
+April – The Los Angeles Times reports that, in 2016, sales of hardcover books were higher than ebooks for the first time in five years.
+October – Amazon releases the Oasis 2, the first Kindle to be IPX8 rated meaning that it is water resistant up to 2 meters for up to 60 minutes; it is also the first Kindle to enable white text on a black background, a feature that may be helpful for nighttime reading.
+2018
+January – U.S. public libraries report record-breaking borrowing of OverDrive ebooks over the course of the year, with more than 274 million ebooks loaned to card holders, a 22% increase over the 2017 figure.
+October – The EU allowed its member countries to charge the same VAT for ebooks as for paper books.
+2019
+May – Barnes & Noble releases the GlowLight Plus e-reader, the largest Nook e-reader to date with a 7.8-inch E Ink screen.
+
+2020s
+2022
+November – Amazon releases the Kindle Scribe, the first Kindle with a stylus.
+2024
+October – Amazon releases the Kindle Colorsoft Signature Edition, the first Kindle with a color display.
+
+References
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Application software]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[HTML]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Michael S. Hart]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[United States Department of Defense]] [[Writer2epub]]

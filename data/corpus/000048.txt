@@ -1,0 +1,38 @@
+Altium Designer
+Altium Designer (AD, formerly known as Protel) is a printed circuit board (PCB) and electronic design automation software package for printed circuit boards. It is developed by American software company Altium Limited. Altium Designer is provided as part of the Altium Develop and Altium Agile platform solutions.
+
+History
+Altium Designer has roots in 1985, launched by Altium Limited (named Protel Systems Pty Ltd. at that time) as a PCB design tool for MS-DOS named Protel PCB (which later became Autotrax and Easytrax). Altium Designer was officially launched by Altium in 2005. Originally it was sold only in Australia, with Protel PCB marketed internationally by HST Technology since 1986. The product became available in the United States, Canada, and Mexico beginning in 1986, marketed by San Diego–based ACCEL Technologies, Inc., under the name Tango PCB. In 1987, Protel launched the circuit diagram editor Protel Schematic for DOS.
+In 1991, Protel released Advanced Schematic and Advanced PCB 1.0 for Windows (1991–1993), followed by Advanced Schematic/PCB 2.x (1993–1995) and 3.x (1995–1998). In 1998, Protel 98 consolidated all components, including Advanced Schematic and Advanced PCB, into one environment. Protel 99 in 1999 introduced the first integrated 3D visualization of the PCB assembly. It was followed by Protel 99 SE in 2000. Protel DXP was issued in 2003, Protel 2004 in 2004, Altium Designer 6.0 in 2005. Altium Designer version 6.8 from 2007 was the first to offer 3D visualization and clearance checking of PCBs directly within the PCB editor. In 2001, the company adopted the name Altium Limited.
+In 2008, Altium Designer added direct integration with STEP mechanical CAD file formats, enabling dynamic linking between the PCB design environment and external MCAD software. Version 10, released in 2011, introduced product data management capabilities. Altium Designer 2013 opened the platform to third-party partners and system integrators. Altium Designer 18, released in 2018, introduced a 64-bit architecture, multiboard design functionality, and a redesigned bill-of-materials management system. Altium Designer 19, released in 2018, added connectivity with Altium 365, the company's cloud-based platform for multi-domain collaboration and real-time information sharing.
+In 2021, Altium rejected a takeover bid from software company Autodesk, which had previously acquired the EDA tool EAGLE in 2016, valuing Altium at approximately A$5.05 billion. In February 2024, Renesas Electronics agreed to acquire Altium for approximately US$5.9 billion. The acquisition was completed in August 2024, making Altium a wholly owned subsidiary of Renesas.
+Beginning in 2025, Altium introduced three subscription-based platform solutions built on its existing technology: Altium Discover, Altium Develop, and Altium Agile. Altium Designer and Altium 365 continue to serve as the underlying design and cloud platform, with each solution bundling varying levels of access to those tools and capabilities into tiered subscription offerings.
+
+Features
+Altium Designer is no longer offered as a standalone product and is instead available as part of the Altium Develop and Altium Agile platform solutions. 
+It integrates with several component distributors (via the Octopart platform) for access to manufacturer's data, inventory information, lifecycle status, and additional technical information, which is not available in component datasheets. It also has interactive 3D editing of the board, and exporting of a design into MCAD file formats (such as STEP). Users can create multiple types of designs, including multi-layer rigid PCBs with high layer counts, rigid-flex PCBs, flexible printed circuits, and more specialized designs like metal-backed or ceramic PCBs.
+
+Altium Develop
+Altium Develop represents the professional design and collaboration tier of the Altium platform. It brings together Altium Designer and Altium 365 into a unified framework for advanced electronic product development, enabling multidisciplinary teams to co-create, manage components, and prepare designs for manufacturing. Develop is aimed at professional engineering teams building production-ready hardware who require robust design environments, structured collaboration, and system-level integrations that connect electrical, mechanical, and manufacturing domains.
+
+Altium Agile
+Altium Agile delivers enterprise-grade process management and workflow orchestration for organizations building complex hardware systems. It extends the Altium platform to enable controlled, multi-team collaboration and end-to-end visibility across engineering operations. Altium Agile is delivered through two editions: Agile Teams, designed for smaller companies and workgroups facing increasing complexity in electronics development, and Agile Enterprise, tailored for larger, heavily regulated companies that require deeper integrations, stringent compliance, and enterprise-level governance.
+
+File formats
+
+Altium Designer supports import & export of various PCB and CAD data exchange file formats. The tool's native file formats are the binary file formats *.SchDoc and *.PcbDoc.
+It can also import and export AutoCAD *.dwg/*.dxf and ISO 10303-21 STEP file formats.
+
+See also
+
+Comparison of EDA software
+List of free electronics circuit simulators
+
+References
+
+External links
+Official website, Altium
+Altium Designer Overview - PCB Design Tool
+What's New in Altium Designer
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

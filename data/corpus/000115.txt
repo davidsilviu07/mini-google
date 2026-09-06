@@ -1,0 +1,191 @@
+Barnes & Noble Nook
+The Barnes & Noble Nook (styled nook or NOOK) is a brand of e-readers developed by American book retailer Barnes & Noble, based on the Android platform. The original device was announced in the U.S. in October 2009, and was released the next month. The original Nook had a six-inch e-paper display and a separate, smaller color touchscreen that serves as the primary input device and was capable of Wi-Fi and AT&T 3G wireless connectivity. The original Nook was followed in November 2010 by a color LCD device called the Nook Color, in June 2011 by the Nook Simple Touch, and in November 2011 and February 2012 by the Nook Tablet. On April 30, 2012, Barnes & Noble entered into a partnership with Microsoft that spun off the Nook and college businesses into a subsidiary. On August 28, 2012, Barnes & Noble announced partnerships with retailers in the UK, which began offering the Nook digital products in October 2012. In December 2014, B&N purchased Microsoft's Nook shares, ending the partnership.
+Nook users may read nearly any Nook Store e-book, digital magazines or newspapers for one hour once per day while connected to a Barnes & Noble's Wi-Fi.
+
+Naming
+The Nook name and identity was devised and created by the Brand Development Group at R/GA. Nook was initially rejected as a name by Barnes & Noble but eventually the connection to a nook being a familiar place to read was compelling enough to change the minds of the company's executives. This decision pivoted on the information contained within an NPR article which suggested that female readers tend to read more than men.  The name is also claimed by Rex Wilder when he was consulting for Ammunition Design Group.
+
+Devices
+
+Current
+
+Nook GlowLight 4 (E Ink)
+In December 2021, B&N announced the 4th generation of the GlowLight e-reader. The GlowLight 4 has an enhanced lighting system that provides a cool white during the day or in rooms with bright light, but then can manually or automatically switch to night mode with an orange tone for reading in dark spaces with less blue light. The device also has physical page turn buttons and is the first device to have USB-C.
+
+Nook GlowLight 4 Plus (E Ink)
+On September 6, 2023, B&N released the GlowLight 4 Plus e-reader with a 7.8-inch display. The larger 4 Plus retains the enhanced lighting and 300 ppi resolution of the GlowLight 4 but the display is now flush with the front of the device. Like the others in the GlowLight 4 family it has physical page turn buttons and USB-C but is the first of its type to have a capacitive touch (rather than physical) home button. The 4 Plus also is the first e-ink Nook to include a headphone jack and Bluetooth audio support for listening to audiobooks.
+
+Nook 9" Lenovo Tablet (LCD)
+On February 5, 2024, B&N announced a 9" LCD Android tablet for $149.99. The device contains 64 GB of storage (up to 128 GB with microSD card purchased separately) and a thirteen-hour battery life. The 9" color display features TÜV Rheinland certified eye protection to protect against blue light, offers Grayscale, Chromatic & Immersive Reading modes, and is fingerprint resistant. The tablet also comes with a front and rear camera. Along with audiobooks and Bluetooth compatibility, the tablet sports an audio jack and dual speakers with Dolby Atmos, as well as a USB-C port for varied headphone options, charging and data transfer purposes. The Nook Lenovo tablet is available in Arctic Grey and Frost Blue.
+
+Discontinued
+
+E Ink Devices
+
+Nook 1st Edition
+
+The device has two versions, a Nook that includes Wi-Fi and AT&T 3G wireless connectivity, and one that only includes Wi-Fi.
+
+3G + Wi-Fi version
+This version made its debut on November 22, 2009, at a retail price of US$259. It was offered with built-in Wi-Fi + 3G connectivity for free access to the Barnes & Noble online store.
+This has a six-inch E Ink display, and a separate, smaller color touchscreen that serves as the primary input device.
+The price was dropped to US$199 on June 21, 2010, upon the release of the new Nook Wi-Fi.
+With the announcement of the newer Nook Simple Touch Reader, on May 25, 2011, the price was dropped to US$169.
+In early 2011, Nook Wi-Fi + 3G was discontinued.
+
+Wi-Fi version
+This version of the Nook 1st Edition supports only Wi-Fi (not 3G Wireless), and is easily distinguishable due to its white back panel (in contrast to the gray back panel of the Wi-Fi + 3G version). Nook Wi-Fi made its debut on June 21, 2010, at a retail price of US$149.
+With the announcement of the newer Nook Simple Touch Reader, on May 25, 2011, the price was dropped to US$119.
+In September 2011, the price was dropped again, to US$89.
+In late 2011, Nook Wi-Fi was discontinued.
+
+Nook Simple Touch
+
+Announced on May 25, 2011, the Simple Touch Reader (also informally referred as Nook 2nd Edition) was released on June 10, 2011, at a retail price of US$139. The Simple Touch is a Wi-Fi only Nook, with an infrared touch-screen, E Ink technology, and battery life of up to two months (or 150 hours, offering approximately 25,000 continuous page turns with Wi-Fi turned off). The device weighs 212 grams (7.5 oz) with dimensions of 6.5" × 5" × 0.47".
+
+On November 7, 2011, the Simple Touch Reader's price dropped to US$99.
+On December 9, 2012, the Simple Touch Reader's price dropped to US$79.
+On December 4, 2013, the Simple Touch Reader's price dropped to US$59.
+In February 2014, the Simple Touch Reader was discontinued due to being phased out by the GlowLight.
+
+Nook Simple Touch with GlowLight
+
+On April 12, 2012, a Nook Simple Touch Reader with built-in LED lighting, called "GlowLight", was released with a retail price of US$139. This model is distinguishable from the non glow light model by a gray bezel on the outer edge.
+
+On September 30, 2012, the Simple Touch Reader with Glowlight's price dropped to US$119.
+On August 18, 2013, the Simple Touch Reader with Glowlight's price dropped to US$99.
+On October 30, 2013, the Simple Touch Reader with Glowlight was discontinued due to being phased out by the Nook Glowlight.
+
+Nook GlowLight
+The Nook Glowlight (marketed as the "nook GlowLight") e-reader was released on October 30, 2013.  The Glowlight uses a 6-inch touchscreen with E Ink Pearl, Wi-Fi and has a battery life of two months with wireless off; it launched at a US$119 retail price. It weighs 175 grams (6.2 oz) with dimensions of 6.5" × 5" × 0.42" and has 4 GB of storage, of which 2 GB is reserved for Nook Store content and 512 MB for additional user content. The device uses Android 2.3 Gingerbread and it has an 800 MHz processor with 256 MB of RAM. Compared to the Nook Simple Touch Reader, the GlowLight has a white exterior, a brighter screen, a boost in screen resolution to 1024 × 758 and a more durable silicone edge. Compared to the Simple Touch, the microSD card slot and page-turn buttons have been removed.
+
+Nook GlowLight Plus (6 inch)
+The Nook GlowLight Plus e-reader was released on October 21, 2015, and it features a 6-inch 300 ppi Carta E Ink screen with frontlight and touchscreen, Wi-Fi, an aluminum rear shell, six weeks of battery (1,500 mAh) life with wireless off,6.4 by 4.6 by 0.4 inches and weighs 6.9 ounces, and meets IP67, meaning it is waterproof for up to 30 minutes at a maximum depth of 1 meter and is dustproof. The Nook software is run on Android 4.4 KitKat and it has 2.8 GB of user-accessible storage. The GlowLight Plus uses a Freescale i.MX6 1 GHz CPU and has 512 MB RAM.
+Since the device runs Android 4.4, third-party apps and launchers can be installed. Due to the lack of physical buttons, initial set up to install third-party apps is done through a USB connection to a computer.
+
+Nook GlowLight 3
+In November 2017, B&N announced the 3rd generation of the GlowLight e-reader. The device returned to a design more reminiscent of the original Simple Touch with its 6-inch screen and dropped the IP67 certification. The Glowlight 3 has an enhanced lighting system that provides a cool white during the day or in rooms with bright light, but then can manually or automatically switch to night mode with an orange tone for reading in dark spaces with less blue light.
+
+Nook GlowLight Plus (7.8 inch)
+In May 2019, B&N announced the GlowLight Plus e-reader. The device is the largest Nook e-reader to date with a 7.8-inch E Ink screen. The Glowlight Plus is waterproof, has 8 GB of storage, a color-shifting frontlight similar to the GlowLight 3, and it has physical page turn buttons. The lighting technology has adjustable settings for a cool white color during the day and a warmer tone at night.
+
+Nook GlowLight 4e
+In May 2022, B&N announced a 6" GlowLight e-reader. The 4e has similar specifications as the GlowLight 4, but lacks the enhanced lighting system of the GlowLight 4. The device also has physical page turn buttons and USB-C.
+
+LCD Devices
+
+Nook Color
+
+Released on November 19, 2010, and priced at US$249, the Nook Color comes installed with Android 2.1 Eclair. The device is powered by a TI OMAP 3621 800 MHz processor, and has 512 MB of RAM, 8 GB of flash storage, a 7" LCD screen, and a microSD expansion slot. On February 21, 2012, the price of the Nook Color was reduced to US$169. On August 12, 2012, the price of the Nook Color was reduced to US$149. On November 3, 2012, following the release of the Nook HD and Nook HD+, the price of the Nook Color was reduced to US$139.
+
+Nook Tablet
+
+The 7-inch Nook Tablet, based on Android OS, with 16 GB of internal storage became available on November 17, 2011, for US$249. A version with 8 GB of internal storage was made available February 21, 2012, for US$199, replacing the Nook Color in that price range. On August 12, 2012, the price of the Nook Tablet 8 GB and Nook Tablet 16 GB were reduced to US$179 and US$199 respectively.
+
+Nook HD
+
+Nook HD (styled NOOK HD), announced September 26, 2012, and released November 1, 2012, along with the Nook HD+, is a 7-inch tablet with a resolution of 1440x900.  It competes with the 7-inch Kindle Fire HD and comes in two colors: snow and smoke (a dark gray). It has a Texas Instruments 1.3 GHz dual-core processor with 1 GB RAM. It can play back video at 720p from the NOOK Video store, much like Amazon.com's Instant Video service. The Nook HD was initially priced at US$199 for 8 GB and US$229 for 16 GB. It then sold at reduced prices at US$129 for 8 GB and US$149 for 16 GB.
+The Nook HD runs a heavily modified version of Android 4.0.3 Ice Cream Sandwich.
+The Nook HD/HD+ line was originally planned to be discontinued, as announced in Barnes & Noble's 2013 Fiscal Year-End Report, due to financial losses. A few months later, B&N President Michael P. Huseby announced that the company "intends to continue to design and develop cutting-edge Nook black and white and color devices at the best values in the marketplace", following the resignation of former CEO William Lynch.
+
+Nook HD+
+
+Nook HD+ (styled NOOK HD+) is Barnes & Noble's first tablet capable of playing back movies and television shows downloadable from NOOK Video store at 1080p resolution. Announced on September 26, 2012, the NOOK HD+ is a 9-inch tablet with a 1920 × 1280 resolution. It competes with the similar 8.9-inch Kindle Fire HD and has a Texas Instruments 1.5 GHz dual-core OMAP 4470 processor and was initially priced at US$269 and US$299 for 16 and 32 GB, respectively. Nook HD+ runs a heavily modified version of Android 4.0.3 Ice Cream Sandwich.
+
+Samsung Galaxy Tab Nook
+In February 2014, B&N announced a new Nook color tablet would be released in 2014. In June 2014, Barnes & Noble announced it would be teaming up with Samsung to develop co-branded tablets titled the Samsung Galaxy Tab 4 Nook. The devices would feature Samsung's hardware with a 7-inch display, and customized Nook software from Barnes & Noble.
+
+Samsung Galaxy Tab 4 Nook
+The Galaxy Tab 4 Nook was released in the U.S. on August 21, 2014, with B&N's Nook Division focusing on the software and content, and Samsung focusing on the hardware with a 7-inch LCD. The product uses Android 4.4.2 KitKat on a 1.2 GHz quad-core Snapdragon SOC with 1.5 GB RAM, WiFi, and Bluetooth, and features a 1.2 MP front-facing camera, a 3.2 MP rear camera, screen resolution of 1280 × 800, and a microSD storage slot that accepts cards up to 64 GB. It launched with a US$199 retail price.
+On October 22, 2014, B&N released the Galaxy Tab 4 Nook 10.1 that has a 10.1-inch LCD. It features the same specifications as the Galaxy Tab 4 10.1, so it has a 1.2 GHz Qualcomm processor, 1280x800 resolution with 149 ppi, a 1.3 MP front camera without flash, a 3.0 MP rear-facing camera, and a microSD storage slot that accepts cards up to 64 GB. It launched with a US$299 retail price.
+
+Samsung Galaxy Tab S2 Nook
+In September 2015, B&N released the Samsung Galaxy Tab S2 Nook, which is a Nook branded Samsung Galaxy Tab S2 8" LCD tablet that includes some Samsung and B&N software. It uses Android 5.0.2 Lollipop, and features an 8-core CPU (1.9 GHz Quad + 1.3 GHz Quad) with 3 GB RAM, 32 GB of internal storage, a microSD card slot, two cameras (2.1 MP front and 8 MP rear), and a 4,000 mAh battery, which B&N says will last for up to 14 hours of video usage and launched with a US$399.99 retail price.
+
+Samsung Galaxy Tab E Nook
+In October 2015, B&N released the Samsung Galaxy Tab E Nook, which is a Nook branded Samsung Galaxy Tab E 9.6" LCD tablet that includes some Samsung, B&N and Microsoft software. This tablet runs Android 5.1.1 Lollipop on a 1.2 GHz Qualcomm Snapdragon 410 CPU with 1.5 GB of RAM, 16 GB of storage, microSD card support, weighs 490 grams, and two cameras (2 MP front and 5 MP rear). Its 9.6-inch display has a resolution of 1280 × 800 and it retails for $249.
+
+Nook Tablet 7
+In November 2016, B&N released the Nook Tablet 7, which is a Nook-branded tablet with a 7" LCD screen that has a resolution of 600 × 1024, and retails at $50. It is using Android 6.0 Marshmallow with Nook apps included with a 1.3 GHz MediaTek CPU. It has 8 GB storage, a microSD card slot, Wi-Fi and Bluetooth. It weighs 8.8 ounces and has a battery for up to 7 hours. In December 2018 B&N released updated version with 16 GB storage and Android 8.1 (Go edition).
+
+Nook Tablet 10.1"
+On November 14, 2018, B&N released the Nook Tablet 10.1", an Android 8.1 (Go edition) tablet with a 10.1-inch LCD screen at a resolution of 1920 × 1200 and a 224 ppi pixel density. It has a 1.5 GHz MediaTek processor and 2 GB of RAM. The device has 32 GB of onboard storage (25 usable), which can be expanded with a microSD card (up to 256 GB). It has a 3.5 mm headphone jack, a microUSB 2.0 port, ac Wi-Fi, and Bluetooth. The front and rear cameras are both 2 megapixels and can record 720p video. The tablet was manufactured by white-label manufacturer Southern Telecom, and sold at a launch price of $129.99.
+
+Nook 10" HD (LCD)
+On April 2, 2021, Lenovo and Barnes & Noble released the Nook 10" HD, a successor to their 2018 model. The Android 10-based tablet has a 2.3 GHz octa-core MediaTek P22T processor and 2 gigabytes of RAM. It has a 10.1-inch IPS display at a resolution of 1280 × 800. The tablet includes a microSD card slot, and comes with 32 gigabytes of onboard storage, though only 23 GB of that is usable. It has an 8 MP rear camera and a 5 MP front camera. It cost $129.99 at launch.
+
+Features and specifications
+All models have the following features:
+
+Wi-Fi
+
+Sales
+On December 1, 2011, Barnes & Noble stated that Nook and Nook-related sales for Q2 of 2011 were US$920 million. The Nook had 13.4% global market share for E-paper readers in 2011.
+On October 29, 2012, the rival Blackwells and Foyles bookshops, the John Lewis department stores, the Waitrose and Sainsbury's supermarket chains and high street catalogue retailer Argos launched the Nook e-reader in the UK—and, from November, the Nook HD and Nook HD+ tablet computers went on sale in the stores.
+In March 2016, Barnes & Noble stated they would no longer sell digital content in the United Kingdom. It announced that from March 15, 2016, the UK Nook Store and the UK Nook Reading App for Android will cease operation. Whilst Barnes & Noble did not give a reason for ceasing Nook sales in the UK, commentators attributed the decision to declining sales. On the same day, Barnes & Noble announced it would close the Nook App Store and Nook Video, probably because Google's Play Store, which runs on Barnes & Noble devices, has been far more successful. In the UK, those who have bought, respectively, e-book or video content will need to open accounts with other providers in order to not lose the content.
+B&N continues to sell e-books as well as digital magazines and newspapers in the US.
+
+Nook e-reader applications for third party devices
+Barnes & Noble provides free e-reader applications to permit reading on devices other than Nooks. Selections include Nook Reading Apps, Nook for Web and Nook Study.
+
+Nook free reading applications
+Barnes & Noble offers free applications for various platforms, with which to access Nook digital reading material:
+
+For desktop and laptop computers:
+NOOK for Windows 8 and Windows 10 (US only)
+For smartphones and tablets:
+NOOK for Android
+NOOK for iPhone and iPad
+
+NookStudy and Yuzu
+
+NookStudy
+In August 2010, concurrently with introducing a web-based textbook rental service, Barnes & Noble—"one of the largest textbook retailers in the US"—introduced the NOOK Study app "for the PC or Mac that lets users buy or rent e-book versions of their textbooks for use on the computer. Mobileread describes Nook Study (sometimes styled "NookStudy" or "NOOK Study") as "a free e-textbook application from Barnes & Noble that provides a suite of digital study tools. It is available for Microsoft Windows and Apple's Mac OS X."  Nook Study cannot be used on Nook e-readers; rather it is designed for use only on PCs, Macs, and iPads, and it permits one to read e-textbooks "on up to two (2) computers".
+Nook Study offers two categories of benefits: the ability to read ebooks and other content that is accessible via other eReading devices, and the ability to read e-textbooks purchased from Barnes & Noble, which are meant to be read on one's computer via the Nook Study application. According to Barnes & Noble's NookStudy FAQs: "You cannot use your Nook or mobile device to read textbooks as the screens are too small to properly view the contents."
+In The Digital Reader, Nate Hoffelder describes capabilities possessed by Nook Study that render it superior to other e-reading software for reading textbooks. For example, he writes:
+
+...you can do multiple types of annotations (highlight, asterisk, question) and you can do asterisks and questions in 7 different colors. You can also attach text notes as well as search Wikipedia, Google, Dictionary.com, Wolfram Alpha, and YouTube.  And I just noticed that you can attach a link to the webpage you just found through the search. Attaching the link is not easy, but it can be done.
+Now I'm really impressed.  I love that I can search Dictionary.com, Wolfram Alpha, and YouTube.  I think this might be the killer feature for NookStudy (like indexed search was for the Kindle).
+
+Some of the other neat features include having multiple ebooks open in tabs, and a second TOC for annotations.
+In an August 2, 2011, press release, BN College cited kudos publicized on NBC's Today Show and MSNBC.com that deemed NOOK Study "the "Coolest Digital Study Tool Around". On the Today Show and in an MSNBC.com post, Wilson Rothman, Deputy Technology & Science Editor at MSNBC, had included NOOK Study in a list of 10 back-to-school tech survival tips to consider when shopping for college technology necessities, recommending: "NOOK Study is an essential back-to-school tool that students should consider when heading back to college—and may be the 'coolest digital study tool around.'"
+
+Barnes & Noble may well have the coolest digital study tool around. Seriously, this free eTextbook application for PC and Mac lets you not only get books digitally, but organize coursework, compile syllabi and other documents, take notes, print, export and go online for related research. While the same warning about Amazon's textbook rental program applies here—that your particular study materials might not be available—it's certainly worth the $0.00 price to check it out, and the other features may end up being useful on their own.
+
+Yuzu
+In April 2014, the Barnes & Noble website announced the Nook Study had been replaced by Yuzu, which the company called "the next-generation digital education platform from Barnes & Noble." In April, NOOK Study had already been "retired", and a Beta version of Yuzu was introduced for the iPad and for Internet Explorer and Safari 6.1/7 browsers.  Yuzu was formally rolled out that summer and made available to more browsers, and as an Android, iOS, and Windows app. However, the Nook Study site continued offering a link to the Nook Study program, explaining: "We understand that as a NOOK Study user, you may have some questions. On this page we will try to direct you to the appropriate websites to find what you are looking for." Clicking "Get NookStudy Help" redirects one to the "NOOK Study Knowledge Base", where they can download the Nook Study app as well as find answers to frequently asked questions.  Yuzu, like NOOKStudy, "offers students a next-generation reading and note-taking experience in a simple app, but it also improves on NookStudy by making it easier for educators to provide course materials" by integrating with BN's college-focused website Faculty Enlight, where educators can search for the textbooks and other academic material they need, assemble them into course packs, and then build a required and recommended reading list for a class. Downsides of Yuzu, however, are: "Yuzu does not share the same accounts as the Nook Store or NookStudy" and "Yuzu is not compatible with NookStudy textbooks". Emily Price at Engadget made a similar observation: "With Yuzu, [NOOKStudy]'s being phased out, and sadly any pricey books you've already bought through that service are incompatible with the new app."
+In March 2016, B&N announced that Yuzu would be shut down and instead B&N would partner with VitalSource for digital textbooks.
+
+Issues
+
+Compatibility issues
+Nook for Mac users have noted the app has compatibility issues with Mac OS 10.8 Mountain Lion. While the application requires OS 10.6 Snow Leopard, many users have documented the performance issues under Mountain Lion (and consequently all Macs sold since July 2012).
+
+Locked file table
+The file table on the Nook is locked, meaning that external programs, such as Calibre, cannot be used to automatically organize uploaded files. All organization must be undertaken on the device itself, one book at a time, and such organization cannot be backed up or saved elsewhere.
+
+Lending restrictions
+A book can only be lent once through the Nook's LendMe program.
+
+Downloading of NOOK Store content
+Purchasing Barnes & Noble digital content and letting the credit card expire prevents re-downloading of the content until a valid credit card is entered into the account. This is required because most downloads from Barnes & Noble have copy restrictions (DRM), and credit cards are required to unlock them.
+On September 17, 2014, Barnes & Noble removed the "download" button from many books in the My Nook online library, without advance warning. The removal of these buttons, which permitted readers to download copies of their ebooks and transfer that content to other apps or devices, upset numerous users. User complaints and inquiries, via telephone, email, online chats, and social media forums, yielded the following, standard B&N response:
+We're sorry, but the ability to sideload NOOK purchased content has been discontinued. We apologize for any inconvenience.
+—NOOK Customer Care (@NOOK_Care) September 17, 2014
+
+Spinoff of business
+On June 25, 2014, Barnes & Noble announced that the Nook division business would be spun off into an independent company. On December 4, 2014, Barnes & Noble announced an end to its partnership with Microsoft connected to Nook and that it intended to complete the separation of Nook by the end of the first quarter of 2015. However, in February 2015, B&N decided to keep the Nook division for the short-term future. In April 2016, B&N outsourced most Nook technical services to be managed by an Indian company Bahwan CyberTek.
+
+See also
+Amazon Kindle
+Comparison of e-book readers
+Comparison of tablet computers
+Kobo eReader
+
+References
+
+External links
+Official website 
+Official UK website
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Augmented reality]] [[Baen Free Library]] [[Barnes & Noble]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[Database]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Programming tool]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]]

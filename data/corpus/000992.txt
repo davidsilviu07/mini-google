@@ -1,0 +1,1901 @@
+Wilson–Cowan model
+In computational neuroscience, the Wilson–Cowan model describes the dynamics of interactions between populations of very simple excitatory and inhibitory model neurons. It was developed by Hugh R. Wilson and Jack D. Cowan and extensions of the model have been widely used in modeling neuronal populations. The model is important historically because it uses phase plane methods and numerical solutions to describe the responses of neuronal populations to stimuli. Because the model neurons are simple, only elementary limit cycle behavior, i.e. neural oscillations, and stimulus-dependent evoked responses are predicted. The key findings include the existence of multiple stable states, and hysteresis, in the population response.
+
+Mathematical description
+The Wilson–Cowan model considers a homogeneous population of interconnected neurons of excitatory and inhibitory subtypes. All cells receive the same number of excitatory and inhibitory afferents, that is, all cells receive the same average excitation, x(t).  The target is to analyze the evolution in time of number of excitatory and inhibitory cells firing at time t, 
+  
+    
+      
+        E
+        (
+        t
+        )
+      
+    
+    {\displaystyle E(t)}
+  
+ and 
+  
+    
+      
+        I
+        (
+        t
+        )
+      
+    
+    {\displaystyle I(t)}
+  
+ respectively.
+The equations that describes this evolution are the Wilson-Cowan model:
+
+  
+    
+      
+        E
+        (
+        t
+        +
+        τ
+        )
+        =
+        
+          [
+          
+            1
+            −
+            
+              ∫
+              
+                t
+                −
+                r
+              
+              
+                t
+              
+            
+            E
+            (
+            
+              t
+              ′
+            
+            )
+            d
+            
+              t
+              ′
+            
+          
+          ]
+        
+        
+        
+          S
+          
+            e
+          
+        
+        
+          (
+          
+            
+              ∫
+              
+                −
+                ∞
+              
+              
+                t
+              
+            
+            α
+            (
+            t
+            −
+            
+              t
+              ′
+            
+            )
+            [
+            
+              c
+              
+                1
+              
+            
+            E
+            (
+            
+              t
+              ′
+            
+            )
+            −
+            
+              c
+              
+                2
+              
+            
+            I
+            (
+            
+              t
+              ′
+            
+            )
+            +
+            P
+            (
+            
+              t
+              ′
+            
+            )
+            ]
+            d
+            
+              t
+              ′
+            
+          
+          )
+        
+      
+    
+    {\displaystyle E(t+\tau )=\left[1-\int _{t-r}^{t}E(t')dt'\right]\;S_{e}\left(\int _{-\infty }^{t}\alpha (t-t')[c_{1}E(t')-c_{2}I(t')+P(t')]dt'\right)}
+  
+
+  
+    
+      
+        I
+        (
+        t
+        +
+        τ
+        )
+        =
+        
+          [
+          
+            1
+            −
+            
+              ∫
+              
+                t
+                −
+                r
+              
+              
+                t
+              
+            
+            I
+            (
+            
+              t
+              ′
+            
+            )
+            d
+            
+              t
+              ′
+            
+          
+          ]
+        
+        
+        
+          S
+          
+            i
+          
+        
+        
+          (
+          
+            
+              ∫
+              
+                −
+                ∞
+              
+              
+                t
+              
+            
+            α
+            (
+            t
+            −
+            
+              t
+              ′
+            
+            )
+            [
+            
+              c
+              
+                3
+              
+            
+            E
+            (
+            
+              t
+              ′
+            
+            )
+            −
+            
+              c
+              
+                4
+              
+            
+            I
+            (
+            
+              t
+              ′
+            
+            )
+            +
+            Q
+            (
+            
+              t
+              ′
+            
+            )
+            ]
+            d
+            
+              t
+              ′
+            
+          
+          )
+        
+      
+    
+    {\displaystyle I(t+\tau )=\left[1-\int _{t-r}^{t}I(t')dt'\right]\;S_{i}\left(\int _{-\infty }^{t}\alpha (t-t')[c_{3}E(t')-c_{4}I(t')+Q(t')]dt'\right)}
+  
+
+where:  
+
+  
+    
+      
+        
+          S
+          
+            e
+          
+        
+        {
+        }
+      
+    
+    {\displaystyle S_{e}\{\}}
+  
+ and 
+  
+    
+      
+        
+          S
+          
+            i
+          
+        
+        {
+        }
+      
+    
+    {\displaystyle S_{i}\{\}}
+  
+ are functions of sigmoid form that depends on the distribution of the trigger thresholds (see below)
+
+  
+    
+      
+        α
+        (
+        t
+        )
+      
+    
+    {\displaystyle \alpha (t)}
+  
+ is the stimulus decay function
+
+  
+    
+      
+        
+          c
+          
+            1
+          
+        
+      
+    
+    {\displaystyle c_{1}}
+  
+ and 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c_{2}}
+  
+ are respectively the connectivity coefficient giving the average number of excitatory and inhibitory synapses per excitatory cell; 
+  
+    
+      
+        
+          c
+          
+            3
+          
+        
+      
+    
+    {\displaystyle c_{3}}
+  
+ and 
+  
+    
+      
+        
+          c
+          
+            4
+          
+        
+      
+    
+    {\displaystyle c_{4}}
+  
+ its counterparts for inhibitory cells
+
+  
+    
+      
+        P
+        (
+        t
+        )
+      
+    
+    {\displaystyle P(t)}
+  
+ and 
+  
+    
+      
+        Q
+        (
+        t
+        )
+      
+    
+    {\displaystyle Q(t)}
+  
+ are the external input to the excitatory/inhibitory populations.
+If 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ denotes a cell's threshold potential and 
+  
+    
+      
+        D
+        (
+        θ
+        )
+      
+    
+    {\displaystyle D(\theta )}
+  
+ is the distribution of thresholds in all cells, then the expected proportion of neurons receiving an excitation at or above threshold level per unit time is:
+
+  
+    
+      
+        S
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        D
+        (
+        θ
+        )
+        d
+        θ
+      
+    
+    {\displaystyle S(x)=\int _{0}^{x}D(\theta )d\theta }
+  
+,
+that is a function of sigmoid form if 
+  
+    
+      
+        D
+        (
+        )
+      
+    
+    {\displaystyle D()}
+  
+ is unimodal.
+If, instead of all cells receiving same excitatory inputs and different threshold, we consider that all cells have same threshold but different number of afferent synapses per cell, being 
+  
+    
+      
+        C
+        (
+        w
+        )
+      
+    
+    {\displaystyle C(w)}
+  
+ the distribution of the number of afferent synapses, a variant of function 
+  
+    
+      
+        S
+        (
+        )
+      
+    
+    {\displaystyle S()}
+  
+ must be used:
+
+  
+    
+      
+        S
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            
+              θ
+              x
+            
+          
+          
+            ∞
+          
+        
+        C
+        (
+        w
+        )
+        d
+        w
+      
+    
+    {\displaystyle S(x)=\int _{\frac {\theta }{x}}^{\infty }C(w)dw}
+  
+
+Derivation of the model
+If we denote by 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+ the refractory period after a trigger, the proportion of cells in refractory period is
+  
+    
+      
+        
+          ∫
+          
+            t
+            −
+            r
+          
+          
+            t
+          
+        
+        E
+        (
+        
+          t
+          ′
+        
+        )
+        d
+        
+          t
+          ′
+        
+      
+    
+    {\displaystyle \int _{t-r}^{t}E(t')dt'}
+  
+ and the proportion of sensitive (able to trigger) cells is 
+  
+    
+      
+        1
+        −
+        
+          ∫
+          
+            t
+            −
+            r
+          
+          
+            t
+          
+        
+        E
+        (
+        
+          t
+          ′
+        
+        )
+        d
+        
+          t
+          ′
+        
+      
+    
+    {\displaystyle 1-\int _{t-r}^{t}E(t')dt'}
+  
+.
+The average excitation level of an excitatory cell at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ is:
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            t
+          
+        
+        α
+        (
+        t
+        −
+        
+          t
+          ′
+        
+        )
+        [
+        
+          c
+          
+            1
+          
+        
+        E
+        (
+        
+          t
+          ′
+        
+        )
+        −
+        
+          c
+          
+            2
+          
+        
+        I
+        (
+        
+          t
+          ′
+        
+        )
+        +
+        P
+        (
+        
+          t
+          ′
+        
+        )
+        ]
+        d
+        
+          t
+          ′
+        
+      
+    
+    {\displaystyle x(t)=\int _{-\infty }^{t}\alpha (t-t')[c_{1}E(t')-c_{2}I(t')+P(t')]dt'}
+  
+
+Thus, the number of cells that triggers at some time 
+  
+    
+      
+        E
+        (
+        t
+        +
+        τ
+        )
+      
+    
+    {\displaystyle E(t+\tau )}
+  
+ is the number of cells not in refractory interval, 
+  
+    
+      
+        1
+        −
+        
+          ∫
+          
+            t
+            −
+            r
+          
+          
+            t
+          
+        
+        E
+        (
+        
+          t
+          ′
+        
+        )
+        d
+        
+          t
+          ′
+        
+      
+    
+    {\displaystyle 1-\int _{t-r}^{t}E(t')dt'}
+  
+ AND that have reached the excitatory level, 
+  
+    
+      
+        
+          S
+          
+            e
+          
+        
+        (
+        x
+        (
+        t
+        )
+        )
+      
+    
+    {\displaystyle S_{e}(x(t))}
+  
+, obtaining in this way the product at right side of the first equation of the model (with the assumption of uncorrelated terms). Same rationale can be done for inhibitory cells, obtaining second equation.
+
+Simplification of the model assuming time coarse graining
+When time coarse-grained modeling is assumed the model simplifies, being the new equations of the model:
+
+  
+    
+      
+        τ
+        
+          
+            
+              d
+              
+                
+                  
+                    E
+                    ¯
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        
+          
+            
+              E
+              ¯
+            
+          
+        
+        +
+        (
+        1
+        −
+        r
+        
+          
+            
+              E
+              ¯
+            
+          
+        
+        )
+        
+          S
+          
+            e
+          
+        
+        [
+        k
+        
+          c
+          
+            1
+          
+        
+        
+          
+            
+              E
+              ¯
+            
+          
+        
+        (
+        t
+        )
+        −
+        k
+        
+          c
+          
+            2
+          
+        
+        
+          
+            
+              I
+              ¯
+            
+          
+        
+        (
+        t
+        )
+        +
+        k
+        P
+        (
+        t
+        )
+        ]
+      
+    
+    {\displaystyle \tau {\frac {d{\bar {E}}}{dt}}=-{\bar {E}}+(1-r{\bar {E}})S_{e}[kc_{1}{\bar {E}}(t)-kc_{2}{\bar {I}}(t)+kP(t)]}
+  
+
+  
+    
+      
+        
+          τ
+          ′
+        
+        
+          
+            
+              d
+              
+                
+                  
+                    I
+                    ¯
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        
+          
+            
+              I
+              ¯
+            
+          
+        
+        +
+        (
+        1
+        −
+        
+          r
+          ′
+        
+        
+          
+            
+              I
+              ¯
+            
+          
+        
+        )
+        
+          S
+          
+            i
+          
+        
+        [
+        
+          k
+          ′
+        
+        
+          c
+          
+            3
+          
+        
+        
+          
+            
+              E
+              ¯
+            
+          
+        
+        (
+        t
+        )
+        −
+        
+          k
+          ′
+        
+        
+          c
+          
+            4
+          
+        
+        
+          
+            
+              I
+              ¯
+            
+          
+        
+        (
+        t
+        )
+        +
+        
+          k
+          ′
+        
+        Q
+        (
+        t
+        )
+        ]
+      
+    
+    {\displaystyle \tau '{\frac {d{\bar {I}}}{dt}}=-{\bar {I}}+(1-r'{\bar {I}})S_{i}[k'c_{3}{\bar {E}}(t)-k'c_{4}{\bar {I}}(t)+k'Q(t)]}
+  
+
+where bar terms are the time coarse-grained versions of original ones.
+
+Application to epilepsy
+The determination of three concepts is fundamental to an understanding of hypersynchronization of neurophysiological activity at the global (system) level:
+
+The mechanism by which normal (baseline) neurophysiological activity evolves into hypersynchronization of large regions of the brain during epileptic seizures
+The key factors that govern the rate of expansion of hypersynchronized regions
+The electrophysiological activity pattern dynamics on a large-scale
+A canonical analysis of these issues, developed in 2008 by Shusterman and Troy using the Wilson–Cowan model, predicts qualitative and quantitative features of epileptiform activity. In particular, it accurately predicts the propagation speed of epileptic seizures (which is approximately 4–7 times slower than normal brain wave activity) in a human subject with chronically implanted electroencephalographic electrodes.
+
+Transition into hypersynchronization
+The transition from normal state of brain activity to epileptic seizures was not formulated theoretically until 2008, when a theoretical path from a baseline state to large-scale self-sustained oscillations, which spread out uniformly from the point of stimulus, has been mapped for the first time.
+A realistic state of baseline physiological activity has been defined, using the following two-component definition:
+(1) A time-independent component represented by subthreshold excitatory activity E and superthreshold inhibitory activity I.
+(2) A time-varying component which may include singlepulse waves, multipulse waves, or periodic waves caused by spontaneous neuronal activity.
+This baseline state represents activity of the brain in the state of relaxation, in which neurons receive some level of spontaneous, weak stimulation by small, naturally present concentrations of neurohormonal substances. In waking adults this state is commonly associated with alpha rhythm, whereas slower (theta and delta) rhythms  are usually observed during deeper relaxation and sleep. To describe this general setting, a 3-variable 
+  
+    
+      
+        (
+        u
+        ,
+        I
+        ,
+        v
+        )
+      
+    
+    {\displaystyle (u,I,v)}
+  
+ spatially dependent extension of the classical Wilson–Cowan model can be utilized. Under appropriate initial conditions, the excitatory component, u, dominates over the inhibitory component, I, and the three-variable system reduces to the two-variable Pinto-Ermentrout type model
+
+  
+    
+      
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        u
+        −
+        v
+        +
+        
+          ∫
+          
+            
+              R
+              
+                2
+              
+            
+          
+        
+        ω
+        (
+        x
+        −
+        
+          x
+          ′
+        
+        ,
+        y
+        −
+        
+          y
+          ′
+        
+        )
+        f
+        (
+        u
+        −
+        θ
+        )
+        
+        d
+        x
+        d
+        y
+        +
+        ζ
+        (
+        x
+        ,
+        y
+        ,
+        t
+        )
+        ,
+      
+    
+    {\displaystyle {\partial u \over \partial t}=u-v+\int _{R^{2}}\omega (x-x',y-y')f(u-\theta )\,dxdy+\zeta (x,y,t),}
+  
+
+  
+    
+      
+        
+          
+            
+              ∂
+              v
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        ϵ
+        (
+        β
+        u
+        −
+        v
+        )
+        .
+      
+    
+    {\displaystyle {\partial v \over \partial t}=\epsilon (\beta u-v).}
+  
+
+The variable v governs the recovery of excitation u; 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+  
+ and 
+  
+    
+      
+        β
+        >
+        0
+      
+    
+    {\displaystyle \beta >0}
+  
+ determine the rate of change of recovery. The connection function 
+  
+    
+      
+        ω
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle \omega (x,y)}
+  
+ is positive, continuous, symmetric, and has the typical form 
+  
+    
+      
+        ω
+        =
+        A
+        
+          e
+          
+            −
+            λ
+            
+              
+                −
+                (
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                
+                  y
+                  
+                    2
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle \omega =Ae^{-\lambda {\sqrt {-(x^{2}+y^{2})}}}}
+  
+. In Ref. 
+  
+    
+      
+        (
+        A
+        ,
+        λ
+        )
+        =
+        (
+        2.1
+        ,
+        1
+        )
+        .
+      
+    
+    {\displaystyle (A,\lambda )=(2.1,1).}
+  
+ The firing rate function, which is generally accepted to have a sharply increasing sigmoidal shape, is approximated by 
+  
+    
+      
+        f
+        (
+        u
+        −
+        θ
+        )
+        =
+        H
+        (
+        u
+        −
+        θ
+        )
+      
+    
+    {\displaystyle f(u-\theta )=H(u-\theta )}
+  
+, where H denotes the Heaviside function; 
+  
+    
+      
+        ζ
+        (
+        x
+        ,
+        y
+        ,
+        t
+        )
+      
+    
+    {\displaystyle \zeta (x,y,t)}
+  
+ is a short-time stimulus. This 
+  
+    
+      
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle (u,v)}
+  
+ system has been successfully used in a wide variety of neuroscience research studies. In particular, it predicted the existence of spiral waves, which can occur during seizures; this theoretical prediction  was subsequently confirmed experimentally using optical imaging of slices from the rat cortex.
+
+Rate of expansion
+The expansion of hypersynchronized regions exhibiting large-amplitude stable bulk oscillations occurs when the oscillations coexist with the stable rest state 
+  
+    
+      
+        (
+        u
+        ,
+        v
+        )
+        =
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (u,v)=(0,0)}
+  
+. To understand the mechanism responsible for the expansion, it is necessary to linearize the 
+  
+    
+      
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle (u,v)}
+  
+ system around 
+  
+    
+      
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0)}
+  
+ when 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+  
+ is held fixed. The linearized system exhibits subthreshold decaying oscillations whose frequency increases as 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  
+ increases. At a critical value  
+  
+    
+      
+        
+          β
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \beta ^{*}}
+  
+ where the oscillation frequency is high enough, bistability occurs in the 
+  
+    
+      
+        (
+        u
+        ,
+        v
+        )
+      
+    
+    {\displaystyle (u,v)}
+  
+  system: a stable, spatially independent, periodic solution (bulk oscillation) and a stable rest state coexist over a continuous range of parameters. When 
+  
+    
+      
+        β
+        ≥
+        
+          β
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \beta \geq \beta ^{*}}
+  
+ where bulk oscillations occur, "The rate of expansion of the hypersynchronization region is determined by an interplay between two key features: (i) the speed 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+ of waves that form and propagate outward from the edge of the region, and (ii) the concave shape of the graph of the activation variable 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ as it rises, during each bulk oscillation cycle, from the rest state 
+  
+    
+      
+        u
+        =
+        0
+      
+    
+    {\displaystyle u=0}
+  
+ to the activation threshold. Numerical experiments show that during the rise of 
+
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ towards threshold, as the rate of vertical increase slows down, over time interval 
+  
+    
+      
+        Δ
+        t
+        ,
+      
+    
+    {\displaystyle \Delta t,}
+  
+ due to the concave component, the stable solitary wave emanating from the region causes the region to expand spatially at a 
+  
+    
+      
+        
+          R
+          a
+          t
+          e
+        
+      
+    
+    {\displaystyle \mathrm {Rate} }
+  
+ proportional to the wave speed. From this initial observation it is natural to expect that the proportionality constant should be the fraction of the time that the solution is concave during one cycle." Therefore, when 
+  
+    
+      
+        β
+        ≥
+        
+          β
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \beta \geq \beta ^{*}}
+  
+, the rate of expansion of the region is estimated by
+
+  
+    
+      
+        
+          R
+          a
+          t
+          e
+        
+        =
+        (
+        Δ
+        t
+        
+          /
+        
+        T
+        )
+        c
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        (
+        1
+        )
+      
+    
+    {\displaystyle \mathrm {Rate} =(\Delta t/T)c~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~(1)}
+  
+
+where 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+  
+ is the length of subthreshold time interval, 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ is period of the periodic solution, and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+ is  the speed of waves emanating from the hypersynchronization region. A realistic value of 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+, derived by Wilson et al., is 
+  
+    
+      
+        c
+        =
+        22.4
+        
+        
+          m
+          m
+          
+            /
+          
+          s
+        
+      
+    
+    {\displaystyle c=22.4\,\mathrm {mm/s} }
+  
+.
+How to evaluate the ratio 
+  
+    
+      
+        Δ
+        t
+        
+          /
+        
+        T
+        ?
+      
+    
+    {\displaystyle \Delta t/T?}
+  
+ To determine values for 
+  
+    
+      
+        Δ
+        t
+        
+          /
+        
+        T
+      
+    
+    {\displaystyle \Delta t/T}
+  
+ it is necessary to analyze the underlying bulk oscillation which satisfies the spatially independent system
+
+  
+    
+      
+        
+          
+            
+              d
+              u
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        u
+        −
+        v
+        +
+        H
+        (
+        u
+        −
+        θ
+        )
+        ,
+      
+    
+    {\displaystyle {{du} \over {dt}}=u-v+H(u-\theta ),}
+  
+
+  
+    
+      
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        ϵ
+        (
+        β
+        u
+        −
+        v
+        )
+        .
+      
+    
+    {\displaystyle {{dv} \over {dt}}=\epsilon (\beta u-v).}
+  
+
+This system is derived using standard functions and parameter values 
+  
+    
+      
+        ω
+        =
+        2.1
+        
+          e
+          
+            −
+            λ
+            
+              
+                −
+                (
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                
+                  y
+                  
+                    2
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle \omega =2.1e^{-\lambda {\sqrt {-(x^{2}+y^{2})}}}}
+  
+, 
+  
+    
+      
+        ϵ
+        =
+        0.1
+      
+    
+    {\displaystyle \epsilon =0.1}
+  
+ and 
+  
+    
+      
+        θ
+        =
+        0.1
+      
+    
+    {\displaystyle \theta =0.1}
+  
+ Bulk oscillations occur when 
+  
+    
+      
+        β
+        ≥
+        
+          β
+          
+            ∗
+          
+        
+        =
+        12.61
+      
+    
+    {\displaystyle \beta \geq \beta ^{*}=12.61}
+  
+. When 
+  
+    
+      
+        12.61
+        ≤
+        β
+        ≤
+        17
+      
+    
+    {\displaystyle 12.61\leq \beta \leq 17}
+  
+, Shusterman and Troy analyzed the bulk oscillations and found 
+  
+    
+      
+        0.136
+        ≤
+        Δ
+        t
+        
+          /
+        
+        T
+        ≤
+        0.238
+      
+    
+    {\displaystyle 0.136\leq \Delta t/T\leq 0.238}
+  
+. This gives the range
+
+  
+    
+      
+        3.046
+        
+        
+          m
+          m
+          
+            /
+          
+          s
+        
+        ≤
+        
+          R
+          a
+          t
+          e
+        
+        ≤
+        5.331
+        
+        
+          m
+          m
+          
+            /
+          
+          s
+        
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        (
+        2
+        )
+      
+    
+    {\displaystyle 3.046\,\mathrm {mm/s} \leq \mathrm {Rate} \leq 5.331\,\mathrm {mm/s} ~~~~~~~~~~~~(2)}
+  
+
+Since 
+  
+    
+      
+        0.136
+        ≤
+        Δ
+        t
+        
+          /
+        
+        T
+        ≤
+        0.238
+      
+    
+    {\displaystyle 0.136\leq \Delta t/T\leq 0.238}
+  
+, Eq. (1) shows that the migration 
+  
+    
+      
+        
+          R
+          a
+          t
+          e
+        
+      
+    
+    {\displaystyle \mathrm {Rate} }
+  
+ is a fraction of the traveling wave speed, which is consistent with experimental and clinical observations regarding the slow spread of epileptic activity. This migration mechanism also provides a plausible explanation for spread and sustenance of epileptiform activity without a driving source that, despite a number of experimental studies, has never been observed.
+
+Comparing theoretical and experimental migration rates
+The rate of migration of hypersynchronous activity that was experimentally recorded during seizures in a human subject, using chronically implanted subdural electrodes on the surface of the left temporal lobe, has been estimated as
+
+  
+    
+      
+        
+          R
+          a
+          t
+          e
+        
+        ≈
+        4
+        
+        
+          m
+          m
+          
+            /
+          
+          s
+        
+      
+    
+    {\displaystyle \mathrm {Rate} \approx 4\,\mathrm {mm/s} }
+  
+,
+
+which is consistent with the theoretically predicted range given above in (2). The ratio 
+  
+    
+      
+        
+          R
+          a
+          t
+          e
+        
+        
+          /
+        
+        c
+      
+    
+    {\displaystyle \mathrm {Rate} /c}
+  
+ in formula (1) shows that the leading edge of the region of synchronous seizure activity migrates approximately 4–7 times more slowly than normal brain wave activity, which is in agreement with the experimental data described above.
+To summarize, mathematical modeling and theoretical analysis of large-scale electrophysiological activity provide tools for predicting the spread and migration of hypersynchronous brain activity, which can be useful for diagnostic evaluation and management of patients with epilepsy. It might be also useful for predicting migration and spread of electrical activity over large regions of the brain that occur during deep sleep (Delta wave), cognitive activity and in other functional settings.
+
+References
+
+[[Delta wave]]

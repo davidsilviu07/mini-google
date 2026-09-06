@@ -1,0 +1,73 @@
+IGES
+The Initial Graphics Exchange Specification (IGES) is a vendor-neutral file format that allows the digital exchange of information among computer-aided design (CAD) systems. It is an ASCII-based textual format.
+The official title of IGES is Digital Representation for Communication of Product Definition Data, first published in March, 1980 by the U.S. National Bureau of Standards as NBSIR 80-1978.  Many documents (like early versions of the Defense Standards MIL-PRF-28000 and MIL-STD-1840) referred to it as ASME Y14.26M, the designation of the ANSI committee that approved IGES Version 1.0.
+Using IGES, a CAD user can exchange product data models in the form of circuit diagrams, wireframe, freeform surface, boundary (B-rep) or solid modeling (CSG) representations. Applications supported by IGES include traditional engineering drawings, models for analysis, and other manufacturing functions.
+
+History
+IGES was an initiative of the United States Air Force (USAF) Integrated Computer Aided Manufacturing (ICAM) project (1976-1984).
+ICAM sought to develop procedures (IDEF), processes (Group Technology), and software (CAD/CAM) that would integrate all operations in Aerospace manufacturing and thus greatly reduce costs.  Earlier the USAF Manufacturing Technology Program had funded the Automatically Programmed Tools (APT) language for programming Numerically Controlled (NC) machine tools.  To close the data gap between parts design and manufacturing, one of the ICAM goals was to develop CAD software that would automatically generate numerical control programs for the very complex Computer Numerically Controlled (CNC) machine tools used throughout the Aerospace industry.  A serious issue was the incompatibility of data produced by the many CAD systems in use at the time.  USAF/ICAM called a meeting at the National Bureau of Standards (now known as National Institute of Standards and Technology or NIST) in 1978 to address this issue.  Boeing offered to sell its CAD translation software to USAF for one United States dollar.  USAF accepted this offer and contracted NIST to bring together a group of  users and vendors, including Boeing, General Electric, Xerox, Computervision, Applicon and others to further develop and test this software.  Though it was the practice to begin the name of ICAM developments with the word integrated (for example the IDEFs) believing that there would be rapid development of graphical exchange software, USAF decided that the IGES would be the Initial Graphics Exchange Specification not the Integrated Graphics Exchange Specification.
+Since 1988, the DoD has required that all digital product and manufacturing information (PMI) for weapons systems contracts (the engineering drawings, circuit diagrams, etc.) be delivered in electronic form such as IGES format. As a result, CAx software vendors who want to market their products to DoD subcontractors and their partners needed to support the import (reading) and export (writing) of IGES format files.
+An ANSI standard since 1980, IGES has been used in the automotive, aerospace, and shipbuilding industries. It has been used for weapons systems from Trident missile guidance systems to entire aircraft carriers. These part models may have to be used years after the vendor of the original design system has gone out of business. IGES files provide a way to access this data decades from now. Today, plugin viewers for Web browsers allow IGES files created 20 years ago to be viewed from anywhere in the world.
+After the initial release of STEP (ISO 10303) in 1994, interest in further development of IGES declined, and Version 5.3 (1996) was the last published standard.
+
+File format
+An IGES file is composed of 80-character ASCII records, a record length derived from the punched card era. Text strings are represented in "Hollerith" format, the number of characters in the string, followed by the letter "H", followed by the text string, e.g., "4HSLOT" (this is the text string format used in early versions of the Fortran language). Early IGES translators had problems with IBM mainframe computers because the mainframes used EBCDIC encoding for text, and some EBCDIC-ASCII translators would either substitute the wrong character, or improperly set the parity bit, causing a misread.
+Here is a very small IGES file from 1987, containing only two POINT (Type 116), two CIRCULAR ARC (Type 100), and two LINE (Type 110) entities. It represents a slot, with the points at the centers of the two half-circles that form the ends of the slot, and the two lines that form the sides.
+
+                                                                        S      1
+1H,,1H;,4HSLOT,37H$1$DUA2:[IGESLIB.BDRAFT.B2I]SLOT.IGS;,                G      1
+17HBravo3 BravoDRAFT,31HBravo3->IGES V3.002 (02-Oct-87),32,38,6,38,15,  G      2
+4HSLOT,1.,1,4HINCH,8,0.08,13H871006.192927,1.E-06,6.,                   G      3
+31HD. A. Harrod, Tel. 313/995-6333,24HAPPLICON - Ann Arbor, MI,4,0;     G      4
+     116       1       0       1       0       0       0       0       1D      1
+     116       1       5       1       0                               0D      2
+     116       2       0       1       0       0       0       0       1D      3
+     116       1       5       1       0                               0D      4
+     100       3       0       1       0       0       0       0       1D      5
+     100       1       2       1       0                               0D      6
+     100       4       0       1       0       0       0       0       1D      7
+     100       1       2       1       0                               0D      8
+     110       5       0       1       0       0       0       0       1D      9
+     110       1       3       1       0                               0D     10
+     110       6       0       1       0       0       0       0       1D     11
+     110       1       3       1       0                               0D     12
+116,0.,0.,0.,0,0,0;                                                    1P      1
+116,5.,0.,0.,0,0,0;                                                    3P      2
+100,0.,0.,0.,0.,1.,0.,-1.,0,0;                                         5P      3
+100,0.,5.,0.,5.,-1.,5.,1.,0,0;                                         7P      4
+110,0.,-1.,0.,5.,-1.,0.,0,0;                                           9P      5
+110,0.,1.,0.,5.,1.,0.,0,0;                                            11P      6
+S      1G      4D     12P      6                                        T      1
+The file is divided into 5 sections: Start, Global, Directory Entry, Parameter Data, and Terminate indicated by the characters S, G, D, P, or T in column 73. The characteristics and geometric information for an entity is split between two sections; one in a two record, fixed-length format (the Directory Entry, or DE Section), the other in a multiple record, comma delimited format (the Parameter Data, or PD Section), as can be seen in a more human-readable representation of the file.
+When displayed, the user should see two yellow points (hard to see on a white background, but most CAD systems use a black background), one located at the origin of model space [0,0,0], two red circular arcs, and two green lines.
+
+Foreign-language support
+
+Due to its growing international popularity (several countries, including Australia and the UK, adopted IGES as their own National Standards for PMI interoperability), support was added to the TEXT (Type 212) entity to support the ISO 8859 (Latin-1) alphabet for European characters.
+In the 1990s, IGES added support for the JIS encoding for Kanji (漢字) as double-byte characters (JIS-6226), allowing members of the Japan Automobile Manufacturers Association (JAMA) to exchange part models with their American and European partners without loss of the Kanji text.
+The current version of IGES does not support Unicode 16- or 32-bit character encoding, so Arabic and other scripts (like Thai) cannot be represented.
+
+A recursive standard
+One of the unique features of the IGES standard is that it was the first ANSI standard to be documented using itself. Since Version 4.0, all of the technical illustrations for the printed version of the standard have been generated from IGES files. The electronic publishing system (LaTeX) integrates raster images generated from IGES files into the PostScript sent to the laser printer, so text and images are printed on the same page for subsequent use as camera-ready copy for commercial publication. Beginning with IGES Version 5.2, this is how the standard was generated, and Version 5.3 (the most recent ANSI-approved version) is available as a PDF document.
+Many of the illustrations (all of which conform to the Defense Department's MIL-D-28000 Engineering Drawings Subset of IGES) use the entities that they describe, e.g., the illustration of the LEADER (ARROW) ENTITY (Type 214) can be used as a test case for translator implementers, because it contains all 12 arrow head styles defined by the standard. These WYSIWYG example files can be distinguished by a leading "F" and trailing "X" in the file name (like f214x.igs), and this library is called the IGES X-files by members of the IGES community.
+Here is one of the example figures, Figure 2 from Appendix A (fmeparte.igs), that has appeared in every version of IGES since Version 3.0. It uses linear, angular, and ordinate dimension entities, as well as examples of both circular and conic arcs. It is usually the first part used when testing an IGES translator, because the standard has a picture of what it should look like.
+
+See also
+
+ISO 10303-21 or STEP-file, an ISO standardized format
+
+References
+
+Notes
+Nagel, Roger N.; Braithwaite, Walt W.; Kennicott, Philip R. (1980), Initial Graphics Exchange Specification IGES, Version 1.0, Washington DC: National Bureau of Standards, NBSIR 80-1978
+1982 https://books.google.com/books/about/Digital_representation_for_communication.html?id=5LDgAAAAMAAJ
+1990 https://books.google.com/books/about/Digital_representation_for_communication.html?id=tyFZAAAAYAAJ
+Digital Representation for Communication of Product Definition Data: IGES 5.2 (Initial Graphics Exchange Specification Version 5.2), US Product Data Association, November 1993, ISBN 978-1-88538900-8
+IGES/PDES Organization (September 23, 1996), Initial Graphics Exchange Specification: IGES 5.3 (PDF), N. Charleston, SC: U.S. Product Data Association, archived from the original (PDF) on August 21, 2012, Formerly an ANSI Standard September 23, 1996 – September 2006
+IGES/PDES Organization (June 28, 2006), The Initial Graphics Exchange Specification (IGES) Version 5.x (Draft), IGES/PDES Organization. Baseline version was January 12, 1999.
+IGES/PDES Organization (November 30, 2001), The Initial Graphics Exchange Specification (IGES) Version 6.0 (Draft). Baseline version was January 5, 1998.
+
+External links
+"A General Description of IGES". nist.gov. Archived from the original on 2012-04-17.
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[Electronic publishing]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Gerber format]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[LaTeX]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mainframe computer]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Punched card]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[United States Department of Defense]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

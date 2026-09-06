@@ -1,0 +1,88 @@
+Altium
+Altium Limited is an international software company based in La Jolla, California. Founded as Protel Systems in 1985, it provides electronic design automation software to engineers for designing printed circuit boards. Its products are designed for use in a Microsoft Windows environment and used in industries such as automotive, aerospace, defence and telecommunications. Its flagship solutions are Altium Discover, Altium Develop, and Altium Agile, each of which is built on the unified electronics design software Altium Designer, and Altium 365, a cloud platform that connects stakeholders and centralises data. Altium became a subsidiary of Renesas Electronics in 2024.
+
+History
+
+1985–1991: Early history
+The history of Altium dates to 1985 with the founding of Protel Systems Pty Ltd by electronics designer Nicholas Martin. He was working at the University of Tasmania in the 1980s. He saw an opportunity to make the design of electronics product affordable, by marrying the techniques of electronics design to the PC platform. The company launched its first product in 1985, a DOS-based printed circuit board (PCB) layout and design tool. Protel PCB was marketed internationally by HST Technology Pty Ltd. since 1986.
+In October 1986 the San Diego–based ACCEL Technologies, Inc. acquired marketing and support responsibilities of the PCB program for the US, Canada and Mexico under the name Tango PCB. In 1987, Protel launched the circuit diagram editor Protel Schematic for DOS. This was followed by Autotrax and Easytrax in 1988.
+In the 1990s, the company began developing a unified electronics design system, which uses a single data model to hold all of the design data required to create a product. FPGA, PCB and embedded software development processes were unified with a common project view and data model. A variety of editing tools could then be used to access and manipulate the design, covering areas such as board layout and design, schematic capture, routing (EDA), testing, analysis and FPGA design.
+In 1991, Protel released Advanced Schematic/PCB 1.0 for Windows, the world's first Windows-based PCB design system. It also began acquisition of various companies with the technologies needed to create a unified electronics design solution, including Accolade Design Automation in 1998.
+
+1999–2010: IPO and name change to Altium
+In August 1999, Altium went public on the Australian Securities Exchange. The company continued to develop and release new versions of this design tool, including Protel 98 in 1998, Protel 99 in 1999 and Protel 99 SE in 2000. In 2000, Altium acquired ACCEL with whom they previously partnered with in 1986.
+In 2001, the company changed its name from Protel Systems to Altium and continued to expand throughout the United States, Europe, and Asia. It also made more acquisitions including embedded software developer Tasking in 2001 for A$73.4 million and EDA software distributor Hoschar AG in 2002.
+Protel DXP was issued in 2003, Protel 2004 in 2004, Altium Designer 6.0 in 2005. In 2010, Altium acquired Morfik Technology Pty Ltd., a developer of visual design tools for engineering and deploying cloud-based software applications. Morfik's founders originally worked for Altium/Protel before leaving to found the company after Altium's IPO.
+
+2011-2023: Expansion and acquisitions
+In 2011, Altium announced it would be expanding its presence in Shanghai, China, in the second half of 2011 to take advantage of lower wages.
+On October 15, 2012, the Altium board removed Nick Martin as CEO and named executive vice chairman Kayvan Oboudiyat to replace him. On January 16, 2014, Altium announced Kayvan Oboudiyat's retirement and succession by Aram Mirkazemi as CEO. In May of the same year, Altium announced that the core R&D operations for its flagship PCB CAD tools would again relocate in a "cost neutral" move to San Diego, California.
+In 2015, Altium acquired Octopart, a search engine for electronic and industrial parts. The same year, it acquired the cloud-based electronic component management system company Ciiva. Additional acquisitions by the company have included enterprise PLM integration solutions provider Perception Software in 2016 and cloud-based EDA tool company Upverter in 2017.
+In 2018, Altium acquired Brooklyn-based PCB:NG, an online service for turnkey PCB assembly that introduced instantaneous Design for Manufacturability (DFM) checks for orders varying in volume and complexity.
+On 7 June 2021, it was revealed that Altium rejected a bid from Autodesk, who had already bought the EDA tool EAGLE in 2016, valuing the company at A$5.05 billion.
+In December 2023, Altium acquired Valispace, a systems and requirements engineering software platform based in Germany, for approximately $20 million. The acquisition was intended to integrate systems and requirements engineering capabilities with Altium's cloud platform, Altium 365.
+
+2024 to present: Purchase by Renesas Electronics
+In February 2024, Renesas Electronics agreed to acquire Altium for US$5.9 billion. The acquisition was completed in August 2024, with Altium becoming a subsidiary of Renesas Electronics.
+In January 2025, Altium acquired Part Analytics, a Milwaukee-based provider of an AI-powered supply chain management platform for the electronics industry. The acquisition was intended to integrate enterprise-level component planning and procurement capabilities into Altium 365.
+In March 2025, Renesas and Altium announced Renesas 365, Powered by Altium, a joint platform designed to streamline electronics system development from silicon selection through system lifecycle management, built on the Altium 365 cloud platform. The platform was expected to be generally available in early 2026.
+
+Solutions
+Altium develops software and platforms for the design and realisation of electronic products, including printed circuit boards (PCBs). Its tools support every stage of electronics development, from schematic capture and PCB layout to sourcing, version-control and manufacturing hand-off—and are used across industries such as automotive, aerospace, defence, and telecommunications.
+Altium Designer and Altium 365 serve as the underlying design and cloud platform across all of Altium's solutions. Beginning in 2024–2025, Altium reorganised its commercial offerings under three subscription-based platform tiers — Altium Discover, Altium Develop, and Altium Agile, each bundling varying levels of access to those underlying tools and capabilities.
+
+Octopart Discover
+Octopart Discover is a platform that equips engineers with a solution-oriented approach to finding, exploring, and selecting components and technologies that meet specific design requirements. It captures the context around design intent to enable more solution-focused engagement, strengthens communication and collaboration with manufacturers and distributors, and provides actionable insight and intelligence to support faster, more informed decision-making.
+
+Altium Develop
+Altium Develop is a collaborative platform for multidisciplinary electronics product development centered around PCB design, sourcing, and manufacturing. The product features and price point are suitable for individual contractors or freelance designers, hobbyists, and professional engineers working at large companies. For engineers working on larger teams, collaboration and data management features through a cloud platform provide real-time insight across the entire lifecycle of a project. Every change, comment, and decision is captured in context, giving collaborators shared visibility without the need for formal status checks.
+Users can collaborate across electrical, mechanical, sourcing, and manufacturing disciplines within a unified environment. Users can access their product data, functional requirements, and version histories within this environment. Engineers, 3rd party stakeholders, and other team members can be given access to a project at any stage in the product development process.
+Altium Develop integrates industry-leading PCB design through Altium Designer, expands project visibility to all functional experts, and displays system requirements contextually within supported design file formats. The platform can also display supply chain data for components directly in libraries, schematics, and PCB layouts, which includes pricing, availability, and lifecycle insights to guide sourcing decisions. Users can also invite manufacturers to review a project by giving direct access to the design data before a design is sent for manufacturer, allowing potential product defects to be identified early.
+
+Altium Agile
+Altium Agile is a platform-based solution for electronics product and systems development that connects users and engineering environments through integrations with tools such as Jira, enterprise PLM systems, SiliconExpert, and Z2Data. The solution establishes structure, governance, and managed processes across people, tools, data, and workflows while preserving the speed and creative agility needed in electronics engineering.
+Altium Agile is delivered through two editions: Agile Teams and Agile Enterprise. Each edition is aligned to a distinct organisational profile and set of requirements. These editions correspond to the broader executive vision that separates companies with growth and organisational needs from those with regulatory and digitalisation needs.
+Agile Teams is designed for smaller companies, workgroups, or organisations that face increasing complexity in electronics development but do not operate under extensive regulatory or digital-transformation mandates. It provides an out-of-the-box environment with minimal setup and no need for significant IT infrastructure. Teams focuses on foundational structure and control, enabling organisations to solve challenges such as unmanaged data, disconnected tools, ad-hoc processes, and supply-chain risk.
+Agile Enterprise is tailored for larger, digitally mature, and often heavily regulated companies that require deeper integrations, stringent compliance, and enterprise-level governance. It extends electronics development into the broader product development ecosystem, connecting ECAD data and workflows with PLM, ERP, requirements management, compliance systems, and other enterprise platforms. Enterprise emphasises traceability, data security, managed processes, and integration throughout the digital enterprise.
+
+Octopart
+Octopart is a searchable electronic-parts intelligence engine offering up-to-date availability, pricing, CAD models and parametric data for millions of components, and is operated by Altium.
+Octopart includes BOM Tool, which is a browser-based application for managing Bills of Materials (BOMs). It allows users to upload or create BOMs and automatically match components to Octopart's database of electronic parts. The tool provides insights into part availability across distributors, current pricing, lifecycle status, compliance information, and alternative and cross-referenced parts.
+
+Other Products
+Altium Designer — The flagship PCB/EDA application. As of 2024 the standalone licence offering has been superseded by the Altium Agile/Develop product families; the legacy branding remains in use for parts of the desktop environment.
+Altium 365 — Initially released as a cloud-collaboration platform, this product has been folded into the Altium Agile/Develop framework during the 2025 rebranding.
+CircuitMaker — A free PCB design tool aimed at makers and hobbyists; no longer actively developed and largely superseded by the cloud-platform strategy.
+CircuitStudio — Mid-tier PCB-design software retired in the early 2020s and functionality merged into Altium Designer.
+Altium NEXUS — Previously an enterprise PCB-workflow solution; discontinued and replaced by Altium Agile in 2024.
+Altium Concord Pro — Data-management and component-traceability server software; replaced by the unified cloud offerings.
+Altium Vault — Earlier data-management platform, replaced by Concord Pro and subsequently by the unified cloud offerings.
+NanoBoard — A reconfigurable-hardware development kit; hardware line discontinued in the early 2010s.
+P-CAD — Acquired via AccelEDA; officially retired in 2006.
+AutoTRAX / EasyTRAX — Original DOS-based PCB-tools from the 1980s; long discontinued.
+TASKING — Embedded software tool-chain brand formerly included in the Altium portfolio; divested in 2021.
+PDN Analyzer — Power-distribution-network analysis tool now integrated as the "Power Analyzer" extension within Altium Designer.
+Upverter
+
+See also
+List of EDA companies
+Electronics
+Electronic engineering
+FPGAs
+Embedded systems
+Printed circuit board (PCB)
+
+References
+
+Further reading
+Buetow, Mike (2017-05-25). "The Makers March". Circuit Assembly. Retrieved 2017-05-26.
+Rako, Paul (2017-03-30). "Altium CircuitStudio review: The glory". EDN Network. Retrieved 2017-04-03.
+Drysdale, Chelsey (2015-11-12). "Altium Releases Designer 16 PCB Design Tool". Printed Circuit Design & Fab. Retrieved 2017-04-03.
+Morris, Kevin (14 December 2010). "Head in the Clouds. Altium Leads Another Design Tool Revolution". Electronic Engineering Journal. Retrieved 31 March 2011.
+Maxfield, Clive (7 July 2008). "Software focus drives Altium's ambition". EDA DesignLine. Retrieved 4 March 2009.{{cite news}}:  CS1 maint: deprecated archival service (link)
+Maxfield, Clive (5 February 2008). "Altium launch Innovation Station featuring the Desktop NanoBoard". Programmable Logic DesignLine. Archived from the original on 18 April 2008. Retrieved 4 March 2009.
+Morris, Kevin (27 November 2007). "Altium Goes 3D - Board Design Can Be Fun". FPGA & Structured ASIC Journal. Archived from the original on 19 February 2009. Retrieved 4 March 2009.
+Miller, Nick (30 October 2007). "Altium's altitude attitude". Sydney Morning Herald. Retrieved 4 March 2009.
+Goering, Richard (14 November 2006). "Altium links pc-boards with mechanical CAD". EDA DeignLine. Archived from the original on 15 May 2008. Retrieved 4 March 2009.
+
+[[Altium Designer]] [[Autotrax]] [[CircuitMaker]] [[Electronic design automation]] [[List of EDA companies]] [[Schematic capture]] [[Upverter]]

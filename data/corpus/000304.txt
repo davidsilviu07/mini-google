@@ -1,0 +1,21 @@
+Daisy Systems
+Daisy Systems Corporation, incorporated in 1981 in Mountain View, California, was a computer-aided engineering company, a pioneer in the electronic design automation (EDA) industry.
+
+History
+
+Daisy Systems Corporation was founded in January 1981, in Silicon Valley in Mountain View, California. It was a manufacturer of computer hardware and software for EDA, including schematic capture, logic simulation, parameter extraction and other tools for printed circuit board design and semiconductor chip layout.
+In mid-1980s, it had a subsidiary in Germany, Daisy Systems GmbH and one in Israel.
+The company merged with Cadnetix Corporation of Boulder, Colorado in 1988, with the resulting company then known officially as Daisy/Cadnetix, Inc. with the trade name DAZIX. It filed for protection under Chapter 11 of the Federal Bankruptcy Code in 1990 and was acquired by Intergraph later that year. Intergraph incorporated DAZIX into its EDA business unit, which was later spun off as an independent subsidiary named VeriBest, Inc. VeriBest was ultimately acquired by Mentor Graphics in late 1999. The Veribest tool suite became Mentors flagship layout tool. Today it is known as Mentor Xpedition.
+Daisy Systems was founded by Aryeh Finegold, David Stamm and Vinod Khosla; its original investors were Fred Adler and Oak Investment Partners.
+Daisy along with Valid Logic Systems and Mentor Graphics, collectively known as DMV, added front end design to the existing computer-aided design aspects of computer automation.
+
+People
+Many notable people in the EDA industry once worked for Daisy Systems, including Harvey Jones, who became the CEO of Synopsys, and Vinod Khosla, who, a year later in 1982, co-founded Sun Microsystems.  Aryeh Finegold went on to co-found Mercury Interactive, and Dave Stamm and Don Smith went on to co-found Clarify. Tony Zingale became CEO of Clarify and then CEO of Mercury Interactive and later CEO of Jive Software.  Mike Schuh co-founded Intrinsa Corporation before joining Foundation Capital as General Partner. George T. Haber went on to work at Sun and later founded CompCore Multimedia, GigaPixel, Mobilygen and CrestaTech. Dave Millman and Rick Carlson founded EDAC (now ESD Alliance), the industry organization for EDA vendors.
+
+Software
+Daisy applications ran on the Daisy-DNIX operating system, a Unix-like operating system running on Intel 80286 and later processors.
+In 1983, DABL (Daisy Behavioral Language) was developed at Daisy by Fred Chow. It was a hardware modelling language similar to VHDL. The use of DABL for simulation models of processor interconnection networks is described by Lynn R. Freytag.
+
+References
+
+[[Computer]] [[Computer-aided design]] [[Electronic design automation]] [[Logic simulation]] [[Mentor Graphics]] [[Schematic capture]] [[Synopsys]]

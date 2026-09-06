@@ -1,0 +1,54 @@
+AutoCAD DXF
+AutoCAD DXF (Drawing Interchange Format, or Drawing Exchange Format) is a computer-aided design (CAD) data file format developed by Autodesk to enable CAD data exchange and interoperability between AutoCAD on different computing platforms.
+
+History
+DXF was introduced in December 1982 as part of AutoCAD 1.0, and was intended to provide an exact representation of the data in the AutoCAD native file format, DWG (Drawing). For many years, Autodesk did not publish specifications, making correct creation of DXF files difficult. Autodesk now publishes the incomplete DXF specifications online.
+
+Compatibility
+Versions of AutoCAD from Release 10 (October 1988) and up support both American Standard Code for Information Interchange (ASCII) and binary forms of DXF. Earlier versions support only ASCII.
+As AutoCAD has become more powerful, supporting more complex object types, DXF has become less useful. Certain object types, including ACIS solids and regions, are not documented. Other object types, including AutoCAD 2006's dynamic blocks, and all of the objects specific to the vertical market versions of AutoCAD, are partially documented, but not well enough to allow other developers to support them. For these reasons many CAD applications use the DWG format which can be licensed from Autodesk or non-natively from the Open Design Alliance.
+DXF files do not directly specify the units of measurement used for its coordinates and dimensions. DXF files have a HEADER section where a $INSUNITS variable may specify the intended unit (e.g., 1 for inches, 4 for millimeters). However, not all DXF files contain this information, and some software ignores it.
+Most CAD systems and many vector graphics packages support the import and export of DXF files, notably Adobe products, Inkscape, and Blender. Some CAD systems use DXF as their native format, notably QCAD and LibreCAD.
+
+File structure
+ASCII versions of DXF can be read with any text editor. The basic organization of a DXF file is as follows:
+
+HEADER section
+General information about the drawing. Each parameter has a variable name and an associated value.
+CLASSES section
+Holds the information for application-defined classes whose instances appear in the BLOCKS, ENTITIES, and OBJECTS sections of the database. Generally does not provide sufficient information to allow interoperability with other programs.
+TABLES section
+This section contains definitions of named items.
+Application ID (APPID) table
+Block Record (BLOCK_RECORD) table
+Dimension Style (DIMSTYLE) table
+Layer (LAYER) table
+Linetype (LTYPE) table
+Text style (STYLE) table
+User Coordinate System (UCS) table
+View (VIEW) table
+Viewport configuration (VPORT) table
+BLOCKS section
+This section contains Block Definition entities describing the entities comprising each Block in the drawing.
+ENTITIES section
+This section contains the drawing entities, including any Block References.
+OBJECTS section
+Contains the data that apply to nongraphical objects, used by AutoLISP, and ObjectARX applications.
+THUMBNAILIMAGE section
+Contains the preview image for the DXF file.
+END OF FILE
+The data format of a DXF is called a "tagged data" format, which "means that each data element in the file is preceded by an integer number that is called a group code. A group code's value indicates what type of data element follows. This value also indicates the meaning of a data element for a given object (or record) type. Virtually all user-specified information in a drawing file can be represented in DXF format."
+
+Criticism
+Because comprehensive documentation does not exist, consideration is often given to alternative open file formats such as Scalable Vector Graphics (SVG, defined by the World Wide Web Consortium (W3C)), Design Web Format (DWF, defined by Autodesk), or even Encapsulated PostScript (EPS, International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC) standard 29112:2018). DXF (and DWG) is still a preferred format for CAD files for use by the ISO.
+
+References
+
+External links
+
+AutoCAD DXF Reference (from Release 14, 1998) (PDF version from 2012)
+AutoCAD DXF File Format Summary.
+Annotated example DXF file Archived January 6, 2017, at the Wayback Machine
+AutoDesk Online DXF File Viewer.
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Fusion]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Gerber format]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

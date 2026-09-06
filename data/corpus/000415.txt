@@ -1,0 +1,11 @@
+Electro-olfactography
+Electro-olfactography or electroolfactography (EOG) is a type of electrography (electrophysiologic test) that aids the study of olfaction (the sense of smell). It measures and records the changing electrical potentials of the olfactory epithelium, in a way similar to how other forms of electrography (such as ECG, EEG, and EMG) measure and record other bioelectric activity.
+Electro-olfactography has been used for decades to advance the basic science of smell, although the advances in molecular biology in recent decades have expanded olfactory science beyond the knowledge that the electrical recordings of electro-olfactography alone could provide. Electro-olfactography is closely related to electroantennography, the electrography of insect antennae olfaction.
+Neuroscientist David Ottoson (1918-2001) discovered the electro-olfactogram (EOG) and analysed its properties in great detail.
+
+References
+
+External links
+Search PubMed for "electroolfactogram"
+
+[[Electrocardiography]] [[Electroencephalography]]

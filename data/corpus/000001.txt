@@ -1,0 +1,56 @@
+10–20 system (EEG)
+The 10–20 system or International 10–20 system is an internationally recognized method to describe and apply the location of scalp electrodes in the context of an EEG exam, polysomnograph sleep study, or voluntary lab research. This method was developed to maintain standardized testing methods ensuring that a subject's study outcomes (clinical or research) could be compiled, reproduced, and effectively analyzed and compared using the scientific method. It also ensures consistency in EEG measurements despite the variety of head shapes and sizes. The system is based on the relationship between the location of an electrode and the underlying area of the brain, specifically the cerebral cortex.
+Across all phases of consciousness, brains produce different, objectively recognizable and distinguishable electrical patterns, which can be detected by electrodes on the skin. These patterns vary, and are affected by multiple extrinsic factors, including age, prescription drugs, somatic diagnoses, history of neurologic insults/injury/trauma, and substance abuse.
+The "10" and "20" refer to the fact that the actual distances between adjacent electrodes are either 10% or 20% of the total front–back or right–left distance of the skull. For example, a measurement is taken across the top of the head, from the nasion to inion. Most other common measurements ('landmarking methods') start at one ear and end at the other, normally over the top of the head. Specific anatomical locations of the ear used include the tragus, the auricle and the mastoid.
+
+Electrode labeling
+Each electrode placement site has a letter to identify the lobe, or area of the brain it is reading from: pre-frontal (Fp), frontal (F), temporal (T), parietal (P), occipital (O), and central (C). Note that there is no "central lobe"; due to their placement, and depending on the individual, the "C" electrodes can exhibit/represent EEG activity more typical of frontal, temporal, and some parietal-occipital activity, and are always utilized in polysomnography sleep studies for the purpose of determining stages of sleep.
+There are also (Z) sites: A "Z" (zero) refers to an electrode placed on the midline sagittal plane of the skull, (FpZ, Fz, Cz, Oz) and is present mostly for reference/measurement points. These electrodes will not necessarily reflect or amplify lateral hemispheric cortical activity as they are placed over the corpus callosum, and do not represent either hemisphere adequately. "Z" electrodes are often utilized as 'grounds' or 'references,' especially in polysomnography sleep studies, and diagnostic/clinical EEG montages meant to represent/diagnose epileptiform seizure activity, or possible clinical brain death. The required number of EEG electrodes, and their careful, measured placement, increases with each clinical requirement and modality.
+Even-numbered electrodes (2,4,6,8) refer to electrode placement on the right side of the head, whereas odd numbers (1,3,5,7) refer to those on the left; this applies to both EEG and EOG (electrooculogram measurements of eyes) electrodes, as well as ECG (electrocardiography measurements of the heart) electrode placement. Chin, or EMG (electromyogram) electrodes are more commonly just referred to with "right," "left," and "reference," or "common," as there are usually only three placed, and they can be differentially referenced from the EEG and EOG reference sites.
+The "A" (sometimes referred to as "M" for mastoid process) refers to the prominent bone process usually found just behind the outer ear (less prominent in children and some adults). In basic polysomnography, F3, F4, Fz, Cz, C3, C4, O1, O2, A1, A2 (M1, M2), are used. Cz and Fz are 'ground' or 'common' reference points for all EEG and EOG electrodes, and A1-A2 are used for contralateral referencing of all EEG electrodes. This EEG montage may be extended to utilize T3-T4, P3-P4, as well as others, if an extended or "seizure montage" is called for.
+
+Measurement
+
+Specific anatomical landmarks are used for the essential measuring and positioning of the EEG electrodes. These are found with a tape measure, and often marked with a Chinagraph grease pencil. 
+
+Nasion to Inion: the nasion is the distinctly depressed area between the eyes, just above the bridge of the nose, and the inion, is the crest point of back of the skull, often indicated by a bump (the prominent occipital ridge, can usually be located with mild palpation). Marks for the Z electrodes are made between these points along the midline, at intervals of 10%, 20%, 20%, 20%, 20% and 10%.
+Preauricular to preauricular (or tragus to tragus: the tragus refers to the small portion of cartilage projecting anteriorly to the pinna). The preauricular point is in front of each ear, and can be more easily located with mild palpation, and if necessary, requesting patient to open mouth slightly. The T3, C3, Cz, C4, and T4 electrodes are placed at marks made at intervals of 10%, 20%, 20%, 20%, 20% and 10%, respectively, measured across the top of the head.
+Skull circumference is measured just above the ears (T3 and T4), just above the bridge of the nose (at Fpz), and just above the occipital point (at Oz). The Fp2, F8, T4, T6, and O2 electrodes are placed at intervals of 5%, 10%, 10%, 10%, 10%, and 5%, respectively, measured above the right ear, from front (Fpz) to back (Oz). The same is done for the odd-numbered electrodes on the left side, to complete the full circumference.
+Measurement methods for placement of the F3, F4, P3, and P4 points differ. If measured front-to-back (Fp1-F3-C3-P3-O1 and Fp2-F4-C4-P4-O2 montages), they can be 25% "up" from the front and back points (Fp1, Fp2, O1, and O2). If measured side-to-side (F7-F3-Fz-F4-F8 and T5-P3-Pz-P4-T6 montages), they can be 25% "up" from the side points (F7, F8, T5, and T6). If measured diagonally, from Nasion to Inion through the C3 and C4 points, they will be 20% in front of and behind the C3 and C4 points. Each of these measurement methods results in different nominal electrode placements.
+When placing the A (or M) electrodes, palpation is often necessary to determine the most pronounced point of the mastoid process behind either ear; failure to do so, and to place the reference electrodes too low (posterior to the ear pinna, proximal to the throat) may result in "EKG artifact" in the EEGs and EOGs, due to artifact from the carotid arteries. EKG artifact can be reduced with post-filtering of signals, or by "jumping" (co-referencing) of A/M reference electrodes, if replacement of reference electrodes is not possible, ameliorative, or if other clinical considerations prevent otherwise good placement (such as congenital malformation, or post-surgical considerations such as Cochlear Implants).
+
+Higher-resolution systems
+
+When recording a more detailed EEG with more electrodes, extra electrodes are added using the 10% division, which fills in intermediate sites halfway between those of the existing 10–20 system. This newer electrode-naming-system is more detailed giving rise to the Modified Combinatorial Nomenclature (MCN). The MCN system uses 1, 3, 5, 7, 9 for the left hemisphere which represents 10%, 20%, 30%, 40%, 50% of the inion-to-nasion distance respectively. The additional letter codes allows the naming of intermediate electrode sites. These newer letter codes do not necessarily refer to an area on the underlying cerebral cortex.
+The newer letter codes of the MCN for intermediate electrode places are: 
+
+AF – between Fp and F
+FC – between F and C
+FT – between F and T
+CP – between C and P
+TP – between T and P
+PO – between P and O
+Also, the MCN system renames four electrodes of the 10–20 system:
+
+T3 becomes T7
+T4 becomes T8
+T5 becomes P7
+T6 becomes P8
+An even higher-resolution nomenclature has been suggested, called the "5% system" or the "10–5 system".
+
+References
+
+Bibliography
+Jasper, Herbert H. (May 1958). "Report of the committee on methods of clinical examination in electroencephalography". Electroencephalography and Clinical Neurophysiology. 10 (2): 370–375. doi:10.1016/0013-4694(58)90053-1.
+G.E. Chatrian, E. Lettich, and P.L. Nelson. Ten percent electrode system for topographic studies of spontaneous and evoked EEG activity. Am J EEG Technol, 25:83-92, 1985.
+"American Electroencephalographic Society Guidelines for Standard Electrode Position Nomenclature". Journal of Clinical Neurophysiology. 8 (2): 200–202. April 1991. doi:10.1097/00004691-199104000-00007. PMID 2050819. S2CID 11857141.
+"Guideline Thirteen". Journal of Clinical Neurophysiology. 11 (1): 111–113. January 1994. doi:10.1097/00004691-199401000-00014. PMID 8195414.
+Nuwer, Marc R.; Comi, Giancarlo; Emerson, Ronald; Fuglsang-Frederiksen, Anders; Guérit, Jean-Michel; Hinrichs, Hermann; Ikeda, Akio; Jose C. Luccas, Fransisco; Rappelsburger, Peter (March 1998). "IFCN standards for digital recording of clinical EEG". Electroencephalography and Clinical Neurophysiology. 106 (3): 259–261. doi:10.1016/S0013-4694(97)00106-5. PMID 9743285.
+Klem, GH; Lüders, HO; Jasper, HH; Elger, C (1999). "The ten-twenty electrode system of the International Federation. The International Federation of Clinical Neurophysiology". Electroencephalography and Clinical Neurophysiology. Supplement. 52: 3–6. PMID 10590970.
+Ernst Niedermeyer, Fernando Lopes da Silva, Electroencephalography: Basic Principles, Clinical Applications, and Related Fields - Page 140, Lippincott Williams & Wilkins, 2004 ISBN 0-7817-5126-8, ISBN 978-0-7817-5126-1.
+
+External links
+SVG drawing of the 10-20 system (numbering seen as a subset of the 10% division) Archived 2012-04-26 at the Wayback Machine (PDF)
+10-20 System (numbering seen as a subset of the 10% division)
+
+[[Amplitude integrated electroencephalography]] [[Bereitschaftspotential]] [[Brainstem auditory evoked potential]] [[Cerebral cortex]] [[Delta wave]] [[Difference due to memory]] [[EEGLAB]] [[Early left anterior negativity]] [[Electrocardiography]] [[Electrocorticography]] [[Electroencephalography]] [[Frontal lobe]] [[Gamma wave]] [[K-complex]] [[Late positive component]] [[Mastoid part of the temporal bone]] [[Mismatch negativity]] [[Mu wave]] [[N100]] [[N170]] [[N200 (neuroscience)]] [[N2pc]] [[N400 (neuroscience)]] [[Neural oscillation]] [[Neurophysiological Biomarker Toolbox]] [[P200]] [[P3a]] [[P3b]] [[P50 (neuroscience)]] [[P600 (neuroscience)]] [[Seizure]] [[Sensorimotor rhythm]] [[Sleep spindle]] [[Somatosensory evoked potential]]

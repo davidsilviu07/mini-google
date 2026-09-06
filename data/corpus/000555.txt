@@ -1,0 +1,80 @@
+Gerber format
+The Gerber format is an open, ASCII, vector format for printed circuit board (PCB) designs. It is the de facto standard used by PCB industry software to describe the printed circuit board images: copper layers, solder mask, legend, drill data, etc.
+The standard file extension is .GBR or .gbr though other extensions like .GB, .geb or .gerber are also used.   It is documented by The Gerber Layer Format Specification and some related (but less universally supported) extensions such as XNC drill files and GerberJob to convey information about the entire PCB, as opposed to single layers.
+Gerber is used in PCB fabrication data. PCBs are designed on a specialized electronic design automation (EDA) or a computer-aided design (CAD) system. The CAD systems output PCB fabrication data to allow fabrication of the board. This data typically contains a Gerber file for each image layer (copper layers, solder mask, legend or silk...). Gerber is also the standard image input format for all bare board fabrication equipment needing image data, such as photoplotters, legend printers, direct imagers or automated optical inspection (AOI) machines and for viewing reference images in different departments. For assembly the fabrication data contains the solder paste layers and the central locations of components to create the stencil and place and bond the components.
+There are two major generations of Gerber format:
+
+Extended Gerber, or RS-274X. This is the current Gerber format. In 2014, the graphics format was extended with the option to add meta-information to the graphics objects. Files with attributes are called X2 files; those without attributes are X1 files.
+Standard Gerber, or RS-274-D. This obsolete format was revoked.
+The official website contains the specification, test files, notes and the Reference Gerber Viewer to support users and especially developers of Gerber software.
+
+PCB fabrication data
+
+PCBs are designed on a specialized electronic design automation (EDA) or a computer-aided design (CAD) system. The CAD systems then outputs PCB fabrication data to allow fabrication of the board. Fabrication data contains a Gerber file for each image layer and drill span (copper layers, solder mask, legend or silk...) (For historic reasons drill data is also transferred in NC formats although Gerber files are often of better quality.) Typically, all these files are "zipped" into a single archive that is sent to the PCB bare board fabrication shop. The  fabricator loads them into a computer-aided manufacturing (CAM) system to prepare data for each step of the PCB production process.
+The .FileFunction attribute is the standardized method to link each layer in the PCB with its corresponding Gerber file in the fabrication data. 
+If attributes are not supported, then only informal methods are available. A simple informal method is to express the file function clearly in the file name. Sometimes the file extension is abused to indicate the file function - e.g. .BOT for the bottom layer rather than the standard extension .GBR. In industry this is considered poor practice and engineers should use the appropriate X2 attribute instead.
+PCB Fabrication Data must comply with a number of rules: all layers must be aligned, a profile layer must be included, etc.
+The CAD netlist can be embedded in the Gerber files. However, for historic reasons, netlists often are described in a separate file in IPC-D-356A, an electrical test format.
+The material stack up, components and finishes are typically provided in informal text files or drawings. In 2018 Ucamco has published a specification for an extension of the Gerber format to cover this fabrication documentation.
+
+Extended Gerber
+RS-274X, extended Gerber or X-Gerber, was originally released in September 1998.
+It is a human readable ASCII format. It consists of a stream of commands generating an ordered stream of graphics objects. The graphics objects can be positive or negative. Superimposed in the correct order they create the final image.
+A Gerber file contains the complete description of a PCB layer image without requiring any external files. It has all the imaging operators needed for a PCB image. Any aperture shape can be defined. Planes and pads can be specified without the need to paint or vector-fill as in Standard Gerber. (However some implementations still use painting, problematic for the users of those files.)
+Released in February 2014, Gerber X2 adds additional metadata to the image. Attributes allow adding metadata to a Gerber file. Attributes are akin to labels providing information associated with image files, or features within them. Examples of metadata conveyed by attributes are:
+
+The function of the file. Is the file the top solder mask, or the bottom copper layer, etc.?
+The part represented by the file. Does it represent a single PCB, an array, a coupon?
+The function of a pad. Is the flash an SMD pad, or a via pad, or a fiducial, etc.
+For more information about attributes see X2 FAQ or intro video in the external links.
+In 2020, Gerber X3 was introduced.
+Fabrication documentation such as finish, overall thickness and materials is specified in a separate Gerber Job File.
+An example of a Gerber file:
+
+The format specification is published at the official website.
+
+Standard Gerber (revoked)
+Standard Gerber was revoked in 2014. It was already obsolete after the introduction of the much more capable Extended Gerber in 1998.
+Standard Gerber was a numerical control (NC) format designed by Gerber Systems Corp to drive their vector photo plotters for the PCB industry in the 1960s and 1970s. It was a subset of the Electronic Industries Association RS-274-D specification, a format to drive mechanical NC machines in a wide range of industries. It was widely used to drive vector plotters. Standard Gerber was a simple ASCII format consisting of commands and XY coordinates. An example:
+
+A Standard Gerber is an NC standard but not an image description standard: essential image information such the coordinate unit and the apertures definitions are not standardized. (Apertures are the basic shapes, similar to fonts in a PDF file.) They are described in a free-format sidecar text file intended for human reading, called an aperture file or a wheel file. There are no standards for wheel files. The sender and receiver have to agree on their meaning case-by-case.
+Standard Gerber supports only the simple imaging operators that a vector plotter is capable of - drawing tracks and flashing apertures. This is insufficient for efficient PCB fabrication data. Copper pours must be created by painting (aka stroking or vector-filling) them with a vast number of tracks.  All but the simplest pads are also painted because of the cost creating a corresponding physical aperture. Painting creates the intended image but results in very large files that take long time to process and need error-prone manual work in CAM.
+Standard Gerber was intended for a manual workflow using an NC machine called a vector photoplotter: the plotter operator loads the paper tape with the Standard Gerber file on the plotter, manually sets the coordinate unit on the machine console and mounts the aperture wheel described in the accompanying wheel file. (An aperture wheel is a rotating disk on which physical apertures are mounted, and by rotating the wheel the photoplotter selects the aperture to use.) Standard Gerber is not suitable for automated data transfer between PCB designers and manufacturers.
+
+History
+The Gerber file format is named after Joseph Gerber, an entrepreneur and inventor who pioneered vector photoplotters.
+In 1980 Gerber Systems Corp. published the first edition of the Gerber Format: a subset of EIA RS-274-D; plot data format reference book, a subset of EIA RS-274-D it used to drive their line of vector photoplotters. This format became known as Standard Gerber and was adopted by several other photoplotter vendors. Standard Gerber became the de facto standard image format for PCB fabrication.
+In 1991 with the availability of the more capable raster photoplotters, the Gerber format was extended with polygon areas and "mass parameters".  These allow the user to dynamically define apertures of different shapes and sizes, as well as defining polygon area fills without the need for "painting". It became a superset of RS-274-D standard Gerber. The impetus to develop mass parameters was provided by AT&T. This created a family of input formats, each one dedicated to a specific Gerber plotter model. 
+In April 1998 Gerber Systems Corp. was taken over by Barco ETS, Barco's PCB division, which is now called Ucamco. In September 1998 Ucamco published the RS-274X Format User's Guide, a specification which unified the family of formats to a single image format, revoking a large number of model-specific constructs. The format became known as Extended Gerber or GerberX. Extended Gerber quickly superseded Standard Gerber as the de facto standard for PCB image data. This became the de facto image standard for the PCB industry. It is sometimes called "the backbone of the electronics industry".
+In the course of 2012 the format was comprehensively reviewed in the great reform. A representative library of 10,000 files from all over the world was investigated to establish current practice. Constructs that were rarely or never used were deprecated. Constructs with unclear interpretations were clarified. The specification document was re-organized and its quality improved. This resulted in revision I1 to I4 of the specification, published from December 2012 on. The result was a simple, but powerful format, focused on the current needs of the PCB industry. This version of the Gerber format was developed by Karel Tavernier and Rik Breemeersch from Ucamco.
+In June 2013 Ucamco published a proposal to add three new commands to the Gerber format which allow inclusion of image attributes conveying metadata attached to the image and its components. It invited feedback from the Gerber users before committing these ideas to a firm specification. This process resulted in revision J1 in February 2014, updated with further revisions until revision 2015.07. Including metadata adds intelligence to the format. It converts a mere image description format to a full-fledged PCB data transfer format. This is called the second extension and results what is known as Gerber X2, Gerber X1 being the pure image format. Gerber X2 is fully backward compatible with X1, as the attributes do not affect the image. Gerber X2 was developed by Karel Tavernier, Ludek Brukner and Thomas Weyn.
+In September 2014 Ucamco revoked Standard Gerber.
+In August 2015 Ucamco published a draft specification adding nested step and repeat and block apertures to make panel descriptions more efficient, calling for comments from the user community. The final specification was published in November 2016 after substantial input. This revision was developed by Karel Tavernier and Rik Breemeersch. Shortly afterwards the Cuprum Gerber viewer developed the first implementation.
+In July 2016 Ucamco published a draft specification to include netlist information in Gerber, calling for input from the user community. After a number of revisions of the draft triggered by input from users, the draft was finalized on 2 October 2016.
+In March 2017 Ucamco published a draft specification to include fabrication documentation in Gerber calling for input from the user community. There was a lively discussion, the draft went through seven public revisions before being finalized early April 2018.
+In June 2017 a free online Reference Gerber Viewer was made available by Ucamco as a complement to the specification. It is updated with new functionality from time to time.
+In October 2019 Ucamco published a draft specification to include component information in Gerber data, calling for comments from the user community. The proposal re-uses existing syntax and hence is backward compatible. Although it does not introduce new syntax it extends Gerber into a new domain, and the name Gerber X3 is suggested. The draft specification was developed by Karel Tavernier.
+
+Other PCB formats
+Over the years there have been several attempts to replace Gerber by formats containing more information than just the layer image, e.g. netlist or component information. None of these attempts have been widely accepted within the electronics manufacturing industry, probably because the formats are complex. Gerber remains the most widely used data transfer format.
+
+IPC-D-350 C Printed Board Description in Digital Format, 1989. This specification was standardized as IEC 61182–1 in 1992 and withdrawn in 2001. Rarely used.
+DXF Sometimes used. These are typically constructed as drawings, PCB objects (tracks and pads) are lost, which makes them very difficult to use in CAM.
+PDF Sometimes used.
+DPF Format, now at v7, a CAM format from Ucamco. Sometimes used.
+The Electronic Design Interchange Format, EDIF. Rarely used.
+ODB++, a CAM format from Mentor Graphics.  Sometimes used, the prevalent non-Gerber format.
+GenCAM: IPC-2511A Generic Requirements for Implementation of Product Manufacturing Description Data and Transfer Methodology, 2000. Rarely used.
+GenCAM: IPC-2511B Generic Requirements for Implementation of Product Manufacturing Description Data and Transfer XML Schema Methodology, 2002. Rarely used.
+Offspring: IPC-2581 Generic Requirements for Printed Board Assembly Products Manufacturing Description Data and Transfer Methodology, 2004. Rarely used, but receiving more attention recently.
+STEP AP210: ISO 10303-210, Electronic assembly interconnect and packaging design, first edition 2001, second edition 2008 (to be published)
+
+References
+
+External links
+Official website
+Gerber Documents - Ucamco
+Gerber File Viewer - Ucamco
+Free Gerber File Viewer Online - HQDFM
+
+[[AutoCAD DXF]] [[Electronic design automation]] [[IGES]] [[Photoplotter]]

@@ -1,0 +1,57 @@
+Digital Geometric Kernel
+Digital Geometric Kernel (former KernelCAD) is a software development framework and a set of components for enabling 3D computer graphics computer-aided design (3D/CAD) function in Windows applications, developed by DInsight.
+DInsight promotes KernelCAD as a quick way to add 3D/CAD functions without significant knowledge about the subject, mainly for engineers and software developers.
+
+Architecture
+At the top level DG Kernel is a user interface control. As such, it can be added to forms or dialogs using development environments such as Microsoft Visual Studio or Embarcadero Technologies Delphi. Pure geometric functions can be used in background without creating a window. Samples include C#, Visual Basic (.NET), Windows Presentation Foundation (WPF), C++, and Pascal (Delphi) versions.
+The application programming interface (API) is based on an interface (abstract class) hierarchy.
+DG Kernel relies on three major third party components:
+
+Open Cascade Technology (OCCT) engine – parametric B-spline B-rep modelling, ISO 10303-21 STEP format implementation and related functions
+Object-Oriented Graphics Rendering Engine (OGRE) – high-level adaptor and extension of DirectX APIs
+Open Design Alliance SDK – support for DWG and other AutoCAD formats
+
+Market niche
+DG Kernel automates and simplifies the extensive solid modeling functionality available in OCCT particularly. It also bridges the gap between complexity of OCCT and the prohibitive for small businesses costs of commercial kernels like Parasolid or ACIS
+
+Milestones
+The product was first released by DInsight in 2001 under Kernel CAD name.
+In version 6.0, released in December 2018, the main product was renamed to DG Kernel. The most significant change in version 6 was an alternative high-level interface for OCCT technology, which solves a number of issues with using OCCT directly.
+Version 7.0, released in December 2021, includes a pure .NET version of the control.
+In version 7.1, released in March 2023, Data Exchange (Import/Export) via STEP format has been reimplemented based on Extended Data Exchange (XDE) engine of OCCT. This includes support of STEP assemblies and their hierarchies, per face colors, entity and assembly names.
+Version 7.1 also marks significant change in licensing: DG Kernel is free to use for individuals, small businesses and non-commercial organizations.
+
+Digital Geometry versus CAD
+By Digital Geometry DInsight means computer–generated geometry. In other words, Digital Geometry is programmable CAD. 
+Historically the CAD term has been used for any 3D model representations. In many situations Computer Aided Design term becomes misleading. In traditional CAD 3D model is the objective. In Digital Geometry 3D objects are an intermediate step for calculations or simulations.
+Traditional CAD means computer-assisted, but mostly manual work, which significantly depends on the human (designer). However, in many situations, like tool-making by CNC machining, the final surface is not known in advance because of the complicated movement. Objects created this way, are not designable in principle. Another example is a geometry obtained with complicated algorithms simulating and/or optimizing technological processes. 
+
+Supported formats
+MDG (native)
+GLM (native)
+DWG
+DXF
+STEP
+IGES
+SAT
+OBJ
+VRML
+STL
+CSFDB
+BREP
+CSV
+XYZ
+
+See also
+Computer-aided design
+Euclidean shortest path
+3D computer graphics software
+
+External links
+Official website
+"DInsight. Embedded CAD". Dynoinsight.com. Retrieved 2012-11-28.
+"Open CASCADE Technology, 3D modeling & numerical simulation". Opencascade.org. Retrieved 2012-11-28.
+
+References
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

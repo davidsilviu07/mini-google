@@ -1,0 +1,27 @@
+Electronics Corporation of India Limited
+Electronics Corporation of India Limited (ECIL; Hindi: ईलेक्ट्रॉनिक्स कॉर्पोरेशन ऑफ ईन्डिया लिमिटेड (ईसीआईएल)) is a Miniratna Category-I public sector enterprise under the Department of Atomic Energy, established on 11 April 1967 by A. S. Rao at Hyderabad, under the Prime Ministership of Smt Indira Gandhi, to create a strong indigenous base in electronics. ECIL is a multi-product, multi-disciplinary organisation with focus on indigenous nuclear energy, space and defence sectors. ECIL also has a strong presence in indigenous electronic security, communications, networking and e-governance domains. ECIL has committed partnerships with nuclear energy establishments of India, particularly Bhabha Atomic Research Center (BARC), Nuclear Power Corporation of India Limited (NPCIL) and Indira Gandhi Centre for Atomic Research (IGCAR). ECIL also actively supports other strategic sectors such as indigenous defence (PSUs, Defence Research and Development Organisation; DRDO), space (Department of Space), civil aviation, information and broadcasting, telecommunications, insurance, banking, police and para-military forces, oil and gas, power, space education, health, agriculture, steel and coal.
+ECIL is credited with producing the first indigenous digital computers, TDC 312 and TDC 316, solid state TV, control and instrumentation for nuclear power plants and first earth station antenna of India.
+ECIL won Environment Protection Award for the year 2012 in the category "R&D and Other Units Group".
+
+ECIL Office Complex Building
+ECIL Office Complex Building was an architectural masterpiece. Vikram Sarabhai had requested Charles Correa to design the ECIL Office Complex in 1965. The request included to design the building so as to eliminate the need for mechanical air conditioning devices. To minimise heat input, shade was provided by a large overhanging roof that consisted of a slatted pergola and thin membrane of water to reflect the sunlight back into the sky. This was for the first time the concept of a pergola was ever used in Hyderabad. However some portions of the office building were provided with air conditioning for additional comfort and prestige.  The office complex was built in 1968 and was one of the seminal works of Charles Correa. Various modifications were later made on this masterpiece building by Administrators of ECIL who were ignorant about its significance.
+
+Products
+The present product range of ECIL includes:
+
+Aviation sector: Troposcatter antennas, Line of Sight (LoS) antennas, Ground/Earth Station Antenna, Provides scanning machines, security systems for airports.
+Nuclear sector: Control and instrumentation products for nuclear power plants; integrated security systems for nuclear installations; nuclear instrumentation modules like HV and spectroscopy amplifier, module bins and power supplies; radiation detectors like boron lined counters, BF3 counters, high temperature fission counters and ionization chamber; smart radiation monitors; secured network of all Department of Atomic Energy (India) units via satellite.
+Space sector: ECIL manufacturers radio telescopes such as MACE.
+Defence sector: Various types of fuses; V/UHF radio communication equipment; electronic warfare systems and derivatives; thermal batteries and special components for missile projects; precision servo components like gyros; missile support control and command systems; training simulators; stabilised antenna and tracking for light combat aircraft; detection and pre-detonation of explosive devices; jammers with direction finding abilities.
+Medical sector: Medical equipment such as ultrasound scanning machine, autoclave with dressing drum and fetal doppler.
+Commercial sector: Carrier Ethernet Switch Router (CESR);Electronic voting machines; voter-verified paper audit trail; totaliser; wireless local loop (WLL) systems; antenna products; electronic energy meters or electricity meter; X-ray baggage inspection system for airports; computer hardware, software and services; computer education services.
+
+Human resources
+The company has a human resource pool of approximately 1,514 which includes 1176 executives and 338 workmen.
+
+References
+
+External links
+Official website
+
+[[Bharat Electronics]] [[Electricity meter]]

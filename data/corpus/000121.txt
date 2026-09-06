@@ -1,0 +1,207 @@
+Bharat Electronics
+Bharat Electronics Limited (BEL) is an Indian state-owned defence electronics and aerospace company headquartered in Bengaluru, Karnataka. It is a Navratna central public sector enterprise under the Ministry of Defence.
+BEL was established in 1954 to meet the specialised electronic requirements of the Indian Armed Forces. Its defence portfolio includes military radars, communication equipment, missile-system electronics, electronic-warfare systems, avionics, naval systems, electro-optics, tank electronics, sonars and command-and-control systems.
+The company also manufactures civilian products and systems, including electronic voting machines, railway electronics, homeland-security systems, cyber-security products and smart-city infrastructure.
+As of 1 July 2026, BEL's order book stood at approximately ₹72,258 crore (US$7.5 billion).
+
+History
+BEL was established in Bengaluru in 1954 under the Ministry of Defence to develop and manufacture specialised electronics for India's defence services.
+The company began production of communication equipment in the 1950s and subsequently expanded into electronic components, transmitters and radar equipment. A dedicated radar-manufacturing facility and in-house research and development capability were established during the 1960s.
+During the 1970s and 1980s, BEL expanded geographically and technologically. Manufacturing units were established at locations including Ghaziabad, Pune, Chennai, Panchkula, Kotdwar, Hyderabad, Navi Mumbai and Machilipatnam.
+The company expanded into naval electronics, electronic warfare, tank electronics, satellite electronics, telecommunications, night-vision systems and command-and-control equipment.
+BEL was granted Miniratna Category-I status in 2002 and was subsequently granted Navratna status by the Government of India.
+
+Operations
+BEL operates manufacturing units across India, with its largest complex in Bengaluru.
+Its major manufacturing locations include:
+
+Bengaluru, Karnataka
+Ghaziabad, Uttar Pradesh
+Pune, Maharashtra
+Machilipatnam, Andhra Pradesh
+Chennai, Tamil Nadu
+Panchkula, Haryana
+Kotdwar, Uttarakhand
+Hyderabad, Telangana
+Navi Mumbai, Maharashtra
+The Bengaluru complex covers several major business areas including military communications, military radars, naval systems, weapon systems, airborne electronic warfare, avionics and network-centric systems.
+
+Defence electronics
+Defence electronics constitutes BEL's principal business.
+The company's portfolio includes:
+
+military and surveillance radars;
+military communication systems;
+electronic warfare equipment;
+missile-system electronics;
+C4I and network-centric systems;
+naval combat and communication systems;
+avionics;
+electro-optical equipment;
+tank and armoured-vehicle electronics;
+navigation equipment;
+simulators; and
+weapon-system upgrades.
+
+Radars
+
+BEL is one of India's principal manufacturers of military radar systems.
+Major systems manufactured by the company include the Swathi Weapon Locating Radar, battlefield-surveillance radars, three-dimensional tactical radars, fire-control radars and air-defence surveillance systems.
+
+Swathi Weapon Locating Radar
+The Swathi Weapon Locating Radar is an indigenous phased-array radar developed for locating hostile artillery, mortar and rocket-launching positions.
+BEL manufactures the radar for the Indian Army. A lightweight mountain variant has also been developed for deployment in high-altitude areas.
+
+Ashwini radar
+In March 2025, the Ministry of Defence signed a ₹2,906 crore (US$300 million) contract with BEL's Ghaziabad unit for Low-Level Transportable Radar systems known as Ashwini for the Indian Air Force.
+Ashwini is an indigenously designed active electronically scanned array radar developed by the Electronics and Radar Development Establishment. It is designed to detect and track targets ranging from high-speed combat aircraft to helicopters and unmanned aerial vehicles.
+
+Air Defence Fire Control Radar
+In July 2025, the Ministry of Defence signed a contract worth approximately ₹2,000 crore (US$210 million) with BEL for Air Defence Fire Control Radars for the Indian Army.
+The systems are intended to detect threats including fighter aircraft, attack helicopters and unmanned aerial vehicles. The Ministry of Defence stated that the programme would have a minimum indigenous content of 70 per cent.
+
+Missile systems
+BEL supplies radars, command-and-control equipment, communications and other electronic systems for several Indian missile programmes.
+
+Akash
+BEL is a major production and systems-integration partner for the Akash air-defence missile system.
+The company's Akash-related products include surveillance and fire-control radars, command-and-control centres and associated electronic equipment.
+In February 2026, Defence Minister Rajnath Singh visited BEL's Bengaluru complex, where combat systems for the third and fourth Akash regiments were flagged off.
+
+Naval systems
+BEL develops and manufactures combat-management systems, fire-control systems, communication equipment, sonars, electronic-warfare equipment and other electronics for the Indian Navy.
+Its naval systems are installed aboard several classes of Indian warship.
+
+Sonars
+BEL manufactures a range of indigenous sonar systems developed with the Defence Research and Development Organisation, including:
+
+HUMSA;
+HUMSA-UG;
+HUMSA-NG;
+HUMSA-NG Mk 2;
+USHUS; and
+Panchendriya.
+The systems are used aboard Indian Navy surface ships and submarines.
+
+Lynx-U2
+BEL manufactures the Lynx-U2 naval fire-control system.
+In March 2023, the Ministry of Defence signed a contract for 13 indigenously designed and developed Lynx-U2 fire-control systems for Indian Navy vessels.
+
+National Maritime Domain Awareness
+In July 2025, the Indian Navy signed a contract with BEL for implementation of the National Maritime Domain Awareness project.
+The project provides for an upgrade of the existing National Command, Control, Communication and Intelligence network into an expanded NMDA network with AI-enabled software. The Information Management and Analysis Centre at Gurugram is also to be upgraded into a multi-agency NMDA centre.
+
+Cochin Shipyard order
+In October 2025, BEL received an order worth ₹633 crore (US$66 million) from Cochin Shipyard for equipment associated with sensors, weapons, fire-control and communication systems supplied by BEL.
+
+Electronic warfare and avionics
+BEL develops airborne and ground-based electronic-warfare systems, radar-warning equipment, avionics and communication systems.
+Its products include airborne electronic-warfare suites, identification-friend-or-foe systems, data links, flight-control computers and electronic support measures.
+BEL also supplies indigenous equipment for Indian military aircraft and helicopters and provides avionics and electronic subsystems for programmes involving Hindustan Aeronautics Limited.
+
+Electro-optics and night-vision systems
+BEL manufactures image intensifiers, thermal imagers, laser systems, night sights and other electro-optical equipment.
+In October 2025, Prime Minister Narendra Modi dedicated BEL's Advanced Night Vision Products Factory at Nimmaluru in Andhra Pradesh to the nation.
+The facility manufactures image intensifiers, thermal-imaging systems and other advanced night-vision products.
+
+Precision-guided weapons
+
+HAMMER
+In February 2026, BEL and Safran Electronics & Defense signed agreements to establish a 50:50 joint venture for production of the HAMMER precision-guided air-to-ground weapon in India.
+The joint venture is intended to manufacture, supply and maintain HAMMER weapons for the Indian Air Force and Indian Navy. Production is planned to be transferred to India in phases, with increasing localisation of electronics, mechanical components and other subassemblies.
+
+Artificial intelligence
+In February 2026, Defence Minister Rajnath Singh inaugurated a Centre of Excellence for Artificial Intelligence at BEL's Bengaluru complex.
+The centre was established to support development and integration of artificial-intelligence technologies into defence electronic systems.
+BEL also collaborates with the Indian Army and other organisations on artificial-intelligence and defence-technology projects.
+
+Civilian and non-defence business
+Although defence remains its principal business, BEL has developed products for civilian government and infrastructure applications.
+Areas include:
+
+electronic voting systems;
+railway and metro electronics;
+civil aviation;
+homeland security;
+smart-city infrastructure;
+cyber security;
+e-mobility;
+solar and renewable energy;
+telecommunications; and
+electronic manufacturing services.
+
+Electronic voting machines
+
+BEL is one of the two principal public-sector manufacturers of electronic voting machines and Voter Verifiable Paper Audit Trail systems used by the Election Commission of India.
+BEL began manufacturing electronic voting machines in the 1980s and has continued to develop successive generations of the equipment.
+
+Smart cities
+
+BEL has undertaken integrated command-and-control centre projects under India's Smart Cities Mission, including the Integrated Command and Control Centre for Gangtok.
+
+Research and development
+Research and development forms a major part of BEL's operations.
+The company operates Central Research Laboratories in Bengaluru and Ghaziabad and product-development groups within its business units.
+Its research activities include:
+
+radar and microwave technology;
+electronic warfare;
+artificial intelligence;
+communications;
+cyber security;
+signal processing;
+electro-optics;
+semiconductor and electronic components;
+unmanned systems;
+network-centric systems; and
+advanced defence electronics.
+BEL also collaborates with the Defence Research and Development Organisation, armed services, universities, research institutions, start-ups and private companies on new technologies.
+
+Financial performance
+For FY2025–26, BEL reported consolidated revenue from operations of approximately ₹27,479.63 crore (US$2.9 billion), compared with ₹23,658.01 crore (US$2.5 billion) in FY2024–25.
+Profit after tax increased to approximately ₹6,048.48 crore (US$630 million) in FY2025–26 from ₹5,288.25 crore (US$550 million) in the previous financial year.
+
+BEL had earlier reported provisional FY2025–26 turnover of approximately ₹26,750 crore (US$2.8 billion), representing growth of about 16.2 per cent.
+The company secured approximately ₹30,000 crore (US$3.1 billion) of orders during FY2025–26.
+As of 1 July 2026, BEL's outstanding order book stood at approximately ₹72,258 crore (US$7.5 billion).
+
+Subsidiary
+
+BEL Optronic Devices Limited
+BEL Optronic Devices Limited (BELOP) is a wholly owned subsidiary of BEL based in Pune.
+The company manufactures image-intensifier tubes and associated electro-optical equipment used in night-vision devices.
+
+Joint ventures
+
+BEL-Thales Systems Limited
+BEL-Thales Systems Limited is a joint venture between BEL and Thales Group. It was incorporated in 2014 and operates from BEL's Bengaluru industrial estate.
+The company focuses on radar and defence-electronics technologies.
+
+GE-BE Private Limited
+GE-BE Private Limited is a joint venture between BEL and GE HealthCare. It manufactures components for medical-imaging equipment, including X-ray tubes and detector assemblies.
+
+BEL IAI AeroSystems
+BEL and Israel Aerospace Industries established BEL IAI AeroSystems Private Limited in 2024.
+The joint venture provides product support and maintenance for Medium Range Surface-to-Air Missile systems operated in India.
+
+BEL–Safran joint venture
+In February 2026, BEL and Safran Electronics & Defense signed agreements to create an equally owned joint venture for indigenous production and support of HAMMER precision-guided weapons.
+
+See also
+Defence industry of India
+Electronics and Radar Development Establishment
+Akash (missile)
+Swathi Weapon Locating Radar
+Electronic voting in India
+Department of Defence Production
+Defence Research and Development Organisation
+Hindustan Aeronautics Limited
+Bharat Dynamics Limited
+
+References
+
+External links
+
+Official website
+
+[[Election Commission of India]] [[Electronic voting in India]]

@@ -1,0 +1,20 @@
+European Data Format
+European Data Format (EDF)  is a standard file format designed for exchange and storage of medical time series. Being an open and non-proprietary format, EDF(+) is commonly used to archive, exchange and analyse data from commercial devices in a format that is independent of the acquisition system. In this way, the data can be retrieved and analyzed by independent software. EDF(+) software (browsers, checkers, ...) and example files are freely available.
+EDF was published in 1992 and stores multichannel data, allowing different sample rates for each signal. Internally it includes a header and one or more data records. The header contains some general information (patient identification, start time...) and technical specs of each signal (calibration, sampling rate, filtering, ...), coded as ASCII characters. The data records contain samples as little-endian 16-bit integers. EDF is a popular format for polysomnography (PSG) recordings.
+EDF+ was published in 2003 and is largely compatible to EDF: all existing EDF viewers also show EDF+ signals. But EDF+ files also allow coding discontinuous recordings as well as annotations, stimuli and events in UTF-8 format. EDF+ has applications in PSG, electroencephalography (EEG), electrocardiography (ECG), electromyography (EMG), and Sleep scoring. EDF+ can also be used for nerve conduction studies, evoked potentials and other data acquisition studies.
+
+Other "EDF" formats
+The file extension "edf" may also stand for the ESRF data format, defined by the European Synchrotron Radiation Facility and frequently used for small-angle scattering data.
+
+References
+
+Kemp B, Värri A, Rosa AC, Nielsen KD, Gade J (May 1992). "A simple format for exchange of digitized polygraphic recordings". Electroencephalogr Clin Neurophysiol. 82 (5): 391–3. doi:10.1016/0013-4694(92)90009-7. PMID 1374708. — EDF reference.
+Kemp B, Olivan J (September 2003). "European data format 'plus' (EDF+), an EDF alike standard format for the exchange of physiological data". Clin Neurophysiol. 114 (9): 1755–61. doi:10.1016/S1388-2457(03)00123-8. PMID 12948806. S2CID 36219309.
+Alvarez-Estevez, D. (n.d.). "European Data Format". Retrieved 19 September 2022.
+
+External links
+The EDF website
+The EDFgroup[link removed]
+A sample of normal sleep recordings in EDF format
+
+[[Electrocardiography]] [[Electroencephalography]] [[Polysomnography]]

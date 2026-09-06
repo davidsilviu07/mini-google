@@ -1,0 +1,42 @@
+DesignSpark Mechanical
+DesignSpark Mechanical is a 3D computer-aided design (CAD) solid modeling software application. It is licensed as proprietary freeware.
+It enables users to solid model in a 3D environment and create files to use with 3D printers. Using the direct modeling approach, it allows for unlimited and frequent design changes using an intuitive set of tools. This free 3D CAD software is offered as a payment free download, but requires a one-time registration with DesignSpark.com to receive the latest community news and product promotions.
+To create engineering drawings in the same framework, a paid subscription to the DesignSpark Creator or Engineer plan is needed.
+
+Background
+DesignSpark Mechanical is based on the SpaceClaim Engineer application and is the product of a collaboration between RS Group plc and Ansys, Inc. An introductory brochure is available here. The goal to offer a free 3D CAD software with many features of high-end software is to engage with those such as engineering education students or small businesses who may not need or cannot afford premium branded 3D CAD software.
+
+Rapid prototyping
+DesignSpark Mechanical supports rapid prototyping through SpaceClaim's 3D direct modeling methodology using the Pull, Move, Fill and Combine tools that allow interacting with digital 3D objects like modeling with clay, all available in the free 3D CAD version.
+
+3D CAD library
+3D models for more than 75,000 products from the RS catalog are available for download within the software.
+
+Subscription plans
+Paid subscription plans provide added functions for DesignSpark Mechanical, such as Mirror tool, Assembly tools, full support of popular file formats such as STEP, STL, IGES, DXF, and DWG, and an associative drawing environment, adding many functions such as cosmetic threading, geometric dimensioning and tolerancing, annotations, and more.
+
+See also
+Comparison of 3D computer graphics software
+Comparison of computer-aided design editors
+DesignSpark PCB
+DesignSpark PCB Pro
+List of 3D printing software
+
+References
+
+Further reading
+"EE Journal article introducing DesignSpark subscription plans". EE Journal
+"Diseñar en 3D con DesignSpark Mechanical". Automática e instrumentación. No. 454, 2013. pages 36–37. ISSN 0213-3113 (in Spanish)
+"推出3D设计软件 DesignSpark Mechanical". Global Electronics China. No. 10. 2013. ISSN 1006-7604 (in Chinese)
+"48-Hour 3D Design Challenge With DesignSpark Mechanical". EE Times. ISSN 0192-1541
+"DesignSpark Mechanical: It's Not Your Grandmother's MCAD!". EE Times. ISSN 0192-1541
+"DesignSpark Mechanical User Design Challenge". Engineering.com.
+"DesignSpark Mechanical Power Hack". Engineering.com.
+"Independent software reviews on Capterra". Capterra.com.
+
+External links
+Official website
+Official Forum
+Independent review of software
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Ansys]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Laptop]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Subscription business model]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

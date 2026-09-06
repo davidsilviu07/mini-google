@@ -1,0 +1,747 @@
+Inverse recovery in EEG
+The inverse recovery in EEG is a Calderón-type inverse problem with the goal of recovering source terms and/or conductivity in layers of the human head from electroencephalographic measurements. Fundamentally, this inverse recovery seeks to solve the elliptic partial differential equation given by
+
+  
+    
+      
+        ∇
+        ⋅
+        (
+        σ
+        ∇
+        u
+        )
+        =
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle \nabla \cdot (\sigma \nabla u)={\mathcal {S}}}
+  
+     or      
+  
+    
+      
+        
+          
+            div 
+          
+        
+        (
+        σ
+        
+          
+             grad 
+          
+        
+        u
+        )
+        =
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\hbox{div }}(\sigma {\hbox{ grad }}u)={\mathcal {S}}}
+  
+
+where 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ is the electric potential, 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is the (possibly anisotropic) conductivity, and 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+  
+ represents primary current sources in the brain. Depending on the application, the inverse problem consists of either recovering 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+  
+ from 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ (the inverse source problem) or recovering 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ from 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ (the inverse conductivity problem).
+Because the human head is highly inhomogeneous and composed of multiple layers with different conductivities, the inverse EEG problem is severely ill-posed and requires either analytical techniques or numerical approximations to obtain stable solutions (such as the finite element method).
+Due to the form of the governing equation being a sort of "generalization" of the Laplace-Beltrami operator, this problem has deep connections to generalized analytic function theory, heat conduction, and broader electromagnetics. In fact, the problem can be seen as solving the Poisson equation for an inhomogeneous media, which is indeed how it is derived in the EEG problem.
+
+Problem derivation
+An overview on the physical foundations of the problem is given by Darbas and Lohrengel.
+Consider the current density 
+  
+    
+      
+        
+          J
+        
+        (
+        r
+        )
+      
+    
+    {\displaystyle \mathbf {J} (r)}
+  
+ produced by neural activity,
+
+  
+    
+      
+        
+          J
+        
+        (
+        r
+        )
+        =
+        
+          
+            J
+          
+          
+            p
+          
+        
+        (
+        r
+        )
+        +
+        σ
+        (
+        r
+        )
+        
+          E
+        
+        (
+        r
+        )
+      
+    
+    {\displaystyle \mathbf {J} (r)=\mathbf {J} ^{p}(r)+\sigma (r)\mathbf {E} (r)}
+  
+
+where 
+  
+    
+      
+        
+          
+            J
+          
+          
+            p
+          
+        
+        (
+        r
+        )
+      
+    
+    {\displaystyle \mathbf {J} ^{p}(r)}
+  
+ denotes primary current and 
+  
+    
+      
+        σ
+        (
+        r
+        )
+        
+          E
+        
+        (
+        r
+        )
+      
+    
+    {\displaystyle \sigma (r)\mathbf {E} (r)}
+  
+ the return current (composed of macroscopic conductivity and the brain's electric field). Using the quasi-static approximation of Maxwell's equations,
+
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        0
+        
+        
+          
+            and
+          
+        
+        
+        ∇
+        ⋅
+        
+          J
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} =0\quad {\hbox{and}}\quad \nabla \cdot \mathbf {J} =0}
+  
+
+The first of the above equation implies that the electric field is path-independent and thus we may write 
+  
+    
+      
+        
+          E
+        
+        =
+        −
+        ∇
+        u
+      
+    
+    {\displaystyle \mathbf {E} =-\nabla u}
+  
+ with 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ the electric potential function. Then,
+
+  
+    
+      
+        ∇
+        ⋅
+        (
+        
+          
+            J
+          
+          
+            p
+          
+        
+        +
+        σ
+        
+          E
+        
+        )
+        =
+        −
+        ∇
+        ⋅
+        (
+        σ
+        
+          E
+        
+        )
+        =
+        ∇
+        ⋅
+        
+          
+            J
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \nabla \cdot (\mathbf {J} ^{p}+\sigma \mathbf {E} )=-\nabla \cdot (\sigma \mathbf {E} )=\nabla \cdot \mathbf {J} ^{p}}
+  
+
+which gives
+
+  
+    
+      
+        ∇
+        ⋅
+        (
+        σ
+        ∇
+        u
+        )
+        =
+        ∇
+        ⋅
+        
+          
+            J
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \nabla \cdot (\sigma \nabla u)=\nabla \cdot \mathbf {J} ^{p}}
+  
+
+The primary current is modeled by 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  
+ pointwise sources located at some coordinate 
+  
+    
+      
+        
+          C
+          
+            q
+          
+        
+      
+    
+    {\displaystyle C_{q}}
+  
+ with dipolar moments 
+  
+    
+      
+        
+          p
+          
+            q
+          
+        
+      
+    
+    {\displaystyle p_{q}}
+  
+ (note that 
+  
+    
+      
+        
+          p
+          
+            q
+          
+        
+      
+    
+    {\displaystyle p_{q}}
+  
+ is a vector quantity). Using the Dirac delta distribution,
+
+  
+    
+      
+        
+          
+            J
+          
+          
+            p
+          
+        
+        =
+        
+          ∑
+          
+            q
+            =
+            1
+          
+          
+            Q
+          
+        
+        
+          p
+          
+            q
+          
+        
+        
+          δ
+          
+            
+              C
+              
+                q
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {J} ^{p}=\sum _{q=1}^{Q}p_{q}\delta _{C_{q}}}
+  
+
+Thus, the source term is
+
+  
+    
+      
+        
+          
+            S
+          
+        
+        :=
+        ∇
+        
+          
+            J
+          
+          
+            p
+          
+        
+        =
+        
+          ∑
+          
+            q
+            =
+            1
+          
+          
+            Q
+          
+        
+        
+          p
+          
+            q
+          
+        
+        ⋅
+        ∇
+        
+          δ
+          
+            
+              C
+              
+                q
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}:=\nabla \mathbf {J} ^{p}=\sum _{q=1}^{Q}p_{q}\cdot \nabla \delta _{C_{q}}}
+  
+.
+
+Exact solutions
+
+Constant conductivity
+Many analytical studies assume that conductivity is piecewise constant in layers representing the brain, skull, and scalp. Let 
+  
+    
+      
+        Ω
+        ⊂
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \Omega \subset \mathbb {R} ^{3}}
+  
+ denote the head domain decomposed into three concentric spherical domains 
+  
+    
+      
+        
+          Ω
+          
+            i
+          
+        
+        ,
+        
+        i
+        =
+        0
+        ,
+        1
+        ,
+        2
+      
+    
+    {\displaystyle \Omega _{i},\,i=0,1,2}
+  
+, where 
+  
+    
+      
+        
+          Ω
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Omega _{0}}
+  
+ is a ball and 
+  
+    
+      
+        
+          Ω
+          
+            1
+          
+        
+        ,
+        
+          Ω
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Omega _{1},\Omega _{2}}
+  
+ are spherical shells. When 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is assumed piecewise constant, the governing equation reduces to a set of Laplace and Poisson equations:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  Δ
+                  u
+                  =
+                  0
+                
+                
+                  
+                    on
+                  
+                  
+                  
+                    Ω
+                    
+                      1
+                    
+                  
+                  ,
+                  
+                    Ω
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  Δ
+                  u
+                  =
+                  
+                    
+                      
+                        1
+                        
+                          σ
+                          
+                            0
+                          
+                        
+                      
+                    
+                    
+                      ∑
+                      
+                        q
+                        =
+                        1
+                      
+                      
+                        Q
+                      
+                    
+                    
+                      p
+                      
+                        q
+                      
+                    
+                    ⋅
+                    ∇
+                    
+                      δ
+                      
+                        
+                          C
+                          
+                            q
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    on
+                  
+                  
+                  
+                    Ω
+                    
+                      0
+                    
+                  
+                
+              
+              
+                
+                  u
+                  =
+                  g
+                
+                
+                  
+                    on
+                  
+                  
+                  ∂
+                  Ω
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}\Delta u=0&{\text{on}}\quad \Omega _{1},\Omega _{2}\\\Delta u=\displaystyle {\frac {1}{\sigma _{0}}}\sum _{q=1}^{Q}p_{q}\cdot \nabla \delta _{C_{q}}&{\text{on}}\quad \Omega _{0}\\u=g&{\text{on}}\quad \partial \Omega \end{cases}}}
+  
+
+Solutions can be obtained using Green's functions, spherical harmonics, and separation of variables.
+A benchmark tool in the problem of piecewise constant conductivity is FindSource3D, a source localization tool which has shown perfect reconstruction when negligible error is assumed in source location. Such a tool has also been used for conductivity reconstruction, again with perfect accuracy under suitable error assumptions.
+
+Non-constant conductivity
+For non-constant or anisotropic conductivity, the inverse problem becomes substantially more difficult. Classical uniqueness and stability results for Calderón-type inverse problems apply under varying regularity assumptions on the boundary of 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+  
+; for example, Alessandrini established uniqueness with Lipschitz boundaries, while Kohn and Vogelius proved stability under smooth boundary conditions.
+Exact solutions for spatially varying 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ are generally unavailable. Modern work therefore typically focuses on perturbative methods, integral equation formulations, or regularization techniques for ensuring stable recovery.
+
+Numerical solutions
+Because analytical solutions are available only in highly idealized geometries, numerical methods play a central role in practical EEG inverse recovery. Common approaches include typical Finite Element or Boundary Element Methods.
+Numerical inverse recovery typically requires regularization methods such as Tikhonov regularization, sparsity constraints, or Bayesian inverse modeling to counteract ill-posedness. Practical EEG systems also incorporate noise modeling and electrode placement uncertainty.
+
+References
+
+[[Electroencephalography]]

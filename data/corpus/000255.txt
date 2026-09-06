@@ -1,0 +1,30 @@
+Computed tomography of the head
+Computed tomography of the head uses a series of X-rays in a CT scan of the head taken from many different directions; the resulting data is transformed into a series of cross sections of the brain using a computer program. CT images of the head are used to investigate and diagnose brain injuries and other neurological conditions, as well as other conditions involving the skull or sinuses; it used to guide some brain surgery procedures as well.  CT scans expose the person getting them to ionizing radiation which has a risk of eventually causing cancer; some people have allergic reactions to contrast agents that are used in some CT procedures.
+
+Uses
+
+Computed tomography (CT) has become the diagnostic modality of choice for head trauma due to its accuracy, reliability, safety, and wide availability. The changes in microcirculation, impaired auto-regulation, cerebral edema, and axonal injury start as soon as head injury occurs and manifest as clinical, biochemical, and radiological changes. Proper therapeutic management of brain injury is based on correct diagnosis and appreciation of the temporal course of the disease process. CT scan detects and precisely localizes the intracranial hematomas, cerebral contusions, edema and foreign bodies. 
+Even in emergency situations, when a head injury is minor as determined by a physician's evaluation and based on established guidelines, CT of the head should be avoided for adults and delayed pending clinical observation in the emergency department for children. Many people visit emergency departments for minor head injuries. CT scans of the head can confirm a diagnosis of skull fracture or brain bleeding, but even in the emergency department, such things are uncommon and not minor injuries, so CT of the head is usually not necessary. Clinical trials have shown the efficacy and safety of using CT of the head in emergency settings only when indicated, which would be at the indication of evidence-based guidelines following the physical examination and a review of the person's history.
+Concussion is not a routine indication for having brain CT or brain MRI and can be diagnosed by a healthcare provider trained to manage concussions. People with concussions usually do not have relevant abnormalities about which brain imaging could give insight, so brain imaging should not routinely be ordered for people with concussions. If there is concern about a skull fracture, focal neurological symptoms present or worsening symptoms, then CT imaging may be useful. MRI may be useful for people whose symptoms worsen over time or when structural pathology is suspected.
+CT of the head is sometimes used for people who have sudden hearing loss. However, when there are not other neurological findings, a history of trauma, or a history of ear disease, CT scans are not useful and should not be used in response to sudden hearing loss.
+CT of the head is also used in CT-guided stereotactic surgery and radiosurgery for treatment of intracranial tumors, arteriovenous malformations and other surgically treatable conditions.
+
+Orbital views for eye-related disorders
+Special views focusing  on the orbit of the eye may be taken to investigate concerns relating to the eye.  CT scans are used by physicians specializing in treating the eye (ophthalmologists) to detect foreign bodies (especially metallic objects), fractures, abscesses, cellulitis, sinusitis, bleeding within the skull (intracranial bleeding), proptosis, Graves disease changes in the eye, and evaluation of the orbital apex and cavernous sinus.
+
+Comparison with MRI
+Magnetic resonance imaging (MRI) of the head provides superior information as compared to CT scans when seeking information about headache to confirm a diagnosis of neoplasm, vascular disease, posterior cranial fossa lesions, cervicomedullary lesions, or intracranial pressure disorders. It also does not carry the risks of exposing the person to ionizing radiation. CT scans may be used to diagnose headaches when neuroimaging is indicated and MRI is not available, or in emergency settings when hemorrhage, stroke, or traumatic brain injury is suspected.
+MRI (magnetic resonance imaging) provides more sensitivity in the evaluation of the cavernous sinus and the orbital apex.
+One advantage over a brain MRI is in the evaluation of intracerebral calcifications.
+
+Cautions
+Several different views of the head are available, including axial, coronal, reformatted coronal, and reformatted sagittal images.  However, coronal images require the person to  hyperextend their neck, which must be avoided if any possibility of neck injury exists.
+CT scans of the head increase the risk of brain cancer, especially for children. As of 2018, it appeared that there was a risk of one excess cancer per 3,000–10,000 head CT exams in children under the age of 10.
+
+See also
+
+Neuroimaging
+
+References
+
+[[Amygdalohippocampectomy]] [[Anterior temporal lobectomy]] [[Bilateral cingulotomy]] [[Brain biopsy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral shunt]] [[Cerebrum]] [[Clinical prediction rule]] [[Concussion]] [[Cordotomy]] [[Corpus callosotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Human eye]] [[Hypophysectomy]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure]] [[Intracranial pressure monitoring]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[Myelography]] [[National Institutes of Health Stroke Scale]] [[Pallidotomy]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Positron emission tomography]] [[Psychosurgery]] [[Single-photon emission computed tomography]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Stroke]] [[Suboccipital puncture]]

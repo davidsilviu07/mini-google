@@ -1,0 +1,627 @@
+Fractal dimension
+In geometric measure theory, fractal dimensions enable consistent statistical indexes of complexity in patterns. Since fractal patterns can be scale-variant, measuring space-filling capacity should be possible in non-integer (fractal) dimensions.
+The main idea of "fractured" dimensions has a long history in mathematics, but the term itself was brought to the fore by Benoit Mandelbrot based on his 1967 paper on self-similarity, where he discusses fractional dimensions. In that paper, Mandelbrot cited previous work by Lewis Fry Richardson describing the counter-intuitive notion that a coastline's measured length changes with the length of the measuring stick used (see Fig. 1). In terms of that notion, the fractal dimension of a coastline quantifies how the number of scaled measuring sticks required to measure the coastline changes with the scale applied to the stick. There are several formal mathematical definitions of fractal dimension that build on this basic concept of change in detail with change in scale, see § Examples below.
+Ultimately, the term fractal dimension became the phrase with which Mandelbrot himself became most comfortable with respect to encapsulating the meaning of the word fractal, a term he created.  After several iterations over years, Mandelbrot settled on this use of the language: "to use fractal without a pedantic definition, to use fractal dimension as a generic term applicable to all the variants".
+One non-trivial example is the fractal dimension of a Koch snowflake. It has a topological dimension of 1, but it is by no means rectifiable: the length of the curve between any two points on the Koch snowflake is infinite. No small piece of it is line-like, but rather it is composed of an infinite number of segments joined at different angles. The fractal dimension of a curve can be explained intuitively by thinking of a fractal line as an object too detailed to be one-dimensional, but too simple to be two-dimensional. Therefore, its dimension might best be described not by its usual topological dimension of 1 but by its fractal dimension, which is often a number between one and two; in the case of the Koch snowflake, it is approximately 1.2619.
+
+Introduction
+
+A fractal dimension is an index for characterizing fractal patterns or sets by quantifying their complexity as a ratio of the change in detail to the change in scale. Several types of fractal dimension can be measured theoretically and empirically (see Fig. 2). Fractal dimensions are used to characterize a broad spectrum of objects ranging from the abstract to practical phenomena, including turbulence, river networks, urban growth, human physiology, medicine, and market trends. The essential idea of fractional or fractal dimensions has a long history in mathematics that can be traced back to the 1600s, but the terms fractal and fractal dimension were coined by mathematician Benoit Mandelbrot in 1975.
+Fractal dimensions were first applied as an index characterizing complicated geometric forms for which the details seemed more important than the gross picture. For sets describing ordinary geometric shapes, the theoretical fractal dimension equals the set's familiar Euclidean or topological dimension. Thus, it is 0 for sets describing points (0-dimensional sets); 1 for sets describing lines (1-dimensional sets having length only); 2 for sets describing surfaces (2-dimensional sets having length and width); and 3 for sets describing volumes (3-dimensional sets having length, width, and height). But this changes for fractal sets. If the theoretical fractal dimension of a set exceeds its topological dimension, the set is considered to have fractal geometry.
+Unlike topological dimensions, the fractal index can take non-integer values, indicating that a set fills its space qualitatively and quantitatively differently from how an ordinary geometrical set does. For instance, a curve with a fractal dimension very near to 1, say 1.10, behaves quite like an ordinary line, but a curve with fractal dimension 1.9 winds convolutedly through space very nearly like a surface. Similarly, a surface with fractal dimension of 2.1 fills space very much like an ordinary surface, but one with a fractal dimension of 2.9 folds and flows to fill space rather nearly like a volume. This general relationship can be seen in the two images of fractal curves in Fig. 2 and Fig. 3 –  the 32-segment contour in Fig. 2, convoluted and space-filling, has a fractal dimension of 1.67, compared to the perceptibly less complex Koch curve in Fig. 3, which has a fractal dimension of approximately 1.2619.
+
+The relationship of an increasing fractal dimension with space-filling might be taken to mean fractal dimensions measure density, but that is not so; the two are not strictly correlated. Instead, a fractal dimension measures complexity, a concept related to certain key features of fractals: self-similarity and detail or irregularity. These features are evident in the two examples of fractal curves. Both are curves with topological dimension of 1, so one might hope to be able to measure their length and derivative in the same way as with ordinary curves. But we cannot do either of these things, because fractal curves have complexity in the form of self-similarity and detail that ordinary curves lack. The self-similarity lies in the infinite scaling, and the detail in the defining elements of each set. The length between any two points on these curves is infinite, no matter how close together the two points are, which means that it is impossible to approximate the length of such a curve by partitioning the curve into many small segments. Every smaller piece is composed of an infinite number of scaled segments that look exactly like the first iteration. These are not rectifiable curves, meaning that they cannot be measured by being broken down into many segments approximating their respective lengths. They cannot be meaningfully characterized by finding their lengths and derivatives. However, their fractal dimensions can be determined, which shows that both fill space more than ordinary lines but less than surfaces, and allows them to be compared in this regard.
+The two fractal curves described above show a type of self-similarity that is exact with a repeating unit of detail that is readily visualized. This sort of structure can be extended to other spaces (e.g., a fractal that extends the Koch curve into 3D space has a theoretical D = 2.5849). However, such neatly countable complexity is only one example of the self-similarity and detail that are present in fractals. The example of the coast line of Britain, for instance, exhibits self-similarity of an approximate pattern with approximate scaling. Overall, fractals show several types and degrees of self-similarity and detail that may not be easily visualized. These include, as examples, strange attractors, for which the detail has been described as in essence, smooth portions piling up, the Julia set, which can be seen to be complex swirls upon swirls, and heart rates, which are patterns of rough spikes repeated and scaled in time. Fractal complexity may not always be resolvable into easily grasped units of detail and scale without complex analytic methods, but it is still quantifiable through fractal dimensions.
+
+History
+The terms fractal dimension and fractal were coined by Mandelbrot in 1975, about a decade after he published his paper on self-similarity in the coastline of Britain. Various historical authorities credit him with also synthesizing centuries of complicated theoretical mathematics and engineering work and applying them in a new way to study complex geometries that defied description in usual linear terms. The earliest roots of what Mandelbrot synthesized as the fractal dimension have been traced clearly back to writings about nondifferentiable, infinitely self-similar functions, which are important in the mathematical definition of fractals, around the time that calculus was discovered in the mid-1600s. There was a lull in the published work on such functions for a time after that, then a renewal starting in the late 1800s with the publishing of mathematical functions and sets that are today called canonical fractals (such as the eponymous works of von Koch, Sierpiński, and Julia), but at the time of their formulation were often considered antithetical mathematical "monsters". These works were accompanied by perhaps the most pivotal point in the development of the concept of a fractal dimension through the work of Hausdorff in the early 1900s who defined a "fractional" dimension that has come to be named after him and is frequently invoked in defining modern fractals.
+See Fractal history for more information
+
+Mathematical definition
+
+The mathematical definition of fractal dimension can be derived by observing and then generalizing the effect of traditional dimension on measurement-changes under scaling. For example, say you have a line and a measuring-stick of equal length. Now shrink the stick to 1/3 its size; you can now fit 3 sticks into the line. Similarly, in two dimensions, say you have a square and an identical "measuring-square". Now shrink the measuring-square's side to 1/3 its length; you can now fit 3^2 = 9 measuring-squares into the square. Such familiar scaling relationships obey equation (1), where  
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+ is the scaling factor, 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  
+ the dimension, and 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ the resulting number of units (sticks, squares, etc.) in the measured object:
+In the line example, the dimension 
+  
+    
+      
+        D
+        =
+        1
+      
+    
+    {\displaystyle D=1}
+  
+ because there are 
+  
+    
+      
+        N
+        =
+        3
+      
+    
+    {\displaystyle N=3}
+  
+ units when the scaling factor 
+  
+    
+      
+        ε
+        =
+        1
+        
+          /
+        
+        3
+      
+    
+    {\displaystyle \varepsilon =1/3}
+  
+. In the square example, 
+  
+    
+      
+        D
+        =
+        2
+      
+    
+    {\displaystyle D=2}
+  
+ because 
+  
+    
+      
+        N
+        =
+        9
+      
+    
+    {\displaystyle N=9}
+  
+ when 
+  
+    
+      
+        ε
+        =
+        1
+        
+          /
+        
+        3
+      
+    
+    {\displaystyle \varepsilon =1/3}
+  
+.
+
+Fractal dimension generalizes traditional dimension in that it can be fractional, but it has exactly the same relationship with scaling that traditional dimension does; in fact, it is derived by simply rearranging equation (1):
+
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  
+ can be thought of as the power of the scaling factor of an object's measure given some scaling of its "radius". 
+For example, the Koch snowflake has 
+  
+    
+      
+        D
+        =
+        1.26185
+        …
+      
+    
+    {\displaystyle D=1.26185\ldots }
+  
+, indicating that lengthening its radius grows its measure faster than if it were a one-dimensional shape (such as a polygon), but slower than if it were a two-dimensional shape (such as a filled polygon).
+Of note, images shown in this page are not true fractals because the scaling described by 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  
+ cannot continue past the point of their smallest component, a pixel. However, the theoretical patterns that the images represent have no discrete pixel-like pieces, but rather are composed of an infinite number of infinitely scaled segments and do indeed have the claimed fractal dimensions.
+
+D is not a unique descriptor
+
+As is the case with dimensions determined for lines, squares, and cubes, fractal dimensions are general descriptors that do not uniquely define patterns. The value of D for the Koch fractal discussed above, for instance, quantifies the pattern's inherent scaling, but does not uniquely describe nor provide enough information to reconstruct it. Many fractal structures or patterns could be constructed that have the same scaling relationship but are dramatically different from the Koch curve, as is illustrated in Fig. 6.
+
+For examples of how fractal patterns can be constructed, see Fractal, Sierpinski triangle, Mandelbrot set, Diffusion-limited aggregation, L-system.
+
+Fractal surface structures
+
+The concept of fractality is applied increasingly in the field of surface science, providing a bridge between surface characteristics and functional properties. Numerous surface descriptors are used to interpret the structure of nominally flat surfaces, which often exhibit self-affine features across multiple length-scales. Mean surface roughness, usually denoted RA, is the most commonly applied surface descriptor, however, numerous other descriptors including mean slope, root-mean-square roughness (RRMS) and others are regularly applied. It is found, however, that many physical surface phenomena cannot readily be interpreted with reference to such descriptors, thus fractal dimension is increasingly applied to establish correlations between surface structure in terms of scaling behavior and performance. The fractal dimensions of surfaces have been employed to explain and better understand phenomena in areas of contact mechanics,  frictional behavior, electrical contact resistance and transparent conducting oxides.
+
+Examples
+The concept of fractal dimension described in this article is a basic view of a complicated construct. The examples discussed here were chosen for clarity, and the scaling unit and ratios were known ahead of time. In practice, however, fractal dimensions can be determined using techniques that approximate scaling and detail from limits estimated from regression lines over log–log plots of size vs scale. Several formal mathematical definitions of different types of fractal dimension are listed below. Although for compact sets with exact affine self-similarity all these dimensions coincide, in general they are not equivalent:
+
+Box-counting dimension is estimated as the exponent of a power law:
+
+  
+    
+      
+        
+          D
+          
+            0
+          
+        
+        =
+        
+          lim
+          
+            ε
+            →
+            0
+          
+        
+        
+          
+            
+              log
+              ⁡
+              N
+              (
+              ε
+              )
+            
+            
+              log
+              ⁡
+              
+                
+                  1
+                  ε
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle D_{0}=\lim _{\varepsilon \to 0}{\frac {\log N(\varepsilon )}{\log {\frac {1}{\varepsilon }}}}.}
+  
+
+Information dimension considers how the average information needed to identify an occupied box scales with box size (
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ is a probability):
+
+  
+    
+      
+        
+          D
+          
+            1
+          
+        
+        =
+        
+          lim
+          
+            ε
+            →
+            0
+          
+        
+        
+          
+            
+              −
+              ⟨
+              log
+              ⁡
+              
+                p
+                
+                  ε
+                
+              
+              ⟩
+            
+            
+              log
+              ⁡
+              
+                
+                  1
+                  ε
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle D_{1}=\lim _{\varepsilon \to 0}{\frac {-\langle \log p_{\varepsilon }\rangle }{\log {\frac {1}{\varepsilon }}}}.}
+  
+
+Correlation dimension is based on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ as the number of points used to generate a representation of a fractal and gε, the number of pairs of points closer than ε to each other:
+
+  
+    
+      
+        
+          D
+          
+            2
+          
+        
+        =
+        
+          lim
+          
+            M
+            →
+            ∞
+          
+        
+        
+          lim
+          
+            ε
+            →
+            0
+          
+        
+        
+          
+            
+              log
+              ⁡
+              (
+              
+                g
+                
+                  ε
+                
+              
+              
+                /
+              
+              
+                M
+                
+                  2
+                
+              
+              )
+            
+            
+              log
+              ⁡
+              ε
+            
+          
+        
+        .
+      
+    
+    {\displaystyle D_{2}=\lim _{M\to \infty }\lim _{\varepsilon \to 0}{\frac {\log(g_{\varepsilon }/M^{2})}{\log \varepsilon }}.}
+  
+
+Generalized, or Rényi dimensions: the box-counting, information, and correlation dimensions can be seen as special cases of a continuous spectrum of generalized dimensions of order α, defined by
+
+  
+    
+      
+        
+          D
+          
+            α
+          
+        
+        =
+        
+          lim
+          
+            ε
+            →
+            0
+          
+        
+        
+          
+            
+              
+                
+                  1
+                  
+                    α
+                    −
+                    1
+                  
+                
+              
+              log
+              ⁡
+              (
+              
+                ∑
+                
+                  i
+                
+              
+              
+                p
+                
+                  i
+                
+                
+                  α
+                
+              
+              )
+            
+            
+              log
+              ⁡
+              ε
+            
+          
+        
+        .
+      
+    
+    {\displaystyle D_{\alpha }=\lim _{\varepsilon \to 0}{\frac {{\frac {1}{\alpha -1}}\log(\sum _{i}p_{i}^{\alpha })}{\log \varepsilon }}.}
+  
+
+Higuchi dimension
+
+  
+    
+      
+        D
+        =
+        
+          
+            
+              d
+              log
+              ⁡
+              L
+              (
+              k
+              )
+            
+            
+              d
+              log
+              ⁡
+              k
+            
+          
+        
+        .
+      
+    
+    {\displaystyle D={\frac {d\log L(k)}{d\log k}}.}
+  
+
+Lyapunov dimension
+Multifractal dimensions: a special case of Rényi dimensions where scaling behaviour varies in different parts of the pattern.
+Uncertainty exponent
+Hausdorff dimension: For any subset 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+ of a metric space 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ and 
+  
+    
+      
+        d
+        ≥
+        0
+      
+    
+    {\displaystyle d\geq 0}
+  
+, the d-dimensional Hausdorff content of S is defined by 
+  
+    
+      
+        
+          C
+          
+            H
+          
+          
+            d
+          
+        
+        (
+        S
+        )
+        :=
+        inf
+        
+          
+            {
+          
+        
+        
+          ∑
+          
+            i
+          
+        
+        
+          r
+          
+            i
+          
+          
+            d
+          
+        
+        :
+        
+           there is a cover of 
+        
+        S
+        
+           by balls with radii 
+        
+        
+          r
+          
+            i
+          
+        
+        >
+        0
+        
+          
+            }
+          
+        
+        .
+      
+    
+    {\displaystyle C_{H}^{d}(S):=\inf {\Bigl \{}\sum _{i}r_{i}^{d}:{\text{ there is a cover of }}S{\text{ by balls with radii }}r_{i}>0{\Bigr \}}.}
+  
+ The Hausdorff dimension of S is defined by
+
+  
+    
+      
+        
+          dim
+          
+            H
+          
+        
+        ⁡
+        (
+        X
+        )
+        :=
+        inf
+        {
+        d
+        ≥
+        0
+        :
+        
+          C
+          
+            H
+          
+          
+            d
+          
+        
+        (
+        X
+        )
+        =
+        0
+        }
+        .
+      
+    
+    {\displaystyle \dim _{\operatorname {H} }(X):=\inf\{d\geq 0:C_{H}^{d}(X)=0\}.}
+  
+
+Packing dimension
+Assouad dimension
+Local connected dimension
+Degree dimension describes the fractal nature of the degree distribution of graphs.
+Parabolic Hausdorff dimension
+
+Estimating from real-world data
+Many real-world phenomena exhibit limited or statistical fractal properties and fractal dimensions that have been estimated from sampled data using computer-based fractal analysis techniques.  
+Practically, measurements of fractal dimension are affected by various methodological issues and are sensitive to numerical or experimental noise and limitations in the amount of data. Nonetheless, the field is rapidly growing as estimated fractal dimensions for statistically self-similar phenomena may have many practical applications in various fields, including astronomy, acoustics, architecture,   geology and earth sciences, diagnostic imaging,
+ecology, electrochemical processes,
+image analysis, biology and medicine, neuroscience, network analysis, physiology, physics, and Riemann zeta zeros. Fractal dimension estimates have also been shown to correlate with Lempel–Ziv complexity in real-world data sets from psychoacoustics and neuroscience.
+An alternative to a direct measurement is considering a mathematical model that resembles formation of a real-world fractal object. In this case, a validation can also be done by comparing other than fractal properties implied by the model, with measured data. In colloidal physics, systems composed of particles with various fractal dimensions arise. To describe these systems, it is convenient  to speak about a distribution of fractal dimensions and, eventually, a time evolution of the latter: a process that is driven by a complex interplay between aggregation and coalescence.
+
+See also
+List of fractals by Hausdorff dimension
+Lacunarity – Term in geometry and fractal analysis
+Fractal derivative – Generalization of derivative to fractals
+
+Notes
+
+References
+
+Further reading
+Mandelbrot, Benoit B.; Hudson, Richard L. (2010). The (Mis)Behaviour of Markets: A Fractal View of Risk, Ruin and Reward. Profile Books. ISBN 978-1-84765-155-6.
+
+External links
+
+TruSoft's Benoit, fractal analysis software product calculates fractal dimensions and hurst exponents.
+A Java Applet to Compute Fractal Dimensions Archived 2011-01-26 at the Wayback Machine
+Introduction to Fractal Analysis
+Bowley, Roger (2009). "Fractal Dimension". Sixty Symbols. Brady Haran for the University of Nottingham.
+"Fractals are typically not self-similar". 3Blue1Brown.
+
+[[Lempel–Ziv complexity]]

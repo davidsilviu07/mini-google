@@ -1,0 +1,168 @@
+Auditory processing disorder
+Auditory processing disorder (APD) is a neurodevelopmental disorder affecting the way the brain processes sounds. Individuals with APD usually have normal structure and function of the ear, but cannot process the information they hear in the same way as others do, which leads to difficulties in recognizing and interpreting sounds, especially the sounds composing speech. It is thought that these difficulties arise from dysfunction in the central nervous system.
+A subtype is known as King–Kopetzky syndrome or auditory disability with normal hearing (ADN), characterised by difficulty in hearing speech in the presence of background noise. This is essentially a failure or impairment of the cocktail party effect (selective hearing) found in most people.
+The American Academy of Audiology notes that APD is diagnosed by difficulties in one or more auditory processes known to reflect the function of the central auditory nervous system. It can affect both children and adults, and may continue to affect children into adulthood. Although the actual prevalence is currently unknown, it has been estimated to impact 2–7% of children in US and UK populations. Males are twice as likely to be affected by the disorder as females.
+Neurodevelopmental forms of APD are different than aphasia because aphasia is by definition caused by acquired brain injury. However, acquired epileptic aphasia has been viewed as a form of APD.
+Auditory training (AT) is an important component of rehabilitation for patients with central auditory processing disorder (CAPD).
+
+Signs and symptoms
+Individuals with this disorder may experience the following signs and symptoms:
+
+speaking louder or softer than is situationally appropriate;
+difficulty remembering lists or sequences;
+needing words or sentences to be repeated;
+impaired ability to memorize information learned by listening;
+interpreting words too literally;
+needing assistance to hear clearly in noisy environments;
+relying on accommodation and modification strategies;
+finding or requesting a quiet work space away from others;
+requesting written material when attending oral presentations; and
+asking for directions to be given one step at a time.
+
+Relation to attention deficit hyperactivity disorder
+APD and attention deficit hyperactivity disorder (ADHD) can present with overlapping symptoms. Below is a ranked order of behavioral symptoms that are most frequently observed in each disorder. Professionals evaluated the overlap of symptoms between the two disorders, note the order of symptoms that are almost always observed. Although the symptoms listed have differences, their similar presentation in individuals often makes it difficult to differentiate between the two conditions.
+
+There is a co-occurrence between ADHD and APD. A systematic review published in 2018 detailed one study that showed 10% of children with APD have confirmed or suspected ADHD. It also stated that it is sometimes difficult to distinguish the two, since characteristics and symptoms between APD and ADHD tend to overlap. The systematic review also described this overlap between APD and other behavioral disorders and whether or not it was easy to distinguish those children that solely had auditory processing disorder.
+
+Relation to developmental language disorder and developmental dyslexia
+There has been considerable debate over the relationship between APD and developmental language disorder (DLD), previously called specific language impairment (SLI).
+SLI is diagnosed when a child has difficulties with understanding or producing spoken language, and the cause of these difficulties is not obvious (and specifically cannot be explained by peripheral hearing loss). The child is typically late in their language development and may struggle to produce clear speech sounds and produce or understand complex sentences. Some theorize that SLI is the result of auditory processing problems. However, this theory is not universally accepted; others theorize that the main difficulties associated with SLI stem from problems with the higher-level aspects of language processing. Where a child has both auditory and language problems, it can be difficult to sort out the causality at play.
+Similarly with developmental dyslexia, researchers continue to explore the hypothesis that reading problems emerge as a downstream consequence of difficulties in rapid auditory processing. Again, cause and effect can be hard to unravel. This is one reason why some experts have recommended using non-verbal auditory tests to diagnose APD. Specifically regarding neurological factors, dyslexia has been linked to polymicrogyria, which causes cell migrational problems. Children that have polymicrogyri almost always present with deficits on APD testing. It has also been suggested that APD may be related to cluttering, a fluency disorder marked by word and phrase repetitions.
+Some studies found that a higher than expected proportion of individuals diagnosed with SLI and dyslexia on the basis of language and reading tests also perform poorly on tests in which auditory processing skills are tested. APD can be assessed using tests that involve identifying, repeating, or discriminating speech, and a child may perform poorly because of primary language problems. In a study comparing children with a diagnosis of dyslexia and those with a diagnosis of APD, they found the two groups could not be distinguished. Analogous results were observed in studies comparing children diagnosed with SLI or APD, the two groups presenting with similar diagnostic criteria. As such, the diagnosis a child receives may depend on which specialist they consult: the same child who might be diagnosed with APD by an audiologist may instead be diagnosed with SLI by a speech-language therapist, or with dyslexia by a psychologist.
+
+Causes
+
+Acquired
+Acquired APD can be caused by any damage to, or dysfunction of, the central auditory nervous system and can cause auditory processing problems. For an overview of neurological aspects of APD, see T. D. Griffiths's 2002 article "Central Auditory Pathologies".
+
+Genetics
+Some studies have indicated an increased prevalence of a family history of hearing impairment in these patients. The pattern of results is suggestive that auditory processing disorder may be related to conditions of autosomal dominant inheritance. In other words, the ability to listen to and comprehend multiple messages at the same time is a trait that is heavily influenced by genes. These "short circuits in the wiring" sometimes run in families or result from a difficult birth, just like any learning disability. Inheritance of auditory processing disorder refers to whether an individual inherits the condition from their parents, or whether it runs in families.  Central auditory processing disorder may be hereditary neurological traits from the mother or the father.
+
+Developmental
+In the majority of cases of developmental APD, the cause is unknown. An exception is acquired epileptic aphasia or Landau–Kleffner syndrome, where a child's development regresses, with language comprehension severely affected. The child is often thought to be deaf, but testing reveals normal peripheral hearing. In other cases, suspected or known causes of APD in children include delay in myelin maturation, ectopic (misplaced) cells in the auditory cortical areas, or genetic predisposition. In one family with autosomal dominant epilepsy, seizures which affected the left temporal lobe seemed to cause problems with auditory processing. In another extended family with a high rate of APD, genetic analysis showed a haplotype in chromosome 12 that fully co-segregated with language impairment.
+Hearing begins in utero, but the central auditory system continues to develop for at least the first decade after birth. There is considerable interest in the idea that disruption to hearing during a sensitive period may have long-term consequences for auditory development. One study showed thalamocortical connectivity in vitro was associated with a time sensitive developmental window and required a specific cell adhesion molecule (lcam5) for proper brain plasticity to occur. This points to connectivity between the thalamus and cortex shortly after being able to hear (in vitro) as at least one critical period for auditory processing. Another study showed that rats reared in a single tone environment during critical periods of development had permanently impaired auditory processing. In rats, "bad" auditory experiences, such as temporary deafness by cochlear removal, leads to neuron shrinkage. In a study looking at attention in APD patients, children with one ear blocked developed a strong right-ear advantage but were not able to modulate that advantage during directed-attention tasks.
+In the 1980s and 1990s, there was considerable interest in the role of chronic otitis media (also called middle ear disease or "glue ear") in causing APD and related language and literacy problems. Otitis media with effusion is a very common childhood disease that causes a fluctuating conductive hearing loss, and there was concern this may disrupt auditory development if it occurred during a sensitive period. Consistent with this, in a sample of young children with chronic ear infections recruited from a hospital otorhinolaryngology department, increased rates of auditory difficulties were found later in childhood. However, this kind of study will have sampling bias because children with otitis media will be more likely to be referred to hospital departments if they are experiencing developmental difficulties. Compared with hospital studies, epidemiological studies, which assesses a whole population for otitis media and then evaluate outcomes, found much weaker evidence for long-term impacts of otitis media on language outcomes.
+
+Somatic
+It seems that somatic anxiety (that is, physical symptoms of anxiety such as butterflies in the stomach or cotton mouth) and situations of stress may be determinants of speech-hearing disability.
+
+Diagnosis
+Questionnaires which address common listening problems can be used to identify individuals who may have auditory processing disorder, and can help in the decision to pursue clinical evaluation. 
+One of the most common listening problems is speech recognition in the presence of background noise. 
+According to the respondents who participated in a study by Neijenhuis, de Wit, and Luinge (2017), symptoms of APD which are characteristic in children with listening difficulties, and are typically problematic with adolescents and adults, include:
+
+Difficulty hearing in noisy environments
+Auditory attention problems
+Understanding speech more easily in one-on-one situations
+Difficulties in noise localization
+Difficulties in remembering oral information
+According to the New Zealand Guidelines on Auditory Processing Disorders (2017), the following checklist of key symptoms of APD or comorbidities can be used to identify individuals who should be referred for audiological and APD assessment:
+
+Difficulty following spoken directions unless they are brief and simple
+Difficulty attending to and remembering spoken information
+Slowness in processing spoken information
+Difficulty understanding in the presence of other sounds
+Overwhelmed by complex or "busy" auditory environments e.g. classrooms, shopping malls
+Poor listening skills
+Insensitivity to tone of voice or other nuances of speech
+Acquired brain injury
+History of frequent or persistent middle ear disease (otitis media, "glue ear").
+Difficulty with language, reading, or spelling
+Suspicion or diagnosis of dyslexia
+Suspicion or diagnosis of language disorder or delay
+Finally, the New Zealand guidelines state that behavioral checklists and questionnaires should only be used to provide guidance for referrals, for information gathering (for example, prior to assessment or as outcome measures for interventions), and as measures to describe the functional impact of auditory processing disorder. They are not designed for the purpose of diagnosing auditory processing disorders. The New Zealand guidelines indicate that a number of questionnaires have been developed to identify children who might benefit from evaluation of their problems in listening. Examples of available questionnaires include the Fisher's Auditory Problems Checklist, the Children's Auditory Performance Scale, the Screening Instrument for Targeting Educational Risk, and the Auditory Processing Domains Questionnaire among others. All of the previous questionnaires were designed for children and none are useful for adolescents and adults.
+The University of Cincinnati Auditory Processing Inventory (UCAPI) was designed for use with adolescents and adults seeking testing for evaluation of problems with listening and/or to be used following diagnosis of an auditory processing disorder to determine the subject's status. Following a model described by Zoppo et al. (2015), a 34-item questionnaire was developed that investigates auditory processing abilities in each of the six common areas of complaint in APD (listening and concentration, understanding speech, following spoken instructions, attention, and other.) The final questionnaire was standardized on normally-achieving young adults ranging from 18 to 27 years of age. Validation data was acquired from subjects with language-learning or auditory processing disorders who were either self-reported or confirmed by diagnostic testing. A UCAPI total score is calculated by combining the totals from the six listening conditions and provides an overall value to categorize listening abilities. Additionally, analysis of the scores from the six listening conditions provides an auditory profile for the subject. Each listening condition can then be utilized by the professional in making recommendation for diagnosing problem of learning through listening and treatment decisions. The UCAPI provides information on listening problems in various populations that can aid examiners in making recommendations for assessment and management.
+APD has been defined anatomically in terms of the integrity of the auditory areas of the nervous system. However, children with symptoms of APD typically have no evidence of neurological disease, so the diagnosis is made based on how the child performs behavioral auditory tests. Auditory processing is "what we do with what we hear", and in APD there is a mismatch between peripheral hearing ability (which is typically normal) and ability to interpret or discriminate sounds. Thus in those with no signs of neurological impairment, APD is diagnosed on the basis of auditory tests. There is, however, no consensus as to which tests should be used for diagnosis, as evidenced by the succession of task force reports that have appeared in recent years.
+The first of these occurred in 1996. This was followed by a conference organized by the American Academy of Audiology.
+Experts attempting to define diagnostic criteria have to grapple with the problem that a child may do poorly on an auditory test for reasons other than poor auditory perception: for instance, failure could be due to inattention, difficulty in coping with task demands, or limited language ability. In an attempt to rule out at least some of these factors, the American Academy of Audiology conference explicitly advocated that for APD to be diagnosed, the child must have a modality-specific problem, i.e. affecting auditory but not visual processing. However, a committee of the American Speech-Language-Hearing Association subsequently rejected modality-specificity as a defining characteristic of auditory processing disorders.
+
+Definitions
+in 2005 the American Speech–Language–Hearing Association published "Central Auditory Processing Disorders" as an update to the 1996 publication, "Central Auditory Processing: Current Status of Research and Implications for Clinical Practice". The American Academy of Audiology has released more current practice guidelines related to the disorder. ASHA formally defines APD as "a difficulty in the efficiency and effectiveness by which the central nervous system (CNS) utilizes auditory information."
+In 2018, the British Society of Audiology published a "position statement and practice guidance" on auditory processing disorder and updated its definition of APD. According to the Society, APD refers to the inability to process speech and on-speech sounds.
+Auditory processing disorder can be developmental or acquired. It may result from ear infections, head injuries, or neurodevelopmental delays that affect processing of auditory information. This can include problems with: "...sound localization and lateralization (see also binaural fusion); auditory discrimination; auditory pattern recognition; temporal aspects of audition, including temporal integration, temporal discrimination (e.g., temporal gap detection), temporal ordering, and temporal masking; auditory performance in competing acoustic signals (including dichotic listening); and auditory performance with degraded acoustic signals".
+The Committee of UK Medical Professionals Steering the UK Auditory Processing Disorder Research Program have developed the following working definition of auditory processing disorder: "APD results from impaired neural function and is characterized by poor recognition, discrimination, separation, grouping, localization, or ordering of speech sounds. It does not solely result from a deficit in general attention, language or other cognitive processes."
+
+Types of testing
+The SCAN-C for children and SCAN-A for adolescents and adults are the most common tools for screening and diagnosing APD in the USA. Both tests are standardized on a large number of subjects and include validation data on subjects with auditory processing disorders. The SCAN test batteries include screening tests: norm-based criterion-referenced scores; diagnostic tests: scaled scores, percentile ranks and ear advantage scores for all tests except the Gap Detection test. The four tests include four subsets on which the subject scores are derived include: discrimination of monaurally presented single words against background noise (speech in noise), acoustically degraded single words (filtered words), dichotically presented single words and sentences.
+Random Gap Detection Test (RGDT) is also a standardized test. It assesses an individual's gap detection threshold of tones and white noise. The exam includes stimuli at four different frequencies (500, 1000, 2000, and 4000 Hz) and white noise clicks of 50 ms duration. This test provides an index of auditory temporal resolution. In children, an overall gap detection threshold greater than 20 ms means they have failed and may have an auditory processing disorder based on abnormal perception of sound in the time domain.
+Gaps in Noise Test (GIN) also measures temporal resolution by testing the patient's gap detection threshold in white noise.
+Pitch Patterns Sequence Test (PPT) and Duration Patterns Sequence Test (DPT) measure auditory pattern identification. The PPS has s series of three tones presented at either of two pitches (high or low). Meanwhile, the DPS has a series of three tones that vary in duration rather than pitch (long or short). Patients are then asked to describe the pattern of pitches presented.
+Masking Level Difference (MLD) at 500 Hz measures overlapping temporal processing, binaural processing, and low-redundancy by measuring the difference in threshold of an auditory stimulus when a masking noise is presented in and out of phase.
+The Staggered Spondaic Word Test (SSW) is one of the oldest tests for APD developed by Jack Katz. Although it has fallen into some disuse by audiologists as it is complicated to score, it is one of the quickest and most sensitive tests to determine APD.
+
+Modality-specificity and controversies
+The issue of modality-specificity has led to considerable debate among experts in this field. Cacace and McFarland have argued that APD should be defined as a modality-specific perceptual dysfunction that is not due to peripheral hearing loss. They criticize more inclusive conceptualizations of APD as lacking diagnostic specificity. A requirement for modality-specificity could potentially avoid including children whose poor auditory performance is due to general factors such as poor attention or memory. Others, however, have argued that a modality-specific approach is too narrow, and that it would miss children who had genuine perceptual problems affecting both visual and auditory processing. It is also impractical, as audiologists do not have access to standardized tests that are visual analogs of auditory tests. The debate over this issue remains unresolved between modality-specific researchers such as Cacace, and associations such as the American Speech-Language-Hearing Association (among others). It is clear, however, that a modality-specific approach will diagnose fewer children with APD than a modality-general one, and that the latter approach runs a risk of including children who fail auditory tests for reasons other than poor auditory processing. Although modality-specific testing has been advocated for well over a decade, the visual analog of APD testing has met with sustained resistance from the fields of optometry and ophthalmology.
+Another controversy concerns the fact that most traditional tests of APD use verbal materials. The British Society of Audiology has embraced Moore's (2006) recommendation that tests for APD should assess processing of non-speech sounds. The concern is that if verbal materials are used to test for APD, then children may fail because of limited language ability. An analogy may be drawn with trying to listen to sounds in a foreign language. It is much harder to distinguish between sounds or to remember a sequence of words in a language one does not know well: the problem is not an auditory one, but rather due to lack of expertise in the language.
+In recent years there have been additional criticisms of some popular tests for diagnosis of APD. Tests that use tape-recorded American English have been shown to over-identify APD in speakers of other forms of English. Performance on a battery of non-verbal auditory tests devised by the Medical Research Council's Institute of Hearing Research was found to be heavily influenced by non-sensory task demands, and indices of APD had low reliability when this was controlled for. This research undermines the validity of APD as a distinct entity in its own right and suggests that the use of the term disorder itself is unwarranted. In a recent review of such diagnostic issues, it was recommended that children with suspected auditory processing impairments receive a holistic psychometric assessment including general intellectual ability, auditory memory, and attention, phonological processing, language, and literacy. The authors state that "a clearer understanding of the relative contributions of perceptual and non-sensory, unimodal and supramodal factors to performance on psychoacoustic tests may well be the key to unraveling the clinical presentation of these individuals."
+Depending on how it is defined, APD may share common symptoms with ADD/ADHD, specific language impairment, and autism spectrum disorders. A review showed substantial evidence for atypical processing of auditory information in children with autism. Dawes and Bishop noted how specialists in audiology and speech-language pathology often adopted different approaches to child assessment, and they concluded their review as follows: "We regard it as crucial that these different professional groups work together in carrying out assessment, treatment and management of children and undertaking cross-disciplinary research." In practice, this seems rare.
+To ensure that APD is correctly diagnosed, the examiners must differentiate APD from other disorders with similar symptoms. Factors that should be taken into account during the diagnosis are: attention, auditory neuropathy, fatigue, hearing and sensitivity, intellectual and developmental age, medications, motivation, motor skills, native language and language experience, response strategies and decision-making style, and visual acuity.
+It should also be noted that children under the age of seven cannot be evaluated correctly because their language and auditory processes are still developing. In addition, the presence of APD cannot be evaluated when a child's primary language is not English.
+
+Characteristics
+The American Speech-Language-Hearing Association state that children with (central) auditory processing disorder often:
+
+have trouble paying attention to and remembering information presented orally, and may cope better with visually acquired information
+have problems carrying out multi-step directions given orally; need to hear only one direction at a time
+have poor listening skills
+need more time to process information
+have difficulty learning a new language
+have difficulty understanding jokes, sarcasm, and learning songs or nursery rhymes
+have language difficulties (e.g., they confuse syllable sequences and have problems developing vocabulary and understanding language)
+have difficulty with reading, comprehension, spelling, and vocabulary
+APD can manifest as problems determining the direction of sounds, difficulty perceiving differences between speech sounds and the sequencing of these sounds into meaningful words, confusing similar sounds such as hat with bat, there with where, etc.  Fewer words may be perceived than were actually said, as there can be problems detecting the gaps between words, creating the sense that someone is speaking unfamiliar or nonsense words. In addition, it is common for APD to cause speech errors involving the distortion and substitution of consonant sounds. Those with APD may have problems relating what has been said with its meaning, despite obvious recognition that a word has been said, as well as repetition of the word.  Background noise, such as the sound of a radio, television or a noisy bar can make it difficult to impossible to understand speech, since spoken words may sound distorted either into irrelevant words or words that do not exist, depending on the severity of the auditory processing disorder. Using a telephone can be problematic for someone with auditory processing disorder, in comparison with someone with normal auditory processing, due to low quality audio, poor signal, intermittent sounds, and the chopping of words. Many who have auditory processing disorder subconsciously develop visual coping strategies, such as lip reading, reading body language, and eye contact, to compensate for their auditory deficit, and these coping strategies are not available when using a telephone.
+As noted above, the status of APD as a distinct disorder has been queried, especially by speech-language pathologists and psychologists, who note the overlap between clinical profiles of children diagnosed with APD and those with other forms of specific learning disability. Many audiologists, however, would dispute that APD is just an alternative label for dyslexia, SLI, or ADHD, noting that although it often co-occurs with these conditions, it can be found in isolation.
+
+Subcategories
+Based on sensitized measures of auditory dysfunction and on psychological assessment, patients can be subdivided into seven subcategories:
+
+middle ear dysfunction
+mild cochlear pathology
+central/medial olivocochlear efferent system (MOCS) auditory dysfunction
+purely psychological problems
+multiple auditory pathologies
+combined auditory dysfunction and psychological problems
+unknown
+Different subgroups may represent different pathogenic and etiological factors. Thus, subcategorization provides further understanding of the basis of auditory processing disorder, and hence may guide the rehabilitative management of these patients. This was suggested by Professor Dafydd Stephens and Fei Zhao at the Welsh Hearing Institute, Cardiff University.
+
+Treatment
+
+Treatment of APD typically focuses on three primary areas: changing learning environment, developing higher-order skills to compensate for the disorder, and remediation of the auditory deficit itself. However, there is a lack of well-conducted evaluations of intervention using randomized controlled trial methodology. Most evidence for effectiveness adopts weaker standards of evidence, such as showing that performance improves after training. This does not control for possible influences of practice, maturation, or placebo effects. Recent research has shown that practice with basic auditory processing tasks (i.e. auditory training) may improve performance on auditory processing measures and phonemic awareness measures.  Changes after auditory training have also been recorded at the physiological level. Many of these tasks are incorporated into computer-based auditory training programs such as Earobics and Fast ForWord, an adaptive software available at home and in clinics worldwide,  but overall, evidence for effectiveness of these computerized interventions in improving language and literacy is not impressive. One small-scale uncontrolled study reported successful outcomes for children with APD using auditory training software.
+Treating additional issues related to APD can result in success. For example, treatment for phonological disorders (difficulty in speech) can result in success in terms of both the phonological disorder as well as APD. In one study, speech therapy improved auditory evoked potentials (a measure of brain activity in the auditory portions of the brain). Furthermore, a Cochrane review from 2011 found no evidence of therapeutic effects for sound therapies, including the Tomatis therapy.
+While there is evidence that language training is effective for improving APD, there is no current research supporting the following APD treatments:
+
+Auditory integration training typically involves a child attending two 30-minute sessions per day for ten days.
+Lindamood-Bell Learning Processes (particularly, the Visualizing and Verbalizing program)
+Physical activities that require frequent crossing of the midline (e.g., occupational therapy)
+Sound Field Amplification
+Neuro-Sensory Educational Therapy
+Neurofeedback
+The use of an individual FM transmitter/receiver system by teachers and students has nevertheless been shown to produce significant improvements with children over time.
+
+History
+Samuel J. Kopetzky first described the condition in 1948. P. F. King first discussed the etiological factors behind it in 1954. Helmer Rudolph Myklebust's 1954 study, "Auditory Disorders in Children". suggested auditory processing disorder was separate from language learning difficulties. His work sparked interest in auditory deficits after acquired brain lesions affecting the temporal lobes  and led to additional work looking at the physiological basis of auditory processing, but it was not until the late 1970s and early 1980s that research began on APD in depth.
+In 1977, the first conference on the topic of APD was organized by Robert W. Keith, Ph.D. at the University of Cincinnati.  The proceedings of that conference was published by Grune and Stratton under the title "Central Auditory Dysfunction" (Keith RW Ed.)  That conference started a new series of studies focusing on APD in children. Virtually all tests currently used to diagnose APD originate from this work. These early researchers also invented many of the auditory training approaches, including interhemispheric transfer training and interaural intensity difference training. This period gave us a rough understanding of the causes and possible treatment options for APD.
+Much of the work in the late 1990s and 2000s has been looking to refining testing, developing more sophisticated treatment options, and looking for genetic risk factors for APD. Scientists have worked on improving behavioral tests of auditory function, neuroimaging, electroacoustic, and electrophysiologic testing. Working with new technology has led to a number of software programs for auditory training. With global awareness of mental disorders and increasing understanding of neuroscience, auditory processing is more in the public and academic consciousness than in years past.
+
+See also
+Amblyaudia
+Auditory verbal agnosia
+Cocktail party effect
+Cortical deafness
+Dafydd Stephens
+Echoic memory
+Hearing loss
+Language processing
+List of eponymous diseases
+Music-specific disorders
+Selective auditory attention
+Selective mutism
+Sensory processing disorders
+Spatial hearing loss
+
+References
+
+External links
+Auditory processing disorder: An overview for the clinician
+American Speech-Language-Hearing Association (ASHA)
+
+[[Attention deficit hyperactivity disorder]] [[Cerebral cortex]] [[Cerebrospinal fluid]] [[Dementia]] [[Encephalopathy]] [[Epilepsy]] [[Focal seizure]] [[Generalized epilepsy]] [[Intracranial pressure]] [[Landau–Kleffner syndrome]] [[Medical specialty]] [[Migraine]] [[Myoclonic epilepsy]] [[Neurofeedback]] [[Neurology]] [[Parkinson's disease]] [[Seizure]] [[Spinal cord]] [[Status epilepticus]] [[Stroke]]

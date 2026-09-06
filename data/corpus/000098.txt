@@ -1,0 +1,79 @@
+Automatic test pattern generation
+ATPG (acronym for both automatic test pattern generation and automatic test pattern generator) is an electronic design automation method or technology used to find an input (or test) sequence that, when applied to a digital circuit, enables automatic test equipment to distinguish between the correct circuit behavior and the faulty circuit behavior caused by defects. The generated patterns are used to test semiconductor devices after manufacture, or to assist with determining the cause of failure (failure analysis).  The effectiveness of ATPG is measured by the number of modeled defects, or fault models, detectable and by the number of generated patterns. These metrics generally indicate test quality (higher with more fault detections) and test application time (higher with more patterns).  ATPG efficiency is another important consideration that is influenced by the fault model under consideration, the type of circuit under test (full scan, synchronous sequential, or asynchronous sequential), the level of abstraction used to represent the circuit under test (gate, register-transfer, switch), and the required test quality.
+
+Basics
+A defect is an error caused in a device during the manufacturing process. A fault model is a mathematical description of how a defect alters design behavior. The logic values observed at the device's primary outputs, while applying a test pattern to some device under test (DUT), are called the output of that test pattern. The output of a test pattern, when testing a fault-free device that works exactly as designed, is called the expected output of that test pattern. A fault is said to be detected by a test pattern if the output of that test pattern, when testing a device that has only that one fault, is different than the expected output. The ATPG process for a targeted fault consists of two phases: fault activation and fault propagation. Fault activation establishes a signal value at the fault model site that is opposite of the value produced by the fault model. Fault propagation moves the resulting signal value, or fault effect, forward by sensitizing a path from the fault site to a primary output.
+ATPG can fail to find a test for a particular fault in at least two cases. First, the fault may be intrinsically undetectable, such that no patterns exist that can detect that particular fault. The classic example of this is a redundant circuit, designed such that no single fault causes the output to change. In such a circuit, any single fault will be inherently undetectable.
+Second, it is possible that a detection pattern exists, but the algorithm cannot find one.  Since the ATPG problem is NP-complete (by reduction from the Boolean satisfiability problem) there will be cases where patterns exist, but ATPG gives up as it will take too long to find them (assuming P≠NP, of course).
+
+Fault models
+   
+single fault assumption: only one fault occur in a circuit. if we define k possible fault types in our fault model the circuit has n signal lines, by single fault assumption, the total number of single faults is k×n.
+multiple fault assumption: multiple faults may occur in a circuit.
+
+Fault collapsing
+Equivalent faults produce the same faulty behavior for all input patterns. Any single fault from the set of equivalent faults can represent the whole set. In this case, much less than k×n fault tests are required for a circuit with n signal line. Removing equivalent faults from entire set of faults is called fault collapsing.
+
+The stuck-at fault model
+
+In the past several decades, the most popular fault model used in practice is the single stuck-at fault model. In this model, one of the signal lines in a circuit is assumed to be stuck at a fixed logic value, regardless of what inputs are supplied to the circuit. Hence, if a circuit has n signal lines, there are potentially 2n stuck-at faults defined on the circuit, of which some can be viewed as being equivalent to others. The stuck-at fault model is a logical fault model because no delay information is associated with the fault definition. It is also called a permanent fault model because the faulty effect is assumed to be permanent, in contrast to intermittent faults which occur (seemingly) at random and transient faults which occur sporadically, perhaps depending on operating conditions (e.g. temperature, power supply voltage) or on the data values (high or low voltage states) on surrounding signal lines. The single stuck-at fault model is structural because it is defined based on a structural gate-level circuit model.
+A pattern set with 100% stuck-at fault coverage consists of tests to detect every possible stuck-at fault in a circuit. 100% stuck-at fault coverage does not necessarily guarantee high quality, since faults of many other kinds often occur (e.g. bridging faults, opens faults, delay faults).
+
+Transistor faults
+This model is used to describe faults for CMOS logic gates. At transistor level, a transistor maybe stuck-short or stuck-open. In stuck-short, a transistor behaves as it is always conducts (or stuck-on), and stuck-open is when a transistor never conducts current (or stuck-off). Stuck-short will produce a short between VDD and VSS.
+
+Bridging faults
+
+A short circuit between two signal lines is called bridging faults. Bridging to VDD or Vss is equivalent to stuck at fault model. Traditionally both signals after bridging were modeled with logic AND or OR of both signals. If one driver dominates the other driver in a bridging situation, the dominant driver forces the logic to the other one, in such case a dominant bridging fault is used. To better reflect the reality of CMOS VLSI devices, a Dominant AND or Dominant OR bridging fault model is used.  In the latter case, dominant driver keeps its value, while the other one gets the AND or OR value of its own and the dominant driver.
+
+Opens faults
+
+Delay faults
+Delay faults can be classified as:
+
+Gate delay fault
+Transition fault
+Hold Time fault
+Slow/Small delay fault
+Path delay fault:  This fault is due to the sum of all gate propagation delays along a single path. This fault shows that the delay of one or more paths exceeds the clock period.  One major problem in finding delay faults is the number of possible paths in a circuit under test (CUT), which in the worst case can grow exponentially with the number of lines n in the circuit.
+
+Combinational ATPG
+The combinational ATPG method allows testing the individual nodes (or flip-flops) of the logic circuit without being concerned with the operation of the overall circuit. During test, a so-called scan-mode is enabled forcing all flip-flops (FFs) to be connected in a simplified fashion, effectively bypassing their interconnections as intended during normal operation. This allows using a relatively simple vector matrix to quickly test all the comprising FFs, as well as to trace failures to specific FFs.
+
+Sequential ATPG
+Sequential-circuit ATPG searches for a sequence of test vectors to detect a particular fault through the space of all possible test vector sequences. Various search strategies and heuristics have been devised to find a shorter sequence, or to find a sequence faster. However, according to reported results, no single strategy or heuristic out-performs others for all applications or circuits. This observation implies that a test generator should include a comprehensive set of heuristics.
+Even a simple stuck-at fault requires a sequence of vectors for detection in a sequential circuit. Also, due to the presence of memory elements, the controllability and observability of the internal signals in a sequential circuit are in general much more difficult than those in a combinational logic circuit. These factors make the complexity of sequential ATPG much higher than that of combinational ATPG, where a scan-chain (i.e. switchable, for-test-only signal chain) is added to allow simple access to the individual nodes.
+Due to the high complexity of the sequential ATPG, it remains a challenging task for large, highly sequential circuits that do not incorporate any Design For Testability (DFT) scheme. However, these test generators, combined with low-overhead DFT techniques such as partial scan, have shown a certain degree of success in testing large designs. For designs that are sensitive to area or performance overhead, the solution of using sequential-circuit ATPG and partial scan offers an attractive alternative to the popular full-scan solution, which is based on combinational-circuit ATPG.
+
+Nanometer technologies
+Historically, ATPG has focused on a set of faults derived from a gate-level fault model.  As design trends move toward nanometer technology, new manufacture testing problems are emerging. During design validation, engineers can no longer ignore the effects of crosstalk and power supply noise on reliability and performance. Current fault modeling and vector-generation techniques are giving way to new models and techniques that consider timing information during test generation, that are scalable to larger designs, and that can capture extreme design conditions. For nanometer technology, many current design validation problems are becoming manufacturing test problems as well, so new fault-modeling and ATPG techniques will be needed.
+
+Algorithmic methods
+Testing very-large-scale integrated circuits with a high fault coverage is a difficult task because of complexity.
+Therefore, many different ATPG methods have been developed to address combinational and sequential circuits.
+
+Early test generation algorithms such as boolean difference and literal proposition were not practical to implement on a computer.
+The D Algorithm was the first practical test generation algorithm in terms of memory requirements. The D Algorithm [proposed by Roth 1966] introduced D Notation which continues to be used in most ATPG algorithms. D Algorithm tries to propagate the stuck at fault value denoted by D (for SA0) or D (for SA1) to a primary output.
+Path-Oriented Decision Making (PODEM) is an improvement over the D Algorithm. PODEM was created in 1981, by Prabhu Goel, when shortcomings in D Algorithm became evident when design innovations resulted in circuits that D Algorithm could not realize.
+Fan-Out Oriented (FAN algorithm) is an improvement over PODEM. It limits the ATPG search space to reduce computation time and accelerates backtracing.
+Methods based on Boolean satisfiability are sometimes used to generate test vectors.
+Pseudorandom test generation is the simplest method of creating tests. It uses a pseudorandom number generator to generate test vectors, and relies on logic simulation to compute good machine results, and fault simulation to calculate the fault coverage of the generated vectors.
+Wavelet Automatic Spectral Pattern Generator (WASP) is an improvement over spectral algorithms for sequential ATPG. It uses wavelet heuristics to search space to reduce computation time and accelerate the compactor. It was put forward by Suresh kumar Devanathan from Rake Software and Michael Bushnell, Rutgers University. Suresh kumar Devanathan invented WASP as a part of his thesis at Rutgers.
+
+Relevant conferences
+ATPG is a topic that is covered by several conferences throughout the year.  The primary US conferences are the International Test Conference and The VLSI Test Symposium, while in Europe the topic is covered by DATE and ETS.
+
+See also
+ASIC
+Boundary scan (BSCAN)
+Built-in self-test (BIST)
+Design for test (DFT)
+Fault model
+JTAG
+VHSIC
+
+References
+Electronic Design Automation For Integrated Circuits Handbook, by Lavagno, Martin, and Scheffer, ISBN 0-8493-3096-3 A survey of the field, from which the above summary was derived, with permission.
+Microelectronics Failure Analysis. Materials Park, Ohio: ASM International. 2004. ISBN 0-87170-804-3.
+
+[[Algorithm]] [[Built-in self-test]] [[Electronic design automation]] [[Logic simulation]]

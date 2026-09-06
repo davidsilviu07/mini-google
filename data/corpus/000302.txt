@@ -1,0 +1,56 @@
+DRE voting machine
+A DRE voting machine, or direct-recording electronic voting machine, records votes by means of a ballot display provided with mechanical or electro-optical components that can be activated by the voter. These are typically buttons or a touchscreen; and they process data using a computer program to record voting data and ballot images in memory components. After the election, it produces a tabulation of the voting data stored in a removable memory component and as printed copy. The system may also provide a means for transmitting individual ballots or vote totals to a central location for consolidating and reporting results from precincts at the central location. The device started to be massively used in 1996 in Brazil where 100% of the elections voting system is carried out using machines.
+In 2004, 28.9% of the registered voters in the United States used some type of direct recording electronic voting system, up from 7.7% in 1996.
+
+History
+
+The idea of voting by push button with electrical technology used to total the votes dates back to the 19th century when Frank Wood of Boston was granted a patent on a direct-recording electrical voting machine. (Thomas Edison's electrical voting system patent is sometimes cited in this regard, but it was intended for tallying roll-call votes in legislative chambers; as such, it is more like an audience response system.) The idea of electrical voting was pursued with much more vigor in the 20th century. Numerous patents were filed in the 1960s, many of them by AVM Corporation (the former Automatic Voting Machine Corporation), the company that had a near monopoly on mechanical voting machine at the time.
+The first direct-recording electronic voting machine to be used in a government election was the Video Voter. This was developed by the Frank Thornber Company in Chicago. The Video Voter saw its first trial use in 1974 near Chicago, Illinois, and remained in use until 1980.
+Microvote and Shoup Voting Machine Corporation entered the market in the mid 1980s with the MV-464 and the Shouptronic. Both of these machines saw widespread use; over 11,000 Shouptronic machines had been sold by 1993. In the years that followed, the rights to the Shouptronic were transferred to Guardian Voting and then to Danaher Controls, which sold it as the ELECTronic 1242.
+
+Benefits
+
+DREs  prevent overvotes and provide immediate feedback to the voter about undervotes. They avoid ballots with ambiguous marks where voter intent can be unclear.
+Like electronic ballot markers, DREs can be programmed to offer ballots in multiple languages, and they let people with disabilities vote without assistance, which would remove the anonymity of their vote. The machines can use headphones and other adaptive technology to provide accessibility. 
+Additionally, with DRE voting systems there is no risk of exhausting the supply of paper ballots, and they remove the need for printing paper ballots, which cost $0.10 to $0.55 per ballot, though some versions print results on thermal paper, which has ongoing costs.
+
+Issues
+Skepticism about the integrity of DRE voting machines led to the creation of election forensics, which can help identify election fraud. 
+
+Delays in voting
+DREs can cause more delay than paper ballots at busy times, since every voter needs access to a machine. Queuing theory calculates that waits of an hour result from known variations in when voters arrive, number of voters per machine, and average time a voter spends with a machine. 
+
+Errors
+
+Issues have included public web access to the software, before it is loaded into machines for each election, and programming errors which increment different candidates than voters select.
+
+2009 German court ruling
+In 2009, the Federal Constitutional Court of Germany found that with voting machines the "determination of the result must be able to be examined by the citizen reliably and without any specialist knowledge of the subject." They further found the DRE-type voting machines, used in parliamentary elections under current German law, permitted voting machines but were unconstitutional without further qualification. The decision does not ban electronic voting but implements a higher standard.
+
+Demonstrated laboratory attacks
+Diebold Election Systems AccuVote-TS (Manipulation of the votes by the Princeton University)
+Nedap ES3B (Manipulation of the votes by a citizen group)
+SDU voting computers (Violating the secrecy of the ballot using Van Eck phreaking, tested by the Dutch secret service AIVD)
+Attacks have also been performed on both DRE machines and optical scan voting machines, which count paper ballots. (See California study, "Security Analysis of the Diebold AccuBasic Interpreter").
+Whether it is a DRE or an optical scan machine, the opportunity for tampering applies to persons with inside access (including government workers) and to a lesser extent, outside hackers. Therefore, framing election tampering issues as "hacking" may not be an accurate framework for public concerns. Within the context of protecting voting rights, it would not matter whether vote alteration was done by an outsider or an insider. What is of most importance is the ability to perform an audit with a record generated and verified by the voter at the time their vote is cast, all of which is lost with the sole use of these DRE systems.
+
+See also
+Electronic voting
+Open Voting Consortium
+Optical scan voting system
+Security seal
+Voter-verified paper audit trail
+Electronic voting in Brazil
+Electronic voting in the United States#Direct-recording electronic counting
+Vote counting#Direct-recording electronic counting
+Voting machine
+Voting_machine#Direct-recording_electronic_(DRE)
+
+References
+
+External links
+
+Electronic voting website by Rebecca Mercuri
+Verified Voting
+
+[[Absentee ballot]] [[Ballot]] [[Certification of voting machines]] [[Chad (paper)]] [[Election Systems & Software]] [[Electronic voting]] [[Electronic voting in Brazil]] [[Electronic voting in the United States]] [[Electronic voting machine]] [[Hart InterCivic]] [[Help America Vote Act]] [[Independent Testing Authority]] [[Independent verification systems]] [[Premier Election Solutions]]

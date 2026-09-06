@@ -1,0 +1,29 @@
+Electroretinography
+Electroretinography measures the electrical responses of various cell types in the retina, including the photoreceptors (rods and cones), inner retinal cells (bipolar and amacrine cells), and the ganglion cells. Electrodes are placed on the surface of the cornea (DTL silver/nylon fiber string or ERG jet) or on the skin beneath the eye (sensor strips) to measure retinal responses.  Retinal pigment epithelium (RPE) responses are measured with an EOG test with skin-contact electrodes placed near the canthi. During a recording, the patient's eyes are exposed to standardized stimuli and the resulting signal is displayed showing the time course of the signal's amplitude (voltage). Signals are very small, and typically are measured in microvolts or nanovolts. The ERG is composed of electrical potentials contributed by different cell types within the retina, and the stimulus conditions (flash or pattern stimulus, whether a background light is present, and the colors of the stimulus and background) can elicit stronger response from certain components.
+If a dim flash ERG is performed on a dark-adapted eye, the response is primarily from the rod system. Flash ERGs performed on a light adapted eye will reflect the activity of the cone system. Sufficiently bright flashes will elicit ERGs containing an a-wave (initial negative deflection) followed by a b-wave (positive deflection). The leading edge of the a-wave is produced by the photoreceptors, while the remainder of the wave is produced by a mixture of cells including photoreceptors, bipolar, amacrine, and Müller cells or Müller glia. The pattern ERG (PERG), evoked by an alternating checkerboard stimulus, primarily reflects activity of retinal ganglion cells.
+
+Diagnostics
+
+Clinically used mainly by ophthalmologists  the electroretinogram (ERG) is used for the diagnosis of various retinal diseases.
+Other ocular disorders in which the standard ERG provides useful information include:
+
+Diabetic retinopathy
+Other ischemic retinopathies include central retinal vein occlusion (CRVO).
+Other ERG tests, such as the photopic negative response (PhNR) and pattern ERG (PERG), are used to assess retinal ganglion cell function and may be useful in diseases such as glaucoma.
+The international body concerned with the clinical use and standardization of the ERG, EOG, and VEP is the International Society for the Clinical Electrophysiology of Vision (ISCEV).
+
+Other uses
+In addition to its clinical diagnostic purpose, the ERG can be used during the course of drug development and in clinical trials for testing ocular safety and efficacy of new or existing drugs and treatment modalities.
+A 2013 study by Nasser et al. found that the retinal dopaminergic response to eating a brownie is equivalent in magnitude to the response to a 20 mg dose of methylphenidate, which implies that the activity of dopamine neurons in the retina reflects brain dopaminergic activity. The study concludes that, if verified by further research, "ERG could provide the neurotransmitter specificity of PET at a much lower cost".
+The ERG has been shown to differ in people with schizophrenia and may be useful in helping to differentiate schizophrenia and bipolar disorder.
+
+History
+ERG was one of the earliest recorded biological potential. The first known ERG was recorded by the Swedish physiologist Alarik Frithiof Holmgren, who recorded it in 1865 on an amphibian retina. However, he failed to understand his findings accurately. He thought the responses he recorded were from the optic nerve instead of the retina. The first human ERG was recorded in 1877 by Scottish chemist and physicist Sir James Dewar. James Dewar and John Gray McKendrick independently suggested that the biological potential was from retina. In 1908, Einthoven and Jolly divided the ERG response into three components: A-wave, B-wave, and C-wave. In 1941, American psychologist Lorraine Riggs introduced a contact lens electrode for ERG recording. Many of Ragnar Granit's observations became the basis of ERG understanding, for which he was awarded the 1967 Nobel Prize in Physiology and Medicine.
+
+See also
+Electrooculography
+Visual evoked potential
+
+References
+
+[[Audition]] [[Digestion]] [[Electro-olfactography]] [[Electrocardiography]] [[Electrocochleography]] [[Electrode]] [[Electrodiagnostic medicine]] [[Electroencephalography]] [[Electrogastrogram]] [[Electrography (disambiguation)]] [[Electrogustometry]] [[Electronystagmography]] [[Fasegraphy]] [[Heart]] [[Human eye]] [[Magnetocardiography]] [[Magnetogastrography]] [[Magnetomyography]] [[Medical procedure]] [[Medical test]] [[Nerve conduction study]] [[Peripheral nervous system]] [[Positron emission tomography]] [[Stereoelectroencephalography]]

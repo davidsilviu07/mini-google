@@ -1,0 +1,26 @@
+Mask data preparation
+Mask data preparation (MDP), also known as  layout post-processing, is the procedure of translating a file containing the intended set of polygons from an integrated-circuit layout into set of instructions that a photomask writer can use to generate a physical mask. Typically, amendments and additions to the chip layout are performed in order to convert the physical layout into data for mask production.
+Mask data preparation requires an input file which is in a GDSII or OASIS format, and produces a file that is in a proprietary format specific to the mask writer.
+
+MDP procedures
+
+Historically, converting the physical layout into data for mask production was relatively simple, but more recent MDP procedures require various procedures: 
+
+Chip finishing includes custom designations and structures to improve manufacturability of the layout. Examples of the latter are a seal ring and filler structures.
+Producing a reticle layout with test patterns and alignment marks.
+Layout-to-mask preparation enhances layout data with graphics operations and adjusts the data to mask production devices. This step includes resolution-enhancement technologies (RET), such as optical proximity correction (OPC) or inverse lithography technology (ILT).
+Special considerations in each of these steps must also be made to mitigate the negative affects associated with the enormous amounts of data they can produce; too much data can sometimes become a problem for the mask writer to be able to create a mask in a reasonable amount of time.
+
+Mask fracturing
+MDP usually involves mask fracturing, where complex polygons are translated into simpler shapes, often rectangles and trapezoids, that can be handled by the mask-writing hardware. Because mask fracturing is such a common procedure within the whole MDP, the term fracture, used as a noun, is sometimes used inappropriately in place of the term mask data preparation. The term fracture does, however, accurately describe that sub-procedure of MDP.
+
+Final reticle
+When a chip is to be manufactured, the individual die typically is repeated several times in the form of a matrix on the final reticle. This reticle layout includes horizontal and vertical scribe lines that enable later separation of individual dies after chip fabrication. The size of this matrix depends on the maximum reticle size for the wafer fab photolithographic tool.
+
+References
+
+Further reading
+Scheffer, L., Lavagno, L., Martin, G. (2006). Electronic Design Automation For Integrated Circuits Handbook. CRC Press. ISBN 0-8493-3096-3.{{cite book}}:  CS1 maint: multiple names: authors list (link) A survey of the field, from which this summary was partly derived, with permission.
+Lienig, J., Scheible, J. (2020). Fundamentals of Layout Design for Electronic Circuits. Springer. doi:10.1007/978-3-030-39284-0. ISBN 978-3-030-39284-0. S2CID 215840278.{{cite book}}:  CS1 maint: multiple names: authors list (link) Chapter 3.3 covers mask data generation in detail.
+
+[[GDSII]] [[Integrated circuit layout]] [[Optical proximity correction]] [[Photomask]] [[Resolution enhancement technologies]]

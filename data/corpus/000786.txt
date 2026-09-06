@@ -1,0 +1,125 @@
+Open Design Alliance
+Open Design Alliance (ODA) is a nonprofit organization that develops software development kits (SDKs) for engineering applications. Its libraries are used by software developers in the CAD, CAM, CAE, AEC, manufacturing, geospatial, and mechanical design industries to build applications that create, read, edit, visualize, and exchange complex engineering data.
+Historically, ODA has focused on interoperability for CAD and BIM data, supporting formats such as .dwg, .dxf, .dgn, Autodesk Revit, Navisworks, and IFC, along with toolkits for visualization, modeling, and 3D PDF publishing. In recent years, the organization has expanded its efforts toward web technologies and mechanical design. The inWEB™ platform provides browser-based solutions for common data environments (CDE) and native DWG and DXF editing in a browser. MCAD SDK enables exchange of major 3D mechanical formats including Inventor, CATIA, SolidWorks, Creo, STEP, Parasolid, JT, and others.
+All ODA SDKs are delivered as stand-alone solutions without reliance on native applications.
+
+Open Standards
+ODA develops SDKs that implement widely used open standards for data exchange in engineering and construction. These toolkits are provided as stand-alone solutions and are complemented by strategic partnerships with industry organizations.
+
+STEP
+STEP SDK supports ISO 10303 (STEP) and related product data standards, enabling exchange of 3D MCAD and product manufacturing information. It provides read and write capabilities for STEP data and ensures interoperability between different mechanical design systems. In 2021, ODA became a member of PDES, Inc., a consortium that promotes the development and implementation of STEP worldwide. ODA also distributes Open STEP Viewer, a free application for viewing STEP files, available for Windows, macOS (x64 and Arm64), and Linux.
+
+IFC
+The IFC SDK provides full support for IFC, the open standard maintained by buildingSMART for building information modeling (BIM) data exchange. It allows reading, writing, and validating IFC data for use in construction and infrastructure workflows. In 2019, ODA entered into a strategic partnership with buildingSMART International to help advance IFC standards and adoption across the industry. For end users, ODA distributes Open IFC Viewer, a free application for working with IFC files, available for Windows, macOS (x64 and Arm64), and Linux platforms.
+
+inWEB™
+inWEB™ is a web-based family of SDKs from the Open Design Alliance (ODA), designed to provide CAD and BIM data functionality directly in a browser. It includes three products:
+
+Drawings inWEB™
+Enables browser-based creation, editing, visualization, and saving of DWG and DXF files.
+Incorporates a constraints engine for precise editing and supports task automation, delivering robust 2D drawing capabilities entirely within the web environment.
+
+Visualize inWEB™
+Delivers fast, high-quality visualization of 3D CAD and BIM models in a web browser.
+Supports sophisticated rendering techniques and can handle large models efficiently.
+
+CDE inWEB™
+A professional SDK tailored for creating common data environments (CDEs), facilitating collaboration across teams.
+Designed to be cloud-agnostic, with compatibility for private cloud deployments.
+
+ODA products and supported file formats
+
+CAD
+Drawings SDK is a development toolkit that provides access to all data in .dwg and .dgn through an object-oriented API, allows creating and editing any type of .dwg or .dgn drawing file, and can be extended with custom .dwg objects. (Old names: Teigha Drawings, Teigha for .dwg files and Teigha for .dgn files; OpenDWG and DWGdirect; DGNdirect.)
+Drawings SDK also provides exchange of the following file formats to and from .dwg and .dgn:
+
+Architecture SDK is a development toolkit for building .dwg-based architectural design applications. It offers interoperability with Autodesk Architecture files (old name: Teigha Architecture).
+Civil SDK is a development toolkit for working with Autodesk Civil 3D files. The Civil API provides read/write access to data in civil custom objects (old name: Teigha Civil).
+Map SDK is a development toolkit for working with Autodesk® Map 3D custom objects in any ODA-based application.
+
+BIM
+BimRv SDK is a development toolkit for reading, writing, and creating .rvt and .rfa files.
+IFC SDK is a development toolkit featuring 100% compatibility with the buildingSMART IFC standard. It offers a geometry building module for creating IFC geometry, which includes the ODA facet modeler and B-Rep modeler.
+BimNv is a development toolkit for reading, visualizing and creating Autodesk Navisworks files.
+Scan-To-BIM is a development toolkit for converting point cloud data to 3D BIM models.
+
+Mechanical
+Mechanical SDK is a development toolkit for working with Autodesk Mechanical files.
+STEP SDK is one of the newest ODA development toolkits; it provides access to STEP model data. In production since October 2022.
+MCAD SDK is an open exchange platform for 3D MCAD file formats such as Inventor, IGES, Rhino, CATIA V4, CADDS, 3Shape DCM, CATIA V5, PLMXML, Parasolid, SolidWorks, Creo, STEP, SolidEdge, ProE, UG NX, CGR, CATIA V6, JT, and Procera.
+
+ODA Core Platform Technologies
+Visualize SDK is a graphics toolkit designed for engineering applications development.
+Web SDK uses Visualize SDK to embed engineering models into web pages and create web/SaaS applications.
+Publish SDK is a development toolkit for creating 2D and 3D .pdf and .prc models. All PDFs are compatible with ISO standards and Adobe tools. Publish SDK can create PRC-based 3D PDF documents that contain full B-Rep models and can include animation, interactive views, part lists, etc.
+
+Free Products
+ODA provides several free end-user products for personal or evaluation use. These include:
+
+ODA IFC Viewer – a viewer for Industry Foundation Classes (IFC) BIM files, including validation and property inspection.
+ODA STEP Viewer – a viewer for ISO 10303 (STEP) mechanical data, supporting measurement, validation, clash detection, and property inspection.
+Drawings Explorer – a desktop tool for browsing and examining DWG files.
+ODA Viewer – a general-purpose viewer for ODA-supported CAD and BIM formats.
+Web Viewer – a browser-based viewer for DWG and other supported formats.
+DWG Converter – a tool for converting DWG files between versions and formats.
+
+History
+
+1998-2014
+The Alliance was formed in February 1998 as the OpenDWG Alliance, with its initial release of code based on the AUTODIRECT libraries written by Matt Richards of MarComp. In 2002, the OpenDWG library was renamed to DWGdirect, and the same year, the alliance was renamed to Open Design Alliance.
+On November 22, 2006, Autodesk sued the Open Design Alliance alleging that its DWGdirect libraries infringed Autodesk's trademark for the word "Autodesk", by writing the TrustedDWG code (including the word "AutoCAD") into DWG files it created.  In April 2007, the suit was dropped, with Autodesk modifying the warning message in AutoCAD 2008 (to make it more benign), and the Open Design Alliance removing support for the TrustedDWG code from its DWGdirect libraries.
+In 2008, support was added for .dgn files with DGNdirect. In April 2010, DWGdirect was renamed to Teigha for .dwg files, OpenDWG was renamed to Teigha Classic and DGNdirect was renamed to Teigha for .dgn files.
+
+2015-2024
+Since August 2017 (v. 4.3.1), Teigha contains production support for version 2018 .dwg files, including architectural, civil and mechanical custom objects. In February 2018 (v. 4.3.2), support for STL and OBJ files was announced.
+In September 2018 Teigha brand was removed.
+In October 2018 ODA started work on IFC Solution.
+In January 2019 Drawings 2019.2 introduced extrude and revolve 3d solid modeling operations as part of the standard SDK. Also that month, ODA announced the release of its new BimNv SDK.
+In May 2020 ODA switched to monthly releases. In June 2020 ODA released its free Open IFC Viewer, and in July 2021 ODA started development for STEP Support. In October 2021 ODA released its IFC validation engine. In January 2022 ODA started Scan-to-BIM development. In September 2022 ODA started MCAD SDK development, and in October 2022 ODA released STEP SDK for production use.
+In September 2024 ODA removed the free trial downloads of the ODAFileConverter.
+
+Membership
+ODA membership is licensed on a company basis, with no limit on the number of users within the member organization. There are six types of ODA membership:
+
+Educational: qualified university use only, 1 year limit
+Non-commercial: any kind of internal automation for in-house use and R&D, 2 year limit
+Commercial: limited commercial use (sell up to 100 copies), web/SaaS use not allowed
+Sustaining: unlimited commercial use, web/SaaS use allowed
+Founding: unlimited commercial use with full source code
+Corporate: unlimited commercial use across multiple business units
+There is also a free trial period.
+
+Releases
+Open Design Alliance provides monthly production releases.
+
+Annual ODA conference
+Open Design Alliance holds an ODA conference every year in September. The two-day conference includes presentations from directors and developers and face-to-face meetings for non-members, members, ODA developers, and ODA executives. Anyone who is interested can register and attend the conference.
+
+Member organizations of the ODA
+The following is an incomplete list of members of the Open Design Alliance.
+
+Corporate members
+
+Founding members
+The following is an incomplete list of founding member organizations of the Open Design Alliance.
+
+ODA developers in Ukraine
+
+Since 2016 ODA has a 30-person development team in Chernihiv, Ukraine (almost students of Chernihiv Polytechnic National University).
+
+Ukrainian engineers play an important role in developing ODA technologies, including interoperability toolkits for DWG and Autodesk® Revit® files, and many other areas.
+On 4 April 2022 in a response to full-scale Russian invasion of Ukraine and continuous shelling of Chernihiv Neil Peterson, ODA President, announced a campaign for collecting money to donate Ukrainian team members and their families, and stated that help with relocation and temporary housing being provided.
+
+See also
+AutoCAD DWG
+Digital modeling and fabrication
+Open Cascade Technology
+Building Information Modeling
+Industry Foundation Classes
+
+References
+
+External links
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

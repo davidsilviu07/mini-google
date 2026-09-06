@@ -1,0 +1,17 @@
+Zemax
+Zemax OpticStudio, also known simply as Zemax, is a software program used for designing and simulating optical systems. It runs under Microsoft Windows. It can be used in the fields of optics and photonics to design and analyze lenses, cameras, telescopes, microscopes, and other optical systems. It is used for the design and analysis of both imaging and illumination systems. Since 2021, it has been owned and developed by Ansys.
+
+History
+The software was originally written by Ken Moore. It was the first optical design program specifically written for Microsoft Windows. It became commercially available in 1990. The first version was called Max, named after Ken Moore's dog. The name was later changed to Zemax due to a trademark conflict. The program was originally sold by Focus Software, which later became Zemax Development Corp.
+In 2011, Evergreen Pacific Partners merged Zemax Development Corp with Radiant Imaging to form Radiant Zemax.
+In 2014 Radiant sold Zemax to Arlington Capital Partners, which named the company Zemax, LLC. Arlington Capital Partners sold Zemax to EQT AB in 2018.
+In 2021, Ansys acquired Zemax, LLC.
+
+Features and applications
+OpticStudio can be used to design and analyze imaging systems such as camera lenses, as well as illumination systems. It works by ray tracing—modelling the propagation of rays through an optical system. It can model the effect of optical elements such as simple lenses, aspheric lenses, gradient-index lenses, mirrors, and diffractive optical elements, and can produce standard analysis diagrams such as spot diagrams and ray-fan plots.
+OpticStudio can also model the effect of optical coatings on the surfaces of components. It includes a library of stock commercial lenses. OpticStudio can perform standard sequential ray tracing through optical elements, non-sequential ray tracing for analysis of stray light, and physical optics beam propagation. It also has tolerancing capability, to allow analysis of the effect of manufacturing defects and assembly errors.
+The physical optics propagation feature can be used for problems where diffraction is important, including the propagation of laser beams and the coupling of light into single-mode optical fibers. OpticStudio's optimization tools can be used to improve an initial lens design by automatically adjusting parameters to maximize performance and reduce aberrations.
+
+References
+
+[[Ansys]] [[Diffraction]]

@@ -1,0 +1,7 @@
+Inverse lithography
+In semiconductor device fabrication, the inverse lithography technology (ILT) is an optical proximity correction approach to optimize photomask design. It is basically an approach to solve an inverse imaging problem: to calculate the shapes of the openings in a photomask ("source") so that the passing light produces a good approximation of the desired pattern ("target") on the illuminated material, typically a photoresist. As such, it is treated as a mathematical optimization problem of a special kind, because usually an analytical solution does not exist. In conventional approaches known as optical proximity correction (OPC), a "target" shape is augmented with carefully tuned rectangles to produce a "Manhattan shape" for the "source", as shown in the illustration. The ILT approach generates curvilinear shapes for the source, which deliver better approximations for the target.
+ILT was proposed in 1980s; however, at that time it was impractical due to the huge required computational power and complicated source shapes, which presented difficulties for verification (design rule checking) and manufacturing. In late 2000s, developers started reconsidering ILT due to significant increases in computational power.
+
+References
+
+[[Optical proximity correction]] [[Photomask]] [[Semiconductor device fabrication]]

@@ -1,0 +1,21 @@
+Booktype
+Booktype is a free and open source software for authoring, collaborating, editing, and publishing books to PDF, ePub, .mobi, and HTML formats. It was launched by Sourcefabric in February 2012 when Booktype evolved from the Booki software, which powers FLOSS Manuals.
+In March 2015 it was announced that Amnesty International was using a pre-release version of Booktype 2.0 to publish its Annual Report on the state of human rights, in multiple languages.
+Booktype interface localizations are crowd-sourced from volunteers in a Transifex project.
+While Booktype is open source software, it also exports books to the proprietary desktop publishing software Adobe InDesign via the ICML markup language.
+Facilitators of the book sprint method - creating a book collaboratively in a short period of time - regard Booktype as a "specialist software for doing book sprints".
+Booktype is no longer under development.
+
+Organisations using Booktype
+Amnesty International has been using Booktype for their annual reports three years in a row in 2014/2015, 2015/2016 and 2016/2017. Books on Demand), the European market and technology leader for digital book publications use Booktype branded as easyEditor for their self-publishing service. The Berlin-based publisher mikrotext uses Booktype for their entire catalogue.
+
+Nominations and awards
+In 2016, Booktype was shortlisted for the contentSHIFT innovation award of the Frankfurt Book Fair but did not win.
+In 2017, Booktype won the Neuland 2.0 jury award for innovation in media and book publishing at the Leipzig Book Fair.
+
+References
+
+External links
+Source code
+
+[[Adobe InDesign]] [[Desktop publishing]] [[HTML]] [[Mobipocket]]

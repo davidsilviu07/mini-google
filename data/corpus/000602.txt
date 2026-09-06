@@ -1,0 +1,218 @@
+IBM 700/7000 series
+The IBM 700/7000 series is a series of large-scale (mainframe) computer systems that were made by IBM through the 1950s and early 1960s. The series includes several different, incompatible processor architectures. The 700s use vacuum-tube logic and were made obsolete by the introduction of the transistorized 7000s. The 7000s, in turn, were eventually replaced with System/360, which was announced in 1964. However the 360/65, the first 360 powerful enough to replace 7000s, did not become available until November 1965. Early problems with OS/360 and the high cost of converting software kept many 7000s in service for years afterward.
+
+Architectures
+The IBM 700/7000 series has six completely different ways of storing data and instructions:
+
+First scientific (36/18-bit words): 701 (Defense Calculator)
+Later scientific (36-bit words, hardware floating-point): 704, 709, 7040, 7044, 7090, 7094
+Commercial (variable-length character strings): 702, 705, 7080
+1400 series (variable-length character strings): 7010
+Decimal (10-digit words, hardware floating-point): 7070, 7072, 7074
+Supercomputer (64-bit words, hardware floating-point): 7030 "Stretch"
+The 700 class machines use vacuum tubes; the 7000 class machines are transistorized. All machines (like most other computers of the time) use magnetic-core memory; except for early 701 and 702 models, which initially used Williams tube CRT memory and were later converted to magnetic-core memory.
+
+Software compatibility issues
+Early computers were sold without software. As operating systems began to emerge, having four different mainframe architectures plus the IBM 1400 midline architectures became a major problem for IBM since it meant at least four different programming efforts were required.
+The System/360 combines the best features of the 7000 and 1400 series architectures into a single design both for commercial computing and for scientific and engineering computing. However, its architecture is not compatible with those of the 7000 and 1400 series, so some 360 models have optional features that allow them to emulate the 1400 and 7000 instruction sets in microcode. One of the selling points of the System/370, the successor of the 360 introduced in mid-1970, was improved 1400/7000 series emulation, which could be done under operating system control rather than shutting down and restarting in emulation mode as was required for emulation of 7040/44, 7070/72/74, 7080 and 7090/94 on all of the 360s except the 360/85.
+
+Peripherals
+While the architectures differ, the machines in the same class use the same electronics technologies and generally use the same peripherals. Tape drives generally use 7-track format, with the IBM 727 for vacuum tube machines and the 729 for transistor machines. Both the vacuum tube and most transistor models use the same card readers, card punches, and line printers that were introduced with the 701. These units, the IBM 711, 721, and 716, are based on IBM accounting machine technology and even include plugboard control panels. They are relatively slow and it was common for 7000 series installations to include an IBM 1401, with its much faster peripherals, to do card-to-tape and tape-to-line-printer operations off-line. Three later machines, the 7010, the 7040 and the 7044, adopted peripherals from the midline IBM 1400 series. Some of the technology for the 7030 was used in data channels and peripheral devices on other 7000 series computers, e.g., 7340 Hypertape.
+
+First scientific architecture (701)
+
+Known as the Defense Calculator while in development in the IBM Poughkeepsie Laboratory, this machine was formally unveiled April 7, 1953 as the IBM 701 Electronic Data Processing Machine.
+
+Data formats
+Numbers are either 36 bits or 18 bits long, only fixed point.
+
+Fixed-point numbers are stored in binary sign/magnitude format.
+Instruction format
+Instructions are 18 bits long, single address.
+
+Sign (1 bit) – Whole-word (-) or Half-word (+) operand address
+Opcode (5 bits) – 32 instructions
+Address (12 bits) – 4096 Half-word addresses
+To expand the memory from 2048 to 4096 words, a 33rd instruction was added that uses the most-significant bit of its address field to select the bank. (This instruction was probably created using the "No OP" instruction, which appears to have been the only instruction with unused bits, as it originally ignored its address field. However, documentation on this new instruction is not currently available.)
+
+Registers
+Processor registers consisted of:
+
+AC  – 38-bit Accumulator
+MQ – 36-bit Multiplier-Quotient
+Memory
+2,048 or 4,096 – 36-bit binary words with six-bit characters
+
+Later scientific architecture (704/709/7090/7094)
+
+IBM's 36-bit scientific architecture was used for a variety of computation-intensive applications. First machines were the vacuum-tube 704 and 709, followed by the transistorized 7090, 7094, 7094-II, and the lower-cost 7040 and 7044. The ultimate model was the Direct Coupled System (DCS) consisting of a 7094 linked to a 7044 that handled input and output operations.
+
+Data formats
+Numbers are 36 bits long, for both fixed-point arithmetic and floating-point arithmetic.
+
+Fixed-point numbers are stored in binary sign/magnitude format.
+Single-precision floating-point numbers have a magnitude sign, an 8-bit excess-128 exponent and a 27-bit magnitude
+Double-precision floating-point numbers, introduced on the 7094, have a magnitude sign, a 17-bit excess-65536 exponent, and a 54-bit magnitude
+Alphameric  characters are 6-bit BCD, packed six to a word.
+Instruction format
+The basic instruction format is a three-bit prefix, fifteen-bit decrement, three-bit tag, and fifteen-bit address. The prefix field specifies the class of instruction. The decrement field often contains an immediate operand to modify the results of the operation, or is used to further define the instruction type. The three bits of the tag specify three (seven in the 7094) index registers, the contents of which are subtracted from the address to produce an effective address. The address field either contains an address or an immediate operand.
+
+Registers
+
+Processor registers consist of:
+
+AC  – 38-bit Accumulator
+MQ – 36-bit Multiplier-Quotient
+XR  – 15-bit Index Registers (three or seven)
+SI    – 36-bit Sense Indicator
+The accumulator (and multiplier-quotient) registers operate in sign/magnitude format. The accumulator has two overflow bits, labelled Q and P. Logical instructions clear or ignore S and Q; the Add and Carry Logical (ACL) instruction does an end-around carry from bit P to bit 35. 
+The Index registers operate using two's complement format and when used to modify an instruction address are subtracted from the address in the instruction. On machines with three index registers, if the tag has two or three bits set (i.e. selected multiple registers) then their values are ORed together before being subtracted. The IBM 7094, with seven index registers, powers up in multiple tag mode for compatibility with earlier machines, so that programs that used this trick could continue to be used; the Leave Multiple Tag Mode (LMTM) instruction turns that mode off, so that the tag specifies which of the index registers to use, and the Enter Multiple Tag Mode (EMTM) instruction turns it back on.
+The Sense Indicators permit interaction with the operator via panel switches and lights.
+
+Memory
+704: 4,096 or 8,192 or 32,768 – 36-bit binary words with six-bit characters
+709, 7090, 7094, 7094 II, 7040, 7044: 32,768 – 36-bit binary words with six-bit characters
+Input/output
+The 709/7090 series use Data Synchronizer Channels for high-speed input/output, such as tape and disk. The basic 7-bit DSCs, e.g., 7607, execute their own simple programs from the computer memory that controls the transfer of data between memory and the I/O devices; the more advanced 9-bit 7909 supports more sophisticated channel programs. Because the unit record equipment on the 709x was so slow, punched card I/O and high-speed printing were often performed by transferring magnetic tapes to and from an off-line IBM 1401. Later, the data channels were used to connect a 7090 to a 7040 or a 7094 to a 7044 to form the IBM 7094/7044 Direct Coupled System (DCS). In that configuration, the 7044, which could use faster 1400 series peripherals, primarily handled I/O.
+
+FORTRAN assembly program
+The FORTRAN Assembly Program (FAP) is an assembler for the 709, 7090, and 7094, originally written at the Western Data Processing  Center by David E. Ferguson and Donald P. Moore for the 709. It runs under IBM's Fortran Monitor System (FMS) and IBSYS operating systems. An earlier assembler was SHARE Compiler-Assembler-Translator (SCAT) under SHARE Operating System (SOS). Macros were added to FAP by Bell Laboratories (BE-FAP), and the final 7090/7094 assembler was Macro Assembly Program (IBMAP), under IBSYS/IBJOB. SCAT, FAP and MAP were mutually incompatible.
+Its pseudo-operation BSS, used to reserve memory, is the origin of the common name of the "BSS section", still used in many assembly languages today for designating reserved memory address ranges of the type not having to be saved in the executable image.
+
+Commercial architecture (702/705/7080)
+
+The IBM 702 and IBM 705 are similar, and the 705 can run many 702 programs without modification, but they are not completely compatible.
+The IBM 7080 is a transistorized version of the 705, with various improvements. For backward compatibility it can be run in 705 I mode, 705 II mode, 705 III mode, or full 7080 mode.
+
+Data format
+Data is represented by a variable-length string of characters terminated by a Record mark.
+
+Instruction format
+Five characters: one character opcode and four character address – OAAAA
+
+Registers
+702
+two Accumulators (A & B) – 512 characters
+705
+one Accumulator – 256 characters
+14 auxiliary storage units – 16 characters
+one auxiliary storage unit – 32 characters
+7080
+one Accumulator – 256 characters
+30 auxiliary storage units – 512 characters
+32 communication storage units – 8 characters
+Memory
+702
+2,000 to 10,000 characters in Williams tubes (in increments of 2,000 characters)
+Character cycle rate – 23 microseconds
+705 (models I, II, or III)
+20,000 or 40,000 or 80,000 characters of core memory
+Character cycle rate – 17 microseconds or 9.8 microseconds
+7080
+80,000 or 160,000 characters of Core memory
+Character cycle rate – 2.18 microseconds
+Input/output
+The 705 and the basic 7080 use channels with a 7-bit interface. The 7080 can be equipped with 7908 data channels to attach faster devices using a 9-bit interface.
+
+1400 series architecture (7010)
+
+The 700/7000 commercial architecture inspired the very successful IBM 1400 series of mid-sized business computers. In turn, IBM later introduced a mainframe version of the IBM 1410 called the IBM 7010.
+
+Data format
+Data is represented by a variable length string of characters terminated by a word mark.
+Instruction format
+Variable length: 1, 2, 6, 7, 11, or 12 characters.
+Registers
+Fifteen five-character fields in fixed locations in low memory can be treated as index registers, whose values can be added to the address specified in an instruction. Also, certain internal registers that would today be invisible, such as the addresses of the characters being currently processed, are exposed to the programmer; in particular, the B address register is often used for subroutine linkage.
+
+Memory
+100,000 characters
+
+Decimal architecture (7070/7072/7074)
+
+The IBM 7070, IBM 7072, and IBM 7074 are decimal, fixed-word-length machines. They use a ten-digit word like the smaller and older IBM 650, but are not instruction set compatible with the 650.
+
+Data format
+Word length – 10 decimal digits plus sign
+Digit encoding – two-out-of-five code
+Floating point – optional, with a two-digit exponent
+Three signs for each word – Plus, Minus, and Alpha
+Plus and Minus indicate 10-digit numeric values
+Alpha indicates five characters of text coded by pairs of digits. 61 = A, 91 = 1.
+Instruction format
+All instructions use one word
+Two-digit opcode (including sign, Plus or Minus only)
+Two-digit index register
+Two-digit field control – allows selecting sets of digits, shifting left or right
+Four-digit address
+Registers
+All registers use one word and can also be addressed as memory.
+Accumulators – three (addresses 9991, 9992, and 9993 – standard; 99991, 99992, and 99993 – extended 7074)
+Program register – one (address 9995 – standard; 99995 – extended 7074)
+Addressable from console only. Stores current instruction.
+Instruction counter – one (address 9999 – standard; 99999 – extended 7074)
+Addressable from console only
+Index registers – 99 (addresses 0001-0099)
+Memory
+5000 to 9990 words (standard)
+15000 to 30000 words (extended 7074)
+Access time – 6 microseconds (7070/7072), 4 microseconds (7074)
+Add time – 72 microseconds (7070), 12 microseconds (7072), 10 microseconds (7074)
+Input/output
+The 707x uses channels with a 7-bit interface. The 7070 and 7074 can be equipped with 7907 data channels to attach faster devices using a 9-bit interface.
+
+Timeline
+
+An IBM 7074 was used by the U.S. Internal Revenue Service in 1962.
+The IBM 7700 Data Acquisition System is not a member of the IBM 7000 series, despite its number and its announcement date of December 2, 1963.
+
+Performance
+All of the 700 and 7000 series machines predate standard performance measurement tools such as the Whetstone (1972), Dhrystone (1984), LINPACK (1979), or Livermore loops (1986) benchmarks.
+In the table below, the Gibson and Knight measurements report speed, where higher numbers are better; the TRIDIA measurement reports time, where lower numbers are better.
+
+See also
+IBM 650
+
+Notes
+
+References
+
+External links
+
+IBM Mainframe family tree Archived January 14, 2005, at the Wayback Machine
+The Architecture of IBM's Early Computers (PDF)
+C Gordon Bell, Computer Structures: Readings and Examples, McGraw-Hill, 1971; part 6, section 1, "The IBM 701-7094 II Sequence, a Family by Evolution", ISBN 0-07-004357-4
+IBM 705
+IBM 7030 Stretch
+IBM 7070
+IBM 7094
+IBM 7090/94 Architecture Archived May 22, 2012, at the Wayback Machine
+Jack Harper's FAP page Archived February 20, 2012, at the Wayback Machine
+Birth of an Unwanted IBM Computer, by Bob Bemer
+IBM 700 film
+OpenSIMH has simulators for the 701, 7010, 7070, 7080 and 7090
+
+Reference manuals
+701
+Principles of Operation - Type 701 and Associated Equipment (PDF). IBM. 1953. 24-6042-1. Retrieved August 29, 2025.
+702
+IBM Electronic Data-Processing Machines - Type 702 (PDF). IBM. 1954. 22-6173-1. Retrieved August 29, 2025.
+704
+704 electronic data-processing machine - manual of operation (PDF). IBM. 1955. 24-6661-2. Retrieved August 29, 2025.
+705
+Reference Manual - 705 Data Processing System (PDF). IBM. May 1959. A22-6506-0. Retrieved August 29, 2025.
+7010
+IBM 7010 Principles of Operation (PDF). IBM Systems Reference Library. IBM. A22-6726. Retrieved August 29, 2025.
+7030
+Reference Manual - 7030 Data Processing System (PDF). IBM. August 1961. A22-6530-2. Retrieved August 29, 2025.
+7040/7044
+IBM 7040-7044 Principles of Operation (PDF). IBM Systems Reference Library. IBM. May 1964. A22-6640-4. Retrieved August 29, 2025.
+7070/7072/7074
+Reference Manual - 7070 Data Processing System (PDF). IBM Systems Reference Library. IBM. 1962. A22-7003-6. Retrieved August 29, 2025.
+7080
+IBM 7080 Principles of Operation (PDF). IBM Systems Reference Library. IBM. November 1964. A22-6560-4. Retrieved August 29, 2025.
+7090/7094
+Reference Manual - IBM 7090 Data Processing System (PDF). IBM. March 1962. A22-6528-4. Retrieved August 29, 2025.
+IBM 7094 Principles of Operation (PDF). IBM Systems Reference Library. IBM. 1966. A22-6703-4. Retrieved August 29, 2025.
+
+[[Bit]] [[Floating-point arithmetic]] [[Mainframe computer]] [[Punched card]]

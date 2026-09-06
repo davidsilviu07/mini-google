@@ -1,0 +1,40 @@
+Solid Edge
+Solid Edge is a 3D computer-aided design (CAD), parametric feature and synchronous technology solid modeling software. It runs on Microsoft Windows and provides solid modeling, assembly modelling and 2D orthographic view functions for mechanical designers. Through third party applications it has links to many other product lifecycle management technologies.
+Originally developed and released by Intergraph in 1996, using the ACIS geometric modeling kernel, it changed to using the Parasolid kernel when it was purchased and further developed by UGS Corp., in 1998. In 2007, UGS was acquired by the Automation & Drives Division of Siemens AG. UGS company was renamed Siemens Digital Industries Software on October 1, 2007.
+Since September 2006, Siemens has also offered a freeware 2D version named Solid Edge 2D Drafting. Solid Edge is available in Design and Drafting, Foundation, Classic, or Premium. The Premium package includes all features of Classic plus mechanical and electrical routing software, and engineering simulation abilities for computer-aided engineering (CAE). Since 2020, Siemens offers Solid Edge as a freely-available non-commercial Community Edition for makers, CAD enthusiasts, and students. Solid Edge Community Edition offers functionality comparable to its paid commercial versions, including exporting models for 3D printing, however files created within Community Edition cannot be opened in commercially licensed versions of Solid Edge, exported 2D drawings are watermarked, and projects cannot be used for commercial purposes.
+Solid Edge is a direct competitor to SolidWorks, Creo, Inventor, IRONCAD, and others.
+
+Modeling
+
+Ordered
+The ordered modeling process begins with a base feature controlled by a 2D sketch, which is either a linear, revolved, lofted, or swept extrusion. Each subsequent feature is built on the previous feature. When editing, the model is "rolled back" to the point where the feature was created so that the user cannot try to apply constraints to geometry that does not yet exist. The drawback is that the user does not see how the edit will interact with subsequent features. This is typically called history or regeneration based modeling. In both ordered and synchronous mode, Solid Edge offers powerful, easy, yet stable modeling in hybrid surface/solid mode, where Rapid Blue technology helps to create complex shapes intuitively and easily.
+
+Direct
+The Direct modeling features allows changing model geometry and topology without being hindered by a native model's existing, or an imported model's lack of, parametric or history data. This is very useful for working with imported models or complex native models. Direct modeling features are available in both Ordered and Synchronous mode. If used in Ordered mode, direct modeling edits are appended to the history tree at the point of current rollback, just like any other ordered feature.
+
+Synchronous
+The software combines direct modeling with dimension driven design (features and synchronously solving parametrics) under the name "Synchronous Technology". Parametric relationships can be applied directly to the solid features without having to depend on 2D sketch geometry, and common parametric relationships are applied automatically.
+Unlike other direct modeling systems, it is not driven by the typical history-based modeling system, instead providing parametric dimension-driven modeling by synchronizing geometry, parameters and rules using a decision-making engine, allowing users to apply unpredicted changes. This object-driven editing model is known as the Object Action Interface, which emphasizes a User Interface that provides Direct Manipulation of objects (DMUI). ST2 added support for sheet metal designing, and also recognizing bends, folds and other features of imported sheet metal parts.
+Synchronous Technology has been integrated into Solid Edge and another Siemens commercial CAD software, NX, as an application layer built on the D-Cubed and Parasolid software components.
+
+Convergent Modeling
+With Solid Edge ST10, Siemens introduced Convergent Modeling which adds the ability to work with polygon mesh data alongside more traditional solid and surface modelling techniques.
+
+Assembly
+An assembly is built from individual part documents connected by mating constraints, as well as assembly features and directed parts like frames which only exist in the Assembly context. Solid Edge supports large assemblies with over 1,000,000 parts.
+
+Features
+A draft file consists of the 3D model projected to one or more 2D views of a part or assembly file.
+Solid Edge integrates with Windows Indexing, SharePoint or Teamcenter to provide product lifecycle management. Solid Edge also integrates with product lifecycle management products from third parties. Solid Edge ST9 brought a new data management capability that leverages the Windows file indexing service to add basic data management functions with no need for an added server or set-up.
+Solid Edge provides support for finite element analysis (FEA) starting with Solid Edge ST2 version released in 2009. These functions are based on Siemens Digital Industries Software's existing Femap and NX Nastran technologies. From Solid Edge 2019 there were also computational fluid dynamics functions added from Mentor Graphics' FloEFD, and with Solid Edge 2020 Rigid Body Motion, transient dynamic analysis was added.
+
+See also
+Freeform surface modelling
+Comparison of computer-aided design software
+
+References
+
+External links
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Application software]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

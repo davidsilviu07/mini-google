@@ -1,0 +1,69 @@
+Directory service
+In computing, a directory service or name service maps the names of network resources to their respective network addresses. It is a shared information infrastructure for locating, managing, administering and organizing everyday items and network resources, which can include volumes, folders, files, printers, users, groups, devices, telephone numbers and other objects. A directory service is a critical component of a network operating system. A directory server or name server is a server which provides such a service. Each resource on the network is considered an object by the directory server. Information about a particular resource is stored as a collection of attributes associated with that resource or object.
+A directory service defines a namespace for the network. The namespace is used to assign a name (unique identifier) to each of the objects. Directories typically have a set of rules determining how network resources are named and identified, which usually includes a requirement that the identifiers be unique and unambiguous. When using a directory service, a user does not have to remember the physical address of a network resource; providing a name locates the resource. Some directory services include access control provisions, limiting the availability of directory information to authorized users.
+
+Comparison with relational databases
+Several things distinguish a directory service from a relational database. Data can be made redundant if it aids performance (e.g. by repeating values through rows in a table instead of relating them to the contents of a different table through a key, which technique is called denormalization; another technique could be the utilization of replicas for increasing actual throughput).
+Directory schemas are object classes, attributes, name bindings and knowledge (namespaces) where an object class has:
+
+Must - attributes that each instances must have
+May - attributes which can be defined for an instance but can be omitted, with the absence similar to NULL in a relational database
+Attributes are sometimes multi-valued, allowing multiple naming attributes at one level (such as machine type and serial number concatenation, or multiple phone numbers for "work phone"). Attributes and object classes are usually standardized throughout the industry; for example, X.500 attributes and classes are often formally registered with the IANA for their object ID. Therefore, directory applications try to reuse standard classes and attributes to maximize the benefit of existing directory-server software.
+Object instances are slotted into namespaces; each object class inherits from its parent object class (and ultimately from the root of the hierarchy), adding attributes to the must-may list. Directory services are often central to the security design of an IT system and have a correspondingly-fine granularity of access control.
+
+Replication and distribution
+Replication and distribution have distinct meanings in the design and management of a directory service. Replication is used to indicate that the same directory namespace (the same objects) are copied to another directory server for redundancy and throughput reasons; the replicated namespace is governed by the same authority. Distribution is used to indicate that multiple directory servers in different namespaces are interconnected to form a distributed directory service; each namespace can be governed by a different authority.
+
+Implementations
+Directory services were part of an Open Systems Interconnection (OSI) initiative for common network standards and multi-vendor interoperability. During the 1980s, the ITU and ISO created the X.500 set of standards for directory services, initially to support the requirements of inter-carrier electronic messaging and network-name lookup. The Lightweight Directory Access Protocol (LDAP) is based on the X.500 directory-information services, using the TCP/IP stack and an X.500 Directory Access Protocol (DAP) string-encoding scheme on the Internet.
+Systems developed before the X.500 include:
+
+Domain Name System (DNS): The first directory service on the Internet, still in use
+Hesiod: Based on DNS and used at MIT's Project Athena
+Network Information Service (NIS): Originally Yellow Pages (YP) Sun Microsystems' implementation of a directory service for Unix network environments. It played a role similar to Hesiod.
+NetInfo: Developed by NeXT during the late 1980s for NEXTSTEP. After its acquisition by Apple, it was released as open source and was the directory service for Mac OS X before it was deprecated for the LDAP-based Open Directory. Support for NetInfo was removed with the release of 10.5 Leopard.
+Banyan VINES: First scalable directory service
+NT Domains: Developed by Microsoft to provide directory services for Windows machines before the release of the LDAP-based Active Directory in Windows 2000. Windows Vista continues to support NT Domains after relaxing its minimum authentication protocols.
+
+LDAP implementations
+LDAP/X.500-based implementations include:
+
+389 Directory Server: Free Open Source server implementation by Red Hat, with commercial support by Red Hat and SUSE.
+Active Directory: Microsoft's directory service for Windows, originating from the X.500 directory, created for use in Exchange Server, first shipped with Windows 2000 Server and supported by successive versions of Windows
+Apache Directory Server: Directory service, written in Java, supporting LDAP, Kerberos 5 and the Change Password Protocol; LDAPv3 certified
+Apple Open Directory: Apple's directory server for Mac OS X, available through Mac OS X Server
+eDirectory: NetIQ's implementation of directory services supports multiple architectures, including Windows, NetWare, Linux and several flavours of Unix and is used for user administration and configuration and software management; previously known as Novell Directory Services.
+Red Hat Directory Server: Red Hat released Red Hat Directory Server, acquired from AOL's Netscape Security Solutions unit, as a commercial product running on top of Red Hat Enterprise Linux as the community-supported 389 Directory Server project. Upstream open source project is called FreeIPA.
+Oracle Internet Directory: (OID) is Oracle Corporation's directory service, compatible with LDAP version 3.
+Sun Java System Directory Server: Sun Microsystems' directory service
+OpenDS: Open-source directory service in Java, backed by Sun Microsystems
+Oracle Unified Directory: (OUD) is Oracle Corporation's next-generation unified directory solution. It integrates storage, synchronization, and proxy functionalities.
+Windows NT Directory Services (NTDS), later renamed Active Directory, replaced the former NT Domain system.
+Critical Path Directory Server
+OpenLDAP: Derived from the original University of Michigan LDAP implementation (like Netscape, Red Hat, Fedora and Sun JSDS implementations), it supports all computer architectures (including Unix and Unix derivatives, Linux, Windows, z/OS and a number of embedded-realtime systems).
+Lotus Domino
+Nexor Directory
+OpenDJ - a Java-based LDAP server and directory client that runs in any operating environment, under license CDDL. Developed by ForgeRock, until 2016, now maintained by OpenDJ Community
+Open-source tools to create directory services include OpenLDAP, the Kerberos protocol and Samba software, which can function as a Windows domain controller with Kerberos and LDAP back ends. Administration is by GOsa or Samba SWAT.
+
+Using name services
+
+Unix systems
+Name services on Unix systems are typically configured through nsswitch.conf. Information from name services can be retrieved with getent.
+
+See also
+Access control list
+Directory Services Markup Language
+Hierarchical database model
+LDAP Data Interchange Format
+Metadirectory
+Service delivery platform
+Virtual directory
+
+References
+
+Citations
+
+Sources
+
+[[Computer security]] [[Computing]]

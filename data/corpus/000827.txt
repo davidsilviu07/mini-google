@@ -1,0 +1,59 @@
+Photomask
+A photomask (also simply called a mask) is an opaque plate with transparent areas that allow light to shine through in a defined pattern. Photomasks are commonly used in photolithography for the production of integrated circuits (ICs or "chips") to produce a pattern on a thin wafer of material (usually silicon). In semiconductor manufacturing, a mask is sometimes called a reticle.
+In photolithography, several masks are used in turn, each one reproducing a layer of the completed design, and together known as a mask set. A curvilinear photomask has patterns with curves, which is a departure from conventional photomasks which only have patterns that are completely vertical or horizontal, known as manhattan geometry. These photomasks require special equipment to manufacture.
+
+History
+For IC production in the 1960s and early 1970s, an opaque rubylith film laminated onto a transparent mylar sheet was used. The design of one layer was cut into the rubylith, initially by hand on an illuminated drafting table (later by machine (plotter)) and the unwanted rubylith was peeled off by hand, forming the master image of that layer of the chip,  often called "artwork". Increasingly complex and thus larger chips required larger and larger rubyliths, eventually even filling the wall of a room, and artworks were to be photographically reduced to produce photomasks (Eventually this whole process was replaced by the optical pattern generator to produce the master image). At this point the master image could be arrayed into a multi-chip image called a reticle. The reticle was originally a 10X larger image of a single chip.
+The reticle was, by step-and-repeater photolithography and etching, used to produce a photomask with an image size the same as the final chip. The photomask might be used directly in the fab or be used as a master-photomask to produce the final actual working photomasks.
+As feature size shrank, the only way to properly focus the image was to place it in direct contact with the wafer. These contact aligners often lifted some of the photoresist off the wafer and onto the photomask and it had to be cleaned or discarded. This drove the adoption of reverse master photomasks (see above), which were used to produce (with contact photolithography and etching) the needed many actual working photomasks. Later, projection photo-lithography meant photomask lifetime was indefinite. Still later direct-step-on-wafer stepper photo-lithography used reticles directly and ended the use of photomasks.
+Photomask materials changed over time. Initially soda glass was used with silver halide opacity. Later borosilicate and then fused silica to control expansion, and chromium which has better opacity to ultraviolet light were introduced. The original pattern generators have since been replaced by electron beam lithography and laser-driven mask writer or maskless lithography systems which generate reticles directly from the original computerized design.
+
+Overview
+
+Lithographic photomasks are typically transparent fused silica plates covered with a pattern defined with a chromium (Cr) or  Fe2O3 metal absorbing film. Photomasks are used at wavelengths of 365 nm, 248 nm, and 193 nm. Photomasks have also been developed for other forms of radiation such as 157 nm, 13.5 nm (EUV), X-ray, electrons, and ions; but these require entirely new materials for the substrate and the pattern film.
+A set of photomasks, each defining a pattern layer in integrated circuit fabrication, is fed into a photolithography stepper or scanner, and individually selected for exposure. In multi-patterning techniques, a photomask would correspond to a subset of the layer pattern.
+Historically in photolithography for the mass production of integrated circuit devices, there was a distinction between the term photoreticle or simply reticle, and the term photomask. In the case of a photomask, there is a one-to-one correspondence between the mask pattern and the wafer pattern. The mask covered the entire surface of the wafer which was exposed in its entirety in one shot. This was the standard for the 1:1 mask aligners that were succeeded by steppers and scanners with reduction optics. As used in steppers and scanners which use image projection, the reticle commonly contains only one copy, also called one layer of the designed VLSI circuit. (However, some photolithography fabrications utilize reticles with more than one layer placed side by side onto the same mask, used as copies to create several identical integrated circuits from one photomask). In modern usage, the terms reticle and photomask are synonymous.
+In a modern stepper or scanner, the pattern in the photomask is projected and shrunk by four or five times onto the wafer surface. To achieve complete wafer coverage, the wafer is repeatedly "stepped" from position to position under the optical column or the stepper lens until full exposure of the wafer is achieved. A photomask with several copies of the integrated circuit design is used to reduce the number of steppings required to expose the entire wafer, thus increasing productivity.
+Features 150 nm or below in size generally require phase-shifting to enhance the image quality to acceptable values. This can be achieved in many ways. The two most common methods are to use an attenuated phase-shifting background film on the mask to increase the contrast of small intensity peaks, or to etch the exposed quartz so that the edge between the etched and unetched areas can be used to image nearly zero intensity. In the second case, unwanted edges would need to be trimmed out with another exposure. The former method is attenuated phase-shifting, and is often considered a weak enhancement, requiring special illumination for the most enhancement, while the latter method is known as alternating-aperture phase-shifting, and is the most popular strong enhancement technique.
+As leading-edge semiconductor features shrink, photomask features that are 4× larger must inevitably shrink as well. This could pose challenges since the absorber film will need to become thinner, and hence less opaque.
+A 2005 study by IMEC found that thinner absorbers degrade image contrast and therefore contribute to line-edge roughness, using state-of-the-art photolithography tools.
+One possibility is to eliminate absorbers altogether and use "chromeless" masks, relying solely on phase-shifting for imaging.
+The emergence of immersion lithography has a strong impact on photomask requirements. The commonly used attenuated phase-shifting mask is more sensitive to the higher incidence angles applied in "hyper-NA" lithography, due to the longer optical path through the patterned film. During manufacturing, inspection using a special form of microscopy called CD-SEM (Critical-Dimension Scanning Electron Microscopy) is used to measure critical dimensions on photomasks which are the dimensions of the patterns on a photomask.
+
+EUV lithography
+EUV photomasks work by reflecting light, which is achieved by using multiple alternating layers of molybdenum and silicon.
+
+Mask error enhancement factor (MEEF)
+Leading-edge photomasks (pre-corrected) images of the final chip patterns are magnified by four times. This magnification factor has been a key benefit in reducing pattern sensitivity to imaging errors. However, as features continue to shrink, two trends come into play: the first is that the mask error factor begins to exceed one, i.e., the dimension error on the wafer may be more than 1/4 the dimension error on the mask, and the second is that the mask feature is becoming smaller, and the dimension tolerance is approaching a few nanometers. For example, a 25 nm wafer pattern should correspond to a 100 nm mask pattern, but the wafer tolerance could be 1.25 nm (5% spec), which translates into 5 nm on the photomask. The variation of electron beam scattering in directly writing the photomask pattern can easily well exceed this.
+
+Pellicles
+The term "pellicle" is used to mean "film", "thin film", or "membrane." Beginning in the 1960s, thin film stretched on a metal frame, also known as a "pellicle", was used as a beam splitter for optical instruments. It has been used in a number of instruments to split a beam of light without causing an optical path shift due to its small film thickness. In 1978, Shea et al. at IBM patented a process to use the "pellicle" as a dust cover to protect a photomask or reticle. In the context of this entry, "pellicle" means "thin film dust cover to protect a photomask".
+Particle contamination can be a significant problem in semiconductor manufacturing. A photomask is protected from particles by a pellicle – a thin transparent film stretched over a frame that is glued over one side of the photomask.  The pellicle is far enough away from the mask patterns so that moderate-to-small sized particles that land on the pellicle will be too far out of focus to print.  Although they are designed to keep particles away, pellicles become a part of the imaging system and their optical properties need to be taken into account. Pellicles material are nitrocellulose and made for various transmission wavelengths. Current pellicles are made from polysilicon, and companies are exploring other materials for high-NA EUV, such as CNT (carbon nanotubes), and future chip making processes.
+
+Leading commercial photomask manufacturers
+
+The SPIE Annual Conference, Photomask Technology reports the SEMATECH Mask Industry Assessment which includes current industry analysis and the results of their annual photomask manufacturers survey.
+The following companies are listed in order of their global market share (2009 info):
+
+Dai Nippon Printing
+Toppan Photomasks (now Tekscend)
+Photronics Inc
+Hoya Corporation
+Taiwan Mask Corporation
+Compugraphics
+Major chipmakers such as Intel, Globalfoundries, IBM, NEC, TSMC, UMC, Samsung, and Micron Technology, have their own large maskmaking facilities or joint ventures with the abovementioned companies.
+The worldwide photomask market was estimated as $3.2 billion in 2012 and $3.1 billion in 2013. Almost half of the market was from captive mask shops (in-house mask shops of major chipmakers).
+The costs of creating new mask shop for 180 nm processes were estimated in 2005 as $40 million, and for 130 nm - more than $100 million.
+The purchase price of a photomask, in 2006, could range from $250 to $100,000 for a single high-end phase-shift mask. As many as 30 masks (of varying price) may be required to form a complete mask set. As modern chips are built in several layers stacked on top of each other, at least one mask is required for each of these layers.
+
+See also
+Computational lithography
+Integrated circuit layout design protection (or "Mask work")
+Mask inspection
+Nanochannel glass materials
+SMIF interface
+Stepping level
+
+References
+
+[[Integrated circuit]] [[Optical proximity correction]] [[SPIE]] [[Semiconductor device fabrication]] [[Silicon]] [[Wafer (electronics)]]

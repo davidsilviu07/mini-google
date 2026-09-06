@@ -1,0 +1,111 @@
+PLY (file format)
+PLY is a computer file format known as the Polygon File Format or the Stanford Triangle Format. It was principally designed to store three-dimensional data from 3D scanners. The data storage format supports a relatively simple description of a single object as a list of nominally flat polygons. A variety of properties can be stored, including color and transparency, surface normals, texture coordinates and data confidence values. The format permits one to have different properties for the front and back of a polygon.
+There are two versions of the file format, one in ASCII, the other in binary.
+
+The file format
+A Ply file starts with the "header" attribute, which specifies the elements of a mesh and their types, followed by the list of elements itself. The elements are usually vertices and faces, but may include other entities such as edges, samples of range maps, and triangle strips.
+The header of both ASCII and binary files is ASCII text. Only the numerical data that follows the header is different between the two versions.
+The header always starts with a "magic number", a line containing:
+
+ply
+
+which identifies the file as a PLY file. The second line indicates which variation of the PLY format this is. It should be one of the following:
+
+format ascii 1.0
+format binary_little_endian 1.0
+format binary_big_endian 1.0
+
+Future versions of the standard will change the revision number at the end - but 1.0 is the only version currently in use.
+Comments may be placed in the header by using the word comment at the start of the line. Everything from there until the end of the line should then be ignored. e.g.:
+
+comment This is a comment!
+
+The element keyword introduces a description of how some particular data elements are stored and how many of them there are. Hence, in a file where there are 12 vertices, each represented as a floating point (X,Y,Z) triple, one would expect to see:
+
+element vertex 12
+property float x
+property float y
+property float z
+
+Other property lines might indicate that colours or other data items are stored at each vertex and indicate the data type of that information. Regarding the data type, there are two variants depending on the source of the ply file.  The type can be specified with one of char uchar short ushort int uint float double, or one of int8 uint8 int16 uint16 int32 uint32 float32 float64. For an object with ten polygonal faces, one might see:
+
+element face 10
+property list uchar int vertex_index
+
+PLY implementations vary wildly in the property names. vertex_indices is more often used than vertex_index, for example in Blender and VTK. The extended specification lists a "Core List (required)", "Second List (often used)" and "Third List (suggested extensions)" of property names.
+The word list indicates that the data is a list of values, the first of which is the number of entries in the list (represented as a 'uchar' in this case). In this example each list entry is represented as an 'int'. At the end of the header, there must always be the line:
+
+end_header
+
+ASCII or binary format
+In the ASCII version of the format, the vertices and faces are each described one to a line with the numbers separated by white space. In the binary version, the data is simply packed closely together at the endianness specified in the header and with the data types given in the property records. For the common property list... representation for polygons, the first number for that element is the number of vertices that the polygon has and the remaining numbers are the indices of those vertices in the preceding vertex list.
+
+History
+The PLY format was developed in the mid-90s by Greg Turk and others in the Stanford graphics lab under the direction of Marc Levoy. Its design was inspired by the Wavefront .obj format. However, the Obj format lacked extensibility for arbitrary properties and groupings, so the property and element keywords were devised to generalize the notions of vertices, faces, associated data, and other groups.
+
+Example file
+The following is a full example of a PLY file which describes a cube mesh exported from Blender version 4.0.2:
+
+ply
+format ascii 1.0
+comment Created in Blender version 4.0.2
+element vertex 14
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+property float s
+property float t
+element face 6
+property list uchar uint vertex_indices
+end_header
+1 1 1 0.5773503 0.5773503 0.5773503 0.625 0.5
+-1 1 1 -0.5773503 0.5773503 0.5773503 0.875 0.5
+-1 -1 1 -0.5773503 -0.5773503 0.5773503 0.875 0.75
+1 -1 1 0.5773503 -0.5773503 0.5773503 0.625 0.75
+1 -1 -1 0.5773503 -0.5773503 -0.5773503 0.375 0.75
+-1 -1 1 -0.5773503 -0.5773503 0.5773503 0.625 1
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0.375 1
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0.375 0
+-1 -1 1 -0.5773503 -0.5773503 0.5773503 0.625 0
+-1 1 1 -0.5773503 0.5773503 0.5773503 0.625 0.25
+-1 1 -1 -0.5773503 0.5773503 -0.5773503 0.375 0.25
+-1 1 -1 -0.5773503 0.5773503 -0.5773503 0.125 0.5
+1 1 -1 0.5773503 0.5773503 -0.5773503 0.375 0.5
+-1 -1 -1 -0.5773503 -0.5773503 -0.5773503 0.125 0.75
+4 0 1 2 3
+4 4 3 5 6
+4 7 8 9 10
+4 11 12 4 13
+4 12 0 3 4
+4 10 9 0 12
+
+The file starts with the header which defines a file in ASCII format. There are 14 vertices (6 faces * 4 vertices - 10 vertices saved due to merging) and 6 faces in total. After the header, the vertex and face data is listed. The vertex list contains position (x,y,z), normals (nx,ny,nz) and texture coordinates (s,t) for each of the 14 vertices. The face list contains the vertex count (4) and the vertex indices for each of the 6 quadrilateral faces.
+
+See also
+STL (file format), another common file format for 3D printing
+Additive Manufacturing File Format
+Wavefront .obj file, a 3D geometry definition file format with .obj file extension
+glTF - a Khronos Group file format for 3D Scenes and models.
+Universal Scene Description (USD).
+
+Open source software
+CloudCompare having a focus on point clouds with some additional functions for meshes.
+GigaMesh Software Framework: numerical computations on meshes in PLY (or OBJ).
+MeshLab: generic application for visualizing, processing and converting three-dimensional meshes to or from the PLY file format.
+
+References
+
+External links
+Library of Congress Format Description
+PLY - Polygon File Format
+Some tools for working with PLY files (C source code)
+rply - An Ansi C software library for reading and writing PLY files (MIT license)
+libply - A C++ software library for reading and writing PLY files (GNU license)
+plyodine - A C++23 library for reading and writing PLY files (BSD license)
+Another C++ software library for reading and writing PLY files (GPL 3.0 license)
+A repository of 3D models stored in the PLY format
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

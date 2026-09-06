@@ -1,0 +1,75 @@
+Alibre Design
+Alibre Design is a 3D parametric computer aided design (3D CAD) software suite developed by Alibre for Microsoft Windows.  Available in fifteen languages. Alibre is a brand of Alibre, LLC, a company based in Texas.
+
+About
+Founded in 1997, Alibre began working closely with Microsoft in 1998 to develop the first web-based collaborative 3D design environment. The environment operated on a web-browser and allowed multiple users to work on the same design simultaneously.  Following this development, Alibre received a patent for "System and method for solid modeling," protecting their technologies for generating 3D geometries across a high bandwidth, distributed network. Alibre's purported aim in this development was to give businesses a cost-effective way to geographically distribute teams by enabling networked design environments without incurring large capital expenditures.
+Alibre Design is based on the ACIS modeling kernel from Spatial, and a 2D and 3D constraint solving system from Siemens PLM, among other technologies. It allows users to create modeled representations of concepts to facilitate design and manufacturing, with 2D and 3D functionality.  Parametric solid modeling is driven by intelligent dimensions, meaning that the software automatically recomputes designs to accommodate changes to a single dimension, thereby maintaining the design's dimensional accuracy without necessitating manual adjustment of each dimension.
+
+Products and features
+Alibre's products fall into two categories intended for different users and applications.  Alibre Design Professional has a basic set of features intended for users to get started with CAD, whereas Alibre Design Expert is a 3D and 2D modeling application suitable or intended for professional use.
+
+Design tools
+Some of Alibre's key design tools include:
+
+Part modeling to define the geometry of individual components using a variety of powerful parametric feature creation tools
+Sheet metal modeling to define the geometry of individual components created from sheeted materials, such as sheet metal.  Software adheres to the real-world constraints of sheeted goods
+Assembly modeling to define relationships between individual components for final assembled designs.  Software analyzes the relation of components to assess real-word constraints and conditions, such as tangency or alignment
+Exploded assembly view creation and publishing animated sequences to 3D PDF
+Surface modeling to create organic surface models
+2D drafting to convert previously created 3D designs into 2D engineering drawings for manufacturing, patents and design communication. Extensive detailing tools available for creating professional drawings meeting major engineering drawing standards
+Bill of materials generation and inclusion in 2D drawings
+Integrated scripting environment using Python language
+
+Data management
+Versioning and rollback
+Search
+Where-used
+Extensible metadata
+Local or LAN installation
+
+Technical support and training
+Alibre includes free training through a built-in help section in the software.  Free training is also available via online tutorials and videos.
+To get direct technical assistance for Alibre products, customers must buy a software maintenance plan, which gives access to support via telephone or online ticket system.
+
+Compatibility
+
+Supported file formats for import
+STEP AP203/214/242 (*.stp, *.step, *.ste)
+IGES (*.igs)
+ACIS (*.sat)
+Parasolid (*.x_t, *.x_b, *.xmt_txt, *xmt_bin)
+Rhino (*.3dm)
+AutoCAD DXF (*.dxf), DWG (*.dwg)
+SolidWorks Files (*.sldprt, *.sldasm)
+Autodesk Inventor (*.ipt, *.iam)
+Pro/Engineer (*.prt, *.asm, *.xpr, *.xas)
+Catia (*.CATPart, *.CATProduct)
+Solid Edge (*.par, *.psm, *.asm)
+NX (*.prt)
+Various image formats (bmp, dib, rle, gif, tif, tiff, png, jpg, jpeg, jfif, emf, wmf)
+
+Supported file formats for export
+STEP AP203/214/242 (*.stp, *.step, *.ste)
+IGES (*.igs)
+ACIS (*.sat)
+Parasolid (*.x_t)
+Stereolithography (*.stl)
+DXF (*.dxf), DWG (*.dwg)
+PDF and 3D PDF
+SolidWorks (*.sldprt, *.sldasm)
+JT (Jupiter Tessellation) Visualization format
+Luxion KeyShot (*.bip)
+OBJ (*.obj) - via an add-on in Alibre Design Expert
+
+See also
+Comparison of computer-aided design editors
+
+References
+
+Further reading
+King, Nelson (August 2000). "Alibre Puts Design Online". PC Magazine. Retrieved 26 June 2016.
+Rosato, D.V. (2003). Plastics Engineered Product Design. Elsevier Science. pp. 353–. ISBN 978-0-08-051407-9. Retrieved June 26, 2016. (subscription required)
+"(Can't access title)". Volume 79, Issues 18-23. Machine Design. 2007. p. 12. Retrieved 26 June 2016. (subscription required)
+Madsen, D.A.; Madsen, D.P. (2012). Engineering Drawing and Design. Cengage Learning. p. 73. ISBN 978-1-111-30957-2. Retrieved June 26, 2016.
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Altium]] [[Altium Designer]] [[Ansys]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

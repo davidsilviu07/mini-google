@@ -1,0 +1,42 @@
+Form factor (design)
+Form factor is a hardware design aspect that defines and prescribes the size, shape, and other physical specifications of components, particularly in electronics. A form factor may represent a broad class of similarly sized components, or it may prescribe a specific standard. It may also define an entire system, as in a computer form factor.
+
+Evolution and standardization
+As electronic hardware has become smaller following Moore's law and related patterns, ever-smaller form factors have become feasible. Specific technological advances, such as PCI Express, have had a significant design impact, though form factors have historically evolved slower than individual components. Standardization of form factors is vital for hardware compatibility between different manufacturers.
+
+Trade-offs
+Smaller form factors may offer more efficient use of limited space, greater flexibility in the placement of components within a larger assembly, reduced use of material, and greater ease of transportation and use. However, smaller form factors typically incur greater costs in the design, manufacturing, and maintenance phases of the engineering lifecycle, and do not allow the same expansion options as larger form factors. In particular, the design of smaller form-factor computers and network equipment must entail careful consideration of cooling. End-user Maintenance and repair of small form-factor electronic devices such as mobile phones is often not possible, and may be discouraged by warranty voiding clauses; such devices require professional servicing—or simply replacement—when they fail.
+
+Examples
+
+Computer form factors comprise a number of specific industry standards for motherboards, specifying dimensions, power supplies, placement of mounting holes and ports, and other parameters. Other types of form factors for computers include:
+
+Small form factor (SFF), a more loosely defined set of standards that may refer to both motherboards and computer cases. SFF devices include mini-towers and home theater PCs.
+Pizza box form factor, a wide, flat case form factor used for computers and network switches; often sized for installation in a 19-inch rack.
+All-in-one PC
+"Lunchbox" portable computer
+
+Components
+Hard disk drive form factors, the physical dimensions of a computer hard drive
+Hard disk enclosure form factor, the physical dimensions of a computer hard drive enclosure
+Motherboard form factor, the physical dimensions of a computer motherboard
+Memory module form factors
+
+Mobile form factors
+Laptop or notebook, a form of portable computer with a clamshell design.
+Subnotebook, ultra-mobile PC, netbook, and tablet computer, various form factors for devices that are smaller and often cheaper than a typical notebook.
+Mobile phone, including a wide range of sizes and layouts. Broad categories of form factors include bars, flip phones, and sliders, with many subtypes and variations. Also include phablets (small tablets) and industrial handheld devices.
+Stick PC, a single-board computer in a small elongated casing resembling a stick
+
+See also
+Computer hardware
+Electronic packaging
+Packaging engineering
+List of computer size categories
+List of integrated circuit package dimensions
+
+Notes
+
+References
+
+[[Computer hardware]] [[Laptop]]

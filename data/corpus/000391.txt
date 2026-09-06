@@ -1,0 +1,321 @@
+Elastomer
+An elastomer is a polymer with viscoelasticity (i.e. both viscosity and elasticity) and with weak intermolecular forces, generally low Young's modulus (E) and high failure strain compared with other materials. The term, a portmanteau of elastic polymer, is often used interchangeably with rubber, although the latter is preferred when referring to vulcanisates. Each of the monomers which link to form the polymer is usually a compound of several elements among carbon, hydrogen, oxygen and silicon.
+
+Rubber-like solids with elastic properties are called elastomers. Polymer chains are held together in these materials by relatively weak intermolecular bonds, which permit the polymers to stretch in response to macroscopic stresses.
+Elastomers are usually thermosets (requiring vulcanization) but may also be thermoplastic (see thermoplastic elastomer). The long polymer chains cross-link during curing (i.e., vulcanizing). The molecular structure of elastomers can be imagined as a 'spaghetti and meatball' structure, with the meatballs signifying cross-links. The elasticity is derived from the ability of the long chains to reconfigure themselves to distribute an applied stress.
+Unlike metals or rigid crystals where elasticity comes from changing interatomic bond distances (energy elasticity), elastomer elasticity is entropy-driven. In an unstressed state, polymer chains assume random coiled configurations (maximum entropy). Stretching forces the chains into aligned, ordered states (lower entropy). Upon releasing stress, thermal motion restores the random coiled state.
+
+Examples
+Unsaturated rubbers that can be cured by sulfur vulcanization:
+
+Natural polyisoprene: cis-1,4-polyisoprene natural rubber (NR) and trans-1,4-polyisoprene gutta-percha
+Synthetic polyisoprene (IR for isoprene rubber)
+Polybutadiene (BR for butadiene rubber)
+Chloroprene rubber (CR), polychloroprene, neoprene
+Butyl rubber (copolymer of isobutene and isoprene, IIR)
+Halogenated butyl rubbers (chloro butyl rubber: CIIR; bromo butyl rubber: BIIR)
+Styrene-butadiene rubber (copolymer of styrene and butadiene, SBR)
+Nitrile rubber (copolymer of butadiene and acrylonitrile, NBR), also called Buna N rubbers
+Hydrogenated nitrile rubbers (HNBR) Therban and Zetpol
+Saturated rubbers that cannot be cured by sulfur vulcanization:
+
+EPM (ethylene propylene rubber, a copolymer of ethene and propene) and EPDM rubber (ethylene propylene diene rubber, a terpolymer of ethylene, propylene and a diene-component)
+Epichlorohydrin rubber (ECO)
+Acrylic rubber (ACM, ABR)
+Silicone rubber (SI, Q, VMQ)
+Fluorosilicone rubber (FVMQ)
+Fluoroelastomers (FKM, and FEPM) Viton, Tecnoflon, Fluorel, Aflas and Dai-El
+Perfluoroelastomers (FFKM) Tecnoflon PFR, Kalrez, Chemraz, Perlast
+Polyether block amides (PEBA)
+Chlorosulfonated polyethylene (CSM)
+Ethylene-vinyl acetate (EVA)
+Various other types of elastomers:
+
+Thermoplastic elastomers (TPE)
+The proteins resilin and elastin
+Polysulfide rubber
+Elastolefin, elastic fiber used in fabric production
+Poly(dichlorophosphazene), an "inorganic rubber" from hexachlorophosphazene polymerization
+
+Shear deformation
+Crosslinking most likely occurs in an equilibrated polymer without any solvent. The free energy expression derived from the Neo-Hookean model of rubber elasticity is in terms of free energy change due to deformation per unit volume of the sample. The strand concentration, v, is the number of strands over the volume which does not depend on the overall size and shape of the elastomer. Beta relates the end-to-end distance of polymer strands across crosslinks over polymers that obey random walk statistics.
+
+  
+    
+      
+        Δ
+        
+          f
+          
+            d
+          
+        
+        =
+        
+          
+            
+              Δ
+              
+                F
+                
+                  d
+                
+              
+            
+            V
+          
+        
+        =
+        
+          
+            
+              
+                K
+                
+                  B
+                
+              
+              T
+              
+                ν
+                
+                  e
+                  l
+                
+              
+              β
+              
+                λ
+                
+                  1
+                
+              
+              
+                p
+                
+                  2
+                
+              
+              +
+              
+                λ
+                
+                  2
+                
+              
+              p
+              +
+              2
+              
+                λ
+                
+                  3
+                
+              
+              
+                p
+                
+                  2
+                
+              
+              −
+              3
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \Delta f_{d}={\frac {\Delta F_{d}}{V}}={\frac {K_{B}T\nu _{el}\beta \lambda _{1}p^{2}+\lambda _{2}p+2\lambda _{3}p^{2}-3}{2}}}
+  
+
+  
+    
+      
+        
+          v
+          
+            e
+            l
+          
+        
+        =
+        
+          
+            
+              n
+              
+                e
+                l
+              
+            
+            V
+          
+        
+        ,
+        β
+        =
+        1
+      
+    
+    {\displaystyle v_{el}={\frac {n_{el}}{V}},\beta =1}
+  
+
+In the specific case of shear deformation, the elastomer besides abiding to the simplest model of rubber elasticity is also incompressible. For pure shear we relate the shear strain, to the extension ratios lambdas. Pure shear is a two-dimensional stress state making lambda equal to 1, reducing the energy strain function above to:
+
+  
+    
+      
+        Δ
+        
+          f
+          
+            d
+          
+        
+        =
+        
+          
+            
+              
+                k
+                
+                  B
+                
+              
+              T
+              
+                ν
+                
+                  s
+                
+              
+              β
+              
+                γ
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \Delta f_{d}={\frac {k_{B}T\nu _{s}\beta \gamma ^{2}}{2}}}
+  
+
+To get shear stress, then the energy strain function is differentiated with respect to shear strain to get the shear modulus, G, times the shear strain:
+
+  
+    
+      
+        
+          σ
+          
+            12
+          
+        
+        =
+        
+          
+            
+              d
+              (
+              Δ
+              
+                f
+                
+                  d
+                
+              
+              )
+            
+            
+              d
+              γ
+            
+          
+        
+        =
+        G
+        γ
+      
+    
+    {\displaystyle \sigma _{12}={\frac {d(\Delta f_{d})}{d\gamma }}=G\gamma }
+  
+
+Shear stress is then proportional to the shear strain even at large strains. Notice how a low shear modulus correlates to a low deformation strain energy density and vice versa. Shearing deformation in elastomers, require less energy to change shape than volume.
+
+  
+    
+      
+        Δ
+        
+          f
+          
+            d
+          
+        
+        =
+        W
+        =
+        
+          
+            
+              G
+              (
+              
+                λ
+                
+                  1
+                  p
+                
+                
+                  2
+                
+              
+              +
+              
+                λ
+                
+                  2
+                  p
+                
+                
+                  2
+                
+              
+              +
+              
+                λ
+                
+                  3
+                  p
+                
+                
+                  2
+                
+              
+              −
+              3
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \Delta f_{d}=W={\frac {G(\lambda _{1p}^{2}+\lambda _{2p}^{2}+\lambda _{3p}^{2}-3)}{2}}}
+  
+
+See also
+Rubber elasticity
+
+References
+
+Further reading
+Diener, Andreas (September 2014). "Efficient and Eco-Friendly Polymerization of Elastomers" (PDF). China Plastic & Rubber Journal. CPRJ International. Archived from the original (PDF) on 18 September 2016.
+
+[[Silicon]]

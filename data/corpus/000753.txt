@@ -1,0 +1,97 @@
+Near-infrared spectroscopy
+Near-infrared spectroscopy (NIRS) is a spectroscopic method that uses the near-infrared region of the electromagnetic spectrum (from 780 nm to 2500 nm). Typical applications include medical and physiological diagnostics and research including blood sugar, pulse oximetry, functional neuroimaging, sports medicine, elite sports training, ergonomics, rehabilitation, neonatal research, brain computer interface, urology (bladder contraction), and neurology (neurovascular coupling). There are also applications in other areas as well such as pharmaceutical, food and agrochemical quality control, atmospheric chemistry, combustion propagation.
+
+Theory
+Near-infrared spectroscopy is based on molecular overtone and combination vibrations. Overtones and combinations exhibit lower intensity compared to the fundamental, as a result, the molar absorptivity in the near-IR region is typically quite small. (NIR absorption bands are typically 10–100 times weaker than the corresponding fundamental mid-IR absorption band.) The lower absorption allows NIR radiation to penetrate much further into a sample than mid infrared radiation. Near-infrared spectroscopy is, therefore, not a particularly sensitive technique, but it can be very useful in probing bulk material with little to no sample preparation.
+The molecular overtone and combination bands seen in the near-IR are typically very broad, leading to complex spectra; it can be difficult to assign specific features to specific chemical components. Multivariate (multiple variables) calibration techniques (e.g., principal components analysis, partial least squares, or artificial neural networks) are often employed to extract the desired chemical information. Careful development of a set of calibration samples and application of multivariate calibration techniques is essential for near-infrared analytical methods.
+
+History
+
+The discovery of near-infrared energy is ascribed to William Herschel in the 19th century, but the first industrial application began in the 1950s. In the first applications, NIRS was used only as an add-on unit to other optical devices that used other wavelengths such as ultraviolet (UV), visible (Vis), or mid-infrared (MIR) spectrometers. In the 1980s, a single-unit, stand-alone NIRS system was made available.
+In the 1980s, Karl Norris (while working at the USDA Instrumentation Research Laboratory, Beltsville, USA) pioneered the use NIR spectroscopy for quality assessments of agricultural products. Since then, use has expanded from food and agricultural to chemical, polymer, and petroleum industries; pharmaceutical industry; biomedical sciences; and environmental analysis. 
+With the introduction of light-fiber optics in the mid-1980s and the monochromator-detector developments in the early 1990s, NIRS became a more powerful tool for scientific research. The method has been used in a number of fields of science including physics, physiology, or medicine. It is only in the last few decades that NIRS began to be used as a medical tool for monitoring patients, with the first clinical application of so-called fNIRS in 1994.
+
+Instrumentation
+Instrumentation for near-IR (NIR) spectroscopy is similar to instruments for the UV-visible and mid-IR ranges. There is a source, a detector, and a dispersive element (such as a prism, or, more commonly, a diffraction grating) to allow the intensity at different wavelengths to be recorded. Fourier transform NIR instruments using an interferometer are also common, especially for wavelengths above ~1000 nm. Depending on the sample, the spectrum can be measured in either reflection or transmission.
+Common incandescent or quartz halogen light bulbs are most often used as broadband sources of near-infrared radiation for analytical applications. Light-emitting diodes (LEDs) can also be used. For high precision spectroscopy, wavelength-scanned lasers and frequency combs have recently become powerful sources, albeit with sometimes longer acquisition timescales. When lasers are used, a single detector without any dispersive elements might be sufficient.
+The type of detector used depends primarily on the range of wavelengths to be measured. Silicon-based CCDs are suitable for the shorter end of the NIR range, but are not sufficiently sensitive over most of the range (over 1000 nm). InGaAs and PbS devices are more suitable and have higher quantum efficiency for wavelengths above 1100 nm. It is possible to combine silicon-based and InGaAs detectors in the same instrument. Such instruments can record both UV-visible and NIR spectra 'simultaneously'.
+Instruments intended for chemical imaging in the NIR may use a 2D array detector with an acousto-optic tunable filter. Multiple images may be recorded sequentially at different narrow wavelength bands.
+Many commercial instruments for UV/vis spectroscopy are capable of recording spectra in the NIR range (to perhaps ~900 nm). In the same way, the range of some mid-IR instruments may extend into the NIR. In these instruments, the detector used for the NIR wavelengths is often the same detector used for the instrument's "main" range of interest.
+
+NIRS as an analytical technique
+The use of NIR as an analytical technique did not come from extending the use of mid-IR into the near-IR range, but developed independently. A striking way this was exhibited is that, while mid-IR spectroscopists use wavenumbers (cm−1) when displaying spectra, NIR spectroscopists used wavelength (nm), as is used in ultraviolet–visible spectroscopy. Early practitioners of IR spectroscopy, who depended on assignment of absorption bands to specific bond types, were frustrated by the complexity of the bonding regions being measured. However, as a quantitative tool, the lower molar absorption levels in the bonding region tended to keep absorption maxima "on-scale", enabling quantitative work with little sample preparation. Techniques applied to extract the quantitative information from these complex spectra were unfamiliar to analytical chemists, and the technique was viewed with suspicion in academia.
+Generally, quantitative NIR analysis is accomplished by selecting a group of calibration samples, for which the concentration of the analyte of interest has been determined by a reference method, and finding a correlation between various spectral features and those concentrations using a chemometric tool. The calibration is then validated by using it to predict the analyte values for samples in a validation set, whose values have been determined by the reference method but have not been included in the calibration. A validated calibration is then used to predict the values of samples. The complexity of the spectra are overcome by the use of multivariate calibration. The two tools most often used a multi-wavelength linear regression and partial least squares.
+
+Applications
+Typical applications of NIR spectroscopy include the analysis of food products, pharmaceuticals, combustion products, and a major branch of astronomical spectroscopy.
+
+Astronomical spectroscopy
+Near-infrared spectroscopy is used in astronomy for studying the atmospheres of cool stars where molecules can form. The vibrational and rotational signatures of molecules such as titanium oxide, cyanide, and carbon monoxide can be seen in this wavelength range and can give a clue towards the star's spectral type. It is also used for studying molecules in other astronomical contexts, such as in molecular clouds where new stars are formed. The astronomical phenomenon known as reddening means that near-infrared wavelengths are less affected by dust in the interstellar medium, such that regions inaccessible by optical spectroscopy can be studied in the near-infrared. Since dust and gas are strongly associated, these dusty regions are exactly those where infrared spectroscopy is most useful. The near-infrared spectra of very young stars provide important information about their ages and masses, which is important for understanding star formation in general. Astronomical spectrographs have also been developed for the detection of exoplanets using the Doppler shift of the parent star due to the radial velocity of the planet around the star.
+
+Agriculture
+Near-infrared spectroscopy is widely applied in agriculture for determining the quality of forages, grains, and grain products, oilseeds, coffee, tea, spices, fruits, vegetables, sugarcane, beverages, fats, and oils, dairy products, eggs, meat, and other agricultural products. It is widely used to quantify the composition of agricultural products because it meets the criteria of being accurate, reliable, rapid, non-destructive, and inexpensive. Abeni and Bergoglio 2001 apply NIRS to chicken breeding as the assay method for characteristics of fat composition.
+
+Remote monitoring
+Techniques have been developed for NIR spectroscopic imaging. Hyperspectral imaging has been applied for a wide range of uses, including the remote investigation of plants and soils. Data can be collected from instruments on airplanes, satellites or unmanned aerial systems to assess ground cover and soil chemistry.
+Remote monitoring or remote sensing from the NIR spectroscopic region can also be used to study the atmosphere. For example, measurements of atmospheric gases are made from NIR spectra measured by the OCO-2, GOSAT, and the TCCON.
+
+Materials science
+Techniques have been developed for NIR spectroscopy of microscopic sample areas for film thickness measurements, research into the optical characteristics of nanoparticles and optical coatings for the telecommunications industry.
+
+Medical uses
+The application of NIRS in medicine centres on its ability to provide information about the oxygen saturation of haemoglobin within the microcirculation. Broadly speaking, it can be used to assess oxygenation and microvascular function in the brain (cerebral NIRS) or in the peripheral tissues (peripheral NIRS).
+
+Cerebral NIRS
+When a specific area of the brain is activated, the localized blood volume in that area changes quickly. Optical imaging can measure the location and activity of specific regions of the brain by continuously monitoring blood hemoglobin levels through the determination of optical absorption coefficients.
+
+NIRS can be used as a quick screening tool for possible intracranial bleeding cases by placing the scanner on four locations on the head. In non-injured patients the brain absorbs the NIR light evenly. When there is an internal bleeding from an injury, the blood may be concentrated in one location causing the NIR light to be absorbed more than other locations, which the scanner detects.
+So-called functional NIRS can be used for non-invasive assessment of brain function through the intact skull in human subjects by detecting changes in blood hemoglobin concentrations associated with neural activity, e.g., in branches of cognitive psychology as a partial replacement for fMRI techniques. NIRS can be used on infants, and NIRS is much more portable than fMRI machines, even wireless instrumentation is available, which enables investigations in freely moving subjects. However, NIRS cannot fully replace fMRI because it can only be used to scan cortical tissue, whereas fMRI can be used to measure activation throughout the brain. Special public domain statistical toolboxes for analysis of stand alone and combined NIRS/MRI measurement have been developed.
+
+The application in functional mapping of the human cortex is called functional NIRS (fNIRS) or diffuse optical tomography (DOT). The term diffuse optical tomography is used for three-dimensional NIRS. The terms NIRS, NIRI, and DOT are often used interchangeably, but they have some distinctions. The most important difference between NIRS and DOT/NIRI is that DOT/NIRI is used mainly to detect changes in optical properties of tissue simultaneously from multiple measurement points and display the results in the form of a map or image over a specific area, whereas NIRS provides quantitative data in absolute terms on up to a few specific points. The latter is also used to investigate other tissues such as, e.g., muscle, breast and tumors. NIRS can be used to quantify blood flow, blood volume, oxygen consumption, reoxygenation rates and muscle recovery time in muscle.
+By employing several wavelengths and time resolved (frequency or time domain) and/or spatially resolved methods blood flow, volume and absolute tissue saturation (
+  
+    
+      
+        S
+        t
+        
+          O
+          
+            2
+          
+        
+      
+    
+    {\displaystyle StO_{2}}
+  
+ or Tissue Saturation Index (TSI)) can be quantified. Applications of oximetry by NIRS methods include neuroscience, ergonomics, rehabilitation, brain-computer interface, urology, the detection of illnesses that affect the blood circulation (e.g., peripheral vascular disease), the detection and assessment of breast tumors, and the optimization of training in sports medicine.
+The use of NIRS in conjunction with a bolus injection of indocyanine green (ICG) has been used to measure cerebral blood flow and cerebral metabolic rate of oxygen consumption (CMRO2).
+It has also been shown that CMRO2 can be calculated with combined NIRS/MRI measurements. Additionally metabolism can be interrogated by resolving an additional mitochondrial chromophore, cytochrome-c-oxidase, using broadband NIRS.
+NIRS is starting to be used in pediatric critical care, to help manage patients following cardiac surgery. Indeed, NIRS is able to measure venous oxygen saturation (SVO2), which is determined by the cardiac output, as well as other parameters (FiO2, hemoglobin, oxygen uptake). Therefore, examining the NIRS provides critical care physicians with an estimate of the cardiac output. NIRS is favoured by patients, because it is non-invasive, painless, and does not require ionizing radiation.
+Optical coherence tomography (OCT) is another NIR medical imaging technique capable of 3D imaging with high resolution on par with low-power microscopy. Using optical coherence to measure photon pathlength allows OCT to build images of live tissue and clear examinations of tissue morphology. Due to technique differences OCT is limited to imaging 1–2 mm below tissue surfaces, but despite this limitation OCT has become an established medical imaging technique especially for imaging of the retina and anterior segments of the eye, as well as coronaries.
+A type of neurofeedback, hemoencephalography or HEG, uses NIR technology to measure brain activation, primarily of the frontal lobes, for the purpose of training cerebral activation of that region.
+The instrumental development of NIRS/NIRI/DOT/OCT has proceeded tremendously during the last years and, in particular, in terms of quantification, imaging and miniaturization.
+
+Peripheral NIRS
+Peripheral microvascular function can be assessed using NIRS. The oxygen saturation of haemoglobin in the tissue (StO2) can provide information about tissue perfusion. A vascular occlusion test (VOT) can be employed to assess microvascular function. Common sites for peripheral NIRS monitoring include the thenar eminence, forearm and calf muscles.
+
+Particle measurement
+NIR is often used in particle sizing in a range of different fields, including studying pharmaceutical and agricultural powders.
+
+Industrial uses
+As opposed to NIRS used in optical topography, general NIRS used in chemical assays does not provide imaging by mapping. For example, a clinical carbon dioxide analyzer requires reference techniques and calibration routines to be able to get accurate CO2 content change. In this case, calibration is performed by adjusting the zero control of the sample being tested after purposefully supplying 0% CO2 or another known amount of CO2 in the sample. Normal compressed gas from distributors contains about 95% O2 and 5% CO2, which can also be used to adjust %CO2 meter reading to be exactly 5% at initial calibration.
+
+See also
+
+References
+
+Further reading
+Kouli, M.: "Experimental investigations of non invasive measuring of cerebral blood flow in adult human using the near infrared spectroscopy." Dissertation, Technical University of Munich, December 2001.
+Raghavachari, R., Editor. 2001. Near-Infrared Applications in Biotechnology, Marcel-Dekker, New York, NY.
+Workman, J.; Weyer, L. 2007. Practical Guide to Interpretive Near-Infrared Spectroscopy, CRC Press-Taylor & Francis Group, Boca Raton, FL.
+
+External links
+
+NIR Spectroscopy Archived 2015-01-12 at the Wayback Machine NIR Spectroscopy News
+
+[[Hemoencephalography]] [[Neurology]]

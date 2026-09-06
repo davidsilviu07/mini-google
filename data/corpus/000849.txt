@@ -1,0 +1,81 @@
+Progressive myoclonus epilepsy
+Progressive Myoclonic Epilepsies (PME) are a rare group of inherited neurodegenerative diseases characterized by myoclonus, resistance to treatment, and neurological deterioration. The cause of PME depends largely on the type of PME. Most PMEs are caused by autosomal dominant or recessive and mitochondrial mutations. The location of the mutation also affects the inheritance and treatment of PME. Diagnosing PME is difficult due to their genetic heterogeneity and the lack of a genetic mutation identified in some patients. The prognosis depends largely on the worsening symptoms and failure to respond to treatment. There is no current cure for PME and treatment focuses on managing myoclonus and seizures through antiepileptic medication (AED).
+The age of onset depends on the specific PME but PME can affect people of all ages. In Unverricht-Lundborg disease (ULD) the age of onset is between 6–15 years, while in Adult Neuronal ceroid lipofuscinoses (Adult NCL) the age of onset can be as late as 30.
+Symptoms often include action or stimuli induced myoclonus, seizures, neuropathy, cognitive decline, and spike and wave or no cerebral discharges. The prognosis of those diagnosed with PME is poor. The person often becomes reliant on a wheelchair, enters a vegetative state due to myoclonus, and has a shortened life expectancy.
+
+Signs and symptoms
+The most common symptom of PME is myoclonus. The myoclonus can be fragmented or multifocal and can be triggered by posture, actions, and external stimuli such as light, sound, and touch. The type of myoclonus differs between the types of PME. Other symptoms of PME include generalized, tonic clonic, tonic, and atypical absence seizures. In Lafora's disease the seizures are occipital and the person experiences transient blindness as well as visual hallucinations. The person may also have atypical absences and atonic and complex partial seizures. In Myoclonus epilepsy with ragged-red fibers (MERRF) the person experiences generalized epilepsy along with myoclonus, weakness, and dementia.
+As PME progresses neurological ability decreases and can lead to myopathy, neuropathy, cognitive decline, cerebellar ataxia, and dementia. The different symptoms in each of the PME and between individuals makes diagnosis difficult. Therefore, diagnosis of PME is dependent on failure to respond to antiepileptic drugs and therapy but diagnosis of specific PME depends on genetic testing, EEG (electroencephalography), enzyme measurements and more.
+
+Diagnosis
+Diagnosis of PME is based on the individual's signs and symptoms as well as failure to respond to antiepileptic drugs and therapy. Further diagnosis support includes EEG results, genetic testing, enzyme testing, and skin and muscle biopsies. Gaucher's disease can be diagnosed through enzyme testing as it is a metabolic disease. Lafora's disease can be diagnosed using skin biopsies. While Action myoclonus renal failure (AMRF) syndrome can only be diagnosed using genetic test. Using EEG's as a form of diagnosis can prove difficult as patients differ in their neurophysiology. In Lafora's disease EEGs can show slowing background activity or focal discharges as well as epileptiform discharges. In ULD EEGs show generalized epileptiform discharges and in MERRF patients show background slowing. Therefore, diagnosis is best made using a combination of different tools like signs and symptoms, age of onset, EEG, gene testing, enzyme measurements, and biopsy of skin and muscle.
+
+Differential diagnosis
+The main component setting PME apart from other forms of epilepsy is progressive deterioration and resistance to treatment. Therefore, in the early stages of PME the symptoms and EEG may appear like Generalized epilepsy, Juvenile myoclonic epilepsy, benign childhood myoclonic epilepsy, and Huntington's disease. It is crucial for ensure initial treatment is appropriate to measure how the condition progresses. Incorrect treatment can also result in wrong PME diagnosis.
+
+Management
+The is no cure for PME. Efforts are instead placed in managing the symptoms, specifically the myoclonus and seizures as these can cause major harm to the individual. However, treating the symptoms with antiepileptic drugs can be difficult because PME individuals can become resistant. Some antiepileptic drugs used in treatment are valproic acid, benzodiazepines, phehobarbital, piracetam, zonisamide, clonazepam, and levetiracetam. Some antiepileptic drugs can worsen the symptoms, like vigabatrin, carbamazepine, phenytoin, and gabapentin. Clonazepam is currently the only drug approved by the FDA for monotherapy treatment of myoclonic seizures. Other treatments that have been used in PME patients are deep brain stimulation, vagus nerve stimulation, and diet but they have not been shown to improve seizures.
+
+Prognosis
+The prognosis of PME is ultimately dependent on the type of PME. In Lafora body disease the neurological deterioration progresses until resulting in a vegetative state and death within 10 years of diagnosis. Due to research and advances in antiepileptic medication, individuals with ULD can live up to 60 years of age. Nevertheless, severe myoclonus can lead to injury by falling and becoming reliant on a wheelchair.
+
+Research
+Because PME is so rare it is hard to do studies specifically double blind studies used to test different antiepileptic drugs. The wide range of symptoms including the differing EEG makes studying the effects of the AEDs difficult.  In ULD, oligonucleotide therapeutic strategies have been used to replace gene effects while in Sialidosis enzyme replacement therapy has been studied in mouse models. In Lafora's disease metformin has been approved for treatment by the European commission. In MERRF bacterial proteins have been identified in treatment in mitochondrial diseases but further studies are needed.
+
+History
+The first instance where myoclonus and its relationship to epilepsy was in 1822 by Prichard. Lundborg was the first to name progressive myoclonus epilepsy in 1903 due to his study of several Swedish families as well as research done by Heinrich Unverricht in 1891. However, ULD was not recognized as a disease until a century later due to the rarity of the disease. In 1911, Lafora identified Lafora bodies but believed to be part of ULD. Lafora's genetics was not described until 1995.
+
+Specific disorders
+Several conditions can cause progressive myoclonic epilepsy.
+
+Unverricht-Lundborg disease (Baltic myoclonus)
+Myoclonus epilepsy and ragged red fibres (MERRF syndrome)
+Lafora disease
+Neuronal ceroid lipofuscinoses
+Sialidosis
+Dentatorubropallidoluysian atrophy (DRPLA)
+Noninfantile neuronopathic form of Gaucher disease
+Tetrahydrobiopterin deficiencies
+Alpers disease
+Juvenile Huntington disease
+Niemann-Pick disease type C
+North Sea progressive myoclonus epilepsy (NSPME)
+
+Unverricht-Lundborg disease
+
+This disease manifests between six and sixteen years and is most prevalent in Scandinavia and the Baltic countries. Myoclonus gradually becomes worse and less susceptible to medication. Cognitive decline is slow and sometimes mild. Patients typically do not live beyond middle-age, but there are exceptions. Phenytoin, an old and commonly used anticonvulsant, is known to seriously exacerbate the condition. It has autosomal recessive inheritance, and is caused by a mutation in the cystatin B (EPM1) gene on chromosome 21q22.3, which was discovered in 1996.
+It has been described as the least severe type of PME.
+
+Myoclonus epilepsy and ragged red fibres (MERRF syndrome)
+
+Onset of this disease may be at any time and the severity and progression are varied. Tonic-clonic seizures and dementia are less apparent than with other forms of PME. The cause is a mitochondrial DNA mutation, so most familial cases are transmitted from the mother. A skeletal muscle biopsy will show ragged red fibres, hence the name.
+
+Lafora body disease
+
+This disease typically begins between six and nineteen years after apparently normal development and generally results in death within ten years. It is characterised by the presence of Lafora bodies (polyglucosan inclusions) in neurons and other body tissue. The generalized seizures are usually well controlled by anticonvulsants, but the myoclonus soon proves refractory to treatment. Within a couple of years, a wheelchair is required for locomotion and within five to ten years, the person is confined to bed and is often tube fed. Valproic acid and zonisamide are first choice anticonvulsants, and the ketogenic diet may be helpful. An autosomal-recessive genetic defect is responsible, which has been tracked down to two genes. The EPM2A gene on chromosome 6q24 was discovered in 1998 and encodes for the protein laforin. It is responsible for 80% of cases. The EPM2B gene on chromosome 6p22.3 was discovered in 2003 and encodes for the protein malin. There may be a third gene of unknown locus.
+
+Neuronal ceroid lipofuscinoses
+
+There are various forms of these disorders, each with their own genetic cause and geographical variation, which lead to accumulation of lipopigments (lipofuscin) in the body's tissues and are inherited in an autosomal-recessive fashion. Onset and symptoms vary with the particular form, but death usually occurs within five to fifteen years.
+
+Type I sialidosis
+
+This is an autosomal recessive disorder in which the body is deficient in α-neuraminidase.
+
+Myoclonic epilepsy and ataxia due to potassium (K+) channel mutation (MEAK)
+MEAK is a form of progressive myoclonus epilepsy that typically begins between the ages of 3 and 15 years (the average of onset is 10 years). The first symptoms may include ataxia and myoclonus (unsteadiness and difficulty coordinating movements), along with generalized tonic-clonic ("grand mal") seizures. Individuals with MEAK typically do not experience developmental delays. The symptoms are progressive, and individuals with MEAK often need to use a wheelchair by their late teenage years because of movement difficulties and myoclonus. Many individuals with MEAK report temporary improvement of symptoms when they have a high fever. Seizures may become less frequent in adulthood, but other neurological complications, including myoclonus, ataxia and tremor, may worsen. Myoclonic epilepsy and ataxia due to potassium (K+) channel mutation (MEAK) is caused by a specific pathogenic variant ("mutation") in KCNC1 (c. 959G>A; p.Arg320His). KCNC1-related developmental and epileptic encephalopathy is associated with other pathogenic variants in KCNC1. In most individuals with KCNC1-related disorders, the pathogenic KCNC1 variant occurred spontaneously (de novo) and was not inherited from either parent.
+
+Epidemiology
+PME accounts for less than 1% of epilepsy cases at specialist centres. The incidence and prevalence of PME is unknown, but there are considerable geography and ethnic variations amongst the specific genetic disorders. One cause, Unverricht Lundborg Disease, has an incidence of at least 1:20,000 in Finland.
+
+See also
+Juvenile myoclonic epilepsy
+Spinal muscular atrophy with progressive myoclonic epilepsy
+
+References
+
+External links
+
+GeneReview/NCBI/NIH/UW entry on Progressive Myoclonus Epilepsy with Ataxia
+
+[[Absence seizure]] [[Anticonvulsant]] [[Atonic seizure]] [[Aura (symptom)]] [[Automatism (medicine)]] [[Benign familial neonatal seizures]] [[Benzodiazepine]] [[CACNA1C-related disorders]] [[Citizens United for Research in Epilepsy]] [[Complex partial status epilepticus]] [[Dementia]] [[Dentatorubral–pallidoluysian atrophy]] [[Early myoclonic encephalopathy]] [[Electroencephalography]] [[Epilepsia partialis continua]] [[Epilepsy]] [[Epilepsy Action]] [[Epilepsy Action Australia]] [[Epilepsy Foundation]] [[Epilepsy Outlook]] [[Epilepsy Society]] [[Epilepsy and driving]] [[Epilepsy and employment]] [[Epilepsy in animals]] [[Epilepsy in children]] [[Epileptogenesis]] [[Epileptologist]] [[Febrile seizure]] [[Focal seizure]] [[Frontal lobe epilepsy]] [[Gelastic seizure]] [[Generalized epilepsy]] [[Generalized tonic–clonic seizure]] [[International League Against Epilepsy]] [[Issues for people with epilepsy]] [[Juvenile myoclonic epilepsy]] [[KCNH1-related disorders]] [[Lafora disease]] [[Landau–Kleffner syndrome]] [[Lennox–Gastaut syndrome]] [[MERRF syndrome]] [[Medical specialty]] [[Myoclonic astatic epilepsy]] [[Myoclonic epilepsy]] [[Neonatal seizure]] [[Neurology]] [[Panayiotopoulos syndrome]] [[Postictal state]] [[Psychogenic non-epileptic seizure]] [[Rolandic epilepsy]] [[Seizure]] [[Seizure types]] [[Sleep-related hypermotor epilepsy]] [[Status epilepticus]] [[Sudden unexpected death in epilepsy]]

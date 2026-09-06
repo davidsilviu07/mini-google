@@ -1,0 +1,156 @@
+Arithmometer
+The arithmometer (French: arithmomètre) was the first digital mechanical calculator strong and reliable enough to be used daily in an office environment. This calculator could add and subtract two numbers directly and perform long multiplications and divisions effectively by using a movable accumulator for the result.
+Patented in France by Thomas de Colmar in 1820 and manufactured from 1851 to 1915, it became the first commercially successful mechanical calculator. Its sturdy design gave it a strong reputation for reliability and accuracy and made it a key player in the move from human computers to calculating machines that took place during the second half of the 19th century.
+Its production debut of 1851 launched the mechanical calculator industry which ultimately built millions of machines well into the 1970s.  For forty years, from 1851 to 1890, the arithmometer was the only type of mechanical calculator in commercial production, and it was sold all over the world. During the later part of that period two companies started manufacturing clones of the arithmometer: Burkhardt, from Germany, which started in 1878, and Layton of the UK, which started in 1883.  Eventually about twenty European companies built clones of the arithmometer until the beginning of World War I.
+
+Evolution
+
+Searching for a solution: 1820–1851
+
+The arithmometers of this period were four-operation machines; a multiplicand inscribed on the input sliders could be multiplied by a single-digit multiplier by simply pulling on a ribbon (quickly replaced by a crank handle).  It was a complicated design and very few machines were built. Additionally, no machines were built between 1822 and 1844.
+This hiatus of 22 years coincides almost exactly with the period of time during which the British government financed the design of Charles Babbage's difference engine, which on paper was far more sophisticated than the arithmometer, but wasn’t finished at this time.
+In 1844 Thomas reintroduced his machine at the Exposition des Produits de l'Industrie Française in the newly created category of Miscellaneous measuring tools, counters and calculating machines but only received an honorable mention.
+He restarted the development of the machine in 1848. In 1850, as part of a marketing effort, Thomas built a few machines with exquisite Boulle marquetry boxes that he gave to the crown heads of Europe. He filed two patents and two patents of addition in between 1849 and 1851.
+
+Creating an industry: 1851–1887
+
+The multiplier was removed, making the arithmometer a simple adding machine, but thanks to its moving carriage used as an indexed accumulator, it still allowed for easy multiplication and division under operator control. It was introduced in the UK at The Great Exhibition of 1851 and true industrial production started in 1851.
+Each machine was given a serial number and user manuals were printed. At first, Thomas differentiated machines by capacity and therefore gave the same serial number to machines of different capacities. This was corrected in 1863 and each machine was given its own unique serial number starting with a serial number of 500.
+The constant use of some of the machines exposed some minor design flaws like a weak carry mechanism, which was given an adequate fix in 1856, and an over rotation of the Leibniz wheels when the crank handle is turned too fast, which was corrected by the addition of a Maltese cross.
+A patent covering all these innovations was filed in 1865.
+Because of its reliability and accuracy, government offices, banks, observatories and businesses all over the world started using the arithmometer in their day-to-day operations.  Around 1872, for the first time in calculating machine history, the total number of machines manufactured passed the 1,000 mark. In 1880, twenty years before the competition, a mechanism to move the carriage automatically was patented and installed on some machines, but was not integrated into the production models.
+
+The golden age: 1887–1915
+
+Under the management of Louis Payen, and later his widow, many improvements were introduced, such as an incline mechanism, a removable top, cursors and result windows that were easier to read, and a faster re-zeroing mechanism.
+Many clone makers appeared during that period, mostly in Germany and the United Kingdom. Eventually twenty independent companies manufactured clones of the arithmometer. All these companies were based in Europe but sold their machines worldwide.
+The fundamental design stayed the same; and after 50 years at the top, the arithmometer lost its supremacy in the mechanical calculator industry.  While in 1890 the arithmometer was still the most-produced mechanical calculator in the world, by 1900 four machines, the comptometer and Burroughs' adding machine in the USA, Odhner's Arithmometer in Russia, and Brunsviga in Germany had passed it in volume of machines manufactured.
+Production of the arithmometer stopped in 1915, during World War I.
+Alphonse Darras, who had bought the business in 1915, was unable to restart its manufacturing after the war because of the many shortages and a lack of qualified workers.
+
+Legacy
+Because it was the first mass-marketed and the first widely copied calculator, its design marks the starting point of the mechanical calculator industry. Its user interface was used throughout during the 120 years that the mechanical calculator industry lasted.  First with its clones and then with the Odhner arithmometer and its clones, which was a redesign of the arithmometer with a pinwheel system but with exactly the same user interface.
+Over the years, the term arithmometer or parts of it have been used on many different machines like Odhner's arithmometer, the Arithmaurel or the Comptometer, and on some portable pocket calculating machines of the 1940s. Burroughs corporation started as the American Arithmometer Company in 1886.  By the 1920s it had become a generic name for any machine based on its design with about twenty independent companies manufacturing Thomas' clones like Burkhardt, Layton, Saxonia, Gräber, Peerless, Mercedes-Euklid, XxX, Archimedes, etc.
+
+History
+ 
+
+Design
+Thomas started to work on his machine in 1818 while serving in the French Army where he had to do a great deal of calculations. He made use of principles from previous mechanical calculators like the stepped reckoner of Leibniz and Pascal's calculator. He patented it on November 18, 1820.
+This machine implemented a true multiplication where, by just pulling on a ribbon, the multiplicand entered on the input sliders was multiplied by a one-digit multiplier number and it used the 9's complement method for subtracting.  Both of these features would be dropped in later designs.
+
+First machine
+The first machine was built by Devrine, a Parisian clockmaker, and took him a year to build. But, in order to make it work, he had to modify the patented design quite substantially.  The Société d’encouragement pour l’industrie nationale was given this machine for review and it issued a very positive report on December 26, 1821.  The only known prototype of this time is the 1822 machine on display at the Smithsonian Institution in Washington, D.C.
+
+Production
+
+Manufacturing started in 1851 and ended around 1915. There were about 5,500 machines built during this sixty-year period; 40% of the production was sold in France and the rest was exported.
+The manufacturing was managed by:
+
+Thomas de Colmar himself until his death in 1870, then by his son Thomas de Bojano until 1881 and by his grandson Mr. de Rancy until 1887. Misters Devrine (1820), Piolaine (1848), Hoart (1850) and Louis Payen (around 1875) were the engineers responsible for building the machines.  All the machines manufactured during this time have the logo Thomas de Colmar.
+Louis Payen who bought the business in 1887 until his death in 1902; all these machines have the logo L. Payen.
+Veuve (widow) L. Payen who took over the business at her husband's death and sold it in 1915 with the logos L. Payen, Veuve L. Payen and VLP. Alphonse Darras built most of these machines.
+Alphonse Darras who bought the business in 1915 and manufactured the last machines. He added a logo made of the letters A and D interlaced and went back to the L. Payen logo.
+During the early part of manufacturing, Thomas differentiated machines by capacity and therefore gave the same serial number to machines of different capacities. He corrected this in 1863, giving every machine its own unique serial number starting with a serial number of 500. This is why there isn't any machine with a serial number in between 200 and 500.
+From 1863 to 1907 the serial numbers were consecutive (from 500 to 4000) then, after patenting a rapid zeroing mechanism in 1907, Veuve L. Payen started a new numbering scheme at 500 (the number of arithmometers she had built with the old scheme) and was at serial number 1700 when she sold the business to Alphonse Darras in 1915. Alphonse Darras went back to the old serial numbers (while adding approximately the number of machines made by Veuve L. Payen) and restarted at 5500.
+
+Ease of use and speed
+An article published in January 1857 in The Gentleman's Magazine best describes it:
+
+M. Thomas's arithmometer may be used without the least trouble or possibility of error, not only for addition, subtraction, multiplication, and division, but also for much more complex operations, such as the extraction of the square root, involution, the resolution of triangles, etc.
+A multiplication of eight figures by eight others is made in eighteen seconds; a division of sixteen figures by eight figures, in twenty four seconds; and in one minute and a quarter one can extract the square root of sixteen figures, and also prove the accuracy of the calculation.
+The working of this instrument is, however, most simple.  To raise or lower a nut-screw, to turn a winch a few times, and, by means of a button, to slide off a metal plate from left to right, or from right to left, is the whole secret.
+Instead of simply reproducing the operations of man's intelligence, the arithmometer relieves that intelligence from the necessity of making the operations.  Instead of repeating responses dictated to it, this instrument instantaneously dictates the proper answer to the man who asks it a question.
+It is not matter producing material effects, but matter which thinks, reflects, reasons, calculates, and executes all the most difficult and complicated arithmetical operations with a rapidity and infallibility which defies all the calculators in the world.
+The arithmometer is, moreover, a simple instrument, of very little volume and easily portable.  It is already used in many great financial establishments, where considerable economy is realized by its employment.
+
+It will soon be considered as indispensable, and be as generally used as a clock, which was formerly only to be seen in palaces, and is now in every cottage.
+
+Models
+
+The various models had capacities of 10, 12, 16 and 20 digits which gave results ranging from 10 billion (minus 1) to 100 quintillion (minus 1).  Only two machines were built outside this range:
+
+The first prototype (the 1822 machine) had a capacity of 6 digits even though the machine described in the 1820 patent is an 8 digits machine.
+The piano arithmometer with a capacity of 30 digits, allowing for numbers up to 1 nonillion (minus 1), which was built for the 1855 Exposition universelle de Paris and which is now part of the IBM collection of mechanical calculators.  Jules Verne must have been quite impressed by this machine because in his novel Paris in the Twentieth Century, after mentioning Pascal and Thomas de Colmar, he talks of mechanical calculators that will be some huge pianos with keyboards of keys that will deliver answers instantaneously to anyone that can play them!
+The last 10-digit arithmometers were built in 1863 with the serial numbers 500–549.  After this the smallest machines were 12-digit machines.
+All the machines, regardless of capacity, were about 7 inches (18 cm) wide and from 4 up to 6 inches (10 to 15 cm) tall (the tallest ones had an incline mechanism). A 20-digit machine was 2 ft 4 in (70 cm) long while the length a 10-digit machine was around 1 ft 6 in (45 cm).
+
+Prices
+A 12-digit arithmometer sold for 300 francs in 1853, which was 30 times the price of a table of logarithms book and 1,500 times the cost of a first-class stamp (20 French cents), but, unlike a table of logarithms book, it was simple enough to be used for hours by an operator without any special qualifications.
+An advertisement taken from a magazine published in 1855 shows that a 10-digit machine sold for 250 francs and a 16-digit machine sold for 500 francs.
+
+Development costs
+In 1856, Thomas de Colmar estimated that he had spent 300,000 francs of his own money during the thirty years that he perfected his invention.
+
+Physical design
+The arithmometer is a brass instrument housed in a wooden box often made of oak or mahogany and for the oldest ones ebony (solid or veneer).  The instrument itself is divided into two parts.
+
+Input – control – execution
+The bottom part is composed of a set of sliders that are used to input the value of the operands.  On the left of it is a control lever which allows to select the current operation, namely Addition/Multiplication or Subtraction/Division.  A crank located on the right of the sliders is used to execute the operation selected by the control lever.
+
+Output – accumulator
+The top part is a movable carriage composed of two display registers and two reset buttons.  The top display register holds the result of the previous operation and acts as accumulator for the current operation.  Each command adds or subtracts the number inscribed on the sliders to the part of the accumulator directly above it. The lower display register counts the number of operations performed at each index therefore it displays the multiplier at the end of a multiplication and the quotient at the end of a division.
+Each number in the accumulator can be individually set with a knob situated right below it.  This feature is optional for the operation counter register.  The accumulator and the result counter are in between two buttons used to reset their content at once.  The left button resets the accumulator, the right button resets the operation counter.  These buttons are also used as handles when lifting and sliding the carriage.
+
+Arithmometer's Leibniz wheel
+
+ 
+The animation on the side shows a nine-toothed Leibniz wheel coupled to a red counting wheel.  The counting wheel is positioned to mesh with three teeth at each rotation and therefore would add or subtract 3 from the counter at each rotation.
+The computing engine of an arithmometer has a set of linked Leibniz wheels coupled to a crank handle.  Each turn of the crank handle rotates all the Leibniz wheels by one full turn.  The input sliders move counting wheels up and down the Leibniz wheels, which are themselves linked by a carry mechanism.
+In the arithmometer the Leibniz wheels always turn the same way.  The difference in between addition and subtraction is achieved by a reverser operated by the execution lever and located in the movable display carriage.
+
+Operations
+
+Sliding the top carriage
+First lift the carriage using the reset buttons located at its extremities, then slide it.  The carriage can only be moved to the right initially.  Release it when it is above the index you want (ones, tens, hundreds, ...).
+
+Resetting the displays
+First lift the carriage using the reset buttons located at its extremities, then turn them to reset the display registers. The left button resets the accumulator, the right button resets the operation counter.
+
+Addition
+Set the control lever to Addition/Multiplication and reset the display registers.  Each turn of the execution lever adds the number from the sliders to the accumulator.  So input the first number and turn the lever once (it adds it to zero) then enter the second number and turn the lever once more.
+
+Multiplication
+Set the control lever to Addition/Multiplication and reset the display registers.  To multiply 921 by 328, first input 921 on the input sliders and then turn the execution lever 8 times.  The accumulator shows 7,368 and the operation counter shows 8.  Now, shift the carriage to the right once and turn the lever 2 times, the accumulator shows 25,788 and the operation counter shows 28.  Shift the carriage one last time to the right and turn the lever 3 times, the product 302,088 appears on the accumulator and the operation counter displays the multiplier 328.
+
+Subtraction
+Set the control lever to Subtraction/Division. Lift the carriage then reset the display registers and input the minuend, right justified, into the accumulator using the corresponding knobs. Lower the carriage to its default position and then set the subtrahend onto the input sliders and turn the execution lever once.
+
+Integer division
+Set the control lever to Subtraction/Division and set the divisor onto the input sliders. While keeping the carriage lifted, reset the display registers, set the dividend, right justified, using the corresponding knobs and shift the carriage so that the highest number in the dividend corresponds to the highest number in the divisor. Lower the carriage then turn the execution lever as many times as required until the number situated above the divisor is less than the divisor, then shift the carriage once to the left and repeat this operation until the carriage is back to its default position and the number in the accumulator is less than the divisor, then the quotient will be in the operations counter and the remainder will be what is left over in the accumulator.
+
+Decimal division
+In order to increase the decimal division accuracy add as many zeros as required to the right of the dividend but still input it right justified and then proceed as with an integer division. It is important to know where the decimal point is, when you read the quotient (some markers, first ivory and then metal, were usually sold with the machine and used for this purpose).
+
+Variants
+In 1885, Joseph Edmondson of Halifax, England, patented his 'Circular Calculator' – essentially a 20-digit arithmometer with a circular carriage (the slides being arranged radially around it) instead of the straight sliding carriage. One benefit of this was that the carriage always remained within the footprint (to use a modern term) of the machine instead of overhanging the case at one side when the higher decimal places were in use. Another was that one could make a calculation of up to ten places, using half the circumference of the carriage, and then turn the carriage through 180°; the result of the calculation was locked in place by means of brass prongs mounted on the framework, and one could leave it there while making an entirely new calculation using the fresh set of display windows now brought into alignment with the sliders. Thus the machine could be said to have a rudimentary memory. See the Rechenmaschinen-Illustrated website (External links below) for pictures and a description.
+
+See also
+Adding machine
+Comptometer
+Difference engine
+Napier's bones
+Pascaline
+Slide rule
+Z1 (computer)
+Odhner Arithmometer—Pinwheel calculator inspired by the arithmometer
+Curta—Later descendant of the arithmometer
+
+Notes
+
+References
+Stan Augarten, Bit by Bit, pp 37–39, Ticknor and Fields, 1984
+Luc de Brabandere, Calculus, pp 115–123, Mardaga, 1995
+Peter Gray, On the Arithmometer of M. Thomas (de Colmar) and its application to the construction of life contengency tables, C&E Layton, 1874
+
+External links
+ Media related to Arithmometer at Wikimedia Commons
+Arithmometre.org – Main page – Complete history and model information
+Arithmometre.org – Clones – List of arithmometer clone manufacturers
+ami19.org – A great site for patents and articles on 19th century mechanical calculators
+Making the Arithmometer count – An in-depth study of the machine
+Rechenmaschinen-Illustrated – A large display of mechanical calculators
+How the Arithmometer Works A detailed animation describing the design and workings of the arithmometer calculator.
+How I built a Mechanical Calculator The modern-day construction of an arithmometer out of wood
+
+[[Abacus]] [[Analytical engine]] [[Charles Babbage]] [[Difference engine]] [[Punched card]]

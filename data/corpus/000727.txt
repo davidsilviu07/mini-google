@@ -1,0 +1,34 @@
+Movement disorder
+Movement disorders are clinical syndromes with either an excess of movement or a paucity of voluntary and involuntary movements, unrelated to weakness or spasticity. Movement disorders present with extrapyramidal symptoms and are caused by basal ganglia disease. Movement disorders are conventionally divided into two major categories- hyperkinetic and hypokinetic.
+
+In primary movement disorders, the abnormal movement is the primary manifestation of the disorder. In secondary movement disorders, the abnormal movement is a manifestation of another systemic or neurological disorder. Treatment depends upon the underlying disorder.
+
+Classification
+Comprehensive list of symptoms, syndromes and diseases.
+
+Diagnosis
+Step I : Decide the dominant type of movement disorder
+Step II : Make differential diagnosis of the particular disorder
+Step II: Confirm the diagnosis by lab tests
+
+Metabolic screening
+Microbiology
+Immunology
+CSF examination
+Genetics
+Imaging
+Neurophysiological tests
+Pharmacological tests
+Sleep study
+
+History
+Vesalius and Piccolomini in 16th century distinguished subcortical nuclei from cortex and white matter. However Willis' conceptualized the corpus striatum as the seat of motor power in the late 17th century. In mid-19th-century movement disorders were localized to striatum by Choreaby Broadbent and Jackson, and athetosis by Hammond. By the late 19th century, many movement disorders were described, but for most no pathologic correlate was known.
+
+See also
+Gait abnormality
+
+References
+
+External links
+
+[[Attention deficit hyperactivity disorder]] [[Brain–computer interface]] [[Catatonia]] [[Cerebrospinal fluid]] [[Dementia]] [[Encephalopathy]] [[Epilepsy]] [[Focal seizure]] [[Generalized epilepsy]] [[Intracranial pressure]] [[Intraoperative neurophysiological monitoring]] [[Medical specialty]] [[Migraine]] [[Mirror neuron]] [[Myoclonic epilepsy]] [[Neural network (machine learning)]] [[Neurology]] [[Parkinson's disease]] [[Spinal cord]] [[Status epilepticus]] [[Stroke]]

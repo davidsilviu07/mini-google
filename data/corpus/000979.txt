@@ -1,0 +1,25 @@
+Upverter
+Upverter is an electronic circuit design system delivered in a web browser, which enables hardware engineers to design, share, and review schematics and printed circuit boards. It additionally features the ability to generate a bill of materials, Gerber files, and a 3D rendering. Upverter provides web-based tools for editing schematic diagrams and for laying out printed-circuit boards. It does not require payment for open-source projects.
+
+History
+The company was incubated through Y Combinator's startup program in 2011. In September 2013, SparkFun Electronics released their open source design library on the platform.
+In March 2014, the company announced it had raised $2.3 million in seed funding. As of August 2014, the company claimed to have over 20,000 registered users.
+
+Upverter and Altium
+In August 2017, Upverter was acquired by Altium, and was offered as a free-to-use product. Altium announced on May 14, 2018 that CircuitMaker, Altium's free maker-oriented design tool and associated web content, would become part of the Upverter product, with CircuitMaker forming the desktop client for offline editing, and Upverter.com forming both the browser based design editor along with content community and library. However, in a blog post on May 11, 2019, Altium COO Ted Pawela stated that the plans had evolved, and the products would remain separate, with interoperability features for the design files.
+
+Features
+Upverter is an integrated tool for schematic capture, PCB layout, as well as version control, issue management, and design review. It supports import from Eagle, Altium Designer and OrCAD file formats.  The tool also includes collaboration features, and a comprehensive parts library.  Since August 2015 the platform also includes a component verification service.
+
+Awards
+The company was recognized as Canada's Top 10 Up-and-Coming technology company by PwC in November 2014, and Top 20 Hottest Innovative Company by the Canadian Innovation Exchange in 2013.
+Upverter was also selected as the 2013 PCB Design Tools Winner by DesignVision.
+
+See also
+
+Comparison of EDA software
+List of free electronics circuit simulators
+
+References
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

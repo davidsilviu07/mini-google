@@ -1,0 +1,45 @@
+Lucifox
+Lucifox is a discontinued free and open source add-on for the browser Mozilla Firefox that manages, downloads and displays e-books. It supports EPUB 3 and EPUB 2 formatted books without digital rights management (DRM) and retrieval of books from online book catalogues using the Open Publication Distribution System (OPDS). It is part of the Lucidor suite of free and open source e-book software made by the Swedish developer Ordbrand.
+
+History
+The Lucifox e-book reader began as a continuation of the previous XUL-based, cross-platform and standalone e-book reader Lucidor, and version 0.8.1 was released on February 7, 2011. Lucifox has been translated into several languages, and development picked up in the second half of 2012, resulting in a not backward-compatible new branch as of version 0.9.5 due to changes in Firefox itself and a new license change as of version 0.9.7 to the GNU General Public License (GPL), version 3.
+
+Features
+Lucifox opens in the main window of the browser and displays some online book catalogues, from which the reader can search for and download books. The list of book catalogues can be changed and extended by the user. It displays books using the main window of the browser, one book per browser tab. The book can be online or saved to an offline bookshelf folder. Lucifox remembers the reading position, so reading can be resumed later where the reader stopped. The reader navigates through the content of the book by scrolling up or down a page, moving forward or backward with the arrow keys or using the left panel to traverse the hypertext index of the book. It supports annotations that can refer to several places in the text. They can be exported to a file and imported with other users. Lucifox can also search books for terms in full text, with hits displayed as clickable hyperlinks in the left panel.
+Leveraging Firefox's support for open web standards, Lucifox can display books with advanced content such as mathematical equations, musical scores, chemical notations, and interactive 3D models, like rotatable chemical structures. Additionally, its built-in book generator allows users to compile custom e-books from online sources.
+
+Availability
+As an add-on for Firefox, Lucifox is available on all regular computers where Firefox is available, including the Linux, Microsoft Windows and macOS operating systems. Once installed, it is available from the browser's extension bar, indicated by a red star, which can be moved by the user, or from the Tool menu. However, since Lucifox was built using XUL, it is not compatible with Firefox for Android and there is currently no adapted version available.
+
+Standards
+Lucifox implements the open e-book standards EPUB 3 and EPUB 2 as published by the IDPF, and the open standard OPDS for searching, finding and retrieving e-books from online book catalogues. Support for EPUB 3 means that Lucifox is able to display Scalable Vector Graphics (SVG), as well as PNG and JPEG bitmap images.
+
+Promotion
+Lucifox is part of the Lucidor suite of e-book software by the Swedish developer Ordbrand, which includes the original Lucidor e-book reader, the MediaWiki extension Luciwik to add EPUB 3 export of articles and OPDS catalogue to Mediawiki installations, and the Moodle Book module add-on Lucimoo for importing and exporting EPUB 3 from Moodle.
+
+Reception
+In articles, Lucifox is often compared to EPUBReader, a similar add-on that is not free and open source, but also available at no charge.
+
+Release history
+Version 0.9.7. Released April 5, 2013. 315.7 KB. Works with Firefox 18.0 and later, SeaMonkey 2.15 and later. Source code released under GNU General Public License, version 3.0.
+Version 0.9.6. Released February 9, 2013. 308.9 KB. Works with Firefox 18.0 and later, SeaMonkey 2.14 and later.
+Version 0.9.5. Released January 16, 2013. 281.2 KB. Works with Firefox 18.0 and later, SeaMonkey 2.14 and later.
+Version 0.9.4. Released December 22, 2012. 281.0 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 and later.
+Version 0.9.2. Released November 27, 2012. 277.7 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 and later.
+Version 0.9.0. Released November 19, 2012. 277.9 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 and later.
+Version 0.8.9. Released October 15, 2012. 273.5 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 and later.
+Version 0.8.8. Released September 20, 2012. 288.8 KB Works with Firefox 3.0 and later, SeaMonkey 2.0 and later.
+Version 0.8.5. Released May 27, 2012. 285.7 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 and later.
+Version 0.8.4. Released December 5, 2011. 285.7 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 - 2.0.*. Adds basic support for EPUB 3.Adds a Spanish translation.
+Version 0.8.3. Released June 12, 2011. 277.5 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 - 2.0.*. Keyboard shortcuts has been added.
+Version 0.8.2. Released April 6, 2011. 276.5 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 - 2.0.*.
+Version 0.8.1. Released February 7, 2011. 275.5 KB. Works with Firefox 3.0 and later, SeaMonkey 2.0 - 2.0.*.
+
+See also
+
+References
+
+External links
+Official website
+
+[[Computing platform]] [[EPUB]] [[GNU General Public License]] [[International Digital Publishing Forum]] [[Open Publication Distribution System]]

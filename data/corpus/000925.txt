@@ -1,0 +1,96 @@
+SolveSpace
+SolveSpace is a free and open-source 2D/3D constraint-based parametric computer-aided design (CAD) software that supports basic 2D and 3D constructive solid geometry modeling.
+It is a constraint-based parametric modeler with simple mechanical simulation capabilities. Version 2.1 and onward runs on Windows, Linux and macOS. The Linux version is shipped as a snap and native packages. It supports STEP and DFX for import and export. By default, SolveSpace utilizes its own CAD file format called .slvs for model storage. It is possible to export models as a whole or in part to various formats such as PDF, SVG, or Encapsulated PostScript (EPS).
+It was initially created by Jonathan Westhues and as of 2022 is maintained by a community of volunteers.
+
+History
+Development of SolveSpace started in 2008 as commercial proprietary software for Microsoft Windows. A previous software package called SketchFlat, also developed by Westhues, was replaced by SolveSpace.
+In 2012 version 1.9 released as unrestricted freeware proprietary software. In 2013 version 2.0 released as free and open-source software. In 2016 version 2.1 brings support for Linux and MacOS.
+According to an interview given in 2020 by a major maintainer SolveSpace aims to be backwards compatible as much as possible. The codebase at the time was about 30,000 lines of code and it took Whitequark almost 2 years to familiarize herself with it. On September 22, 2020, Whitequark stepped down as a maintainer.
+
+Overview
+SolveSpace is free and open source software distributed under the GPL-3.0-or-later license.
+
+Features
+SolveSpace is shipped with the following basic features:
+
+2D sketch modeling
+SolveSpace supports parametric 2D drawing of lines, circles, arcs, cubic bézier curves etc; datum points and lines are also supported for general, reference based modeling.
+3D solid modeling
+Drawing, extrusion, rotation and revolution along a helix are supported in both modes. In 3D it is possible to use basic Boolean operations (union, difference, intersection), though as of version 3.0, SolveSpace had limitations on the order of application of these operations.
+Mechanical design and analysis
+By using the built-in constraint solver it is possible to visualize planar or spatial linkages with pin, ball, or slide joints, trace their movements, and export its data in CSV format.
+Assembly
+SolveSpace allows solids to be imported in a special mode that does not allow modeling. These imported solids can then be constrained to ensure that the designed model's dimensions meet necessary requirements.
+Plane and solid geometry
+Replace hand-solved trigonometry and spreadsheets with a live dimensioned drawing.
+
+Supported file formats
+
+Importing
+
+SolveSpace can open and import its own textual *.slvs file formats for both editing and assembly. The DXF/DWG file format AutoCAD (version 2007) is supported for opening and editing.
+
+Exporting
+SolveSpace v3.0 is able to export 2D sketches and surfaces into DXF/DWG (AutoCAD version 2007), PDF, SVG, EPS, and HPGL file formats. Wireframes can be exported as DXF and STEP files. Polygon meshes can be exported as STL and Wavefront OBJ; NURBS as STEP. SolveSpace is able to export models in STEP, STL, and G-code for reuse in third-party CAM software.
+
+Linking
+SolveSpace can link its own *.slvs, STL and IDF files as external parts into complex assembly.
+
+Workflow
+SolveSpace workflow starts either with opening an existing file or creating a new one and usually involves sketching. The basic shapes of a new physical part is sketched out and constrained to specific dimensions and locations. When the model is complete, it is either exported to one of the supported CAD formats or into a document for further processing.
+
+Sketching
+Modeling in SolveSpace is done by way of sketching in a workplane. A workplane is plane with an origin for the new sketch where the SolveSpace draws entities. Users can make it active and draw basic primitives such as lines, circles, arcs, dots, and other points of references on the workplane, and constrain them to specific dimensions and relations.
+SolveSpace can split intersecting entities via a separate tool. Users can snap points to a grid. There are no software limitations for the number of workplanes user can create.
+
+Constraints
+Constraints include dimension limitation, angle, paralleling with another line, tangency, point, symmetry and alignment of a line with origin axes (to make them "vertical" or "horizontal"). The radius of a circle, for instance, can be constrained to a specific value, or can be influenced by some other entity dimension.
+
+3D modeling
+When sketching is complete, a 3D part can be extruded into a volumetric model for further modeling. An extruded model creates a group along a specified normal. Every group in SolveSpace encapsulates an action applied to the specified sketch created for every 3D operation, such as an extrusion, rotation, or translation. Created 3D models can also be further constrained with the basic tools mentioned above or combined with another one by Boolean operations.
+It is also possible to draw a workplane on a specific "surface" of another 3D model; the surface is usually indicated by two line segments joined by a point.
+
+Assembly
+In order to verify a newly modeled concept in SolveSpace, users can "link" all the components and constrain them at specific positions to check whether the virtual end-product meets the original concept's design and constraints.
+
+Libraries
+SolveSpace depends upon ANGLE, OpenGL Utility Library, zlib, libpng, libdxfrw, cairo, mimalloc, libsigc++ and some other C++ libraries, as well as freetype2, harfbuzz, and Pango for text rendering. On Linux Solvespace uses gtk-3.
+
+Limitations
+As of v2.1., SolveSpace reference lists a disclaimer on limited support for NURB-surface Boolean operations which may occasionally fail.
+As of v3.0 SolveSpace didn't provide functionality for chamfers/fillets on top of 3D solid body. However, there is a way to make it manually. As for 2D sketch there is a way to create fillets as a tangent arc at corner point.
+SolveSpace may fit well for simpler CAM models, but not for sophisticated ones.
+There is no extrude along the path.
+
+Criticism
+A 2013 article and interview with the main developer published in Libre Graphics World has praised SolveSpace for its small executable file size, advanced constraints solver, and output formats. However, it was also criticized for some drawbacks it had at the time, such as limited support for NURBs (i.e. Boolean operations) and a lack of native Linux support, the latter of which has since been rectified. On the other hand, NURBs operations are parallel, instead of single-threaded.
+
+See also
+CAD exchange formats
+Computer-aided technologies
+Comparison of computer-aided design software
+FreeCAD
+
+Notes
+
+References
+
+Publications
+Angelo, L. D.; Leali, F.; Stefano P. D. (May 2016). Can Open-Source 3D Mechanical CAD Systems Effectively Support University Courses?. International Journal of Engineering Education. 32 (3 (A)): 1313–1324
+Konapala, A.; Koona, R. (October 2016). Development of Web based Tool Path Generator (W-TPG). International Journal of Current Engineering and Technology. 6 (5): 1784–1791.
+Axelsson, M. T. (May 2017). Open source CAD - discover the best CAD packages for your next maker project. Linux Format. 223: 26–27.
+Rosendahl, M. (2017). Constraint representation of 2-dimensional models with respect to avoiding cycles. Computer-Aided Design and Applications. 14 (1): 117–126.
+Beuchat, B., & Scalisi, A. (January 11, 2019). Cellulo Learning Activity [Semester project report]. CHILI Lab, EPFL, Lausanne, Switzerland.
+Frazelle, J. (June 2021). A New Era for Mechanical CAD. ACM Queue. 19 (2): 5–17.
+Fundamentals of 3D Food Printing and Applications. (2018). Great Britain: Elsevier Science.
+Biron, M. (2018). Thermoplastics and Thermoplastic Composites. Great Britain: Elsevier Science.
+Advances in Human Factors of Transportation: Proceedings of the AHFE 2019 International Conference on Human Factors in Transportation, July 24–28, 2019, Washington D.C., USA. (2019). Germany: Springer International Publishing.
+Advances in Mechanism and Machine Science: Proceedings of the 15th IFToMM World Congress on Mechanism and Machine Science. (2019). Germany: Springer International Publishing.
+Staple, D. (2023). Robotics at Home with Raspberry Pi Pico: Build Autonomous Robots with the Versatile Low-cost Raspberry Pi Pico Controller and Python. (n.p.): Packt Publishing.
+
+External links
+Official website
+solvespace on GitHub
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[Backward compatibility]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[GNU General Public License]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Text file]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,0 +1,23 @@
+Electronic referendum
+An electronic referendum (or e-referendum) is a referendum in which voting is aided by electronic means. E-referendum employs information and communication technology such as the Internet (e-voting) or digital telephones rather than a classical ballot box or traditional methods system. Traditionally, e-referendums are organised by governmental bodies, but nowadays, there exist private companies that can facilitate online referendums or other types of e-voting.
+An electronic referendum provides a less time-consuming option of casting a vote for citizens; it can also be performed without attending an official voting place. It has also been assumed to lead to a higher voter turnout and an increase in the citizens’ political engagement; however, this is not always the case. E-referendum made the referendum voting more accessible to those living abroad and to disabled people.
+
+History
+The Italian seaside town Ladispoli held three e-referendums in 2004 regarding the protection of archaeological sites, participatory budgeting, and the involvement of immigrants in political life. It was part of "E-poll": a European Union project dedicated to the experimentation of electronic voting. This project also took place in the other four Italian cities: Avellino, Campobasso, Specchia, and Cremona. In the case of Ladispoli, the vote was open to all citizens and immigrants.
+Lately, in 2005, e-referendum was also experimented in Tallinn, the Estonian capital city. In the same year, Spain and France experienced the e-referendum, adopting the remote i-Voting and special tools, respectively.
+
+In practice
+
+Switzerland
+Following the European experience with e-referendum. Switzerland developed different electronic voting systems, such as the Geneva E-voting System or the Zurich E-voting System. Switzerland could enable referendums via the Internet at local or federal levels.
+
+Ireland
+During the 2002 referendum on the Treaty of Nice, Ireland used electronic voting machines in seven constituencies on a trial basis.
+In 2004, the government abandoned its plans to introduce a nationwide electronic system after a report from the Independent Commission on Electronic Voting and Counting raised concerns about the machines' reliability and the ballot's integrity. E-voting was scrapped in 2009 when further reports confirmed issues over the reliability of the process and the difficulty of storage of the voting machines because of high costs.
+
+Canada
+The Canadian Citizens Party has propositions about referendum protocols. Canadians can establish an account and post policy recommendations on a platform. Other individuals can sign petitions linked to the recommendations through an electronic signature.
+
+References
+
+[[Ballot box]] [[Direct democracy]]

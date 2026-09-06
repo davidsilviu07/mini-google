@@ -1,0 +1,54 @@
+Neurofeedback
+Neurofeedback is a form of biofeedback that uses electrical potentials in the brain to reinforce desired brain states through operant conditioning. This process is non-invasive neurotherapy and typically collects brain activity data using electroencephalography (EEG). Several neurofeedback protocols exist, with potential additional benefit from use of quantitative electroencephalography (QEEG) or functional magnetic resonance imaging (fMRI) to localize and personalize treatment. Related technologies include functional near-infrared spectroscopy-mediated (fNIRS) neurofeedback, hemoencephalography biofeedback (HEG), and fMRI biofeedback.
+Neurofeedback's benefits are unproven; improvements may stem more from placebo effects than direct brain regulation.
+
+History
+In 1898, Edward Thorndike formulated the law of effect. In his work, he theorized that behavior is shaped by satisfying or discomforting consequences. This set the foundation for operant conditioning.
+In 1924, the German psychiatrist Hans Berger connected several electrodes to a patient's scalp and detected a small current by using a ballistic galvanometer. In his subsequent studies, Berger analyzed EEGs qualitatively, but in 1932, G. Dietsch applied Fourier analysis to seven EEG records and later became the first researcher to apply quantitative EEG (QEEG).
+In 1950, Neal E. Miller of Yale University was able to train mice to regulate their heartbeat frequency. Later on, he continued his work with humans, training them through auditory feedback.
+The first study to demonstrate neurofeedback was reported by Joe Kamiya in 1962. Kamiya's experiment had two parts: In the first part, a subject was asked to keep their eyes closed, and when a tone sounded, to say whether they were experiencing alpha waves. Initially, the subject would guess correctly about fifty percent of the time, but some subjects would eventually develop the ability to better distinguish between states.
+M. Barry Sterman trained cats to modify their EEG patterns to exhibit more of the so-called sensorimotor rhythm (SMR). He published this research in 1967. Sterman subsequently discovered that the SMR-trained cats were much more resistant to epileptic seizures after exposure to the convulsant chemical monomethylhydrazine than non-trained cats. In 1971, he reported similar improvements with an epileptic patient whose seizures could be controlled through SMR training. Joel Lubar contributed to the research of EEG biofeedback, starting with epilepsy and later with hyperactivity and ADHD.
+
+Neuroplasticity
+In 2010, a study provided some evidence of neuroplastic changes occurring after brainwave training. In this study, half an hour of voluntary control of brain rhythms led to a lasting shift in cortical excitability and intracortical function. The authors observed that the cortical response to transcranial magnetic stimulation (TMS) was significantly enhanced after neurofeedback, persisted for at least twenty minutes, and was correlated with an EEG time-course indicative of activity-dependent plasticity A review of the relevant scientific literature has shown that systematic cognitive load from working on a computer (specifically, training subjects to monitor their brain functions by measuring brain waves and providing feedback), with a total training duration of 16 hours (a few hours of weekly performance), can affect brain structure and function depending on how the impact is performed.
+
+Types of neurofeedback
+The term neurofeedback is not legally protected. There are various approaches that give feedback about neuronal activity, and as such are referred to as "neurofeedback" by their respective operators. Distinctions can be made on several levels. The first takes into account which technology is being used (EEG, fMRI, fNIRS, HEG). Nonetheless, further distinctions are crucial even within the realm of EEG neurofeedback, as different methodologies of analysis can be chosen, some of which are backed up by a higher number of peer-reviewed studies, whereas for others, scientific literature is scarce, and explanatory models are entirely missing.
+Despite these differences, a common denominator can be found in the requirement of providing feedback. Usually, feedback is provided by auditory or visual input. While original feedback was provided by sounding tones according to neurological activity, many new ways have been found. It is possible to listen to music or podcasts where the volume is controlled as feedback, for example. Often, visual feedback is used in the form of animations on a TV screen. Visual feedback can also be provided in combination with videos and films, or even during reading tasks where the brightness of the screen represents the direct feedback. Simple games can also be used, where the game itself is controlled by the brain activity. Recent developments have tried to incorporate virtual reality (VR), and controllers can already be used for more involved engagement with the feedback.
+
+EEG neurofeedback
+
+Frequency band / amplitude training
+Amplitude training, or frequency band training (used synonymously), is the method with the largest body of scientific literature; it also represents the original method of EEG neurofeedback. The EEG signal is analyzed with respect to its frequency spectrum, split into the common frequency bands used in EEG neuroscience (delta, theta, alpha, beta, gamma). The activity involves training the amplitude of a certain frequency band on a defined location on the scalp to higher or lower values.
+Depending on the training goal (for example, increasing attention and focus, reaching a calm state, reducing epileptic seizures, etc.), the electrodes have to be placed in different positions. Additionally, the trained frequency bands and the training directions (to higher or lower amplitudes) might vary according to the training goal.
+Thus, EEG wave components that are expected to be beneficial to the training goal are rewarded with positive feedback when appearing and/or increasing in amplitude. Frequency band amplitudes that are expected to be hindering are trained downwards by reinforcement through the feedback.
+As an example, considering ADHD, this would result in training low-beta or mid-beta frequencies in the central-to-frontal lobe to increase in amplitude, while simultaneously trying to reduce theta and high-beta amplitudes in the same region of the brain.
+In the sports domain, SMR training has garnered attention, with a substantial body of research suggesting that enhancing it could improve performance.
+
+SCP training
+For SCP (slow cortical potentials) training, one trains the DC voltage component of the EEG signal. The application of this type of EEG neurofeedback training was mostly endorsed by research done by Niels Birbaumer and his group. The most common symptom base for SCP training is ADHD, whereas SCPs also find their application in brain-computer interfaces.
+
+LORETA (low resolution electromagnetic tomography analysis) training
+Normal EEG signals are restricted to the surface of the scalp. Using a high number of electrodes (19 or more), the source of certain electrical events can be localized. Similar to a tomography that renders a 3D image out of many 2D images, the many EEG channels are used to create LORETA images that represent in 3D the electrical activity distribution within the brain. The LORETA method can be used in combination with MRI to merge structural and functional activities. It is able to provide even better temporal resolution than PET or fMRI. For the application with live neurofeedback, however, 19-channel neurofeedback and LORETA has limited scientific evidence, and until now, shows no benefit over traditional 1- or 2-channel neurofeedback.
+
+Effectiveness
+Despite decades of research and widespread promotion, the clinical benefits of EEG-based neurofeedback remain tenuous, with improvements likely driven more by placebo and psychosocial factors than by direct brain regulation; emerging technologies and rigorous protocols may clarify its scientific standing.
+Neurofeedback for PTSD shows promise, but methodological concerns prohibit conclusions about effectiveness.
+Neurofeedback for ADHD is controversial, and the literature is mixed. It appears to not be clinically significant.
+Its effectiveness for depression is uncertain and controversial, though there may be some symptom reduction.
+As neurofeedback is explained mostly based on the model of operant conditioning, the sensitivity of the feedback (the difficulty to receive a reward) also plays a role. It has been shown that the desired conditioning can be reversed if threshold values are set too low.
+
+See also
+Brainwave synchronization
+Decoded neurofeedback
+Mind machine
+Neuromodulation
+
+References
+
+Further reading
+
+External links
+BBC article about neurofeedback improving the performance of musicians
+
+[[Attention deficit hyperactivity disorder]] [[Electroencephalography]] [[Hemoencephalography]] [[Mind machine]] [[Quantitative electroencephalography]] [[Scientific literature]] [[Sensorimotor rhythm]]

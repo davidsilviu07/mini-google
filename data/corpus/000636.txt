@@ -1,0 +1,50 @@
+KCNH1-related disorders
+KCNH1-related disorders are caused by gain-of-function mutations in the gene KCNH1. KCNH1-related disorders are classified as a neurodevelopmental disorder and are characterized by intellectual disability, seizures, and developmental delay. Severity of symptoms are on a wide spectrum, and many individuals also have low muscle tone as babies, distinctive facial features, nail abnormalities, hair overgrowth, and gum overgrowth. The majority of individuals with KCNH1-related disorders have a non-familial (de novo) mutation in the voltage-gated potassium channel subfamily H member 1 (KCNH1) gene that causes the voltage-gated potassium ion channel KCNH1 encodes for, Kv10.1, to be overactive in neurons of the brain. Many individuals are not diagnosed until after they begin to have seizures or miss developmental milestones, and diagnosis requires genetic sequencing. No cure for KCNH1-related disorders is currently available, and treatment focuses on alleviating symptoms. Some individuals achieve seizure control using existing anti-seizure medications.
+One phenotype is called Temple–Baraitser syndrome (TBS), a very rare autosomal dominant genetic disorder, characterised by intellectual disability, epilepsy, small or absent nail of the thumbs and great toes, and distinct craniofacial features. Other phenotypes are called Zimmermann–Laband syndrome type 1.
+
+Signs and symptoms
+A wide spectrum of symptoms and severity appears in KCNH1-related disorders. The main features of KCNH1-related disorders are severe intellectual disability, seizures/ epilepsy, developmental delay, low muscle tone as babies (hypotonia), mild distinctive (dysmorphic) facial features, finger, toe, and nail abnormalities, hair overgrowth (congenital hypertrichosis), gum overgrowth (gingival hyperplasia), gastrointestinal issues, and sleep disturbance. Individuals with KCNH1-related disorders may have some or all of these symptoms, and they may appear mild to severe.
+
+Cause
+The majority of KCNH1-related disorders are caused by heterozygous missense mutations in the gene KCNH1. The majority of known individuals have a de novo mutation, while some are due to parental inheritance.
+TBS is caused by pathogenic variants (GRCh38): 1:210,678,313-211,134,147. It has an autosomal dominant transmission, however affected individuals are not known to reproduce, so all reported cases have been caused by de novo mutations or transmission from a mosaic parent.
+
+KCNH1
+The gene KCNH1 (also known as Eag1, OMIM* 603305), mapping to 1q32.2, encodes for the voltage-gated potassium ion channel Kv10.1, which is expressed in the central nervous system, particularly in the cerebral cortex, hippocampus, and cerebellum, and at lower levels in white matter and other brain regions. It is assumed that Kv10.1 in neurons is a homotetramer. Kv10.1 is thought to be important for setting baseline membrane potential, shaping presynaptic action potentials, and influencing the release of neurotransmitters. Activation of Kv10.1 leads to a presynaptic outward-rectifying, largely non-inactivating, hyperpolarizing potassium current.
+Almost all missense mutations observed in individuals with KCNH1-related disorders are observed to cause the channel to open at more hyperpolarized voltages, and are categorized as gain-of-function mutations.
+Kv10.1 has also been shown to play a role in cilia disassembly prior to mitosis, suggesting that some symptoms may be caused by channel hyperactivity leading to altered signaling pathways involved in morphogenesis, such as the sonic hedgehog pathway.
+
+Diagnosis
+Diagnosis of KCNH1-related disorders is challenging as there are great variations in the clinical presentation of symptoms and age of seizure onset. Individuals with all or a subset of known symptoms can only be diagnosed with a KCNH1-related disorder following genetic sequencing and identification of a pathogenic, likely pathogenic, or variant of unknown significance in the KCNH1 gene.
+Patients with the above symptoms used to be diagnosed with either Temple–Baraitser Syndrome (TBS, OMIM #611816), or Zimmermann–Laband Syndrome (ZLS, OMIM #135500). TBS is characterized by intellectual disability, seizures, dysmorphic facial features, and absent or hypoplastic nails of the thumbs and great toes. The finger and toenails are characteristically small, with complete or almost complete absence of the nails of the thumb (pollex) and great toe (hallux). The diagnosis can be confirmed by demonstrating a gain-of-function mutation in the KCNH1 gene. Temple–Baraitser has clinical and genetic overlap with type 1 Zimmermann–Laband syndrome.
+Zimmermann–Laband Syndrome is characterized by intellectual disability, developmental and epileptic encephalopathy (DEE), and gingival fibromatosis. Some individuals are diagnosed with severe developmental delay, intellectual disability, and seizures without a diagnosis of either TBS or ZLS. Current views indicate that TBS and ZLS are within the umbrella of KCNH1-related disorders which encompass a spectrum of severity for mild to severe developmental delay, profound intellectual disability, neonatal hypotonia, myopathic facial appearance, and infantile-onset seizures.
+
+Symptom management and treatment development
+
+Seizures
+A survey of 34 KCNH1 patients indicated that 58% of individuals using existing anti-seizure medications saw a decrease in seizures, but only 29% were seizure-free (experiencing zero seizures). There have been reports of seizure control using existing anti-seizure medications in some individuals using: sodium channel blockers such as carbamazepine, lamotrigine, and phenytoin; GABAergic agents enhancing inhibitory neurotransmission such as benzodiazepines, and phenobarbitone; and anti-seizure medications with other modes of action such as levetiracetam and valproate. Currently there are no KCNH1-specific therapeutics that directly target Kv10.1.
+Anticonvulsants are used to control epilepsy.
+
+Other symptoms
+Many symptoms of KCNH1 either cannot be treated with existing therapies, and are managed by therapies such as physical and occupational therapy, speech and language therapy, and behavioral therapies, which can assist with motor development, swallowing, feeding, and more.
+
+Treatment development
+Although there is currently no cure for KCNH1-related disorders, many potential therapeutics are being investigated and are in early stages of development. Because genetic ablation of KCNH1 in mice does not appear to have negative effects, suggesting that null or loss-of-function alleles in humans are likely to be well tolerated, and because known patient variants are gain-of-function, therapeutic development is focused on methods to deplete Kv10.1 ion channels or block or impair Kv10.1 activity.
+A major challenge in the development of a disease-modifying small molecule drug is the similarity between KCNH1 and KCNH2, which encodes Kv11.1, also known as hERG. hERG is essential for proper, rapid repolarization of cardiac action potentials. It will be critical for any Kv10.1-specific drugs to be very selective for Kv10.1 over hERG, as hERG blockade can be fatal.
+
+Advocacy
+The Cure KCNH1 Foundation advocates for individuals with KCNH1-related disorders, hosts an international patient registry, and supports KCNH1 research.
+
+Prevalence
+With fewer than 100 cases of TBS having been reported worldwide, the exact prevalence is unknown but is believed to be rare. It is likely to be underdiagnosed, with one large study identifying 2.7% of people with intellectual disability to have a mutation in KCNH1.
+
+Etymology
+TBS was coined by Michael Gabbett who named it after English clinical geneticists Karen Temple and Michael Baraitser. Temple and Baraitser described the first case in 1991.
+
+References
+
+External links
+
+Human Disease Genes - KCNH1
+
+[[CACNA1C-related disorders]] [[Epilepsy]] [[Febrile seizure]] [[Seizure]]

@@ -1,0 +1,47 @@
+Postsynaptic potential
+Postsynaptic potentials are changes in the membrane potential of the postsynaptic terminal of a chemical synapse. Postsynaptic potentials are graded potentials, and should not be confused with action potentials although their function is to initiate or inhibit action potentials. Postsynaptic potentials occur when the presynaptic neuron releases neurotransmitters into the synaptic cleft. These neurotransmitters bind to receptors on the postsynaptic terminal, which may be a neuron, or a muscle cell in the case of a neuromuscular junction. These are collectively referred to as postsynaptic receptors, since they are located on the membrane of the postsynaptic cell. Postsynaptic potentials are important mechanisms by which neurons communicate with each other allowing for information processing, learning, memory formation, and complex behavior within the nervous system.
+
+Ion involvement
+Ions can create excitatory or inhibitory potentials due to their unique reversal potentials and the membrane's permeability to each ion. The Nernst equation and Goldman equation can calculate membrane potential differences based on ion concentration, offering predictions into how ions can affect postsynaptic potentials. Ions are subject to two main forces, diffusion and electrostatic repulsion. Ions will tend towards their equilibrium potential, which is the state where the diffusion force cancels out the force of electrostatic repulsion. When a membrane is at its equilibrium potential, there is no longer a net movement of ions.
+Neurons have a resting potential of about −70 mV. When a neurotransmitter binds to a postsynaptic receptor, this can lead to the opening or closing of ion channels, allowing ions to flow inside or outside of the cell, changing the membrane potential. When an ion channel opens and there is a net gain of positively charged ions, like sodium (Na+) and calcium (Ca2+), that flow into the cell, this creates excitatory postsynaptic potentials (EPSP) that depolarize the cell membrane increasing the likelihood of an action potential by bringing the neuron's potential closer to its firing threshold (about -55 mV).
+The opposite can happen when the opening of ion channels results in the flow of negatively charged ions, like chloride (Cl−), into the cell, or positively charged ions, like potassium (K+), to flow out of the cell, creating inhibitory postsynaptic potentials (IPSP) that hyperpolarize the cell membrane, decreasing the likelihood of an action potential by bringing the neuron's potential further away from its firing threshold.
+Neurotransmitters are not inherently excitatory or inhibitory. A single neurotransmitter can bind to different types of receptors on the postsynaptic neuron, opening or closing specific ion channels coupled to the receptor.
+
+Relation to action potentials
+EPSPs and IPSPs are transient changes in the membrane potential. These changes in membrane potential occur at the postsynaptic membrane located on the dendrites or cell body of a neuron, specifically at the synapse where it receives signals from a presynaptic neuron. EPSPs resulting from neurotransmitter release at a single synapse are generally too small to trigger an action potential spike in the postsynaptic neuron. However, a neuron may receive synaptic inputs from hundreds, if not thousands, of other neurons, with varying amounts of simultaneous input, so the combined activity of afferent neurons can cause large fluctuations in membrane potential or subthreshold membrane potential oscillations. If the postsynaptic cell is sufficiently depolarized, an action potential will occur. For example, in low-threshold spikes depolarizations by the T-type calcium channel occur at low, negative, membrane depolarizations resulting in the neuron reaching the threshold. Action potentials are not graded; they are an all-or-none response.
+
+Algebraic summation
+Postsynaptic potentials are graded potentials, meaning that signals don't fully propagate down the neuron and decrease in strength as they spread along the membrane. Graded potentials can summate in space or in time to generate a large enough response to reach action potential threshold. Postsynaptic potentials undergo spatial and temporal summation due to their graded nature.
+Spatial summation: When inputs are received simultaneously at nearby synapses, their postsynaptic potentials combine. Multiple excitatory inputs combine resulting in greater membrane depolarization (more positive). Multiple inhibitory inputs combine and deepen hyperpolarization of the membrane (more negative). If the cell is receiving both inhibitory and excitatory postsynaptic potentials, they can cancel each other out, or one can be stronger than the other, and the membrane potential will change by the difference between them.
+Temporal summation: When a single synapse inputs that are close together in time, their potentials are also added together. Thus, if a neuron receives an excitatory postsynaptic potential, and then the presynaptic neuron fires again, creating another EPSP, then the membrane of the postsynaptic cell is depolarized by the total sum of all the EPSPs fired, potentially bringing it closer to threshold for firing an action potential.
+
+Termination
+
+Termination of postsynaptic potentials begins when the neurotransmitter detaches from its receptor, allowing the receptor to return to its resting state. After the neurotransmitter detaches from the receptor, the neurotransmitters in the synaptic cleft can either be degraded by enzymes (e.g., acetylcholinesterase for acetylcholine) or can be taken back into the presynaptic neuron through reuptake mechanisms (e.g., EEAT glutamate transporters). Once the neurotransmitter is no longer bound to the receptor, the ion channels that were opened by receptor binding close, stopping ion flow. The membrane potential then returns to its resting membrane potential as ion concentrations normalize by diffusion and active transport mechanisms like the sodium-potassium pump.
+
+Postsynaptic potential applications
+Postsynaptic potentials are essential in how the brain processes information, integrates signals, and coordinates complex behaviors. These temporary changes in a neuron's membrane potential determine if a neuron will fire an action potential which allows neurons to communicate within neural circuits. The balance between EPSPs and IPSPs are necessary for maintaining neural stability and function. There are many different applications of postsynaptic potentials.
+Neural Communication and Integration: Postsynaptic potentials allow neurons to integrate inputs from thousands of synapses, functioning as a "decision-making unit" within the brain.
+Learning and Memory: Neuroplasticity is the key mechanism whereby learning and memory happens. When neurons consistently fire together, their synaptic connections strengthen, a principle known as Hebbian theory. Long-term potentiation (LTP) is one mechanism where repeated EPSPs occur, strengthening neural circuits involved in learning, allowing the brain to store information more effectively. Long-term depression (LTD) is another mechanism where IPSPs occur weakening less-used synapses, refining learning by filtering out unnecessary information.
+Motor Control: Postsynaptic potentials in motor neurons integrate signals from the brain and spinal cord to coordinate muscle movement. During voluntary movement, EPSPs activate motor neurons, while IPSPs inhibit opposing muscle groups to make sure smooth motion occurs.
+Neurodevelopment and Recovery: In neurodevelopmental and recovery processes, postsynaptic plasticity abilities allow neural pathways to rewire, leading to improved motor skills, language recovery, and adapted cognitive strategies.
+Pharmacology and Neurological Treatments: Improved understanding of postsynaptic potentials has guided the development of drugs that modulate synaptic strength to help in neurodegenerative diseases, depression, anxiety, etc.
+
+See also
+Action potential
+Electrophysiology
+Goldman equation
+Membrane potential
+Nernst equation
+Neuron
+Neurotransmission
+Chemical synapse
+Synapse
+End-plate potential
+
+External links
+Postsynaptic+Potentials at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+
+References
+
+[[Action potential]] [[Bereitschaftspotential]] [[Intracranial pressure]] [[Resting potential]]

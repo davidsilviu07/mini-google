@@ -1,0 +1,36 @@
+Bookeen
+Bookeen is a French company dealing with e-books and consumer electronics.
+
+History
+In 2003 after the failure of Cytale (the first European company to make an ebook reader) two former engineers of Cytale, Laurent Picard and Michaël Dahan, bought the intellectual property of the Cytale reading device, the Cybook Gen1. They founded the company, Bookeen, to produce dedicated ebook reading devices.  Their first product was the Cybook Gen1.
+The Cybook Gen1 was Bookeen's only product until 2006/2007, when they began exploring E-ink screens. At the time, E-Ink screens were a new technology and claimed to have a near paper-like appearance that did not cause eyestrain. In late 2007 Bookeen began selling the Cybook Gen3, their first eBook reader to use an E-Ink screen.
+At the end of 2008, Bookeen started to claim future support for the ePub eBook format. The current firmware supporting it for all models; however, this firmware can not support the older Mobipocket format. Another firmware with support for Mobipocket is still made available so the user can select the desired format. The Swedish Internet Book Store AdLibris initiated a cooperation with Bokeen, and started 2010 to sell the "läsplatta" (Swedish for ebook reader) named Letto  an exact copy of Bookeen, except with Swedish menus and Swedish dictionary. When the frontline model of Bookeen was introduced 2014, the Swedish twin version was also manufactured and sold by AdLibirs in the Scandinavian market. In 2009 they also announced a new product the Cybook Opus a smaller version of the Cybook Gen3 but with some improvements: improved shape, accelerometer, 1 GB of user memory, and a 400Mhz CPU.
+June 2010 Bookeen published a much improved firmware for Gen3 and Opus devices.
+In August 2011, Bookeen launched its own e-book store called BookeenStore.com with ePub and PDF format books, and a selection of free e-books with no DRM. (Note: this site now has DRM.)
+In 2014, Bookeen launched the Cybook Muse, the new 6 inches connected ebook reader and later in 2014, the Cybook Ocean, an 8 inches connected ebook reader.
+In 2022, the company was placed under administration, and was acquired by Cultura's subsidiary Vivlio, another e-book manufacturer.
+
+Products
+Cybook is the brand of Bookeen for its line of ebook readers. The following models have been released in this line:
+
+Cybook Gen1
+Cybook Gen3
+Cybook Opus
+Cybook Orizon
+Cybook Odyssey
+Cybook Odyssey HD FrontLight
+Cybook Muse
+Cybook Muse Frontlight
+
+See also
+Comparison of e-book readers
+
+References
+
+External links
+
+Official Website
+Official Books store Website
+Interview in French of Laurent Picard and Michael Dahan
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[Digital library]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

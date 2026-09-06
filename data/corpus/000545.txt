@@ -1,0 +1,6 @@
+Gateway Design Automation
+"Verilog HDL originated at Automated Integrated Design Systems (later renamed as Gateway  Design Automation) in 1985. The company was privately held at that time by Dr. Prabhu Goel, the inventor of the PODEM (Path-Oriented Decision Making) test generation algorithm. Verilog HDL was designed by Phil Moorby, who was later to become the Chief Designer for Verilog-XL and the first Corporate Fellow at Cadence Design Systems. Gateway Design Automation grew rapidly with the success of Verilog-XL and was finally acquired by Cadence Design Systems, San Jose, CA in 1989."
+
+References
+
+[[Cadence Design Systems]]

@@ -1,0 +1,36 @@
+Brain Electrical Oscillation Signature Profiling
+Brain Electrical Oscillation Signature Profiling (BEOSP or BEOS) is an EEG technique by which a suspect's participation in a crime is detected by eliciting electrophysiological impulses.
+It is a non-invasive neuro-psychological method of interrogation which is also referred to as 'brain fingerprinting'. BEOS has been used in over 700 police investigations in India, but has also faced criticism for a lack of thorough research and scientific consensus. 
+
+History
+The methodology was developed by Champadi Raman Mukundan (C. R. Mukundan), a Neuroscientist, former Professor & Head of Clinical Psychology at the National Institute of Mental Health and Neurosciences (Bangalore, India), while he worked as a Research Consultant to TIFAC-DFS Project on 'Normative Data for Brain Electrical Activation Profiling'.
+His works are based on research that was also formerly pursued by other scientists at American universities, including J. Peter Rosenfeld, Lawrence Farwell and Emanuel Donchin.
+BEOS was used in 2008 in India to find a woman guilty of murder. Later, the Indian Supreme Court ruled that BEOS was inadmissible as evidence.
+
+Principle
+BEOS operates on the principle that the human brain reacts differently to information that it has experienced previously, compared to new information.
+It is considered secondary, when the information is obtained from a secondary source viz. books, conversations, hearsay etc. in which there is no primary experiential component and the brain deals mainly with conceptual aspects.
+Primary encoding is deep-seated and has specific source memory in terms of time and space of occurrence of experience, as an individual has shared or participated in the experience, act, or event at certain time and place in their life.
+BEOSP is based on this principle, thereby intending to demonstrate that the suspect who have primary encoded information of those who have participated in the suspected events will show responses indicating firsthand (personally acquired) knowledge of the event.
+However, neuroscientist Rafael Yuste from Columbia argues that there are not clear distinctions between memories and imagination. 
+
+Procedure
+Pretest interview with the suspect in BEOSP
+The suspect is acquainted with BEOSP test procedure
+Informed consent is obtained
+Ideally, no questions are to be asked while conducting the test; rather, the subject is simply provided with the probable events/scenarios in the aftermath of which, the results are analyzed to verify if the brain produces any experiential knowledge, which is essentially the recognition of events disclosed.
+
+Similar technologies
+University of Pennsylvania conducted a research along with the Brigham & Women's Hospital (Boston, Massachusetts), Children's Hospital Boston & the University Hospital of Freiburg, Germany which determined that Gamma Oscillations in the brain could help distinguish false memories from the real ones. Their analysis concluded that in the retrieval of truthful memories, as compared to false, human brain creates an extremely distinct pattern of gamma oscillations, indicating a recognition of context based information associated with a prior experience.
+
+Criticism
+India’s Novel Use of Brain Scans in Courts Is Debated as featured on The New York Times
+India’s Judges Overrule Scientists on ‘Guilty Brain’ Tech as discussed over Wired (magazine)
+
+See also
+Polygraph
+Criminal profiling
+
+External links
+
+[[Emotion]] [[Psychophysiology]]

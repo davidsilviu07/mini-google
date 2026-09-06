@@ -1,0 +1,24 @@
+Center for Information Technology Policy
+The Center for Information Technology Policy (CITP) at Princeton University is an interdisciplinary research center, dedicated to exploring the intersection of technology, engineering, public policy, and the social sciences. Faculty, students, and other researchers come from a variety of disciplines, including Computer Science, Economics, Politics, Engineering, Sociology, and the Princeton School of Public and International Affairs.
+
+Research areas and projects
+The CITP conducts research in a number of areas, such as Internet of things, artificial intelligence and machine learning, blockchain and cryptocurrencies, electronic voting, government transparency, and intellectual property. Various media outlets, government agencies, and private organizations have cited the research of the CITP. The current Director of the CITP is Matthew J. Salganik, a professor of sociology at Princeton University.
+
+Voting
+One of the research initiatives at the CITP centers on electronic voting. Edward Felten, Ariel J. Feldman, and J. Alex Halderman conducted security analysis on a Diebold AccuVote-TS voting machine, one of the most widely used machines of its kind. They discovered a method that allowed them to upload malicious programs to multiple voting machines. Their research gained additional media attention when it was brought before the U.S. Senate Select Committee on Intelligence in June 2017.
+
+Interconnection Measurement Project
+The Interconnection Measurement Project is an annual initiative at the CITP that provides ongoing data collection and analysis from ISP interconnection points. Aggregated data serving roughly 50 percent of residential broadband subscribes is collected every 5 minutes.
+
+Technology Fellows Program
+The CITP launched a fellowship for technologists working on policy topics in 2025. The program seeks to address the shortage of technical expertise public interest and regulation.
+
+Academics
+The CITP offers an undergraduate certificate in Technology and Society, Information Technology Track. This program requires students to complete a combination of core, technology, societal, and breadth courses in and outside the area of information technology. The goal of the program is to help students better understand how technology drives social change and how society itself shapes technology. The CITP also hosts a number of workshops, policy briefings, lecture series, and initiatives at Princeton University.
+
+References
+
+External links
+Official website
+
+[[Artificial intelligence]] [[Blockchain]] [[Electronic voting]]

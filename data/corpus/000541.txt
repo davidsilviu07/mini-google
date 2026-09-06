@@ -1,0 +1,75 @@
+GEDA
+The term gEDA refers to two things:
+
+A set of software applications (CAD tools) used for electronic design released under the GPL.  As such, gEDA is an ECAD (electronic CAD) or EDA (electronic design automation) application suite.  gEDA is mostly oriented towards printed circuit board design (as opposed to integrated circuit design). The gEDA applications are often referred to collectively as "the gEDA Suite".
+The collaboration of free software/open-source developers who work to develop and maintain the gEDA toolkit.  The developers communicate via gEDA mailing lists, and have participated in the annual "Google Summer of Code" event as a single project.  This collaboration is often referred to as "the gEDA Project".
+The word "gEDA" is a conjunction of "GPL" and "EDA".  The names of some of the individual tools in the gEDA Suite are prefixed with the letter "g" to emphasize that they are released under the GNU General Public License.
+
+History
+The gEDA project was started by Ales Hvezda in an effort to remedy the lack of free software EDA tools for Linux/UNIX.  The first software was released on 1 April 1998, and included a schematic capture program and a netlister.  At that time, the gEDA Project website and mailing lists were also set up.
+Originally, the project planned to also write a PCB layout program. However, an existing open-source layout program, "PCB", was soon discovered by the project.  Thereafter, the ability to target netlists to PCB was quickly built into the gEDA Project's netlister, and plans to write a new layout program from scratch were scrapped.  Meanwhile, developers working on PCB became affiliates of the gEDA Project.
+Other open-source EDA programs were created at about the same time.  The authors of those programs became affiliated with the gEDA website and mailing lists, and the collaborative gEDA Project was born.
+Currently, the gEDA Project remains a collection of software tools developed by different (but sometimes overlapping) developers. The foundation which holds the project together is the shared vision of creating a powerful, community-driven, open-source EDA toolkit.
+pcb-rnd was forked from gEDA/PCB in 2013. Later extended into an EDA suite called Ringdove EDA.
+Lepton EDA was forked from the gEDA/gaf suite in late 2016.
+In the 2020s the gEDA suite development halted. In 2025 the project web page and wiki got archived and marked read-only. The archived pages name Ringdove EDA as successor.
+
+Detailed description
+Loosely speaking, the term "gEDA Suite" refers to all free software projects and applications that have associated themselves with the gEDA Project via the geda-dev/geda-user mailing lists.  These include:
+
+gEDA/gaf - gschem and friends (the original project)
+PCB - PCB layout program
+Gerbv - Gerber file viewer
+ngspice - a port of Berkeley SPICE
+GnuCap - A modern electronic circuit simulation program
+gspiceui - A GUI front end for ngspice/GnuCap
+gwave - An analog waveform viewer
+gaw - An analog waveform viewer a rewrite of gwave.  Works with gspiceui.
+Icarus Verilog - A Verilog simulator
+GTKWave - A digital waveform viewer
+wcalc - Transmission line and electromagnetic structure analysis
+Within the gEDA Suite, gEDA/gaf ("gaf" stands for "gschem and friends") is the smaller subset of tools grouped together under the gEDA name and maintained directly by the gEDA project's founders.  GEDA/gaf includes:
+
+gschem - A schematic capture program
+gnetlist - A netlist generation program
+gsymcheck - A syntax checker for schematic symbols
+gattrib - A spreadsheet program for editing symbol attributes on a schematic.
+libgeda - Libraries for gschem, gnetlist, and gsymcheck
+gsch2pcb - Forward annotation from schematic to layout using pcb
+Assorted utility programs
+
+Platforms
+
+Linux
+Because one of the gEDA Project's longstanding goals is to provide a suite of EDA applications for Linux, all applications in the gEDA Suite compile and run on Linux.  Besides building the programs from source, binary executables for all programs in the gEDA Suite are available from popular package archives; the programs may be installed on many common Linux distributions using package management tools such as apt or dnf.
+
+Unix
+All gEDA applications will also compile and run on other Unix-like operating systems, such as OpenBSD, FreeBSD and NetBSD.  Some of these distributions also support installation of pre-packaged binaries using package management utilities.
+
+Mac OS X
+Most gEDA applications also install and run successfully on Mac OS X, typically using the Fink package manager and Macports.  Since few commercial EDA tools run on the Mac, this feature has made gEDA a popular electronic design package amongst Mac users.
+
+Microsoft Windows
+Microsoft Windows support is currently not a primary project goal.  Nonetheless, some programs in the gEDA Suite have built-in hooks for Windows support, and those programs will build and run under Windows.  However, binary executables for most of the gEDA Suite are not distributed by the gEDA Project.
+
+Community
+An important feature of the gEDA project was the strong user community it has created.  The gEDA mailing lists had several hundred subscribers, and many subscribers are electronics experts. Thus, the gEDA mailing lists had become a source not only for information related to the gEDA applications, but also for exchange of general electronic design information.
+As a consequence of the project's openness, schematic symbols, footprints, and utility scripts are freely created and shared amongst the members of the gEDA community at a spin-off website, www.gedasymbols.org.
+
+See also
+
+Comparison of EDA software
+List of free electronics circuit simulators
+
+References
+
+External links
+Official website
+Circuit Design on Your Linux Box Using gEDA — Overview article in the Linux Journal
+gsch2pcb tutorial — How to go from schematic to pcb layout
+Using gEDA — Another tutorial describing how to use the gEDA Toolset.
+Windows installer Archived 2016-03-03 at the Wayback Machine —  An unofficial installer for windows.
+Lepton EDA —  Fork of gEDA/gaf.
+pcb-rnd — Fork of gEDA/PCB
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic circuit simulation]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GNU General Public License]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[Integrated circuit]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[Schematic capture]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

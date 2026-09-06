@@ -1,0 +1,29 @@
+Electric (software)
+The Electric VLSI Design System is an EDA tool written in the early 1980s by Steven M. Rubin. Electric is used to construct logic wire schematics and to perform analysis of integrated circuit layout.
+It can also handle hardware description languages such as VHDL and Verilog. The system has many analysis and synthesis tools, including design rule checking, simulation, routing, Layout vs. Schematic, logical effort, and more.
+Electric is written in Java, and was released as part of the GNU project in 1998 under the GNU General Public License.
+In 2017, Electric development ceased, but support and bug fixes continue.
+
+Alternative design style for integrated circuits
+Unlike other systems that design integrated circuits (ICs) by manipulating polygons on different layers of the wafer, Electric views IC layout as connected circuitry, similar to the way schematic capture systems work. In Electric, designers place nodes (transistors, contacts, etc.) and connect them with arcs (wires). This has advantages and disadvantages.
+One advantage is that circuits are always extracted, so analyses that need to know the topology (Layout vs. Schematic, simulation, etc.) can run faster. Also, by presenting a schematic-capture-like user interface, the system offers a uniform user experience for both IC layout and schematic design. And finally, the nodes-and-arcs view of a circuit makes it easy to add layout constraints to the arcs which allow the designer to "program" the layout so that it stays connected as changes are made.
+This style of design also has disadvantages. One disadvantage is that designers are not used to such an interaction and require training in order to use it. It has been observed that people with no previous experience in IC layout are comfortable with Electric's unusual style, but those who have done IC layout on other systems find Electric difficult to use. Another disadvantage is that it is hard to import polygons from traditional systems because they have to be node-extracted, and the polygons don't always match the set of nodes and arcs provided by Electric. Furthermore, it is not possible to execute polygon commands directly as a result of nodal interference caused within the software itself.
+
+History
+
+Originally written in C during the 1980s, Electric was distributed for free to universities and sold by Applicon as "Bravo3VLSI" during the mid 1980s.
+In 1988, Electric Editor Incorporated was founded to sell Electric, and starting in 1998 it is distributed as free software by the Free Software Foundation and by Static Free Software starting in 2000.
+In 1999, development moved to Sun Microsystems, and in 2003 the original C version of Electric was discontinued in favour of a Java version, which was completed in 2005.
+Active development of Electric stopped in 2017, but fixes and support continues.
+
+See also
+
+List of free electronics circuit simulators
+Comparison of EDA Software
+
+References
+
+External links
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[GNU General Public License]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[Integrated circuit]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[Schematic]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

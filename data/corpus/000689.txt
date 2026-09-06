@@ -1,0 +1,24 @@
+Mamba (deep learning architecture)
+Mamba is a deep learning architecture focused on sequence modeling. It was developed by two researchers Albert Gu from Carnegie Mellon University and Tri Dao from Princeton University to address some limitations of transformer models, especially in processing long sequences, and it is based on the Structured State Space sequence (S4) model.
+
+Architecture
+To enable handling long data sequences, Mamba incorporates the Structured State Space sequence model (S4). S4 can effectively and efficiently model long dependencies by combining the strengths of continuous-time, recurrent, and convolutional models, enabling it to handle irregularly sampled data, have unbounded context, and remain computationally efficient both during training and testing.
+Mamba, building on the S4 model, introduces significant enhancements, particularly in its treatment of time-variant operations. Central to its design is a unique selection mechanism that adapts structured state space model (SSM) parameters based on the input. This enables Mamba to selectively focus on relevant information within sequences, effectively filtering out less pertinent data. The model transitions from a time-invariant to a time-varying framework, which impacts both the computation and efficiency of the system.
+To address the computational challenges introduced by this time-variance, Mamba employs a hardware-aware algorithm. This algorithm enables efficient computation on modern hardware, like GPUs, by using kernel fusion, parallel scan, and recomputation. The implementation avoids materializing expanded states in memory-intensive layers, thereby optimizing performance and memory usage. The result is an architecture that is significantly more efficient in processing long sequences compared to previous methods.
+Additionally, Mamba simplifies its architecture by integrating the SSM design with MLP blocks, resulting in a homogeneous and streamlined structure, furthering the model's capability for general sequence modeling across various data types, including language, audio, and genomics, while maintaining efficiency in both training and inference.
+
+Variants
+MoE-Mamba integrates the Mamba architecture with a mixture of experts (MoE) layer. This combination allows for a more efficient implementation, enabling the model to achieve comparable performance to Mamba with 2.2x fewer training steps and maintaining the inference performance gains of Mamba over transformers. The model's design involves alternating Mamba and MoE layers, allowing it to efficiently integrate the entire sequence context and apply the most relevant expert for each token.
+
+See also
+Language modeling
+Transformer (machine learning model)
+State-space model
+Recurrent neural network
+
+References
+
+Further reading
+Bergmann, Dave (2025-07-07). "What Is A Mamba Model?". IBM. Retrieved 2026-01-26.
+
+[[Alan Turing]] [[Allen Newell]] [[Artificial intelligence]] [[Artificial intelligence in music]] [[Automated planning and scheduling]] [[Automated theorem proving]] [[Claude Shannon]] [[Computational learning theory]] [[Computer vision]] [[Data mining]] [[Glossary of artificial intelligence]] [[Midjourney]] [[Military applications of artificial intelligence]] [[Model Context Protocol]] [[MuZero]] [[Multilayer perceptron]] [[Mustafa Suleyman]] [[Nathaniel Rochester (computer scientist)]] [[Neural Turing machine]] [[Neural machine translation]] [[Neural network (machine learning)]] [[Neuro-symbolic AI]] [[Noam Shazeer]] [[Normalization (machine learning)]] [[Oasis (Minecraft clone)]] [[OpenAI Five]]

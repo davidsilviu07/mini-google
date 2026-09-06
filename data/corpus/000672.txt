@@ -1,0 +1,125 @@
+Lynn Conway
+Lynn Ann Conway (January 2, 1938 – June 9, 2024) was an American computer scientist, electrical engineer, and transgender rights activist.
+In the 1960s, while working at IBM, Conway invented generalized dynamic instruction handling, a key advancement used in out-of-order execution, used by most modern computer processors to improve performance. IBM fired Conway in 1968 after she revealed her intention to undergo a gender transition, which the company apologized for in 2020.
+Following her transition, Conway adopted a new name and identity and restarted her career. She worked at Xerox PARC from 1973 to 1983, where she led the "LSI Systems" group. Together with Carver Mead she co-led the Mead–Conway VLSI chip design revolution in very large-scale integrated (VLSI) microchip design, which reshaped the field of microchip design in the 1980s.
+Conway joined the University of Michigan as a professor of electrical engineering and computer science in 1985. She retired from active teaching and research in 1998 as professor emerita. Conway began publicly discussing her gender transition in 1999 and was a transgender rights activist until her death in 2024.
+
+Early life and education
+Conway was born in Mount Vernon, New York, on January 2, 1938, to Christine Alice (née Burney) Savage (1904–1977) and Rufus Savage (1904–1966). Raised as a boy, Conway was brought up in Hartsdale and White Plains, New York, as a shy child who experienced gender dysphoria. After her parents divorced in 1945, Conway and her younger brother, Blair Savage (1941–2022), were raised by their mother. Conway became fascinated by astronomy (building a 6-inch (150 mm) reflector telescope one summer) and did well in math and science in school.
+After graduating from White Plains High School in 1955, Conway entered the Massachusetts Institute of Technology and began an attempted gender transition in 1957. Facing a lack of social and medical support, she withdrew from MIT in 1959 and eventually detransitioned.
+After working as an electronics technician for several years, Conway resumed education at Columbia University's School of Engineering and Applied Science, earning B.S. and M.S.E.E. degrees in 1962 and 1963.
+
+Early research at IBM
+Conway was recruited by IBM Research in Yorktown Heights, New York, in 1964, and was soon selected to join the architecture team designing an advanced supercomputer, working alongside John Cocke, Brian Randell, Herbert Schorr, Ed Sussenguth, Fran Allen and other IBM researchers on the Advanced Computing Systems (ACS) project, inventing multiple-issue out-of-order dynamic instruction scheduling while working there. The Computer History Museum has stated that "The ACS architecture ... appears to have been the first 'superscalar' design".
+
+Gender transition
+After learning about Harry Benjamin's pioneering research in healthcare for transsexual women, which included the feasibility of sex reassignment surgery, Conway sought his assistance. Struggling with severe clinical depression due to gender dysphoria, she contacted Benjamin, who agreed to provide counseling and prescribed hormone replacement therapy, which Conway resumed in 1967.
+While struggling with life in a male role, Conway had married a woman in 1963 and had two children. Under the legal constraints then in place, she was denied access to their children after transitioning.
+Although she had hoped to be allowed to transition on the job, IBM fired Conway in 1968 after she revealed her intention to transition. In 2020, IBM publicly apologized to Conway for firing her at a public event with Diane Gherson, then IBM's senior vice president of human relations. At the event, Conway was awarded the IBM Lifetime Achievement Award for her work at IBM and later work.
+
+Post-transition career
+
+Upon completing her gender transition in 1968, Conway took a new name and identity and restarted her career in stealth-mode as a contract programmer at Computer Applications, Inc. She then worked as a digital system designer and computer architect at Memorex from 1969 to 1972.
+Conway joined Xerox PARC in 1973, where she led the "LSI Systems" group under Bert Sutherland. When in PARC, Conway founded the multiproject wafers (MPW) technology. Collaborating with Ivan Sutherland and Carver Mead on very-large-scale integration (VLSI) design methodology, she co-authored Introduction to VLSI Systems, a groundbreaking work that would soon become a standard textbook in chip design, used in nearly 120 universities by 1983. With over 70,000 copies sold, and the new integration of her MPC79/MOSIS innovations, the Mead and Conway revolution became part of VLSI design.
+In 1978, Conway served as a visiting associate professor of electrical engineering and computer science at MIT, teaching a now-famous VLSI design course based on a Mead–Conway text draft. The course validated the new design methods and textbook and established the syllabus and instructor's guidebook used in later courses worldwide.
+Among Conway's contributions was the invention of dimensionless, scalable design rules that greatly simplified chip design and design tools, and invention of a new form of internet-based infrastructure for rapid prototyping and short-run fabrication of large numbers of chip designs. They aimed to address the escalating complexity of chip design, as traditional methods struggled to keep pace with Moore's law. The new infrastructure was institutionalized as the Metal Oxide Semiconductor Implementation Service (MOSIS) system in 1981. Mead and Conway received Electronics magazine's annual award of achievement in 1981. VLSI researcher Charles Seitz commented that "MOSIS represented the first period since the pioneering work of Eckert and Mauchley on the ENIAC in the late 1940s that universities and small companies had access to state-of-the-art digital technology."
+The impact and research methods underlying the development of the Mead–Conway VLSI design methodology and the MOSIS prototype are detailed in a 1981 Xerox report, the Euromicro Journal, and several historical overviews of computing. Mead-Conway's methods also came under ethnographic study in 1980 by PARC anthropologist Lucy Suchman, who published her interviews with Conway in 2021.
+In 1983, Conway left Xerox to join DARPA, where she was a key architect of the United States Department of Defense's Strategic Computing Initiative. In a contemporary USA Today article about Conway's joining DARPA, Mark Stefik, a Xerox scientist who worked with her, said "Lynn would like to live five lives in the course of one life". Douglas Fairbairn, a former Xerox associate, said "She figures out a way so that everybody wins." In The Net Effect, sociologist Thomas Streeter wrote that Conway’s decision to join DARPA reflected her rejection of antiwar liberalism.
+Conway joined the University of Michigan in 1985 as professor of electrical engineering and computer science and associate dean of engineering. There, she specialized in visual communications and designing control systems for hybrid internet and broadband-cable user interfaces. She retired from active teaching and research in 1998 as professor emerita at Michigan.
+
+Computer science legacy
+The Mead–Conway VLSI chip design revolution quickly spread through research universities and the computing industry during the 1980s. It fostered the growth of the electronic design automation industry, established the foundry model for chip design and manufacturing, and spurred a wave of influential technology startups throughout the 1980s and 1990s.
+In the fall of 2012, the IEEE published a special issue of the IEEE Solid-State Circuits Magazine devoted to Conway's career, including a career memoir by Conway and peer commentaries by Chuck House, former Director of Engineering at HP, Carlo Séquin, and Kenneth L Shepard. James F. Gibbons stated in his tribute that Conway, from his perspective, "was the singular force behind the entire 'foundry' development that emerged." Subsequently the scope of Conway's contributions gained wider retrospective attention. "Since I didn't #LookLikeanEngineer, few people caught on to what I was really doing back in the 70s and 80s," Conway later said.
+In 2020, National Academy of Engineering President John L. Anderson stated that "Lynn Conway is not only a revolutionary pioneer in the design of VLSI systems ... But just as important, Lynn has been very brave in telling her own story, and her perseverance has been a reminder to society that it should not be blind to the innovations of women, people of color, or others who don't fit long outdated – but unfortunately, persistent – perceptions of what an engineer looks like."
+
+Conway coined the term Conway effect to describe the phenomenon where people "othered" by society, such as women and people of color, are overlooked in later historical accounts of innovations. She described it in the IEEE Computer Society's Computer magazine: "This is seldom deliberate—rather, it's a result of the accumulation of advantage by those who are expected to innovate." The effect drew inspiration from the Matilda effect and Matthew effect.
+In 2023, Lynn Conway collaborated with Jim Boulton to create Lines in the Sand, a short comic book that tells the story of the invention VLSI. The launch event took place at the Centre for Computing History on November 23, 2023.
+
+Transgender rights activism
+When nearing retirement, Conway learned that the story of her early work at IBM might soon be revealed through the investigations of Mark Smotherman that were being prepared for a 2001 publication. She began coming out in 1999 to friends and colleagues about her gender transition, using her website to tell her story. Her life story was then more widely reported in 2000 in profiles in Scientific American and the Los Angeles Times. In a later Forbes interview, Conway commented "From the 1970s to 1999 I was recognized as breaking the gender barrier in the computer science field as a woman, but in 2000 it became the transgender barrier I was breaking."
+After sharing her story publicly, Conway began working in transgender rights activism to raise awareness, protect and expand trans rights, and promote understanding of gender identity and the process of gender transition. She provided assistance to numerous other transgender women and maintained a website providing medical resources and emotional advice. She maintained a website titled "Transsexual Women's Successes" to, in her words, "provide role models for individuals who are facing gender transition." Her website also provided news related to transgender issues and information on gender-affirming surgery and academic inquiries into the prevalence of transsexualism and transgender and transsexual issues in general.
+She also advocated for equal opportunities and employment protections for transgender people in high-technology industry, and for elimination of the pathologization of transgender people by the psychiatric community.
+Conway was a critic of Blanchard's transsexualism typology. Along with Andrea James and Deirdre McCloskey, she was a key person in the campaign against J. Michael Bailey's book about the theory, The Man Who Would Be Queen. Conway and McCloskey accused Bailey of conducting research on human subjects without their knowledge, sending letters to Northwestern University about this alleged misconduct.
+Alice Dreger, in her book Galileo's Middle Finger, criticized Conway for filing a lawsuit against Bailey. Conway alleged Bailey lacked a clinical psychologist license when he wrote letters in support of a young trans woman seeking to transition. Dreger countered that Bailey did not need a license as he provided his services without compensation. Dreger noted that Bailey was transparent in his letters, detailing his brief interactions with the women and his qualifications, which likely explained why Illinois authorities did not act on the complaint. Conway responded, accusing Dreger of misrepresenting the controversy by portraying it as a personal attack on Bailey rather than addressing the broader protest from the trans community.
+Conway was a cast member in the first all-transgender performance of The Vagina Monologues in Los Angeles in 2004, and appeared in a Logo documentary film about that event entitled Beautiful Daughters.
+In 2009, Conway was named one of the "Stonewall 40 trans heroes" on the 40th anniversary of the Stonewall riots by the International Court System and the National Gay and Lesbian Task Force.
+In 2013, with support from many tech industry leaders, Conway and Leandra Vicci of the University of North Carolina at Chapel Hill lobbied the directors of the Institute of Electrical and Electronics Engineers for transgender inclusion in their code of ethics. The code became fully LGBT inclusive in January 2014.
+In 2014, Time Magazine named Conway as one of "21 Transgender People Who Influenced American Culture".
+In 2015, she was selected for inclusion in "The Trans100" and was interviewed in 2020 for inclusion in the Trans Activism Oral History Project.
+
+Personal life and death
+Conway married a woman in 1963, and they had two daughters together. Following their divorce in 1968, Conway was denied access to their children.
+In 1987, Conway met her husband Charles "Charlie" Rogers, a professional engineer who shared her interest in the outdoors, including whitewater canoeing and motocross racing. They soon started living together and bought a house with 24 acres (9.7 ha) of meadow, marsh, and woodland in rural Jackson, Michigan, in 1994. They were married on August 13, 2002. In 2014, the University of Michigan's The Michigan Engineer alumni magazine documented the connections between Conway's engineering explorations and her personal life.
+Conway died from a heart condition at her home on June 9, 2024, at the age of 86.
+
+Awards and honors
+Conway received a number of awards and distinctions:
+
+Electronics 1981 Award for Achievement, with Carver Mead
+Harold Pender Award of the Moore School, University of Pennsylvania, with Carver Mead, 1984
+IEEE EAB Major Educational Innovation Award, 1984
+Fellow of the IEEE, 1985, "for contributions to VLSI technology"
+John Price Wetherill Medal of the Franklin Institute, with Carver Mead, 1985
+Secretary of Defense Meritorious Civilian Service Award, May 1985
+Member of the National Academy of Engineering, 1989
+National Achievement Award, Society of Women Engineers, 1990
+Presidential Appointment to the United States Air Force Academy Board of Visitors, 1996
+Honorary Doctorate, Trinity College, 1998
+Electronic Design Hall of Fame, 2002
+Engineer of the Year, National Organization of Gay and Lesbian Scientists and Technical Professionals, 2005
+Named one of the "Stonewall 40 trans heroes" by the Imperial Court System and the National LGBTQ Task Force, 2009.
+Computer Pioneer Award, IEEE Computer Society, 2009
+Member of the Corporation, Emerita, The Charles Stark Draper Laboratory, 1993–2010
+Fellow Award, Computer History Museum, 2014, "For her work in developing and disseminating new methods of integrated circuit design."
+Honorary Doctorate, Illinois Institute of Technology, 2014
+Steinmetz Memorial Lecture, (Invitational), IEEE/Union College, 2015.
+IEEE/RSE James Clerk Maxwell Medal, 2015
+Magill Lecture in Science, Technology and the Arts (Invited), Columbia University, 2016
+Honorary Doctorate, University of Victoria, 2016
+Fellow Award, American Association for the Advancement of Science (AAAS), 2016
+Honorary Doctorate and Commencement Address, University of Michigan, Ann Arbor, 2018
+Pioneer in Tech Award, National Center for Women in Technology (NCWIT), 2019
+Lifetime Achievement Award, IBM Corporation, 2020
+Induction into the National Inventors Hall of Fame (NIHF), 2023
+Honorary Doctorate, Princeton University, 2023.
+Honorary Doctor of Science, Syracuse University, 2024
+National LGBTQ Wall of Honor, 2025
+
+Selected works
+Mead, Carver; Conway, Lynn (1980). Introduction to VLSI Systems. Addison-Wesley. ISBN 0201043580.
+Conway, L. (February 1981). "THE MPC ADVENTURES: Experiences with the Generation of VLSI Design and Implementation Methodologies" (PDF). Xerox PARC Technical Report VLSI-81-2.
+Conway, L. (September 23, 1982). "The Design of VLSI Design Methods" (PDF). Proc. VUB European Solid-State Circuits Conference (Invited Lecture). Vrije Universiteit Brüssel, Brussels, Belgium: 106–117.
+Conway, Lynn (2012). "Reminiscences of the VLSI Revolution: How a Series of Failures Triggered a Paradigm Shift in Digital Design" (PDF). IEEE Solid-State Circuits Magazine. 4 (4). IEEE: 8–31. Bibcode:2012ISSCM...4....8C. doi:10.1109/MSSC.2012.2215752.
+Conway, L. (October 2018). "The Disappeared: Beyond Winning and Losing". Computer. Vol. 51. IEEE Computer Society. pp. 66–73.
+Conway, Lynn (2011). "IBM-ACS: Reminiscences and Lessons Learned from a 1960's Supercomputer Project" (PDF). In Jones, C. B.; Lloyd, J. L. (eds.). Dependable and Historic Computing: Essays Dedicated to Brian Randell on the Occasion of his 75th Birthday. Springer-Verlag. pp. 185–224. ISBN 978-3-642-24541-1.
+Conway, Lynn. "Lynn Conway's IBM-ACS Archive". University of Michigan. Retrieved June 4, 2016.
+Conway, L.; Randell, Brian; Senzig, D. (February 23, 1966). "Dynamic Instruction Scheduling" (PDF). IBM-ACS.
+Rozenberg, D.; Conway, L.; Riekert, R. (March 15, 1966). "ACS Simulation Technique" (PDF). IBM-ACS.
+Conway, L. (August 25, 1967). "MPM Timing Simulation" (PDF). IBM-ACS.
+Conway, L. (November 29, 1967). "ACS Logic Design Conventions: A Guide for the Novice" (PDF). IBM-ACS.
+Conway, L (October 31, 1967). "A Proposed ACS Logic Simulation System" (PDF). IBM-ACS.
+Conway, L. (August 6, 1968). "The Computer Design Process: A Proposed Plan for ACS" (PDF). IBM-ACS.
+
+Patents
+US 5046022, Conway, Lynn; Volz, Richard & Walker, Michael, "Teleautonomous System and Method Employing Time/Position Synchrony/Desynchrony", issued September 3, 1991 
+US 5444476, Conway, Lynn, "System and Method for Teleinteraction", issued August 22, 1995 
+US 5652849, Conway, Lynn & Cohen, Charles, "Apparatus and Method for Remote Control Using a Visual Information Stream", issued July 20, 1997 
+US 5719622, Conway, Lynn, "Visual Control Selection of Remote Mechanisms", issued February 17, 1998 
+US 5745782, Conway, Lynn, "Method and System for Organizing and Presenting Audio/Visual Information", issued April 28, 1998 
+
+See also
+List of pioneers in computer science
+
+References
+
+Further reading
+Saari, Peggy; Allison, Stephen (1996). Scientists: The Lives and Works of 150 Scientists. New York [u.a.]: UXL. ISBN 9780787609603.
+Busch-Vishniac, Ilene; Busch, Lauren; Tietjen, Jill (2024). "Chapter 33. Lynn Conway". Women in the National Inventors Hall of Fame: The First 50 Years. Springer Nature. ISBN 9783031755255.
+
+External links
+
+Official website 
+Lynn Conway's Retrospective
+Lynn Conway at IMDb
+
+[[Brian Randell]] [[Carver Mead]] [[Columbia University]] [[Communications of the ACM]] [[Computer architecture]] [[Computer science]] [[Computer scientist]] [[ENIAC]] [[Electrical engineering]] [[Electronic Design (magazine)]] [[Electronic design automation]] [[Institute of Electrical and Electronics Engineers]] [[MOSIS]] [[Northwestern University]] [[United States Department of Defense]]

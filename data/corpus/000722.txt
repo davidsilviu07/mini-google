@@ -1,0 +1,44 @@
+Mobipocket
+Mobipocket SA was a French company incorporated in March 2000 that created the .mobi e-book file format and produced the Mobipocket Reader software for mobile phones, personal digital assistants (PDA) and desktop operating systems.
+The Mobipocket software package was free and consisted of various publishing and reading tools for PDAs, smartphones, mobile phones, the e-readers Kindle and iLiad, and applications on devices using Symbian, Windows, Palm OS, Java ME and Psion.
+Amazon.com bought Mobipocket.com in 2005 and kept it running until October 2016, when it permanently shut down the Mobipocket website and servers.
+
+History
+Amazon.com bought Mobipocket.com in 2005.
+An alpha release of the Java-based version of the Mobipocket reader became available for cellphones on June 30, 2008. There is also a reader for desktop computers running Microsoft Windows, which also works with computers running Mac OS X or Linux using Wine.
+Since Amazon's acquisition of Mobipocket, software support, user support, and platform growth ended. In December 2011, Amazon reportedly officially notified book publishers that it was ending support for Mobipocket. The status of Mobipocket digital rights management (DRM) content previously purchased by users was unclear since no other eBook-reader supported its proprietary DRM method.
+On October 31, 2016, Amazon permanently shut down the Mobipocket website and servers.
+
+Design
+The software provided:
+
+A personalized press review using the Mobipocket Web Companion, an automated content extraction tool dedicated to press articles.
+eBooks, including for each book a biography of the writer. Each downloaded eBook was registered in the My Mobipocket personal virtual library, from which a user had access to any previously downloaded eBook.
+A secure reading system, as a result of the encryption of eBooks using DRM and unique signature, a timestamp added to each book at the time of purchase.
+
+Depending on the device, different functions were available, including managing of books and their metadata, assigning books to arbitrary categories, auto-scroll, rotate by 90° or 180°, bookmarks, custom hyperlinks within one or between different documents, highlighting, comments and by sketches. When transferring documents to other device types, functions that were not supported on the device were ignored, but the information one was reading would not have been altered or deleted.
+Each book had one or two language attribute(s); in the latter case it was meant to be a dictionary. As a typical example, reading a book in Fr language, a word may have been selected and asked to translate with Fr → En dictionary provided the appropriate dictionary was installed on the reader-device. Dictionaries were always unidirectional so Fr → En dictionary could not be used in reverse – a separate En → Fr dictionary was needed for that.
+
+Implementations
+There was a reader for personal computers that worked with either encrypted or unencrypted Mobipocket books.
+Unencrypted Mobipocket books could be read on the Amazon Kindle natively, as well as in Amazon Kindle programs on Mac OS X, iOS devices, Android devices, Windows, and Windows Phone devices. By using third-party programs such as Lexcycle Stanza, calibre or Okular, unencrypted Mobipocket books could also be read on Mac OS X, iOS, Android devices and Linux. Third-party tools existed to decrypt encrypted Mobipocket books, allowing them to be read using software that does not support encryption.
+A user could thus create documents in the Mobipocket format .mobi and use personal comments, bookmarks, and more on all devices supporting those features. Additionally, Amazon offered a free program called KindleGen that could convert or create documents in the Mobipocket format. This program was, however discontinued in the year 2020. An alternative application, called Kindle Previewer, was launched by Amazon shortly after in replacement of KindleGen with all the same features, in addition to other new features.
+User-added information, such as annotations and bookmarks, were kept in separate ".mbp" files by the official Mobipocket Reader and Kindle applications. In October 2012, Amazon also introduced an encrypted variant of the file (".smbp"), preventing access to the information by third-party applications.
+Owners of Android devices could download Amazon's Kindle application from the Android App store, which could read .mobi files, though no official Mobipocket reader for the Android platform was released.
+
+Legacy
+The Amazon Kindle's AZW format (Kindle File Format) shares a substantial similarity with the Mobipocket format, distinguished primarily by serial number representation (making use of an asterisk instead of a dollar sign).
+In late 2011, the Kindle Fire introduced "Kindle Format 8" (KF8), also known as AZW3 file format that supported a subset of HTML5 and CSS3 features, while acting as a container for a backwards-compatible MOBI content document.
+
+See also
+
+Comparison of e-book formats
+List of e-book readers
+
+References
+
+External links
+Official website
+Last available Internet Archive save of the Mobipocket Website.
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[HTML]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

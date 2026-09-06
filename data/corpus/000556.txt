@@ -1,0 +1,55 @@
+Globus pallidus
+The globus pallidus (GP), also known as paleostriatum or dorsal pallidum, is a major component of the subcortical basal ganglia in the brain. It consists of two adjacent segments, one external (or lateral), known in rodents simply as the globus pallidus, and one internal (or medial). It is part of the telencephalon, but retains close functional ties with the subthalamus in the diencephalon – both of which are part of the extrapyramidal motor system.
+The globus pallidus receives principal inputs from the striatum, and principal direct outputs to the thalamus and the substantia nigra. The latter is made up of similar neuronal elements, has similar afferents from the striatum, similar projections to the thalamus, and has a similar synaptology. Neither receives direct cortical afferents, and both receive substantial additional inputs from the intralaminar thalamic nuclei.
+Globus pallidus is Latin for "pale globe".
+
+Structure
+
+Pallidal nuclei are made up of the same neuronal components. In primates, almost all pallidal neurons are very large, parvalbumin-positive, with very large dendritic arborizations. These have the peculiarity of having the three-dimensional shape of flat discs, parallel to one another, parallel to the border of the pallidum and perpendicular to the afferent striatopallidal axons. There are only a few small local circuitry neurons.
+The globus pallidus is traversed by the numerous myelinated axons of the striatopallidonigral bundle that give it the pale appearance from which it is named.
+The ultrastructure is very peculiar, as the long dendrites are everywhere, without discontinuity, covered by synapses.
+
+Parts
+
+In primates, the globus pallidus is divided into two parts by a thin medial medullary lamina. These are the internal globus pallidus (GPi) and the external globus pallidus (GPe); both are composed of closed nuclei surrounded by myelinic walls.
+The ventral pallidum lies within the substantia innominata (Latin for unnamed substance) and receives efferent connections from the ventral striatum (the nucleus accumbens and the olfactory tubercle). It projects to the dorsomedial nucleus of the dorsal thalamus, which, in turn, projects to the prefrontal cortex; it also projects to the pedunculopontine nucleus and tegmental motor areas. Its function is to serve as a limbic-somatic motor interface, and it is involved in the planning and inhibition of movements from the dorsal striatopallidal complex.
+
+Function
+The globus pallidus is a structure in the brain involved in the regulation of voluntary movement. It is part of the basal ganglia, which, among many other functions, regulate movements that occur on the subconscious level.
+The globus pallidus has a predominantly inhibitory effect on movement regulation, balancing cerebellar excitation. Pulsatile and regular interaction between these complementary systems allows smooth and controlled movement. Imbalances can result tremors, jerks, dystonia, chorea and progressive motor weakness ending in diaphragmatic dysfunction, with the most common cause of mortality in most neurodegenerative disorders being aspiration pneumonia.
+The basal ganglia acts on a subconscious level, requiring no conscious effort to function. When someone makes a decision to engage in an activity such as petting a dog, for example, these structures help to regulate the movement to make it as smooth as possible, and to respond to sensory feedback. Likewise, the globus pallidus is involved in the constant subtle regulation of movement that allows people to walk and engage in a wide variety of other activities with a minimal level of disruption.
+
+Pallidonigral pacemaker
+The two pallidal nuclei and the two parts of the substantia nigra (the pars compacta and pars reticulata) constitute a high-frequency autonomous pacemaker. (see primate basal ganglia#Pallidonigral set and pacemaker)
+
+Common afferents
+The two parts receive successively a large quantity of GABAergic axonal terminal arborisations from the striatum through the dense striato-pallidonigral bundle. The synaptology is very peculiar (see primate basal ganglia system). The striatal afferents contribute more than 90% of synapses.
+The two pallidal nuclei receive dopaminergic axons from the pars compacta of the substantia nigra.
+
+Pathway
+This area of the basal ganglia receives input from another area, called the striatum, which has two parts, the caudate nucleus and the putamen. This data is routed to the thalamus, either directly or indirectly. In the case of the interna, one area of the globus pallidus, the structure can feed directly to the thalamus. The externa, which lies on the outside of this structure, feeds information to the interna, where it can be passed on to the thalamus.
+
+Disease
+Infarction of the globus pallidus can be seen with anoxic brain injury, carbon monoxide poisoning and drug overdoses (MDMA and heroin), with the insult classically being bilateral. Bilateral calcification can occur in a lentiform shape with aggressive parenteral nutrition. Encephalopathy, as can occur with cirrhosis or Leigh syndrome, also causes globus pallidus abnormalities, making them bright on MRI T1 sequences in liver disease and on bright on T2 sequences with Leigh syndrome. Additional substances that can accumulate in the basal ganglia include heavy metals (such as gadolinium, iron and copper), calcium and amyloid with hypothyroidism.
+Clumps of disorganized nerve tissue, can accumulate inside the globus pallidus with neurofibromatosis type I, causing severe neurologic dysfunction. The pallidus can also be destroyed by rare metabolic disorders such as PKAN, methylmalonic acidemias and maple syrup urine disease.
+Though damage to the globus pallidus can cause movement disorders, diseases like Parkinson's and essential tremor can paradoxically be treated by surgically inducing lesions in the nuclei using ultrasound, Gamma knife, or more rarely open surgery. The nucleus can also be artificially stimulated using deep brain stimulation in which a battery pack is inserted into the chest wall and electrical leads run up the neck and into the brain from the back of the skull. The aim of these procedures is to reduce involuntary muscle tremors and improve extrapyramidal symptoms associated with neurodegeneration, though they can impact intellectual function and cause dysarthria.
+
+History
+The origin of the name is not established. It was used by Joseph Dejerine (1906) but not by Santiago Ramón y Cajal (1909–1911).
+As the elements in no way have the shape of a globe, throughout the 20th century scientists proposed a simpler term (a neuter adjective), pallidum (meaning "pale"). Propositions include those by Foix and Nicolesco (1925), the Vogts (1941), Crosby et al. (1962) and the Terminologia Anatomica.
+For a long time the globus pallidus was linked to the putamen and termed the lentiform nucleus (nucleus lenticularis or lentiformis), a heterogeneous anatomical entity that is part of the striatum rather than the pallidum. The link with the substantia nigra pars reticulata was stressed very early on due to the similarities in dendritic arborisation (and they are sometimes known as the pallidonigral set) but, in spite of strong evidence, this association remains controversial.
+
+Animal Studies
+In rodents, the globus pallidus internus is also known as the entopeduncular nucleus.
+
+See also
+Lentiform nucleus
+
+References
+
+External links
+
+Stained brain slice images which include the "Globus pallidus" at the BrainMaps project
+Diagram at uni-tuebingen.de
+
+[[Amygdala]] [[Cerebral cortex]] [[Hippocampus]] [[Pallidotomy]] [[Parkinson's disease]]

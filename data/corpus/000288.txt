@@ -1,0 +1,52 @@
+Corpus callosotomy
+A corpus callosotomy () is a palliative surgical procedure for the treatment of medically refractory epilepsy. The procedure was first performed in 1940 by William P. van Wagenen. In this procedure, the corpus callosum is cut through, in an effort to limit the spread of epileptic activity between the two halves of the brain.
+Although the corpus callosum is the largest white matter tract connecting the hemispheres, some limited interhemispheric communication is still possible via the anterior and posterior commissures. After the operation, however, the brain often struggles to send messages between hemispheres, which can lead to side effects such as speech irregularities, disconnection syndrome, and alien hand syndrome.
+
+History
+The first instances of corpus callosotomy were performed in the 1940s by William P. van Wagenen, who co-founded and served as president of the American Association of Neurological Surgeons. Attempting to treat epilepsy, van Wagenen studied and published the results of his surgeries, including the split-brain outcomes for patients. Most of the surgeries involved a partial division of the corpus callosum and resulted in improvements of seizure control in all patients. Wagenen's work preceded the 1981 Nobel Prize-winning research of Roger W. Sperry by two decades. Sperry studied patients who had undergone corpus callosotomy and detailed their resulting split-brain characteristics.
+Improvements to surgical techniques, along with refinements of the indications, have allowed van Wagenen's procedure to endure; corpus callosotomy is still commonly performed throughout the world. The surgery is a palliative treatment method for many forms of epilepsy, including atonic seizures, generalized seizures, and Lennox–Gastaut syndrome. In a 2011 study of children with intractable epilepsy accompanied by attention deficit disorder, EEG showed an improvement to both seizures and attention impairments following corpus callosotomy.
+
+Typical procedure
+Prior to surgery, the patient's head must be partially or completely shaven. Once under general anesthesia, an incision will allow for a craniotomy to be performed. Then sectioning will occur between the two hemispheres of the brain. For a partial callosotomy, the anterior two-thirds of the corpus callosum are sectioned, and for a complete callosotomy, the posterior one-third is also sectioned. Afterward, the dura is closed and the portion of cranium is replaced. The scalp is then closed with sutures. Endoscopic corpus callosotomy has been employed with blood loss minimized during the surgical procedure.
+
+Indications
+Corpus callosotomy is intended to treat patients who have epilepsy and the resultant chronic seizures. The diminished life expectancy associated with epilepsy has been documented by population-based studies in Europe. In the UK and Sweden, the relative mortality rate of epileptic patients (patients whose epilepsy was not under control from medical or other surgical therapies and who continued to have the disease) increased two- and threefold, respectively. In the vast majority of cases, corpus callosotomy abolishes instance of seizures in the patient.
+
+Contraindications
+Although it varies from patient to patient, a progressive neurological or medical disease might be an absolute or relative contraindication to corpus callosotomy. Intellectual disability is not a contraindication to corpus callosotomy. In a study of children with a severe intellectual disability, total callosotomy was performed with highly favorable results and insignificant morbidity.
+
+Neuroanatomical background
+
+Corpus callosum anatomy and function
+
+The corpus callosum is a fiber bundle of about 300 million fibers in the human brain that connects the two cerebral hemispheres. Its interhemispheric functions include the integration of perceptual, cognitive, learned, and volitional information.
+
+Role in epileptic seizures
+The role of the corpus callosum in epilepsy is the interhemispheric transmission of epileptiform discharges. These discharges are generally bilaterally synchronous in preoperative patients. In addition to disrupting this synchrony, corpus callosotomy decreases the frequency and amplitude of the epileptiform discharges, suggesting the transhemispheric facilitation of seizure mechanisms.
+
+Drawbacks
+
+Side effects
+
+The most prominent non-surgical complications of corpus callosotomy relate to speech irregularities. For some patients, sectioning may be followed by a brief spell of mutism. A long-term side effect may be an inability to engage in spontaneous speech. In addition, the resultant split-brain prevents some patients from following verbal commands that require the use of their non-dominant hand.
+Disconnection syndrome is another well-known side effect of the surgery. This occurs due to the brain's inability to transfer information between the hemispheres. One characteristic symptom is the "crossed-avoiding reaction", which is observed when one hemisphere does not respond to visual or sensory (e.g., touch, pressure, or pain) stimuli presented to the opposite side.
+For instance, when an object is shown in the patient's right visual field, the left hemisphere (typically language-dominant) processes this information, allowing the patient to name the object easily. However, if the same object is shown in the left visual field, the right hemisphere perceives it, but the information does not transfer to the left (verbal) hemisphere. Consequently, while the patient cannot verbally identify the object, they are still able to select it with their left hand.   
+Another complication is alien hand syndrome, in which the affected person's hand appears to take on a mind of its own. In one described incident, the patient grabbed their throat with their left hand and struggled to remove, as they had no control over it.
+Cognitive impairments may also be seen. Other symptoms may occur after the operation but generally go away on their own, such as scalp numbness, feeling tired or depressed, headaches, and difficulty speaking, remembering things, or finding words.
+
+Alternatives
+Epilepsy is also treated by a less invasive process called vagus nerve stimulation. This method utilizes an electrode implanted around the left vagus nerve within the carotid sheath in order to send electrical impulses to the nucleus of the solitary tract. However, corpus callosotomy has been proven to offer significantly better chances of seizure freedom compared with vagus nerve stimulation (58.0% versus 21.1% reduction in atonic seizures, respectively).
+
+References
+
+Further reading
+Maxwell, Robert E. (6 August 2009). "Chapter 162 – Corpus Callosotomy". In Lozano, Andres M.; Gildenberg, Philip L.; Tasker, Ronald R. (eds.). Textbook of Stereotactic and Functional Neurosurgery (2nd ed.). Berlin: Springer-Verlag. pp. 2723–2740. doi:10.1007/978-3-540-69960-6_162. ISBN 978-3-540-69959-0.
+Olivier, André; Boling, Warren W.; Tanriverdi, Taner (2012). "Callosotomy". Techniques in Epilepsy Surgery: The MNI Approach. Cambridge University Press. pp. 201–215. doi:10.1017/CBO9781139021951.018. ISBN 978-1-107-00749-9.
+Roberts, David W. (17 August 2009). "Chapter 74 – Corpus Callosotomy". In Shorvon, Simon; Perucca, Emilio; Engel Jr, Jerome (eds.). The Treatment of Epilepsy (3rd ed.). Chichester: Wiley-Blackwell. pp. 943–950. doi:10.1002/9781444316667.ch74. ISBN 978-1-4051-8383-3.
+Sauerwein, Hannelore C.; Lassonde, Maryse; Revol, Olivier; Cyr, Francine; Geoffroy, Guy; Mercier, Claude (15 December 2001). "Chapter 26 – Neuropsychological and Psycho-social Consequences of Corpus Callosotomy". In Jambaqué, Isabelle; Lassonde, Maryse; Dulac, Olivier (eds.). Neuropsychology of Childhood Epilepsy. Advances in Behavioral Biology Series. Vol. 50. New York: Kluwer Academic Publishers. pp. 245–256. doi:10.1007/0-306-47612-6_26. ISBN 978-0-306-46522-2.
+
+External links
+Details of procedure at epilepsy.com
+Encyclopedia of Surgery: Corpus callosotomy
+
+[[Amygdalohippocampectomy]] [[Anterior temporal lobectomy]] [[Atonic seizure]] [[Bilateral cingulotomy]] [[Brain biopsy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral shunt]] [[Cerebrum]] [[Clinical prediction rule]] [[Computed tomography of the head]] [[Cordotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Epilepsy]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Hypophysectomy]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure monitoring]] [[Lennox–Gastaut syndrome]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[Myelography]] [[National Institutes of Health Stroke Scale]] [[Pallidotomy]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Psychosurgery]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Suboccipital puncture]]

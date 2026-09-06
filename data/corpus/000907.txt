@@ -1,0 +1,35 @@
+Sigil (application)
+Sigil is free, open-source editing software for e-books in the EPUB format.
+As a cross-platform application, Sigil is distributed for the Windows, macOS, Haiku and Linux platforms under the GNU GPL license. Sigil supports code-based editing of EPUB files, as well as the import of HTML and plain text files. A companion application, PageEdit, allows WYSIWYG editing of EPUB files.
+Sigil has been developed by Strahinja Val Marković and others since 2009. From July 2011 to June 2015 John Schember was the lead developer. In June 2015, development of Sigil was taken over by Kevin Hendricks and Doug Massay.
+
+Features
+Sigil's features include:
+
+Full UTF-16 and EPUB 2 specification support
+Multiple views: book, code and preview view
+Table of contents generator with multi-level heading support
+Metadata editor with full support for all metadata entries
+Hunspell based spell checking with default and user configurable dictionaries
+Full regular expression (PCRE) support for find and replace
+Supports import of EPUB and HTML files, images, and style sheets
+Integrated API to external HTML and graphics editors
+FlightCrew validator for EPUB standard compliance validation (separate plugin)
+Sigil has full EPUB 2 specifications support, but only limited EPUB 3 support. Since version 0.9.3 of January 2016, the developers have been focusing on "improving Sigil’s ability to work with and generate epub3 ebooks without losing any of its epub2 capabilities".
+WYSIWYG editing in book view was discontinued in 2019 and moved to a separate application, PageEdit.
+
+See also
+Calibre (software)
+List of free and open-source software packages
+
+References
+
+External links
+
+Official website 
+Sigil on GitHub
+Old code repository
+Sigil development blog Archived 4 October 2017 at the Wayback Machine
+Ebook editing with Sigil LWN.net, 2011
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[GNU General Public License]] [[Google Play]] [[Google Play Books]] [[HTML]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

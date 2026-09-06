@@ -1,0 +1,21 @@
+Automatic transmission system
+An automatic transmission system (ATS) is an automated system designed to keep a broadcast radio or television station's transmitter and antenna system running without direct human oversight or attention for long periods. Such systems are occasionally referred to as automated transmission systems to avoid confusion with the automatic transmission of an automobile.
+
+History
+Traditionally, radio and television stations were required to have a licensed operator, technician or electrical engineer available to tend to a transmitter at all times it was operating or capable of operating. Any condition (such as distorted or off-frequency transmission) that could interfere with other broadcast services would require immediate manual intervention to correct the fault or take the transmitter off the air. Facilities also had to be monitored for any fault conditions which could impair the transmitted signal or cause damage to the transmitting equipment.
+Because broadcast transmitters were often at a different location from the broadcast studios, attended operation required an operator to be physically located at the transmitter site. In the 1950s and 1960s, remote control systems were introduced to allow an operator at the studio to power the transmitter on or off. At the same time, an early remote control system, the Automon, was developed by RCA engineers in Montréal that included a relay system that automatically detected if the transmitter was operating outside of its allowed parameters. The Automon could send the studio an alarm if the transmitter was out of tolerance and, if contact to the studio was lost, it could automatically power down the transmitter. A similar system was developed in 1953 by Paul Schafer in California, using a rotary telephone to raise or lower transmitter parameters remotely.
+As technology improved, transmitters became more reliable, and electromechanical means of checking and later correcting problems became commonplace. Regulations eventually caught up with these advances, to allow of unattended operation via an ATS. During the 1970s, the BBC made widespread use of automated systems on its UHF television network to switch from main to standby transmitters in the case of a fault, as well as to alert engineering staff to problems. In 1977, the U.S. Federal Communications Commission loosened operation rules to allow stations in the United States with ATSes to automatically monitor transmitter operation and allow the ATS to automatically adjust modulation or shutdown the transmitter if operation was out of tolerance, although the specific rules have continued to evolve with changes to the Emergency Alert System and the introduction of digital radio.
+
+Theory of operation
+An ATS monitors conditions such as voltage, current, and temperature within the transmitter cabinet or enclosure, and often has external sensors as well, particularly on the antenna. Some systems have remote monitoring points which report back to the main unit through telemetry links.
+Advanced systems can monitor and often correct other problems which are considered mission-critical, such as detecting ice on antenna elements or radomes and turning on heaters to prevent the VSWR (power reflected from a mismatched antenna back into the transmitter) from going too high.  High-power stations that use desiccation pumps to put dry nitrogen into their feedline (to displace moisture for increased efficiency) can also monitor the pressure.  Generators, batteries, and incoming electricity can also be monitored.
+If anything goes wrong which the ATS cannot handle, it can send out calls for help, via pager, telephone voice message, or dedicated telemetry links back to a fixed point such as a broadcast studio.  Other than possibly listening for dead air from the studio/transmitter link, an ATS does not cover the programming or the studio equipment like broadcast automation, but rather only the "transmitter plant".
+An ATS can also be used to automate scheduled tasks, such as lowering an AM radio station's transmission power at sundown and raising it at sunrise to meet license requirements for different propagation patterns at day and night.
+
+References
+
+See also
+Broadcast automation and central casting
+Broadcast translators and repeaters
+
+[[Sensor]]

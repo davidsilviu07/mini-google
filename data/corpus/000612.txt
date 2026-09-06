@@ -1,0 +1,11 @@
+Independent verification systems
+Independent verification (IV) systems or Independent Dual Verification (IDV) are voting machines that produce at least two independent auditable records of votes where the second record is used to check the first. To be considered "independent" at least one of the records must not be editable by the voting machine and be directly verifiable by the voter. These systems must allow for the multiple records to be able to be cross-checked.
+The goal of an IV system is to increase the security, and maintain the integrity of the voting tally. The theory is that any corruption would need to corrupt two separate records to be undetected by an audit.
+IV systems can include some Voter Verified Paper Audit Trail (VVPAT) systems, End-to-end auditable voting systems, witness systems, and some optical scan voting systems.
+
+See also
+Software independence
+
+References
+
+[[Absentee ballot]] [[Certification of voting machines]] [[Chad (paper)]] [[DRE voting machine]] [[Election Assistance Commission]] [[Election Systems & Software]] [[Electronic voting]] [[Electronic voting machine]] [[Hart InterCivic]] [[Help America Vote Act]] [[Independent Testing Authority]]

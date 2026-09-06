@@ -1,0 +1,221 @@
+Electronic voting by country
+Electronic voting by country varies and may include voting machines in polling places, centralized tallying of paper ballots, and internet voting. Many countries use centralized tallying. Some also use electronic voting machines in polling places. Very few use internet voting. Several countries have tried electronic approaches and stopped because of difficulties or concerns about security and reliability.
+Electronic voting requires capital spending every few years to update equipment, as well as annual spending for maintenance, security, and supplies. If it works well, its speed can be an advantage where many contests are on each ballot. Hand-counting is more feasible in parliamentary systems where each level of government is elected at different times, and only one contest is on each ballot, for the national or regional member of parliament, or for a local council member.
+Polling place electronic voting or Internet voting examples have taken place in Australia, Belgium, Brazil, Estonia, France, Germany, India, Italy, Namibia, the Netherlands (Rijnland Internet Election System), Norway, Peru, Switzerland, the UK, Venezuela, Pakistan and the Philippines.
+To this date no Free or Open Source electronic voting systems have been used in elections.
+
+Summary table
+
+Argentina
+Used in provincial elections in Salta since 2009, in Neuquén since 2019, and in local elections in Buenos Aires City in 2015.
+
+Australia
+
+Origin
+ The first known use of the term CyberVote was by Midac Technologies in 1995 when they ran a web based vote regarding the French nuclear testing in the Pacific region. The resulting petition was delivered to the French government on a Syquest removable hard disk.
+In October 2001 electronic voting was used for the first time in an Australian parliamentary election. In that election, 16,559 voters (8.3% of all votes counted) cast their votes electronically at polling stations in four places.  The Victorian State Government introduced electronic voting on a trial basis for the 2006 State election.
+
+Accessibility
+Approximately 300,000 impaired Australians voted independently for the first time in the 2007 elections. The Australian Electoral Commission has decided to implement voting machines in 29 locations.
+
+Internet voting
+iVote is a remote electronic voting system in New South Wales that allows eligible voters a chance to vote over the Internet. However, during the New South Wales state election in 2015, there were several reports that over 66,000 electronic votes could have been compromised. Although the iVote website is secure, security specialist believe that a third party website was able to attack the system. This was the first time a major vulnerability was discovered in the middle of an ongoing poll.
+In 2007 Australian Defence Force and Defence civilian personnel deployed on operations in Iraq, Afghanistan, Timor Leste and the Solomon Islands had the opportunity to vote via the Defence Restricted Network with an Australian Electoral Commission and Defence Department joint pilot project. After votes were recorded, they were encrypted and transmitted from a Citrix server to the REV database A total of 2012 personnel registered for and 1511 votes were successfully cast in the pilot, costing an estimated $521 per vote. Electronically submitted votes were printed following polling day, and dispatched to the relevant Divisions for counting.
+
+Bangladesh
+
+Belgium
+
+Electronic voting in Belgium started in 1991. It is widely used in Belgium for general and municipal elections and has been since 1999.  Electronic voting in Belgium has been based on two systems known as Jites and Digivote.  Both of these have been characterized as "indirect recording electronic voting systems" because the voting machine does not directly record and tabulate the vote, but instead, serves as a ballot marking device.  Both the Jites and Digivote systems record ballots on cardboard magnetic stripe cards.  Voters deposit their voted ballots into a ballot box that incorporates a magnetic stripe reader to tabulate the vote.  In the event of a controversy, the cards can be recounted by machine.
+In the elections on 18. May 2003 there was an electronic voting problem reported where one candidate got 4096 extra votes. The error was only detected because she had more preferential votes than her own list which is impossible in the voting system. The official explanation was The spontaneous inversion of a bit at the position 13 in the memory of the computer (i.e. a soft error).
+
+Brazil
+
+Electronic voting in Brazil was introduced in 1996, when the first tests were carried in the state of Santa Catarina. Since 2000, all Brazilian elections have been fully electronic. By the 2000 and 2002 elections more than 400,000 electronic voting machines were used nationwide in Brazil and the results were tallied electronically within minutes after the polls closed.
+In 1996, after tests conducted by more than 50 municipalities, the Brazilian Electoral Justice launched their "voting machine". Since 2000, all Brazilian voters are able to use the electronic ballot boxes to choose their candidates. In 2010 presidential election which had more than 135 million voters, the result was announced 75 minutes after the end of voting. The electronic ballot box is made up of two micro-terminals (one located in the voting cabin and the other with the voting board representative) which are connected by a 5-meter cable. Externally, the micro-terminals have only a numerical keyboard, which does not accept any command executed by the simultaneous pressure of more than one key. In case of power failure, the internal battery provides the energy or it can be connected to an automotive battery.
+A 2017 study of Brazil found no systematic difference in vote choices between online and offline electorates.
+
+Canada
+
+Federal and provincial elections use paper ballots, but electronic voting has been used since at least the 1990s in some municipalities. Today optical scan voting systems are common in municipal elections.
+There are no Canadian electronic voting standards.
+Committee reports and analysis from Nova Scotia, New Brunswick, Quebec, Ontario and British Columbia have all recommended against provincial Internet voting.  A federal committee has recommended against national Internet voting.
+Some municipalities in Ontario and Nova Scotia provide Internet voting.
+The 2012 New Democratic Party leadership election was conducted partially online, with party members who were not in attendance at the convention hall able to cast their leadership vote online. However, for part of the day the online voting server was affected by a denial-of-service attack, delaying the completion and tabulation of results.
+In the 2018 Ontario municipal elections, over 150 municipalities in the Canadian province of Ontario conducted their elections primarily online, with physical polling stations either abandoned entirely or limited to only a few central polling stations for voters who could not or did not want to vote online. On election day, however, 51 of those municipalities, all of which had selected Dominion Voting Systems as their online voting contractor, were affected by a technical failure. According to Dominion, the company's colocation centre provider imposed a bandwidth cap, without authorization from or consultation with Dominion, due to the massive increase in voting traffic in the early evening, thus making it impossible for many voters to get through to the server between 5:00 and 7:30 p.m. All of the affected municipalities extended voting for at least a few hours to compensate for the outage; several, including Pembroke, Waterloo, Prince Edward County and Greater Sudbury, opted to extend voting for a full 24 hours into the evening of 23 October.
+
+Estonia
+
+Electronic voting was first used in Estonia during the October 2005 local elections. Estonia became the first country to have legally binding general elections using the Internet as a means of casting the vote. The option of voting via the Internet in the local election was available nationally.  It was declared a success by the Estonian election officials, with 9,317 people voting online.
+In 2007 Estonia held its and the world's first national Internet election. Voting was available from 26 to 28 February. A total of 30,275 citizens used Internet voting.
+In the 2009 local municipal elections, 104,415 people voted over the Internet. This means that roughly 9,5% of the persons with the right to vote gave their vote over the Internet.
+By 2009, Estonia had advanced the farthest in utilizing Internet voting technology.
+In the 2011 parliamentary elections between 24 February and 2 March, 140,846 people cast their votes online. 96% of the electronic votes were cast in Estonia and 4% by Estonian citizens residing in 106 foreign countries.
+In the 2014 European Parliament elections 31.3% of all participating voters gave their vote over the Internet.
+In the 2019 parliamentary elections 43.75% of all participating voters gave their vote over the Internet.
+Each Estonian citizen possesses an electronic chip-enabled ID card, which allows the user to vote over the internet. The ID card is inserted into a card reader, which is connected to a computer. Once the user's identity is verified (using the digital certificate on the electronic ID card), a vote can be cast via the internet. Votes are not considered final until the end of election day, so Estonian citizens can go back and re-cast their votes until election day is officially over. The popularity of online voting in Estonia has increased widely throughout the nation, as in the elections of 2014 and 2015, nearly one third of Estonian votes were cast online.
+Research in Estonia showed that internet voting is less expensive than other voting channels.
+Security officials said that they have not detected any unusual activity or tampering of the votes.
+However researchers have found weaknesses in the security design of Estonia's online voting systems,
+as well as massive operational lapses in security from transferring election results on personal thumb drives to posting network credentials on the wall in view of the public. The researchers concluded that these systems are insecure in their current implementation, and due to the rise of nation state interest in influencing elections, should be "discontinue[d]."
+
+European Union
+
+In September 2000, the European Commission launched the CyberVote project with the aim of demonstrating "fully verifiable on-line elections guaranteeing absolute privacy of the votes and using fixed and mobile Internet terminals". Trials were performed in Sweden, France, and Germany.
+
+Finland
+On 24 October 2016 the Finnish government announced it would study the introduction of national online voting.  On 21 February 2017 the working group studying Internet voting for Finland launched, with a target date for completion of its work of 30 November 2017.  The working group recommended against Internet voting, concluding that the risks outweighed the benefits.
+In Finland, electronic voting has never been used in large scale; all voting is conducted by pen and paper and the ballots are always counted by hand. In 2008, the Finnish government wanted to test electronic voting, and organized a pilot electronic vote for the 2008 Finnish municipal elections. Internet-enabled DRE machines, supplied by the company Scytl, were piloted in the October 2008 municipal elections in three municipalities (Karkkila, Kauniainen and Vihti). The government considered the pilot program a success. However, following complaints, the Supreme Administrative Court declared the results invalid, and ordered a rerun of the elections with the regular pen-and-paper method in the affected municipalities. The system had a usability problem where the messages were ambiguous on whether the vote had been cast. In a total of 232 cases (2% of votes), voters had logged in, selected their vote but not confirmed it, and left the booth; the votes were not recorded. Following the failure of the pilot election, the Finnish government has abandoned plans to continue electronic voting based on voting machines. In the memo it was concluded that the voting machine will not developed any more, but the Finnish government will nevertheless follow the development of different electronic voting systems worldwide.
+
+France
+In January 2007 France's UMP party held a national presidential primary using both remote electronic voting and with 750 polling stations using touch screen electronic voting over the Internet. The election resulted in over 230,000 votes representing a near 70% turnout.
+Elections in France utilized remote Internet voting for the first time in 2003 when French citizens living in the United States elected their representatives to the Assembly of French Citizens Abroad. Over 60% of voters chose to vote using the Internet rather than paper. The Forum des droits sur l'Internet (Internet rights forum), published a recommendation on the future of electronic voting in France, stating that French citizens abroad should be able to use Internet voting for Assembly of the French Citizens Abroad elections. This recommendation became reality in 2009, with 6000 French citizens choosing to make use of the system.
+On 6 March 2017 France announced that Internet voting (which had previously been offered to citizens abroad) would not be permitted in the 2017 legislative elections due to cybersecurity concerns.
+As of 2020 citizens abroad vote by internet in legislative and consular elections, not for President or EU.
+
+Germany
+In Germany the only accredited voting machines after testing by the PTB for national and local elections are the ESD1 and ESD2 from the Dutch company Nedap. About 2000 of them have been used in the 2005 Bundestag elections covering approximately 2 million voters. These machines differ only in certain details due to different voting systems from the ES3B hacked by a Dutch citizen group and the Chaos Computer Club on 5 October 2006. Because of this, additional security measures have been applied in the municipality elections on 22. October 2006 in Cottbus, including reading the software from the EPROM to compare it with the source and sealing the machines afterwards. The city of Cottbus ultimately decided not to purchase the Nedap voting system it had previously been leasing.
+At the moment there are several lawsuits in court against the use of electronic voting machines in Germany. One of these reached the Federal Constitutional Court of Germany in February 2007. Critics cite a lack transparency when recording the votes as intended by the voter and concerns relating to recounts. The certified Nedap machines are DRE systems which do not produce any paper records.
+Following a 2005 pilot study during the national elections, wide public support and a unanimous decision by the Senate launched a plan for the implementation of an optical scan voting system based on digital paper in the 2008 state elections of Hamburg. After public claims in September 2007 by the Fraktion der Grünen/GAL and the Chaos Computer Club that the system was vulnerable, the Federal Election Office (Bundeswahlamt) found in public surveys that public distrust of the system was evident. Due to concerns over public confidence, plans for use of the new voting system were canceled. 
+Germany ended electronic voting in 2009, with the German Federal Constitutional Court finding that the inability to have meaningful public scrutiny meant that electronic voting was unconstitutional.
+
+India
+
+Electronic voting was first introduced in 1982 and was used on an experimental basis in the Paravur Assembly constituency in the State of Kerala. However the Supreme Court of India struck down this election as against the law in A. C. Jose v. Sivan Pillai case. Amendments were made to the Representation of the People Act, 1951 to legalise elections using Electronic Voting Machines. In 2003, all state elections and by-elections were held using EVMs.
+The EVMs were also used during the national elections held for the Parliament of India in 2004 and 2009. According to the statistics available through the mainstream media, more than 400 million voters (about 60% of India's eligible voters) exercised their franchise through EVMs in 2009 elections. Tallying such a large number of votes took just a few hours.
+In India, Voter-verified paper audit trail (VVPAT) system was introduced in 8 of 543 parliamentary constituencies as a pilot project in 2014 Indian general election. VVPAT was implemented in Lucknow, Gandhinagar, Bangalore South, Chennai Central, Jadavpur, Raipur, Patna Sahib and Mizoram constituencies. Voter-verified paper audit trail was first used in an election in India in September 2013 in Noksen in Nagaland.
+Electronic Voting Machines ("EVM") are being used in Indian general and state elections to implement electronic voting in part from 1999 general election and recently in 2018 state elections held in five states across India. EVMs have replaced paper ballots in the state and general (parliamentary) elections in India. There were earlier claims regarding EVMs' tamperability and security which have not been proved. After rulings of Delhi High Court, Supreme Court and demands from various political parties, Election Commission of India decided to introduce EVMs with voter-verified paper audit trail (VVPAT) system. The VVPAT system was introduced in 8 of 543 parliamentary constituencies as a pilot project in 2014 general election. Voter-verified paper audit trail (VVPAT) system which enables electronic voting machines to record each vote cast by generating the EVM slip, was introduced in all 543 Lok sabha constituencies in 2019 Indian general election.
+There are three kinds of electronic voting machines M1, M2 and M3. The most modern M3 EVMs, which are in current use since its introduction in 2013, allow  writing of machine code into the chips at PSU premises itself- Bharat Electronics Limited, Bangalore and Electronics Corporation of India Limited, Hyderabad. Election Commission of India introduced EVM Tracking Software (ETS) as a modern inventory management system where the identity and physical presence of all EVMS/ VVPATs is tracked on real time basis. M3 EVMs has digital verification system coded into each machine which is necessary to establish contact between its two component units. There are several layers of seals to ensure it is tamper-proof. Indian EVMs are stand-alone non-networked machines.
+Omesh Saigal, an IIT alumnus and IAS officer, demonstrated that the 2009 elections in India when Congress Party of India came back to power might be rigged. This forced the election commission to review the current EVMs.
+
+Background
+From the initial introduction in 1982, to the country-wide use of EVM in 2004, the Election Commission of India took long and measured steps spanning over a period of nearly two decades, in the matter of electronic voting. In the meanwhile, general elections to various legislative assemblies, and numerous by-elections and two general elections to the Lok Sabha have been conducted using EVMs at all polling stations. The tamper-proof technological soundness of the EVM has been endorsed by a technical experts subcommittee appointed at the initiative of the Parliamentary Committee on Electoral Reforms in 1990. This experts committee (1990) was headed by Prof. S. Sampath, then Chairman RAC, Defence Research and Development Organisation, with Prof. P. V. Indiresan, then with IIT Delhi, and Dr C. Rao Kasarabada, then Director Electronic Research and Development Center, Trivandrum as members. Subsequently, the Commission has also been consulting a group of technical experts comprising Prof. P. V. Indiresan (who was also part of the earlier committee referred to above) and Prof. D. T. Sahani and Prof A. K. Agarwal both of IIT Delhi, regularly, on all EVM related technical issues.
+The Commission has in place elaborate administrative measures and procedural checks and balances aimed at total transparency and prevention of any possible misuse or procedural lapses. These measures include rigorous pre-election checking of each EVM by the technicians, two level randomization with the involvement of political parties, candidates, their agents, for the random allotment of the EVMs to various constituencies and subsequently to various polling stations, preparation of the EVMs for elections in the presence of the candidates/their agents, and the Election Observers, provision for various thread seal and paper seal protection against any unauthorized access to the EVMs after preparation, mock poll in the presence of polling agents and mock poll certification system before the commencement of poll, post poll sealing  and strong room protection, randomization of counting staff, micro observers at the counting tables, and so on.
+The Election Commission of India is amply satisfied about the non-tamperability and the fool-proof working of the EVMs. The Commission's confidence in the efficacy of the EVMs has been fortified by the judgments of various courts and the views of technical experts. The Karnataka High Court has hailed the EVM as ‘a national pride’ (judgment dated 5 February 2004 in Michael B. Fernandes v. C. K. Jaffer Sharrief and others in E.P. No 29 of 1999). The Election commission issued a press brief after the 2009 Indian general election, clarifying the same On 8 October 2013, Supreme Court of India delivered its verdict on Dr. Subramanian Swamy's PIL, that the Election Commission of India will use VVPATs along with EVMs in a phased manner and the full completion should be achieved by 2019 Indian general election.
+
+Internet voting
+In April 2011 Gujarat became the first Indian state to experiment with Internet voting.
+
+Ireland
+
+Ireland bought voting machines from the Dutch company Nedap for about €40 million. The machines were used on a 'pilot' basis in 3 constituencies for the 2002 Irish general election and a referendum on the Treaty of Nice. Following a public report by the Commission on Electronic Voting, then Minister for the Environment and Local Government, Martin Cullen again delayed the use of the machines 
+On 23 April 2009, the Minister for the Environment John Gormley announced that the electronic voting system was to be scrapped by an as yet undetermined method, due to cost and the public's dissatisfaction with the current system.
+On 6 October 2010, the Taoiseach Brian Cowen said that the 7,000 machines would not be used for voting and would be disposed of. As of October 2010, the total cost of the electronic voting project has reached €54.6 million, including €3 million spent on storing the machines over the previous five years.
+
+Italy
+On 9 and 10 April 2006 the Italian municipality of Cremona used Nedap Voting machines in the national elections. The pilot involved 3000 electors and 4 polling stations were equipped with Nedap systems. The electoral participation was very high and the pilot was successful.
+In the same elections (April 2006) the Ministry of New Technologies in cooperation with two big American companies organized a pilot only concerning e-counting. The experiment involved four regions and it cost 34 million euro.
+
+Japan
+A 2002 law established electronic voting for municipal elections.
+Only 9 local governments ever took advantage of the new law and was only used 25 times until the last local government in Rukunohe in Aomori Prefectural discontinued its use in 2018.
+
+Kazakhstan
+In 2003, the Kazakh Central Election Commission entered into a partnership with the United Institute of Informatics Problems of the National Academy of Sciences of Belarus to develop an electronic voting system.  This system, known as the Sailau Electronic Voting System (АИС «Сайлау»), saw its first use in Kazakhstan's 2004 Parliamentary elections.  The final form of the system, as used in the presidential election of 2005 and the parliamentary election of 2007, has been described as using "indirect recording electronic voting." In this case, voters signing into use the Sailau system were issued smart cards holding the ballot to be voted.  Voters then carried these cards to a voting booth, where they used the Sailau touch-screen ballot marking device to record their votes on the card.  Finally, the voters returned the ballot cards to the sign-in table where the ballot was read from the card into the electronic "ballot box" before the card was erased for reuse by another voter.
+On 16 November 2011, Kuandyk Turgankulov, head of the Kazakh Central Election Commission, said that use of the Sailau system would be discontinued because voters prefer paper, the political parties do not trust it, and the lack of funds required to update the system.
+
+Lithuania
+Lithuania is planning national online voting, with a target of 20% of votes cast online by 2020.
+The Lithuanian President Dalia Grybauskaitė is quoted however as stating concerns that online voting would not ensure confidentiality and security.
+
+Malaysia
+Electronic voting had been used in 2018 People's Justice Party leadership election, which is the party election for the country's largest party. It suffered from many technical problems and many polls had been postponed due to the deficient system.
+
+Namibia
+In 2014, Namibia became the first African nation to use electronic voting machines. Electronic voting machines (EVMs) used in the election were provided by Bharat Electronics Limited, an Indian state owned company.
+
+Netherlands
+
+From the late 1990s until 2007, voting machines were used extensively in elections. Most areas in the Netherlands used electronic voting in polling places. After security problems with the machines were widely publicized, they were banned in 2007.
+The most widely used voting machines were produced by the company Nedap. In the 2006 parliamentary elections, 21,000 persons used the Rijnland Internet Election System to cast their vote from abroad.
+On 5 October 2006 the group "Wij vertrouwen stemcomputers niet" ("We do not trust voting machines") demonstrated on Dutch television how the Nedap ES3B machines could be manipulated in five minutes. The tampering of the software would not be recognisable by voters or election officials.
+
+On 30 October 2006, the Dutch Minister of the Interior withdrew the license of 1187 voting machines from manufacturer Sdu NV, about 10% of the total number to be used, because it was proven by the General Intelligence and Security Service that one could eavesdrop on voting from up to 40 meters using Van Eck phreaking. National elections are to be held 24 days after this decision. The decision was forced by the Dutch grass roots organisation Wij vertrouwen stemcomputers niet ("We do not trust voting computers").
+Apparently there was a case of an election official misinforming voters of when their vote is recorded and later recording it himself in municipality elections in Landerd, Netherlands in 2006. A candidate was also an election official and received the unusual number of 181 votes in the polling place where he was working. In the other three polling places combined he received only 11 votes. Only circumstantial evidence could be found, because the voting machine was a direct-recording electronic voting machine; in a poll by a local newspaper the results were totally different. The case is still under prosecution.
+In September 2007 a committee chaired by Korthals Altes reported to the government that it would be better to return to paper voting. The deputy minister for the interior Ank Bijleveld said in a first response she would accept the committee's advice, and ban electronic voting. The committee also concluded that the time wasn't ready for voting over the Internet. State secretary Ank Bijleveld responded by announcing a return to paper voting.. It was reported in September 2007 that "a Dutch judge has declared the use of Nedap e-voting machines in recent Dutch elections unlawful."
+On 1 February 2017 the Dutch government announced that all ballots in the 2017 general election would be counted by hand.
+
+Norway
+The Ministry of Local Government and Regional Development of Norway carried out pilots in three municipalities at local elections in 2011 on voting machines in the polling stations using touch screens.
+Norway tried to conduct voting by using the online voting method and it “did not increase voter turnout, not even among younger demographics.”  People in Norway wanted to ensure that there was high voter confidence and believed that online voting would bring along with it security and political controversy. There are firsthand accounts given of some of the worries that are present with the introduction of a technology such as online voting.
+The Institute of Social Research in Norway conducted a study in which we can see signs that voters are afraid that their votes will become public, which they will see as a compromise of their democratic rights. In addition, voters’ fears are embedded in the encryption system that guards the privacy of their votes. How can voters be sure that their votes are safe from hackers? This led them to believe that in order to make this a viable voting system, governments have to ensure that the encryption system used to protect votes is as safe as possible.
+
+Pakistan
+
+On  17 November 2021 National Assembly has passed EVM voting bill by majority of 221
+Members and Prime Minister Imran Khan presented this bill in the National Assembly.
+The National Assembly of Pakistan passed the Elections (Amendment) Bill Maý 25,2022 on Thursday, which seeks to remove the use of electronic voting machines (EVMs) in general elections as well as disallows overseas Pakistanis from voting.
+
+Philippines
+In August 11, 2008, Commission on Elections (Comelec) implemented automated elections in the country starting with the Autonomous Region in Muslim Mindanao election for that year using optical scan voting system. It involves electronic voting machines, printers, servers, power generators, memory cards, batteries, and broadband and satellite transmission equipment. This was intended to increase the accuracy and speed of vote tallying. In addition, it was expected to decrease the fraud and corruption found in pre-2008 Philippine elections.
+On 3 May 2010, the Philippines pre-tested the electronic voting systems. Comelec found 76,000 of the total 82,000 Precinct Count Optical Scan Machines to have faulty memory cards. The machines had miscounted votes and had given some votes to the rival candidate. After discovering discrepancies between manual and automated voting tallies, the memory cards were changed throughout the country. Many Filipino voters became skeptical of the e-voting system after the national recall. Because of past violent elections, 250,000 troops were placed on high alert around the country. These forces were instructed to guard the machines and voting stations in order to preempt any violent protests against the system. Some election officials attempted to postpone the 10 May election day but elections proceeded as scheduled.
+On 10 May 2010, the computerized system adapted to national level following the 2008 ARMM elections two years earlier and preparations for the former from 2009 to 2010. Comelec reported that only 400 of the 82,000 machines malfunctioned. Most voter complaints were related to waiting in long lines and using the technology.
+In the 2025 general elections, the Comelec implemented internet voting for overseas absentee voters for the first time. To participate, voters under the jurisdiction of 77 foreign posts were required to pre-enroll and afterwards, cast their ballots electronically through the COMELEC Voting Portal.
+
+Romania
+Romania first implemented electronic voting systems in 2003, on a limited basis, to extend voting capabilities to soldiers and others serving in Iraq, and other theaters of war.  Despite the publicly stated goal of fighting corruption, the equipment was procured and deployed in less than 30 days after the government edict passed.
+
+South Korea
+Elections in South Korea use a central-count system with optical scanners at each regional election office.  A separate ballot paper is used for each office being contested, and votes are cast using red ink and a rubber stamp.  Ballots are similar in size to paper currency, and the optical scanners resemble cash sorter machines.  After the ballots are sorted, stacks of ballots are counted using machines resembling currency counting machines.  The Korean system has been praised as a model of best practice, but it has also been the subject of controversy, including questions about its legality and allegations of rigged counting in 2012.
+
+Spain
+In 2014, during its first party congress, the political party Podemos, conducted three elections using Agora Voting open source software to vote via the Internet on a series of documents which would determine the political and organizational principles of the party (112070 voters),  the resolutions the party will adopt (38279 voters), and the people that would fill the positions defined by this structure (107488 voters). After the municipal elections carried out in May 2015 several city mayors have announced their plans to carry out public consultation processes using electronic voting.
+
+Switzerland
+
+Several cantons (Geneva, Neuchâtel and Zürich) have developed Internet voting test projects to allow citizens to vote via the Internet.
+In 2009 and 2011, the 110,000 Swiss voters living abroad will have the option of voting using the Internet through a new pilot project introduced in September 2008.
+Up until the vote on 9 February 2014, internet voting was only open to expatriates who lived in the countries in the Wassenaar Arrangement because of their communication standards.  After this vote in 2014, internet voting has opened to all expatriates of Switzerland.  Although this will cause more risk with voting from abroad, it will allow more people to participate in voting, and there no longer has to be a separation of expatriates during voting and registration.
+
+On 27 February 2017 Swiss Post announced that it was offering a public demonstration version of its e-voting system.  The Swiss Post solution has been used in Fribourg and will be used in Neuchâtel.
+On 2 November 2018, it was reported that Swiss Post has invited hackers from around the world to participate in a four-week public intrusion test of online voting software provided by the Spanish company, Scytl to take place in Spring 2019.
+Sign-ups were accepted until 31 December 2018: pit.post.ch Archived 21 December 2018 at the Wayback Machine
+Researchers found flaws in the software.
+On 19 December 2018, the Swiss Federal Council completed the legislation to approve electronic voting and submitted it for consultation (Vernehmlassung).
+A 2020 study found that online voting reduced the number of errors that voters made when casting ballots, thus reducing the number of ballots that were ineligible by 0.3 percent.
+
+Thailand
+In November 2018, Thailand Democrat Party conducted electronic voting using blockchain where more than 120,000 votes were cast.  The voting data were stored on IPFS (InterPlanetary File System) and the IPFS hashes were then stored on Zcoin blockchain. Former premier of Thailand, Abhisit Vejjajiva won the popular vote by winning  67,505 votes against his opponent Warong Dechgitvigrom who went close behind with 57,689 votes.
+
+United Arab Emirates
+
+UAE Federal National Council and 2005 Elections
+On 2 December 1971, with the adoption of the constitution, the federation of the United Arab Emirates (UAE) was officially established. A few months later, in February 1972, the country's first ever federal national council (FNC) was set up as the country's legislative and constitutional body. In 2005, the UAE held its first national elections. This was recognized as a step forward to enhance a well-structured political participation in line with citizens’ aspirations, and as a major milestone towards modernization and development of the federation.
+
+2011 Federal National Council Elections
+After the first electoral experience in the UAE in 2005, the National Election Committee (NEC) approved electronic voting instead of traditional voting procedures as it had been attracting the attention of governments around the world. The same election model was used for the 2011 FNC elections, except for the electoral college, where the number of voters increased from around 6,000 to almost 130,000.
+The 2011 FNC elections were considered to be more challenging due to the short time frame and the size of the electoral college, as well as the fact that the majority of voters were first-time voters and had never seen a ballot box. The government decided to take innovative steps to encourage participation and introduced technology-driven systems to facilitate the overall program. Hence a process was designed which required detailed planning in the areas of site preparation and capacity computation, technical infrastructure development, communication planning,
+addressing logistical and staff requirements, and the overall specifications of the electronic voting system.
+
+United Kingdom
+
+England
+Voting pilots have taken place in May 2006, June 2004, May 2003, May 2002, and May 2000.
+In 2000, the London Mayoral and Assembly elections were counted using an optical scan voting system with software provided by DRS plc of Milton Keynes. In 2004, the London Mayoral, Assembly and European Parliamentary elections were scanned and processed using optical character recognition from the same company. Both elections required some editing of the ballot design to facilitate electronic tabulation, though they differed only slightly from the previous 'mark with an X' style ballots.
+As of January 2016, the UK Parliament has no plans to introduce electronic voting for statutory elections, either using electronic voting in polling booths or remotely via the internet.
+
+Scotland
+An optical scan voting system was used to electronically count paper ballots in the Scottish Parliament general election and Scottish council elections in 2007. A report commissioned by the UK Electoral Commission found significant errors in ballot design produced more than 150,000 spoilt votes. The BBC reported that 86,000 constituency ballots and 56,000 list ballots were rejected, with suggestions that it was caused by voters being asked to vote for both sections of the election on the same ballot paper, rather than on separate ballots as had been the case in the previous elections. In addition to this, Scottish Parliamentary elections and Scottish council elections use different electoral systems. The council elections uses single transferable vote, a preferential voting system, while the Parliament elections uses the additional member system; the former requires the voter to place numbers in order of their preference, while the latter requires a cross to indicate their single preference.
+The electronic counting was used again in the 2012 and 2017 council elections without any problems being detected.
+
+United States
+
+Electronic voting in the United States involves several types of machines: touch screens for voters to mark choices, scanners to read paper ballots, scanners to verify signatures on envelopes of absentee ballots, and web servers to display tallies to the public. Aside from voting, there are also computer systems to maintain voter registrations and display these electoral rolls to polling place staff.
+To audit computer tallies in a small percent of locations, five states check all contests by hand, two states check by machines independent of the election machines, seventeen states check one or a few contests by hand, four states reuse the same machines or ballot images as the election, so errors can persist, and 23 states do not require audits.
+Three vendors sell most of the machines used for voting and for counting votes. As of September 2016, the American Election Systems & Software (ES&S) served 80 million registered voters, Canadian Dominion Voting Systems 70 million, American Hart InterCivic 20 million, and smaller companies less than 4 million each.
+More companies sell signature verification machines: ES&S, Olympus, Vantage, Pitney Bowes, Runbeck, and Bell & Howell.
+A Spanish company, Scytl, manages election-reporting websites statewide in 12 U.S. states.
+Another website management company is VR Systems, active in 8 states.
+Election machines are computers, often 10–20 years old, since certification and purchase processes take at least two years, and offices lack money to replace them until they wear out.
+Like all computers they are subject to errors, which have been widely documented,
+and hacks, which have not been documented, though security flaws which would permit undetectable hacks have been documented.
+In large election offices, computers check signatures on postal ballot envelopes to prevent fraudulent votes. Error rates of computerized signature reviews are not published.
+Error rates in signature verification are higher for computers than for experts,
+and at best experts wrongly reject 5% of true signatures and wrongly accept 29% of forgeries. Lay people make more mistakes.
+
+Venezuela
+Elections in Venezuela first introduced electronic voting in the 1998 presidential election. The 2004 Venezuelan recall referendum was the first national election to feature a voter-verified paper audit trail (VVPAT). This allow the voter to verify that the machine has properly recorded their vote. It also permits audits and recounts.
+
+References
+
+[[ABS-CBN News and Current Affairs]] [[Absentee ballot]] [[Ballot box]] [[Certification of voting machines]] [[Chad (paper)]] [[DRE voting machine]] [[Dominion Voting Systems]] [[Election Commission of India]] [[Election Systems & Software]] [[Electronic voting]] [[Electronic voting in Bangladesh]] [[Electronic voting in Belgium]] [[Electronic voting in Brazil]] [[Electronic voting in Canada]] [[Electronic voting in Estonia]] [[Electronic voting in India]] [[Electronic voting in Switzerland]] [[Electronic voting in the United States]] [[Electronic voting machine]] [[Electronics Corporation of India Limited]] [[Hart InterCivic]] [[Help America Vote Act]] [[Independent Testing Authority]] [[Independent verification systems]]

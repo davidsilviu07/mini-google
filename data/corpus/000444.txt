@@ -1,0 +1,274 @@
+Electronic voting in the United States
+Electronic voting in the United States involves several types of machines: touchscreens for voters to mark choices, scanners to read paper ballots, scanners to verify signatures on envelopes of absentee ballots, adjudication machines to allow corrections to improperly filled in items, and web servers to display tallies to the public. Aside from voting, there are also computer systems to maintain voter registrations and display these electoral rolls to polling place staff.
+Most election offices handle thousands of ballots, with an average of 17 contests per ballot, 
+so machine-counting can be faster and less expensive than hand-counting.
+
+Voluntary guidelines
+
+The Election Assistance Commission (EAC) is an independent agency of the United States government which developed the 2005 Voluntary Voting System Guidelines (VVSG). These guidelines address some of the security and accessibility needs of elections. The EAC also accredits three test laboratories which manufacturers hire to review their equipment. Based on reports from these laboratories the EAC certifies when voting equipment complies with the voluntary guidelines.
+Twelve states require EAC certification for machines used in their states. Seventeen states require testing by an EAC-accredited lab, but not certification. Nine states and DC require testing to federal standards, by any lab. Four other states refer to federal standards but make their own decisions. The remaining eight states do not refer to federal standards.
+Certification takes two years, costs a million dollars, and is needed again for any equipment update, so election machines are a difficult market.
+A revision to the guidelines, known as the VVSG 1.1, was prepared in 2009 and approved in 2015. Voting machine manufacturers can choose which guidelines they follow. A new version has been written known as the VVSG 2.0 or the VVSG Next Iteration, which is being reviewed.
+
+Optical scan counting
+
+In an optical scan voting system, each voter's choices are marked on one or more pieces of paper, which then go through a scanner. The scanner creates an electronic image of each ballot, interprets it, creates a tally for each candidate, and usually stores the image for later review.
+The voter may mark the paper directly, usually in a specific location for each candidate, then mail it or put it in a ballot box.
+Or the voter may select choices on an electronic screen, which then prints the chosen names, usually with a bar code or QR code summarizing all choices, on a sheet of paper to put in the scanner. This screen and printer is called an electronic ballot marker (EBM) or ballot marking device (BMD), and voters with disabilities can communicate with it by headphones, large buttons, sip and puff, or paddles, if they cannot interact with the screen or paper directly. Typically the ballot marking device does not store or tally votes. The paper it prints is the official ballot, put into a scanning system which counts the barcodes, or the printed names can be hand-counted, as a check on the machines.
+Most voters do not look at the machine-printed paper to ensure it reflects their choices. When there is a mistake, an experiment found that 81% of registered voters do not report errors to poll workers. No state requires central reporting of errors reported by voters, so the occasional report cannot lead to software correction. Hand-marked paper ballots more clearly have been reviewed by voters, but some places allow correction fluid and tape so ballots can be changed later.
+Two companies, Hart and Clear Ballot, have scanners which count the printed names, which voters had a chance to check, rather than bar codes and QR codes, which voters are unable to check. When scanners use the bar code or QR code, the candidates are represented in the bar code or QR code as numbers, and the scanner counts those codes, not the names. If a bug or hack makes the numbering system in the ballot marking device different from the numbering system in the scanner, votes will be tallied for the wrong candidates. This numbering mismatch has appeared with direct recording electronic machines (below).
+
+Errors in ballot marking devices
+Ballot marking devices display contests and candidates on a screen where voters can make, change and check selections before printing the choices on paper to put in a ballot box. The election worker provides a code for each voter, to tell the machine what contests that voter may vote on. Contests presented to voters depend on the district boundaries they live in.
+A common concern is picking one candidate and having the machine register another. Staff say that touching the touch screen near a boundary between candidates, or with a tremor can choose the wrong candidate, so voters need to check. If they discover a mistake after printing the ballot, they can spoil that ballot and start over. Some places put a privacy screen over the BMD's display, so voters must be "aggressive" when pressing the touchscreen to register a vote.
+
+In a 2023 election in Northampton County, PA, misprogramming switched text on paper between two judge retention contests, so a vote to remove or retain the first was labeled with the name of the second, and vice versa. The county briefly changed to hand-marked paper ballots, but ran out, and went back to the mislabeled BMDs. The county and court changed instructions throughout the day.
+In a 2022 election in Marietta, GA, up to 157 voters were presented lists of contests which were partly in error, due to recent changes in district boundaries.
+In a 2019 election in Philadelphia, PA, 40% of polling locations had problems with BMDs, including "touchscreens that were hypersensitive or that froze; paper voting receipts getting jammed in the machines; and panels opening on some machines to expose the equipment's electronic controls."
+In a 2019 election in Northampton County, PA, BMD screens were hypersensitive or insensitive, from being "configured improperly in the factory" so voters had to keep trying to select their candidates. An instructional message was treated as a Republican candidate, so straight party votes omitted the real candidate.
+
+Errors in optical scans
+Some scanners have a row of photo-sensors which the paper ballot passes by, and they record light and dark pixels from the ballot. Other scanners work by scanning the ballot to create an electronic image (i.e. a picture) of the ballot. Then the resulting image (picture) is analyzed by internal software to discern what votes were cast. In these types of vote tabulators, any defect in the scanning apparatus, such as dirt, scratches on the lens, or chads of paper, may mar the image of the ballot. These types of defects may produce long black lines, or white lines in the ballot image, which then may be misread by the software as an undervote (no votes for anyone), or as an overvote (a vote for every candidate).
+Some offices blow compressed air over the scanners after every 200 ballots to remove dust.
+Software can miscount or fail to count. If it fails or miscounts drastically enough, people notice and check. Errors can happen in the scanner or at the ballot printer. Staff rarely identify the person who caused an error, and assume it was accidental, not a hack.
+
+2025
+In the 2025 general election, Rensselaer County, NY, formatted ballots and computers differently, and corrected with a hand count, so a state forest proposal gained 382 votes, a library levy gained 480 votes, and a rescue squad proposal gained 1,733 votes, changing outcomes for the latter two. The library had collected signatures from more voters for the levy than the computer results showed, and the county found a misprint. Citizen groups asked the state Attorney General to investigate.
+In the 2025 general election, Cambridge, MA included 2,158 test ballots in its count. When they recalculated without them, one school board result changed.
+
+2024
+In the 2024 general election in Sandoval County, NM, the memory device from one precinct became unreadable when a worker mishandled it, totals were inconsistent, and two voting machines were used without seals. Officials certified results anyway, and one candidate filed a complaint.
+In the 2024 general election in Ashtabula County, OH, scanners mis-counted votes for levies, because the state Supreme Court changed the wording of the first state-wide ballot measure, so other measures shifted from where the scanners expected them on the page. The problem was discovered only when the county hand counted one measure because it was very close. Then the county hand counted other measures. Three measures changed from losing to winning. Other Ohio counties reported some ballots as unreadable, but  did not hand count any ballots to check for shifted votes.
+In the 2024 general election in Torrington, CT, broken tabulators and coding which did not match the layout of the printed ballots caused errors in counts of absentee and early ballots and ballots of voters who registered the same day they voted. Staff recounted these 7,000 ballots by hand.
+In the 2024 general election in Centre County, PA, results from 13,000 scanned ballots did not upload to the central election computers, and were rescanned.
+In the 2024 general election in Cambria County, PA, software and printing errors prevented counting votes on election day. Polls stayed open late and ballots were counted later.
+In the 2024 general election in Nevada and Shasta Counties, CA, bar codes on the edges of ballots which tell machines the "style" or contests on the ballot were imprecisely printed ("ink overspray") by Runbeck, the ballot printing company, so scanners could not read them and process the ballots. They were hand-copied onto better ballots.
+In the 2024 primary in Shasta County, CA, 100 ballots appear in the scanners' audit logs and not in final results, in a district with a contest decided by 14 votes. The logs show 20 manual time changes in 4 machines, half of which were logged exactly 60 seconds after a previous update. Seven were outside working hours, between nine at night and 4 in the morning, when video surveillance showed no one present. The county asked the US Justice Department to investigate.
+In a 2024 primary in Utah, "adjudicated ballots were not reflected in the total results" in at least Tooele and Washington Counties, when more than a few adjudicated ballots were entered at once.
+In a 2024 primary throughout Puerto Rico, parties found over 1,000 errors. The elections commission said the voting machines "incorrectly calculate vote totals". The election commission then "conducted a full vote tally and audited paper receipts from hundreds of ballot-counting machines." Dominion said the errors were in their software which exports counts from the voting system for public release.
+
+2022
+In a 2022 election in Alameda County, CA, software was wrongly set to skip 250 ballots in round 1 of Ranked Choice Voting. These ballots had no first choice and should have been counted by their top choice. FairVote saw the error, and the county corrected result, which changed the winner in Oakland Unified School District 4.
+In a 2022 election in Monmouth County, NJ, software did not notice when staff uploaded six flashdrives of ballot images twice, which added more votes to candidates and switched a school board winner. It was caught by a council member who thought the numbers were too high, and made a public records request for detailed numbers, which showed more ballots than voters checked in. The part of the software designed to notice duplicates had not been installed, and there was no automated checking that the installation was right.
+In a 2022 election in DeKalb County, GA, a candidate who actually won appeared to lose, after votes were not counted for her in some precincts, because another candidate withdrew, and programming did not categorize votes correctly.
+in a 2022 election in Clackamas County, OR, scanners could not read more than 100,000 ballots on which the ballot printing company had printed a blurred bar code. The ballots needed to be hand-copied by teams of two onto correctly printed ballots. The problem was discovered May 3, for the May 17 election, and was not corrected until after the election.
+in a 2022 election in Lancaster County, PA, scanners could not read 22,000 ballots on which the ballot printing company had put the wrong identification code. The ballots were hand-copied by teams of three onto correctly printed ballots. The state does not let mailed ballots be scanned before election day, so the problem was only discovered on election day.
+
+2021
+in a 2021 election in Williamson, TN, precinct scanners had two errors: They misread QR codes, mistakenly classifying some ballots as provisional and not to be tallied, then kept that not-to-be tallied classification for later ballots, so large numbers of ballots were not included in precinct reports at some precincts. They were re-scanned correctly on a central scanner and checked by a hand-tally. The county rented another brand for the 2022 elections.
+In a 2021 primary in New York City, 135,000 test ballots were not removed from the database and were included in preliminary counts for the mayoral primary. They were discovered because totals were higher than the number of voters, and corrected by removing them from the count.
+in a 2021 election in Lancaster County, PA, scanners could not read 12,300 ballots on which the ballot printing company had put the wrong identification code.
+
+2020
+in 2020 elections in Collier and Volusia Counties, FL, the election's optical scanners mis-interpreted voters' marks on 0.1% and 0.2% of ballot sheets respectively. These were not enough to change any outcomes, and involved voters' marks which barely touched the ovals intended to record votes. They were discovered by independent software re-examining all the ballot images.
+in a 2020 election in Antrim County, MI, last minute updates to some ballots were not applied to all scanners, so the scanners had inconsistent numeric codes for different candidates and styles of ballots, causing errors of thousands of votes. Corrections happened in stages, leading to less and less confidence in the results. Results were eventually confirmed by a hand count.
+In a 2020 election in Windham, New Hampshire, fold lines in the wrong places and dust on scanner sensors caused many fold lines to count as votes.
+In a 2020 election in Baltimore, Maryland, the private company which printed ballots shifted the location of some candidates on some ballots up one line, so the scanner looked in the wrong places on the paper and reported the wrong numbers. It was caught because a popular incumbent got implausibly few votes, and corrected by hand-copying mailed ballots onto well-formatted ballots.
+
+2010-2019
+In a 2019 election in Northampton county,  Pennsylvania, the software under-counted one candidate by 99%, reporting 164 votes, compared to 26,142 found in a subsequent hand-count, which changed the candidate's loss to a win.
+In 2018 scanners in various states had problems from humidity, rejecting too many ballots, rejecting staff passwords, delivery to the wrong locations, broken machines, power outages, screen calibration shifting votes to other candidates, and broken cartridges to start machines.
+In a 2018 New York City election when the air was humid, ballots jammed in the scanner, or multiple ballots went through a scanner at once, hiding all but one.
+In a 2016 Maryland election, a comparison of two scanning systems on the same ballots revealed that (a) 1,972 ballot images were incorrectly left out of one system, (b) one system incorrectly ignored many votes for write-in candidates, (c) shadows from paper folds were sometimes interpreted as names written in on the ballot, (d) the scanner sometimes pulled two ballots at once, scanning only the top one, (e) the ballot printers sometimes left off certain candidates, (f) voters often put a check or X instead of filling in an oval, which software has to adapt to, and (g) a scratch or dirt on a scanner sensor put a black line on many ballot images, causing the appearance of voting for more than the allowed number of candidates, so those votes were incorrectly ignored.
+In 2016 Wisconsin elections statewide, some voting machines did not detect some of the inks used by voters.
+In a 2016 Rhode Island election in Foster and North Kingstown, ballot formatting errors resulted in obviously wrong results for a ballot question, which was noticed and quickly corrected. Fear that other incorrect outcomes might be missed led to the adoption of a law requiring risk-limiting audits.
+In a 2016 Rhode Island election, machines were misprogrammed with only one ballot style, though there were two. Results were surprising enough so officials investigated and found the error.
+In a 2014 Stoughton, Wisconsin, election, all voters' choices on a referendum were ignored, because the scanner was programmed to look in the wrong spot on the ballot. It was corrected by a hand count.
+In a 2012 Palm Beach County, Florida, election, votes in four Wellington City contests were reported for a different contest, causing the wrong winners to be certified in two of the contests. The problem did not occur in the county's other 15 municipalities.
+In a 2010 New York election, 20,000 votes for governor and 30,000-40,000 votes for other offices were ignored, because the scanners overheated and disqualified the ballots by reading multiple votes in races where voters had properly only voted once.
+
+Before 2010
+Errors from 2002 to 2008 were listed and analyzed by the Brennan Center for Justice in 2010.
+Errors before 2006 were listed by the Electronic Frontier Foundation in 2006.
+In a 2004 Yakima, Washington, election 24 voters' choices on 4 races were ignored by a faulty scanner which created a white streak down the ballot.
+In a 2004 Medford, Wisconsin, election, all 600 voters who voted a straight party ticket had all their votes ignored, because the manufacturer forgot to program the machines for a partisan election. Election officials did not notice any problem. The consultant who found the lost 600 voters also reported a Michigan precinct with zero votes, since staff put ballots in the scanner upside down.
+In a 2000 Bernalillo County (Albuquerque area), New Mexico, election, a programming error meant that straight-party votes on paper ballots were not counted for the individual candidates. The number of ballots was thus much larger than the number of votes in each contest. The software was fixed, and the ballots were re-scanned to get correct counts.
+In the 2000 Florida presidential race the most common optical scanning error was to treat as an overvote a ballot where the voter marked a candidate and wrote in the same candidate.
+Researchers find security flaws in all election computers, which let voters, staff members or outsiders disrupt or change results, often without detection.
+Security reviews and audits are discussed below.
+
+Recreated ballots
+Recreated ballots are paper
+or electronic
+ballots created by election staff when originals cannot be counted for some reason. Reasons include tears, water damage, folds which prevent feeding through scanners and voters selecting candidates by circling them or other abnormal marks. Reasons also include citizens abroad who use the Federal Write-In Absentee Ballot because of not receiving their regular ballot in time. As many as 8% of ballots in an election may be recreated.
+When auditing an election, audits are done with the original ballots, not the recreated ones, to catch mistakes in recreating them.
+
+Cost of scanning systems
+If most voters mark their own paper ballots and one marking device is available at each polling place for voters with disabilities, Georgia's total cost of machines and maintenance for 10 years, starting 2020, has been estimated at $12 per voter ($84 million total). Pre-printed ballots for voters to mark would cost $4 to $20 per voter ($113 million to $224 million total machines, maintenance and printing). The low estimate includes $0.40 to print each ballot, and more than enough ballots for historic turnout levels. The high estimate includes $0.55 to print each ballot, and enough ballots for every registered voter, including three ballots (of different parties) for each registered voter in primary elections with historically low turnout. The estimate is $29 per voter ($203 million total) if all voters use ballot marking devices, including $0.10 per ballot for paper.
+The capital cost of machines in 2019 in Pennsylvania is $11 per voter if most voters mark their own paper ballots and a marking device is available at each polling place for voters with disabilities, compared to $23 per voter if all voters use ballot marking devices. This cost does not include printing ballots.
+New York has an undated comparison of capital costs and a system where all voters use ballot marking devices costing over twice as much as a system where most do not. The authors say extra machine maintenance would exacerbate that difference, and printing cost would be comparable in both approaches. Their assumption of equal printing costs differs from the Georgia estimates of $0.40 or $0.50 to print a ballot in advance, and $0.10 to print it in a ballot marking device.
+
+Direct-recording electronic counting
+
+A touch screen displays choices to the voter, who selects choices, and can change their mind as often as needed, before casting the vote. Staff initialize each voter once on the machine, to avoid repeat voting. Voting data and ballot images are recorded in memory components, and can be copied out at the end of the election.
+The system may also provide a means for communicating with a central location for reporting results and receiving updates, which is an access point for hacks and bugs to arrive.
+Some of these machines also print names of chosen candidates on paper for the voter to verify. These names on paper can be used for election audits and recounts if needed. The tally of the voting data is stored in a removable memory component and in bar codes on the paper tape. The paper tape is called a Voter-verified paper audit trail (VVPAT). The VVPATs can be counted at 20–43 seconds of staff time per vote (not per ballot).
+For machines without VVPAT, there is no record of individual votes to check.
+
+Errors in direct-recording electronic voting
+
+This approach can have software errors. It does not include scanners, so there are no scanner errors. When there is no paper record, it is hard to notice or research most errors.
+
+The only forensic examination which has been done of direct-recording software files was in Georgia in January 2020, and found that one or more unauthorized intruders had entered the files and erased records of what it did to them. In 2014–2017 an intruder had control of the state computer in Georgia which programmed vote-counting machines for all counties. The same computer also held voter registration records. The intrusion exposed all election files in Georgia since then to compromise and malware. Public disclosure came in 2020 from a court case. Georgia did not have paper ballots to measure the amount of error in electronic tallies. The FBI studied that computer in 2017, and did not report the intrusion.
+A 2018 study of direct-recording voting machines (iVotronic) without VVPAT in South Carolina found that every election from 2010 to 2018 had some memory cards fail. The investigator also found that lists of candidates were different in the central and precinct machines, so 420 votes which were properly cast in the precinct were erroneously added to a different contest in the central official tally, and unknown numbers were added to other contests in the central official tallies. The investigator found the same had happened in 2010. There were also votes lost by garbled transmissions, which the state election commission saw but did not report as an issue. 49 machines reported that their three internal memory counts disagreed, an average of 240 errors per machine, but the machines stayed in use, and the state evaluation did not report the issue, and there were other error codes and time stamp errors.
+In a 2017 York County, Pennsylvania, election, a programming error in a county's machines without VVPAT let voters vote more than once for the same candidate. Some candidates had filed as both Democrat and Republican, so they were listed twice in races where voters could select up to three candidates, so voters could select both instances of the same name. They recounted the DRE machines' electronic records of votes and found 2,904 pairs of double votes.
+In 2014-2016 primaries in Philadelphia, PA, a precinct official was paid to vote 27-46 times per election when no one was watching the DRE. An official in another precinct did the same in 2014-2018, including false records pretending that non-voters had come to vote. Few, if any, winning margins were in the range that these votes could change winners.
+In a 2015 Memphis, Tennessee, city election, the central processing system lost 1,001 votes which showed on poll tapes posted at precincts: "at Unity Christian ... precinct's poll tape ... 546 people had cast ballots ... Shelby County's first breakdown of each precinct's voting ... for Unity Christian showed only 330 votes. Forty percent of the votes had disappeared ...  At first it looked like votes were missing from not just one precinct but 20. After more investigation, he appeared to narrow that number to four ... In all, 1,001 votes had been dropped from the election night count."
+In a 2012 Shelby County, Tennessee, (Memphis area) election 801 voters signed into a polling place, and only 293 votes were recorded. In another precinct 20 extra memory cards were uploaded before polls closed. The central election management system let the number of memory cards be changed by hand, and reducing it could erase memory cards which had been loaded.
+In a 2011 Fairfield Township, New Jersey, election a programming error in a machine without a VVPAT gave two candidates low counts. They collected more affidavits by voters who voted for them than the computer tally gave them, so a judge ordered a new election which they won.
+Errors from 2002 to 2008 were listed and analyzed by the Brennan Center for Justice in 2010.
+Errors before 2006 were listed by the Electronic Frontier Foundation in 2006.
+In 2004, 4,812 voting machine problems were reported to a system managed by Verified Voting and Computer Professionals for Social Responsibility. Most of these problems were in states which were primarily using direct-recording electronic voting equipment as of 2006.
+Security reviews and audits are discussed below.
+
+Online, email and fax voting
+
+Email, fax, phone apps, modems, and web portals transmit information through the internet, between computers at both ends, so they are subject to errors and hacks at the origin, destination and in between.
+
+Election machines online
+As of 2018–19, election machines are online, to transmit results between precinct scanners and central tabulators, in some counties in Florida, Illinois, Indiana, Iowa, Michigan, Minnesota, Rhode Island, Tennessee and Wisconsin.
+
+Receiving ballots online
+In many states, voters with a computer and printer can download a ballot to their computer, fill it out on the computer, print it and mail it back. This "remote access vote by mail" (RAVBM) avoids transmitting votes online, while letting distant voters avoid waiting for a mailed ballot, and letting voters with disabilities use assistive technologies to fill in the ballot privately and independently, such as screen readers, paddles or sip and puff if they already have them on their computer. The voter also receives a form with tracking numbers and a signature line, to mail back inside or outside the envelope with the ballot, so staff can review eligibility of the voter and prevent multiple votes from the same voter. Many states accept mailed ballots after election day, to allow time for mail from distant voters to arrive. The printed ballot may show just the choices and a bar code or QR code, not all the candidates and unvoted contests.
+The voter's choices are not put online, which is an advantage for the voter's privacy. However the system does not work for people who have no printer or no computer. For people, such as soldiers, with a shared computer or printer, votes can be divulged by keystroke logging, by the print queue, or by people seeing ballots on the printer. Alternatives for distant voters are to get a paper ballot from the election office or the Federal Write-In Absentee Ballot. Alternatives for local voters with disabilities are to use a ballot marking device (BMD) at a polling place, if they can get there, or have election staff bring a BMD and ballot box to the voter. The voter's printer does not necessarily use the weight and size of paper expected by the election scanners, so, after separating ballot from identifiers, staff copy the voter's choices onto a standard ballot for scanning. This copying has scope for error.
+In California people send a signed application by mail, email or fax and receive a code by email, so there are signature checks both on the application and when the ballot envelope arrives. In Washington, people access the ballot electronically with name and birth date, so signature checks when the ballot envelope arrive are the method to authenticate ballots.
+
+Individuals voting online
+States which allow individual voters to submit completed ballots electronically in the United States are:
+
+Hawaii allows email voting by any permanent absentee voter who has not received a ballot by five days before an election
+Idaho allows email and fax voting in declared emergencies
+Louisiana allows fax voting for voters with a disability
+Utah allows email and fax voting for those with disabilities
+Other states have tried or considered software, with problems discussed below.
+The Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) lets overseas citizens and all military and merchant marine voters get ballots electronically (email, fax, or web site). They then submit ballots by mail to 19 states. Seven states allow submission through secure web sites: AL, AZ, CO (if needed), MA, MI, NC, ND, and WV. These seven and the remaining 25 states have a mix of rules allowing email or fax: AK, CA, DE, DC, FL, HI, IN, IA, KS, LA, ME, MS, MO, MT, NE, NV, NJ, NM, OK, OR, RI, SC, TX (for danger, combat zones or space), UT, and WA. The Federal Voting Assistance Program converts emails to fax at voter request, so states which require fax receive ballots which started as emails.
+
+Problems in online voting
+Security experts have found security problems in every attempt at online voting,
+
+including systems in Australia,
+Estonia,
+Switzerland,
+Russia,
+and the United States.
+
+in 2019-2020 researchers found insecurities in online voting systems from Voatz,
+
+and Democracy Live.
+In 2010, graduate students from the University of Michigan hacked into the District of Columbia online voting systems during an online voting mock test run and changed all the cast ballots to cater to their preferred candidates. This voting system was being tested for military voters and overseas citizens, allowing them to vote on the Web, and was scheduled to run later that year. It only took the hackers, a team of computer scientists, thirty-six hours to find the list of the government's passwords and break into the system.
+In March 2000 the 2000 Arizona Democratic presidential primary internet election was conducted over the internet using the private company votation.com. Each registered member of the party received a personal identification number in the mail. They could vote in person or over the internet, using their PIN and answering two questions such as date and place of birth. During the election older browsers failed, but no hacks were identified.
+
+Electronic processing of postal and absentee ballots
+
+Checking signatures on envelopes of absentee ballots is hard, and is often computerized in jurisdictions with many absentee ballots. The envelope is scanned, and the voter's signature on the outside of the envelope is instantly compared with one or more signatures on file. The machine sets aside non-matches in a separate bin. Temporary staff then double-check the rejections, and in some places check the accepted envelopes too.
+Error rates of computerized signature reviews are not published. "A wide range of algorithms and standards, each particular to that machine's manufacturer, are used to verify signatures. In addition, counties have discretion in managing the settings and implementing manufacturers' guidelines… there are no statewide standards for automatic signature verification… most counties do not have a publicly available, written explanation of the signature verification criteria and processes they use"
+Handwriting experts agree "it is extremely difficult for anyone to be able to figure out if a signature or other very limited writing sample has been forged".
+The National Vote at Home Institute reports that 17 states do not mandate a signature verification process.
+The Election Assistance Commission says that machines should be set only to accept nearly perfect signature matches, and humans should doublecheck a sample, but EAC does not discuss acceptable error rates or sample sizes.
+In the November 2016 general election, rejections ranged from none in Alabama and Puerto Rico, to 6% of ballots returned in Arkansas, Georgia, Kentucky and New York.
+
+Where reasons for rejection were known, in 2018, 114,000 ballots arrived late, 67,000 failed signature verification, 55,000 lacked voter signatures, and 11,000 lacked witness signatures in states which require them. The intent of the signature verification step was to catch and reject forged signatures on ballot envelopes.
+The highest error rates in signature verification are found among lay people, higher than for computers, which in turn make more errors than experts.
+Researchers have published error rates for computerized signature verification. They compare different systems on a common database of true and false signatures. The best system falsely rejects 10% of true signatures, while it accepts 10% of forgeries. Another system has error rates on both of 14%, and the third-best has error rates of 17%.
+It is possible to be less stringent and reject fewer true signatures, at the cost of also rejecting fewer forgeries, which means erroneously accepting more forgeries.
+Vendors of automated signature verification claim accuracy, and do not publish their error rates.
+Voters with short names are at a disadvantage, since even experts make more mistakes on signatures with fewer "turning points and intersections".
+
+E-pollbooks
+
+An electronic pollbook, also known as an e-pollbook, is a combination of hardware and software which maintains voter register information at a polling place to check if each voter is registered and has not already voted in the election. When voters have a choice of multiple vote centers where they may vote, e-pollbooks communicating over the internet can prevent a voter from voting more than once.
+In 2023 a contractor, WSD Digital, developing a voter registration and e-pollbook system for New Hampshire put in code to link to websites in Russia and used open source software managed by a Russian. New Hampshire found those issues by hiring another company, ReversingLabs, to review the code of the first company.
+In 2022 Williamson County TX found two problems: that its use of e-poll books sometimes assigned the wrong ballot style to voters, so they voted on contests outside their area, and did not vote on contests in their own area; and that some ballots did not display the voters' precincts.
+
+State and local websites for election results
+Election offices display election results on the web by transferring USB drives between offline election computers, and online computers which display results to the public. USB drives can take infections from the online computers to the election computers. Local governments communicate electronically with their state governments so the state can display results, with the result that problems at the state level can affect all or many local offices.
+Election-reporting websites run software to aggregate and display results. These have had programming errors which showed erroneous partial results during the evening, and the wrong winner. Local officials can change results. A Virginia official was charged with changing results by herself in the state's VERIS system. All charges were dropped when witnesses changed their stories, since computer logs did not prove whether changes were or were not made.
+Before the 2016 general election, Russians gained access to at least one employee's account at a vendor which manages election-reporting websites. During the 2018 general election, a hacker in India gained administrative access to the Alaska election-reporting website.
+Studies by McAfee and ProPublica in 2020 found that most election websites have inadequate security. McAfee analyzed swing states. ProPublica analyzed Super Tuesday states. They found many offices using outdated, insecure, dangerous and inappropriate software, including unsupported operating systems, and using the same few web hosts, which they said is dangerous for critical infrastructure, since finding a flaw in one can lead to access to them all. They criticized offices for not using https encryption, and for public sitenames ending in .com or .org, since it leads voters to trust sites which are not .gov, and voters can easily be tricked by a similar name.
+
+Election security
+
+Decentralized system
+In 2016 Homeland Security and the Director of National Intelligence said that United States elections are hard to hack, because they are decentralized, with many types of machines and thousands of separate election offices operating under 51 sets of state laws. Others have made similar statements.
+An official at the Center for Strategic and International Studies said a nation state would target hacks in key counties. A McAfee expert said decentralization makes defense hard and for "a very determined group, trying to compromise this system, I think it ends up playing more into their favor than against them."  Each city or county election is run by one office, and a few large offices affect state elections. County staff cannot in practice defend against foreign governments.
+
+Security reviews
+The Brennan Center summarized almost 200 errors in election machines from 2002 to 2008, many of which happened repeatedly in different jurisdictions, which had no clearinghouse to learn from each other.
+More errors have happened since then. Cleveland State University listed formal studies of voting systems done by several groups through 2008.
+Machines in use are not examined to determine if they have been hacked, so no hacks of machines in use have been documented. Researchers have hacked all machines they have tried, and have shown how they can be undetectably hacked by manufacturers, election office staff, pollworkers, voters and outsiders and by the public. Vulnerabilities identified at the 2019 DEFCON Las Vegas hackers convention had been previously noted and "included poor physical security protections that could allow undetected tampering; easily guessable hard-coded system credentials; potential for operating system manipulations; and remote attacks that could compromise memory or integrity checks or cause denial of service." The public can access unattended machines in polling places the night before elections. Some of the hacks can spread among machines on the removable memory cards which tell the machines which races to display, and carry results back to the central tally location.
+The CEO of Free and Fair, an open source vendor, said the cheapest way to improve security is for each election office to hire a computer student as a white hat hacker to conduct penetration tests.
+
+Audits
+
+Five states check all contests by hand tallies in a small percent of locations, AK, CA, PA, UT, WV, though California excludes about half the ballots, the ones counted after election day, and Alaska excludes small precincts.
+Two states check all contests by machines independent of the election machines, in a small percent of locations, NY, VT.
+Seventeen states check one or a few contests by hand, usually federal races and the governor; most local contests are not checked.
+Four states reuse the same machines or ballot images as the election, so errors can persist, CT, IL, MD, NV.
+Sixteen states do not require audits, or only in special circumstances.
+In seven states many voters still lack paper ballots, so audits are not possible. IN, KY, LA, MS, NJ, TN, TX.
+Even where audits are done, no state has adequate security on the paper ballots, so they can be damaged to impede audits, or altered to match erroneous machine tallies. Even insiders have breached security.
+
+Public attitudes
+The Pew Research Center found in October 2018 wide mistrust of election security in both parties, especially among Democrats
+
+8% of voters were "very confident that election systems are secure from hacking and other technological threats".
+37% were "somewhat confident", and the remaining 55% were not confident
+13% of Republicans were very confident, and 41% were not confident
+4% of Democrats were very confident, and 66%% were not confident
+An MIT professor's survey found that Republicans think domestic hackers are more likely than foreigners; Democrats think the opposite.
+Stanford and Wisconsin researchers in 2019 found that only 89% of voters disapprove if a foreign country would "hack into voting machines and change the official vote count to give [a] candidate extra votes" and the candidate wins. This 89% disapproval is not much more than the 88% who disapprove of a foreign country making campaign contributions and 78-84% against them spreading lies. Only 73-79% disapprove if their party got help, while 94-95% disapprove of the other party getting help. If a foreign country thought about interfering, but did not, 21% distrust the results anyway. This rises only to 84% distrusting final results after a foreign country hacked and changed results.
+For any of the foreign actions (hacks, contributions or lies), 72% of voters support economic sanctions, 59% support cutting diplomatic relations, 25% support a military threat, and 15% support a military strike. There was less support for action, by 4-20 percentage points, if the foreign country helped one's own party win, so the researchers point out that retaliation is unlikely, since there is little support for it in a winning party. Deep investigation creates more certainty about who is to blame, which they find raises support for retaliation very little. They randomly listed China, Pakistan or Turkey as the interfering country, and do not report any different reactions to them.
+A Monmouth University poll in May 2019 found that 73% thought Russia interfered in the 2016 election (not necessarily by hacking), 49% thought it damaged American democracy a lot, 57% thought Russia interfered in the 2018 election, and 60% thought the U.S. government is not doing enough to stop it. Margin of error is ±3.5%.
+
+Election equipment companies
+Many election companies are members of the U.S. Cybersecurity and Infrastructure Security Agency's Election Infrastructure Subsector Council.
+Three vendors sell most of the machines used for voting and for counting votes. As of September 2016, the American Election Systems & Software (ES&S) served 80 million registered voters, Canadian Dominion Voting Systems 70 million, American Hart InterCivic 20 million, and smaller companies less than 4 million each.
+Three companies sell mail sorting and signature verification machines: ES&S, Runbeck and a merged company, Olympus/Vantage/Pitney Bowes/Bell & Howell. In 2018 BlueCrest acquired the Pitney Bowes election business,
+and in 2021 BlueCrest acquired Fluence,
+which had obtained the Bell & Howell election business in 2017. 
+In 2022 the BlueCrest printing and sorting business was acquired by Corum Group.
+Olympus
+and Vantage 
+machines are sold by BlueCrest. Runbeck uses Vantage sorters from BlueCrest.
+Runbeck also processes envelopes under contract.
+The signature-matching software most used is from Parascript, spun off from Paragraph, a Soviet-American joint venture
+though there are other companies.
+Parascript had fewer errors than other software in 2010: Parascript rejected 14% of genuine signatures and accepted 8% of forgeries if they were modeled on a genuine signature.
+Electronic pollbooks check in voters at polling places, to find if they are registered. These e-pollbooks are made by DemTech, DFM, ES&S, KNOWiNK, Tenex, Votec, VR Systems and several states and counties. 
+E-pollbooks and some precinct scanners connect to the internet through other companies, such as Cradlepoint, a subsidiary of Swedish Ericsson.
+Amazon provides election websites in 40 states, including election-reporting sites in some of them. A Spanish company, Scytl, manages election-reporting websites statewide in 12 U.S. states, and in another 980 local jurisdictions in 28 states.
+Another website management company is VR Systems, active in 8 states. 
+Maryland's election website is managed by a company owned by an associate of Russian President Putin.
+Companies can be closed by bankruptcy or other issues. Votec, a California company maintaining voter registration databases, nearly closed for lack of cashflow in 2024 and 2025 until its customers bailed it out.
+In 2020 Scytl went into bankruptcy, until it was bought by Paragon.
+
+Timeline of development
+1964: The Norden-Coleman optical scan voting system, the first such system to see actual use, was adopted for use in Orange County, California.
+1974: The Video Voter, the first DRE voting machine used in a government election,  developed by the Frank Thornber Company in Chicago, Illinois, saw its first trial use in 1974 near Chicago.
+ Mar. 1975:The U.S. Government is given a report by Roy G. Saltman, a consultant in developing election technology and policies, in which the certification of voting machines is analyzed for the first time.
+August 28, 1986: The Uniformed and Overseas Citizen Absentee Voting Act of 1986 (UOCAVA) requires that U.S. states allow certain groups of citizens to register and vote absentee in elections for federal offices.
+1990: The FEC (Federal Election Commission) released a universalized standard for computerized voting.
+1996: The Reform Party uses I-Voting (Internet Voting) to select their presidential candidate. This election is the first governmental election to use this method in the U.S.
+May 2002:The FEC revised the standards established for electronic voting from 1990.
+Nov 2004: 4,438 of votes in the general election is lost by North Carolina's electronic voting machines. The machines continued to count electronic votes past the device's memory capacity and the votes were irretrievably lost.
+Dec 2005: Black Box Voting showed how easy it is to hack an electronic voting system. Computer experts in Leon County, Fl lead a simulation where they changed the outcome of a mock election by tampering with the tabulator without leaving evidence of their actions.
+September 13, 2006: It was demonstrated that Diebold Electronic Voting Machine can be hacked in less than a minute. Princeton's Professor of Computer Science, Edward Felten who installed a malware which could steal votes and replace them with fraudulent numbers without physically coming in contact with the voting machine or its memory card. The malware can also program a virus that can spread from machine to machine.
+September 21, 2006: The governor of Maryland, Bob Ehrlich (R), advised against casting electronic votes as an alternative method for casting paper absentee ballots. This was a complete turn around since Maryland became one of the first states to accept electronic voting systems statewide during his term.
+September 3, 2009: Diebold, responsible for much of the technology in the election-systems business, sells their hold to Election Systems & Software, Inc for $5 Million, less than 1/5 of its price seven years earlier.
+October 28, 2009: The federal Military and Overseas Voters Empowerment Act (MOVE) requires U.S. states to provide ballots to UOCAVA voters in at least one electronic format (email, fax, or an online delivery system).
+January 3, 2013: Voter Empowerment Act of 2013 – This act requires each U.S. state to make available public websites for online voter registration.
+Spring 2019: Department of Defense DARPA announces $10 million contract for secure, open-source election system prototypes based on the agency's SSITH secure hardware platform work: a touch screen ballot-marking device to demo at the annual DEF CON hacker conference in summer 2019 and an optical scan system to read hand-marked paper ballots targeted for DEF CON 2020.
+
+Legislation
+In the summer of 2004, the Legislative Affairs Committee of the Association of Information Technology Professionals issued a nine-point proposal for national standards for electronic voting. In an accompanying article, the committee's chair, Charles Oriez, described some of the problems that had arisen around the country.
+Legislation has been introduced in the United States Congress regarding electronic voting, including the Nelson-Whitehouse bill. This bill would appropriate as much as 1 billion dollars to fund states' replacement of touch screen systems with optical scan voting system. The legislation also addresses requiring audits of 3% of precincts in all federal elections. It also mandates some form of paper trail audits for all electronic voting machines by the year 2012 on any type of voting technology.
+Another bill, HR.811 (The Voter Confidence and Increased Accessibility Act of 2003), proposed by Representative Rush D. Holt, Jr., a Democrat from New Jersey, would act as an amendment to the Help America Vote Act of 2002 and require electronic voting machines to produce a paper audit trail for every vote. The U.S. Senate companion bill version introduced by Senator Bill Nelson from Florida on November 1, 2007, necessitates the Director of the National Institute of Standards and Technology to continue researching and to provide methods of paper ballot voting for those with disabilities, those who do not primarily speak English, and those who do not have a high literacy rating. Also, it requires states to provide the federal office with audit reports from the hand counting of the voter verified paper ballots. Currently, this bill has been turned over to the United States Senate Committee on Rules and Administration and a vote date has not been set.
+During 2008, Congressman Holt, because of an increasing concern regarding the insecurities surrounding the use of electronic voting technology, submitted additional bills to Congress regarding the future of electronic voting. One, called the "Emergency Assistance for Secure Elections Act of 2008" (HR5036), states that the General Services Administration will reimburse states for the extra costs of providing paper ballots to citizens, and the costs needed to hire people to count them. This bill was introduced to the House on January 17, 2008.  This bill estimates that $500 million will be given to cover costs of the reconversion to paper ballots; $100 million given to pay the voting auditors; and $30 million given to pay the hand counters. This bill provides the public with the choice to vote manually if they do not trust the electronic voting machines. A voting date has not yet been determined.
+The Secure America's Future Elections Act or the SAFE Act (HR 1562) was among the relevant legislation introduced in the 115th Congress. The bill's provisions include designation of the infrastructure used to administer elections as critical infrastructure; funding for states to upgrade the security of the information technology and cybersecurity elements of election-related IT systems; and requirements for durable, readable paper ballots and manual audits of results of elections.
+
+See also
+Electronic voting in India
+
+References
+
+[[Absentee ballot]] [[Ballot]] [[Ballot marking device]] [[Certification of voting machines]] [[DRE voting machine]] [[Dominion Voting Systems]] [[Early voting]] [[Election Assistance Commission]] [[Election Systems & Software]] [[Election audit]] [[Elections in the United States]] [[Electoral system]] [[Electronic voting]] [[Electronic voting in India]] [[Federal Election Commission]] [[First-past-the-post voting]] [[Green Party of the United States]] [[Hart InterCivic]] [[Help America Vote Act]] [[Premier Election Solutions]]

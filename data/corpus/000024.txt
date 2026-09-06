@@ -1,0 +1,92 @@
+Adobe Acrobat
+Adobe Acrobat is a family of application software and web services developed by Adobe Inc. to view, create, manipulate, print and manage Portable Document Format (PDF) files.
+The family comprises Acrobat Reader (formerly Reader), Acrobat (formerly Exchange) and Acrobat.com. The basic Acrobat Reader, available for several desktop and mobile platforms, is freeware; it supports viewing, printing, scaling or resizing and annotating of PDF files. Additional, "Premium", services are available on paid subscription. The commercial proprietary Acrobat, available for Microsoft Windows, macOS,  and mobile, can also create, edit, convert, digitally sign, encrypt, export and publish PDF files. Acrobat.com complements the family with a variety of enterprise content management and file hosting services.
+
+Purpose
+The main function of Adobe Acrobat is creating, viewing, and editing PDF documents. It can import popular document and image formats and save them as PDF. It is also possible to import a scanner's output, a website, or the contents of the Windows clipboard.
+Because of the nature of the PDF, however, once a PDF document is created, its natural organization and flow cannot be meaningfully modified. In other words, Adobe Acrobat is able to modify the contents of paragraphs and images, but doing so does not repaginate the whole document to accommodate for a longer or shorter document. Acrobat can crop PDF pages, change their order, manipulate hyperlinks, digitally sign a PDF file, add comments, redact certain parts of the PDF file, and ensure its adherence to such standards as PDF/A.
+
+History
+
+Adobe Acrobat was launched in 1993 and had to compete with other products and proprietary formats that aimed to create digital documents:
+
+Common Ground from No Hands Software Inc.
+Envoy from WordPerfect Corporation
+Folio Views from NextPage
+Replica from Farallon Computing
+WorldView from Interleaf
+DjVu from AT&T Laboratories
+
+Adobe has renamed the Acrobat products several times, in addition to merging, splitting and discontinuing them. Initially, the offered products were called Acrobat Reader, Acrobat Exchange and Acrobat Distiller. "Acrobat Exchange" soon became "Acrobat". Over time, "Acrobat Reader" became "Reader". Between versions 3 and 5, Acrobat did not have several editions. In 1999, the Acrobat.com service came to being and introduced several web services whose names started with "Acrobat", but eventually, "Acrobat.com" was downgraded from the name of the family of services, to that of one of those services.
+Unlike most other Adobe products, such as members of Adobe Creative Suite family, the Acrobat products do not have icons that display two letters on a colored rectangle.
+
+Document Cloud
+In April 2015, Adobe introduced the "Document Cloud" branding (alongside its Creative Cloud) to signify its adoption of the cloud storage and the software as a service model. Programs under this branding received a "DC" suffix. In addition, "Reader" was renamed back to "Acrobat Reader". Following the introduction of Document Cloud, Acrobat.com was discontinued as their features were integrated into the desktop programs and mobile apps.
+The GUI had major changes with the introduction of Acrobat DC in 2015, which supports Windows 7 and later, and OS X 10.9 and later. Version numbers are now identified by the last two digits of the year of major release, and the month and year is specified; the previous version was 12, but examples of the DC (Document Cloud) Acrobat product family versions are DC June 2016, version 15.016.20045, released 2 June 2016 and DC Classic January 2016, version 15.006.30119, released 12 January 2016. From DC 2015 the Acrobat family is available in two tracks, the original track, now named Classic, and the Continuous track. Updates for the Classic track are released quarterly, and do not include new features, whereas updates for the Continuous track are issued more frequently, and implemented silently and automatically.
+The last pre-DC version, Acrobat XI, was updated to 11.0.23 version (and this was the final release) on November 14, 2017, support for which had ended a month earlier on October 15, 2017. In September 2020, Adobe released a feature to make documents easier to read on phones called "Liquid Mode" using its Sensei AI.
+
+Adobe Acrobat family products
+
+Current services
+Acrobat.com is the web version of Acrobat developed by Adobe to edit, create, manipulate, print and manage files in a PDF. It is currently available for users with a web browser and an Adobe ID only.
+Acrobat Distiller is a software application for converting documents from PostScript format to PDF.
+Acrobat Pro is the professional full version of Acrobat developed by Adobe to edit, create, manipulate, print and manage files in a PDF. It is currently available for Windows and macOS.
+Acrobat Reader is the freeware version of Acrobat developed by Adobe to view, create, fill, print and format files in a PDF. It is currently available for Windows, macOS, iOS, and Android.
+Acrobat Standard is the standard full version of Acrobat developed by Adobe to edit, create, manipulate, print and manage files in a PDF. It is currently available for Windows.
+Acrobat Studio is a PDF editor that allows users to make changes using Generative AI.
+Document Cloud is part of the Acrobat family developed by Adobe to edit, create, save online, print and format files in a PDF. It is currently available for users with a web browser and an Adobe ID only.
+Fill & Sign is part of the Acrobat family developed by Adobe to fill, sign, and manage files in a PDF. It is currently available for Windows, macOS, iOS, and Android.
+Scan is part of the Acrobat family developed by Adobe Inc. to scan, crop, and manage files in a PDF. It is currently available for iOS and Android.
+Sign (formerly EchoSign and eSign) is part of the Acrobat family developed by Adobe Inc. to fill, sign, and manage files in a PDF. It is currently available for iOS and Android.
+
+Discontinued services
+Acrobat Approval allows users to deploy electronic forms based on a PDF.
+Acrobat Business Tools is a discontinued component of the Acrobat family that was distributed by Adobe Systems with collaboration and document review features.
+Acrobat Capture is a document processing utility for Windows from Adobe Systems that converts a scan of any paper document into a PDF file with selectable text through OCR technology.
+Acrobat Distiller Server is a discontinued server-based utility that was developed by Adobe Systems to perform centralized high-volume conversion of PostScript documents to PDF formats for workgroups.
+Acrobat eBook Reader is a PDF-based e-book reader from Adobe Systems. Features present in Acrobat eBook Reader later appeared in Digital Editions.
+Acrobat Elements was a very basic version of the Acrobat family that was released by Adobe Systems. Its key feature advantage over the free Acrobat Reader was the ability to create reliable PDF files from Microsoft Office applications.
+Acrobat InProduction is a pre-press tools suite for Acrobat released by Adobe in 2000 to handle color separation and pre-flighting of PDF files for printing.
+Acrobat Messenger is a document utility for Acrobat users that was released by Adobe Systems in 2000 to convert paper documents into PDF files that can be e-mailed, faxed, or shared online.
+Acrobat Reader Touch is a free PDF document viewer developed and released on December 11, 2012, by Adobe Systems for the Windows Touch user interface.
+FormsCentral was a web form filling server for users with Windows, macOS, or a web browser and an Adobe ID only. It was discontinued on July 28, 2015, and replaced with Experience Manager Forms.
+Send & Track (formerly SendNow and Send) was a service that lets you send files as links, track files you send to specific individuals, and get confirmation receipts when others view your file. It was completely discontinued as of July 11, 2018.
+
+Hidden helper tools
+Acrobat Synchronizer is a tool installed along with Acrobat versions. While running in the background, it maintains the accuracy of Acrobat files imported to Acrobat.
+RdrCEF (also known as Adobe Reader Cloud Extension Feature) is a tool bundled with Acrobat that runs a process that handles cloud connectivity features.
+
+Supported file formats
+The table below contains some of the supported file formats that can be opened or accessed in Adobe Acrobat.
+
+Internationalization and localization
+
+Adobe Acrobat is available in the following languages: Arabic, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish and Ukrainian. Arabic and Hebrew versions are available from WinSoft International, Adobe Systems' internationalization and localization partner.
+Before Adobe Acrobat DC, separate Arabic and Hebrew versions were developed specifically for these languages, which are normally written right-to-left. These versions include special TouchUp properties to manage digits, ligatures option and paragraph direction in right-to-left Middle Eastern scripts such as Arabic, Hebrew, and Persian, as well as standard left-to-right Indian scripts such as Devanagari and Gujarati. The Web Capture feature can convert single web pages or entire web sites into PDF files, while preserving the content's original text encoding. Acrobat can also copy Arabic and Hebrew text to the system clipboard in its original encoding; if the target application is also compatible with the text encoding, then the text will appear in the correct script.
+
+Security
+A comprehensive list of security bulletins for most Adobe products and related versions is published on their Security bulletins and advisories page and in other related venues. In particular, the detailed history of security updates for all versions of Adobe Acrobat has been made public.
+From Version 3.02 onwards, Acrobat Reader has included support for JavaScript. This functionality allows a PDF document creator to include code which executes when the document is read. Malicious PDF files that attempt to attack security vulnerabilities can be attached to links on web pages or distributed as email attachments. While JavaScript is designed without direct access to the file system to make it "safe", vulnerabilities have been reported for abuses such as distributing malicious code by Acrobat programs. Adobe applications had become the most popular client-software targets for attackers during the last quarter of 2009.
+
+September 2006 warning
+On September 13, 2006, David Kierznowski provided sample PDF files illustrating JavaScript vulnerabilities. Since at least version 6, JavaScript can be disabled using the preferences menu and embedded URLs that are launched are intercepted by a security warning dialog box to either allow or block the website from activating.
+
+February 2009 warning
+On February 19, 2009, Adobe released a Security Bulletin announcing JavaScript vulnerabilities in Adobe Reader and Acrobat versions 9 and earlier. As a workaround for this issue, US-CERT recommended disabling JavaScript in the affected Adobe products, canceling integration with Windows shell and web browsers (while carrying out an extended version of de-integration for Internet Explorer), deactivating Adobe indexing services and avoiding all PDF files from external sources.
+
+February 2013 warning
+Adobe has identified critical vulnerabilities in Adobe Reader and Acrobat XI (11.0.01 and earlier) for  Windows and Macintosh, 9.5.3 and earlier 9.x versions.  These vulnerabilities could cause the application to crash and potentially allow an attacker to take control of the affected system. There have been reports of these vulnerabilities being exploited to trick Windows users into clicking on a malicious PDF file delivered in an email message. Adobe recommended users update their product installations.
+
+January 2016 warning
+Adobe has released security updates for Adobe Acrobat and Reader for Windows and Macintosh. These updates address critical vulnerabilities that could potentially allow an attacker to take control of the affected system.
+
+See also
+List of PDF software
+Adobe Acrobat version history
+
+References
+
+External links
+ Media related to Adobe Acrobat at Wikimedia Commons
+
+[[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Apple Books]] [[Application software]] [[Artificial intelligence]] [[Collabora Online]] [[Desktop publishing]] [[Google Play]] [[HTML]] [[MuPDF]] [[Okular]] [[STDU Viewer]] [[Sumatra PDF]]

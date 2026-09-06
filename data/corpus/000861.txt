@@ -1,0 +1,72 @@
+Pyramidal cell
+Pyramidal cells, or pyramidal neurons, are a type of multipolar neuron found in areas of the brain including the cerebral cortex, the hippocampus, and the amygdala. Pyramidal cells are the primary excitation units of the mammalian prefrontal cortex and the corticospinal tract. One of the main structural features of the pyramidal neuron is the conic shaped soma, or cell body, after which the neuron is named. Other key structural features of the pyramidal cell are a single axon, a large apical dendrite, multiple basal dendrites, and the presence of dendritic spines. 
+Pyramidal neurons are also one of two cell types where the characteristic sign, Negri bodies, are found in post-mortem rabies infection. Pyramidal neurons were first discovered and studied by Santiago Ramón y Cajal. Since then, studies on pyramidal neurons have focused on topics ranging from neuroplasticity to cognition.
+
+Structure
+
+One of the main structural features of the pyramidal neuron is the conic shaped soma, or cell body, after which the neuron is named. Other key structural features of the pyramidal cell are a single axon, a large apical dendrite, multiple basal dendrites, and the presence of dendritic spines.
+
+Apical dendrite
+The apical dendrite rises from the apex of the pyramidal cell's soma. The apical dendrite is a single, long, thick dendrite that branches several times as distance from the soma increases and extends towards the cortical surface.
+
+Basal dendrite
+Basal dendrites arise from the base of the soma. The basal dendritic tree consists of three to five primary dendrites. As distance increases from the soma, the basal dendrites branch profusely.
+Pyramidal cells are among the largest neurons in the brain. Both in humans and rodents, pyramidal cell bodies (somas) average around 20 μm in length. Pyramidal dendrites typically range in diameter from half a micrometer to several micrometers. The length of a single dendrite is usually several hundred micrometers. Due to branching, the total dendritic length of a pyramidal cell may reach several centimeters. The pyramidal cell's axon is often even longer and extensively branched, reaching many centimeters in total length.
+
+Dendritic spines
+Dendritic spines receive most of the excitatory impulses (EPSPs) that enter a pyramidal cell. Dendritic spines were first noted by Ramón y Cajal in 1888 by using Golgi's method. Ramón y Cajal was also the first person to propose the physiological role of increasing the receptive surface area of the neuron. The greater the pyramidal cell's surface area, the greater the neuron's ability to process and integrate large amounts of information. Dendritic spines are absent on the soma, while the number increases away from it. The typical apical dendrite in a rat has at least 3,000 dendritic spines. The average human apical dendrite is approximately twice the length of a rat's, so the number of dendritic spines present on a human apical dendrite could be as high as 6,000.
+
+Growth and development
+
+Differentiation
+Pyramidal specification occurs during early development of the cerebrum. Progenitor cells are committed to the neuronal lineage in the subcortical proliferative ventricular zone (VZ) and the subventricular zone (SVZ). Immature pyramidal cells undergo migration to occupy the cortical plate, where they further diversify. Endocannabinoids (eCBs) are one class of molecules that have been shown to direct pyramidal cell development and axonal pathfinding. Transcription factors such as Ctip2 and Sox5 have been shown to contribute to the direction in which pyramidal neurons direct their axons.
+
+Early postnatal development
+Pyramidal cells in rats have been shown to undergo many rapid changes during early postnatal life. Between postnatal days 3 and 21, pyramidal cells have been shown to double the size of the soma, increase the length of the apical dendrite fivefold, and increase basal dendrite length thirteen-fold. Other changes include the lowering of the membrane's resting potential, reduction of membrane resistance, and an increase in the peak values of action potentials.
+
+Signaling
+Like dendrites in most other neurons, the dendrites are generally the input areas of the neuron, while the axon is the neuron's output. Both axons and dendrites are highly branched. The large amount of branching allows the neuron to send and receive signals to and from many different neurons.
+Pyramidal neurons, like other neurons, have numerous voltage-gated ion channels. In pyramidal cells, there is an abundance of Na+, Ca2+, and K+ channels in the dendrites, and some channels in the soma. Ion channels within pyramidal cell dendrites have different properties from the same ion channel type within the pyramidal cell soma. Voltage-gated Ca2+ channels in pyramidal cell dendrites are activated by subthreshold EPSPs and by back-propagating action potentials. The extent of back-propagation of action potentials within pyramidal dendrites depends upon the K+ channels. K+ channels in pyramidal cell dendrites provide a mechanism for controlling the amplitude of action potentials.
+The ability of pyramidal neurons to integrate information depends on the number and distribution of the synaptic inputs they receive. A single pyramidal cell receives about 30,000 excitatory inputs and 1700 inhibitory (IPSPs) inputs. Excitatory (EPSPs) inputs terminate exclusively on the dendritic spines, while inhibitory (IPSPs) inputs terminate on dendritic shafts, the soma, and even the axon. Pyramidal neurons can be excited by the neurotransmitter glutamate, and inhibited by the neurotransmitter GABA.
+
+Firing classifications
+Pyramidal neurons have been classified into different subclasses based upon their firing responses to 400-1000 millisecond current pulses. These classification are RSad, RSna, and IB neurons.
+
+RSad
+RSad pyramidal neurons, or adapting regular spiking neurons, fire with individual action potentials (APs), which are followed by a hyperpolarizing afterpotential. The afterpotential increases in duration which creates spike frequency adaptation (SFA) in the neuron.
+
+RSna
+RSna pyramidal neurons, or non-adapting regular spiking neurons, fire a train of action potentials after a pulse. These neurons show no signs of adaptation.
+
+IB
+IB pyramidal neurons, or intrinsically bursting neurons, respond to threshold pulses with a burst of two to five rapid action potentials. IB pyramidal neurons show no adaptation.
+
+Molecular classifications
+There are several studies showing that morphological and electric pyramidal cells properties could be deduced from gene expression measured by single cell sequencing. Several studies are proposing that single cell classifications in mouse and human neurons based on gene expression could explain various neuronal properties . Neuronal types in these classifications are split into excitatory, inhibitory and hundreds of corresponding sub-types. For example, pyramidal cells of layer 2-3 in human are classified as FREM3 type and often have a high amount of Ih-current generated by HCN-channel.
+
+Function
+
+Corticospinal tract
+Pyramidal neurons are the primary neural cell type in the corticospinal tract. Normal motor control depends on the development of connections between the axons in the corticospinal tract and the spinal cord. Pyramidal cell axons follow cues such as growth factors to make specific connections. With proper connections, pyramidal cells take part in the circuitry responsible for vision guided motor function.
+
+Cognition
+Pyramidal neurons in the prefrontal cortex are implicated in cognitive ability. In mammals, the complexity of pyramidal cells increases from posterior to anterior brain regions. The degree of complexity of pyramidal neurons is likely linked to the cognitive capabilities of different anthropoid species. Pyramidal cells within the prefrontal cortex appear to be responsible for processing input from the primary auditory cortex, primary somatosensory cortex, and primary visual cortex, all of which process sensory modalities. These cells might also play a critical role in complex object recognition within the visual processing areas of the cortex. Relative to other species, the larger cell size and complexity of pyramidal neurons, along with certain patterns of cellular organization and function, correlates with the evolution of human cognition.
+
+Memory and learning
+The hippocampus's pyramidal cells are essential for certain types of memory and learning. They form synapses that aid in the integration of synaptic voltages throughout their complex dendritic trees through interactions with mossy fibers from granule cells. Since it affects the postsynaptic voltages produced by mossy fiber activation, the placement of thorny excrescences on basal and apical dendrites is important for memory formation. By enabling dynamic control of the sensitivity of CA3 pyramidal cells, this clustering of mossy fiber synapses on pyramidal cells may facilitate the initiation of somatic spikes.
+The interactions between pyramidal cells and an estimated 41 mossy fiber boutons, each originating from a unique granule cell, highlight the role of these boutons in information processing and synaptic connectivity, which are essential for memory and learning. Fundamentally, mossy fiber input is received by pyramidal cells in the hippocampus which integrate synaptic voltages within their dendritic architecture. The location of prickly protrusions and the clustering of synapses influence sensitivity and contribute to the processing of information pertaining to memory and learning.
+
+See also
+Pyramidal tract
+Chandelier cells - innervate initial segments of pyramidal axons
+Rosehip neuron
+
+References
+
+External links
+Pyramidal cell - Cell Centered Database
+Diagram
+Image
+Diagram (as part of slideshow) Archived 2016-11-02 at the Wayback Machine
+
+[[Action potential]] [[Amygdala]] [[Cerebral cortex]] [[Hippocampus]] [[Meninges]] [[Neocortex]] [[Neural backpropagation]] [[Peripheral nervous system]] [[Resting potential]]

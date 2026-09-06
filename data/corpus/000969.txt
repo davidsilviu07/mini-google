@@ -1,0 +1,75 @@
+TopoR
+TopoR (Topological Router) is an EDA program developed and maintained by the Russian company Eremex. It is dedicated to laying out a printed circuit board (PCB). The current version is 6.3.17875 as of 2017-09-20. 
+It features an autorouter and a set of tools intended to reduce the amount of effort needed for manual routing of a PCB. A distinctive feature of TopoR is the absence of preferred routing directions.
+
+History
+
+Work on a flexible topological router began in 1988.
+1996 saw the release of the first version of a topological router that actually came to be used by industrial enterprises. In 2002, the FreeStyle Router (FSR) by Диал Инжиниринг ("Dial Engineering") ran under DOS and successfully routed dual-layer boards, interfacing with P-CAD. This early router showed the advantages of an innovative approach to routing and high efficiency of the models, algorithms, and software implementation. A 1.44 MB floppy disk was enough for the program and accompanying examples. The company also announced plans to commercially release a FreeStyle Suite for Windows later the year. The last version of FSR for DOS, consisting of the router named SpeedWay and the layout editor named FreeStyle was version 1.6 as of 2003-09-26/2003-11-01.
+The first Windows version of the topological router was released in 2001 and renamed to TopoR. TopoR 1.03 was available on 2003-09-26 and distributed through ElekTrade (ЭлекТрейд). The program routed not only dual-layer but also multi-layer printed circuit boards. TopoR was developed by a group called the FreeStyleTeam, supervised by Sergey J. Luzin (Сергей Юрьевич Лузин), with Oleg B. Polubasov (Олег Борисович Полубасов) as initial FSR developer, as well as Pavel I. Dmitriev (Павел Иванович Дмитриев), Gevorg S. Petrosyan (Геворг Самвелович Петросян), Michael S. Luzin (Михаил Сергеевич Лузин) and Andrew A. Lysenko (Андрей Александрович Лысенко). Version 3.0 was released in 2006. The software was commercially distributed by Prosoft Spb. (ПРОСОФТ СПб) in 2007. TopoR 4.0 added support to import/export DSN design and SES session files. Since TopoR 4.1 (2008) the software is further developed and maintained by Eremex, Ltd.
+
+Features
+TopoR can be used as an external autorouter for third-party layout editors or in conjunction with Eremex's own schematic capture and layout editor Delta Design (DD). TopoR imports input in Delta Design's FST format, as Specctra-/ELECTRA-compatible DSN design files, or in P-CAD PCB ASCII (2000, 2002, 2004), PADS PCB ASCII (3.5, 4.0, 5.0, 2005.0), or EAGLE BRD XML formats (6.x). The resulting boards can be exported into Specctra/ELECTRA SES session files, DXF, Gerber, P-CAD PCB ASCII (2000, 2002, 2004), PADS PCB ASCII (3.5, 4.0, 5.0, 2005.0).
+
+Routing of the wiring topology is done automatically and flexibly; angles are not limited to 90° and 45°.
+Efficient use of PCB space and absence of preferred routing directions in layers considerably reduces electromagnetic crosstalk.
+TopoR routes all connections, even if this entails violating design constraints. Such violations can be automatically corrected later.
+When objects (such as components and vias) are moved around, wire length and shape are optimized automatically with appropriate clearance.
+The user is free to choose from two ways to calculate the wire shape: with or without arcs. The first method involves wires consisting of lines only. The other makes wires keep appropriate clearance when circling around pads; it consists of arcs and lines.
+TopoR simultaneously optimizes several alternative variants of the layout. Variants with the worst parameters (per total wire length and number of vias) will be removed.
+TopoR has an automatic component placement feature. The procedure can be used both for all components of the board and only for components in a specific area. It is not comparable to the quality of the manual placement, but it can be used as a preparation step for manual placement.
+The minimum and desired clearances for each net can be specified.
+
+TopoR automatically supports trace necking, that is, it reduces the width of a wire that approaches a narrow pad (or one with a diameter that is less than the width of the wire), or when it passes through bottlenecks (for example, between the pads of a component).
+Wire-to-pad transitions use teardrop-style smoothing. The use of this procedure at the design stage helps avoid violations in design-rule checking when teardrops are added in the CAM editor.
+
+TopoR can recognize ball grid array (BGA) component areas and apply a special strategy for routing them. This helps reduce the number of vias, the density of connections, and in some cases the number of routing layers.
+
+A special algorithm is used for routing single-layer boards minimizing the number of interlayer junctions or to find a single-layer routing.
+
+Similar solutions
+The layout program PCB of the gEDA suite includes a similar topological autorouter named Toporouter, which was written by Anthony Blake in a Google-funded open source project mentored by DJ Delorie in 2008. It is mostly based on an implementation of the algorithms described in Tal Dayan's 1997 PhD thesis, "Rubberband based topological router". This router has meanwhile been adapted for use with the open-source KiCad project as well.
+
+See also
+
+Comparison of EDA software
+List of free electronics circuit simulators
+
+Notes
+
+References
+
+Further reading
+English
+Полубасов [Polubasov], Олег Борисович [Oleg B.] (May 2011). "Routing Concepts of a Topological Router CAD System". OnBoard Technology. 2011 (5): 11–15. Archived from the original on 2012-01-21.
+Lysenko [Лысенко], Andrew A. [Андрей Александрович]; Лузин [Luzin], Юрьевич Сергей [Sergey J.]; Полубасов [Polubasov], Олег Борисович [Oleg B.] (September 2011). "Synchronizing Delays in Signal Transmission Lines". OnBoard Technology. 2011 (9): 14–17. Archived from the original on 2011-11-07.
+Popov, Sergei; Popov, Iurii (2013-12-05). "Speed and improve PCB routing". EDN Network. Archived from the original on 2017-09-24. Retrieved 2017-09-24.
+Russian
+Chip News:
+Полубасов [Polubasov], Олег Борисович [Oleg B.] (May 2002). Топологическая трассировка: реальность или миф? [Topological route: Reality or myth?] (PDF). Chip News / EDA Expert (in Russian). 68 (5): 42–46. Retrieved 2017-10-03.{{cite journal}}:  CS1 maint: deprecated archival service (link) [5]
+"Тоnор для радиоинженера" (PDF). Chip News / EDA Expert (in Russian). 77 (4): 73. April 2003. Archived (PDF) from the original on 2004-02-25. Retrieved 2017-10-03.
+#10, 2003[link removed]
+Лузин [Luzin], Юрьевич Сергей [Sergey J.]; Полубасов [Polubasov], Олег Борисович [Oleg B.] (March 2006). "... TopoR" (PDF). Chip News / EDA Expert (in Russian). 106 (3): 74–76. Archived (PDF) from the original on 2017-09-27. Retrieved 2017-10-03.
+Electronics, #5, 2005
+Electronic components:
+#11, 2005
+#4, 2006
+Modern electronics journal:
+#5, 2008
+#6, 2008
+#7, 2008
+#8, 2008
+#9, 2008
+Потапов [Potapov], Юрий [Yuri] (2002). ПОГОВОРИМ О ТРАССИРОВЩИКАХ [Talk about routers] (PDF) (3). ЭлекТрейд (ElekTrade): 1–3. Archived (PDF) from the original on 2021-04-22. {{cite journal}}: Cite journal requires |journal= (help) [6] (3 pages)
+German
+Лузин [Luzin], Юрьевич Сергей [Sergey J.]; Полубасов [Polubasov], Олег Борисович [Oleg B.] (September 2008). "Optimierung von Layouts mit TopoR". Produktion von Leiterplatten und Systemen (in German). 2008 (9). Leuze-Verlag: 1852–1856.
+
+External links
+"Диал Инжиниринг" [Dial Engineering] (in Russian). 2002. Archived from the original on 2002-05-23. (Former website of Dial Engineering, developers of the FreeStyle Router up to 2002.)
+"FreeStyleTeam" (in Russian and English). 2009. Archived from the original on 2009-02-03. (Former website of the FreeStyleTeam, developers of FreeStyleRouter and TopoR up to 2009.)
+"Toporouter.com". 2013. Archived from the original on 2013-11-26. (Former 2009-2014 website for the TopoR router, as represented by Novarm, Ltd. and Eremex, Ltd. - unrelated to Anthony Blake's Toporouter.)
+"Eremex TopoR official site". (since 2008)
+"Eremex TopoR official site" (in Russian). (since 2008)
+"Eremex TopoR user forum". 2015-02-04.
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Gerber format]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[Schematic capture]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

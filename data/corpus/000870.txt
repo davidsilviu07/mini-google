@@ -1,0 +1,82 @@
+RattleCAD
+rattleCAD is a parametric 2D computer-aided design (CAD) software specific for bicycle design, in particular for design bicycle frame, developed by the Austrian cyclist and programmer Manfred Rosenberger since 2008. The application is written in the programming language Tcl using the Tk-based graphical user interface (GUI).
+In 2019, after 10 years being open-source software, rattleCAD switched to a proprietary software development model.
+
+History
+In 2008, Manfred Rosenberger began developing rattleCAD as open-source software for bicycle do it yourself (DIY) makers and bike shops, hosting source code and binary code on SourceForge since January 2010, as an alternative to only few existing proprietary apps in this field at the time, such as BikeCAD, one of the oldest CAD software specific for bicycle design, developed by a Canadian bicycle rental businessperson and a programmer Brent Curry since 2002, and Linkage, a CAD and CAE software for bicycle design and bicycle suspension simulation, developed by a Hungarian software developer Gergely Kovacs.
+From 31 March to 1 April 2012, the app was exhibited at the European Handmade Bicycle Exhibition (EHBE) in Schwäbisch Gmünd.
+On 11 April 2012, app has been presented at the Bespoked 2014 (the UK handmade bicycle show) in London.
+On 8 July 2017, Rosenberger presented rattleCAD at the EuroTcl 2017 (15th European Tcl/Tk User Meeting) in Berlin.
+On 7 July 2018, at the EuroTcl 2018 (16th European Tcl/Tk User Meeting) in Munich, Rosenberger presented the cad4tcl – an open-source CAD graphics library for Tcl/Tk, extracted from the main rattleCAD source.
+On 10 December 2018, first rattleCAD 4.0.0 preview release has been rolled out.
+In January 2019, rattleCAD 3.6.30 has been released. It was the last open-source release.
+
+Source closing
+In 2019, Rosenberger announced ceasing open-source development and switching to proprietary development model for the next rattleCAD 4.x releases on the new website.
+
+rattleCAD 4.0 will not be free and open source anymore. Basically, there will be timely limited licenses for rattleCAD - a kind of user fee. This will allow me to continue to develop rattleCAD in the future. Since last autumn (2018) a lot has been done in rattleCAD.
+Since then app provided via Gumroad as a limited freeware version under donationware payment model (later freeware version replaced with a more restricted demoware version) and as commercial editions for private and professional use under subscription payment model.
+As of June 2023, project page on SourceForge still actively used as a discussion board by users and app developers.
+Despite the fact that all the old source and binary builds licensed as an open-source has been deleted from SourceForge by developer in 2019, few code snapshots of original code and a fork of rattleCAD 3.x, hosted on GitHub, and binary of the last open-source rattleCAD 3.6.30 and older releases, still circulated on the internet as of October 2023, are now collected on the Internet Archive.
+
+Features
+
+rattleCAD provides all the tools needed for design bicycle from preliminary design of basic geometry, adjusted to cyclist body size, to producing full assembly and frame manufacturing documentation:
+
+Step-by-step GUI for bicycle design.
+Parametric design for basic geometry, then used to calculate detailed bicycle geometry, including shop drawings for frame tubes cutting.
+Vector graphics representation of CAD data.
+Catalog of bicycle parts CAD blocks.
+Automatic generation of manufacturing 2D plans and documentation.
+Export FreeCAD Macro, via rattleCAD 3D (extra plugin), to generate 3D model of bicycle frame and whole assembly model inside FreeCAD app.
+
+File formats
+rattleCAD supports the next file formats:
+
+XML – for storing rattleCAD 3.x bike design projects and templates.
+*.rc4 – JSON-based file format for storing rattleCAD 4.x bike design projects and templates.
+SVG – for import, export drawings and docs, and as a bicycle parts libraries files (CAD blocks).
+HTML – for export project report as a webpage (with a project file and a set of drawings in SVG) ready to publish on own website.
+DXF – for export drawings and docs.
+PDF – for export drawings and docs.
+STEP – for export 3D assembly model.
+Python (*.py, *.FCMacro) – for export FreeCAD Macro to generate 3D models inside FreeCAD.
+
+Release history
+Change logs on official site and SourceForge page
+
+cad4tcl
+cad4tcl – is an open-source graphics library for Tcl/Tk to build CAD software, developed as a part of rattleCAD. It supports importing SVG and exporting SVG, PDF and DXF files.
+
+svgDOM
+svgDOM – is an open-source SVG graphics processing and optimization library for Tcl/Tk, developed as a part of rattleCAD.
+
+See also
+FreeCAD
+FREE!ship
+LibreCAD
+OpenVSP
+QCAD
+XFLR5
+XFOIL
+
+References
+
+External links
+
+Official website
+rattleCAD on SourceForge, official page
+rattleCAD on GrabCAD, official page
+rattleCAD on Facebook, users group
+Manfred Rosenberger on SourceForge
+Manfred Rosenberger's channel on YouTube
+Manfred Rosenberger on FreeCAD Forum
+rattleCAD on AlternativeTo
+rattleCAD at the Internet Archive, backup of binary and source releases
+rattleCAD TF on GitHub, fork of rattleCAD 3.5.14 source
+Bike Geometry Calculator, free online web application
+Geometry Geeks, online bike geometry comparison tool
+BiKinematics on GitHub, open-source program to analyse MTB suspension kinematics
+Custom Framebuilding Forum, bicycle frame-builders community forum
+
+[[.dwg]] [[2D computer graphics]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[GNU General Public License]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[HTML]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Subscription business model]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[Web application]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

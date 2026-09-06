@@ -1,0 +1,52 @@
+Bingo voting
+Bingo voting is an electronic voting scheme for transparent, secure, end-to-end auditable elections. It was introduced in 2007 by Jens-Matthias Bohli, Jörn Müller-Quade, and Stefan Röhrich at the Institute of Cryptography and Security (IKS) of the Karlsruhe Institute of Technology (KIT).
+Random numbers are used to record votes.  Central to the scheme is the use of trusted random number generating devices in the voting booths alongside the electronic voting machines.  Also crucial are its paper receipts which, while not revealing how a vote was cast, and so inhibiting vote buying and intimidation, still allow voters to check that their vote was correctly counted.
+The scheme allows the correctness of an election result to be verifiably proved relying only on the integrity of the in-booth random number generators (hence "trusted"); the proof of correctness does not rely on, still less need to prove, the integrity of the electronic voting machines themselves.
+No particular demands are placed on voters, and no ballot papers are used.  One special requirement, however, to prevent fraudulent challenges to the election result, is the use of unforgeable paper for the receipts.
+
+Before the poll
+Before the election, a pool of "dummy votes", random numbers, is generated.  As many numbers are generated for each candidate as there are voters. Each dummy vote is encrypted using a cryptographic commitment scheme—akin to placing the dummy votes in "sealed envelopes." A list of all commitments (encrypted dummy votes) is then published along with a proof that dummy votes are equally distributed to all candidates.
+Additional "candidates" can be defined to support protest votes, "None of the above" votes, etc.
+
+During the poll
+In the voting booth a voter chooses his or her preferred candidate by pressing the corresponding voting machine button.  A random number generating device in the booth then generates a fresh random number, displays it, and passes it to the voting machine, which allocates it to the selected candidate.  For all other candidates the voting machine randomly selects one of the candidate's dummy votes from the dummy vote pool.  A dummy vote is used only once.  A ballot, then, consists of a random number for each candidate.
+The voting machine issues the voter with a printed receipt listing the candidates and their assigned random numbers.  So, before leaving the booth, the voter can check that the vote was correctly recorded by comparing the chosen candidate's number on the receipt with the number displayed by the random number generator.
+The receipt does not show how the voter voted because the non-dummy random number issued in the voting booth is indistinguishable from the dummy votes drawn from the pool.  The dummy votes in the pool remain hidden (in "unopened" commitments).
+
+After the poll
+After the polls close all ballots are published in a sorted list (they could be published during the vote, in real-time).  Also, all unused dummy votes are revealed (the commitments are "opened") and published.
+The result of the election is derived from the numbers of these unused dummy votes:  Since a vote for a candidate results in an unused dummy vote, a candidate's tally must equal the number of his or her unused dummy votes less the number of non-voters.  The number of non-voters is the difference between the number of dummy votes originally generated for each candidate and the number of published ballots.
+Finally, the correctness of the election—the fact that each cast ballot contains exactly one non-dummy vote and that every unrevealed dummy vote was used on only one ballot—is proven through zero knowledge proofs that still do not reveal who each vote was cast for. The proofs are published.
+Voters can assure themselves that their vote was counted by finding their receipt in the published list of ballots.  Anyone can view the published lists and proofs and verify the result.
+
+The trusted random number generator
+The secrecy of the vote, the fact that the printed receipt does not reveal how a vote was cast, depends on the numbers generated in the voting booth being sufficiently random that they cannot be identified.
+To ensure that voters have confidence in the randomness of the numbers generated in the booth, the authors of the Bingo voting method suggest that a simple, transparent random number generator be used, such as a mechanical "bingo" number generator, the kind with numbered balls inside a spinning cage (hence the method's name).  Sensors could be used to read the generated number and pass it to the voting machine. Such a solution would have high voter trust but might be impractical.  In a real-life test, a student parliament election, the authors used modified smart card readers as the random number generators.
+That the generated numbers are not predictable by the election authority is the pre-condition for the proof of the correctness of elections: Only if the in-booth random number generators can be trusted is the proof of correctness valid. One of the authors makes the point that a separate random number generator can be more effectively protected from manipulation than can a voting machine.
+Note that the randomness of the random numbers can be investigated after the election because they are all published: The pre-generated dummy votes are either used, that is they appear on the ballots, or unused and published after the poll.  All numbers generated in the booths during the poll are on the ballots.
+
+Improvements
+A 2012 PhD thesis by Christian Henrich at the Karlsruhe Institute of Technology, supervised by one of the original authors, Jörn Müller-Quade, proposes a number of changes and enhancements to Bingo voting:
+
+to make it feasible for the largest elections (for example, a general election in India) by optimising proofs and constraining the length of the random numbers in order to reduce the vast amount of data to be published,
+to support elections allowing multiple votes and ranked voting (the single transferable vote, for example),
+for dispute resolution,
+to counter a possible fraud by an election authority using discarded receipts,
+and offers an analysis of the improved method's security and usability.
+Another 2012 paper, by Carmen Kempka, also a researcher at KIT, proposes an extension to Bingo voting to support write-in candidates without impairing verification of correctness or coercion resistance, although it relies on a trusted authority.
+
+See also
+End-to-end auditable voting systems
+Electronic Voting
+Punchscan
+Scantegrity
+ThreeBallot
+Farnel
+
+Notes
+
+References
+Bohli, Jens-Matthias; Müller-Quade, Jörn; Röhrich, Stefan (2006). Bingo Voting: Secure and coercion-free voting using a trusted random number generator, International Association for Cryptologic Research, Cryptology ePrint Archive.
+Bohli, Jens-Matthias; Müller-Quade, Jörn; Röhrich, Stefan (2007). Alkassar, Ammar; Volkamer, Melanie. ed. "Bingo Voting: Secure and Coercion-Free Voting Using a Trusted Random Number Generator". E-Voting and Identity, First International Conference, VOTE-ID 2007, Bochum, Germany, October 4–5, 2007, Revised Selected Papers. Lecture Notes in Computer Science (Springer Berlin Heidelberg)  4896:111-124.
+
+[[Electoral fraud]] [[Electronic voting]] [[Electronic voting machine]]

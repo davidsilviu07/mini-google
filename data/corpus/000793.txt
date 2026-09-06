@@ -1,0 +1,28 @@
+OpenRocket
+OpenRocket is a free and open-source application for designing model rockets and simulating their flight. The software provides a component-based rocket design environment together with aerodynamic analysis, stability calculations and flight simulation. It is written in Java and is available for Windows, macOS and Linux.
+OpenRocket was originally developed by Sampo Niskanen as part of his 2009 master's thesis at the Helsinki University of Technology.
+
+History
+OpenRocket originated from Niskanen's master's thesis, which investigated methods for calculating the aerodynamic properties and flight trajectories of model rockets and implemented these methods in an open-source software application. The work was based in part on the aerodynamic methods developed by James Barrowman, with extensions for effects including large angles of attack and free-form fins. The thesis also described atmospheric modelling and a six-degree-of-freedom flight simulation.
+Development has continued as an open-source project. The software is currently released under the GNU General Public License.
+
+Design and simulation
+OpenRocket allows rockets to be constructed from components including nose cones, body tubes, fins, internal components, recovery devices and rocket motors. As a design is modified, the program calculates quantities such as the rocket's center of gravity and center of pressure.
+The program can analyse the contribution of individual components to aerodynamic properties including stability, drag and roll. It can also simulate a complete flight under user-defined atmospheric and launch conditions. Its simulation model uses empirical aerodynamic methods based on the geometry of the rocket.
+
+Coverage and use
+In 2013, Linux Journal published a detailed article by Joey Bernard demonstrating the use of OpenRocket for designing, analysing, optimizing and simulating model rockets. In 2018, issue 12 of HackSpace magazine included a tutorial by Jo Hinchliffe on designing and simulating a model rocket using OpenRocket.
+OpenRocket has also been examined in engineering research. Brown et al. compared an OpenRocket simulation of a student-built rocket with measured flight data and with a rigid-body dynamics simulation using aerodynamic coefficients derived from wind-tunnel and computational-fluid-dynamics testing.
+In 2025, Jacob Schrum and Cody Crosby used OpenRocket as the simulation environment in a study applying quality-diversity algorithms to model-rocket design. Designs generated in the study were subsequently manufactured and launched, allowing the researchers to examine differences between simulated and real-world behaviour.
+
+See also
+Model rocketry
+Flight dynamics
+
+References
+
+External links
+Official website
+OpenRocket source repository
+
+[[GNU General Public License]]

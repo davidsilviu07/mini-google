@@ -1,0 +1,93 @@
+Sulcus (neuroanatomy)
+In neuroanatomy, a sulcus (Latin: "furrow"; pl.: sulci) is a shallow depression or groove in the cerebral cortex. One or more sulci surround a gyrus (pl. gyri), a ridge on the surface of the cortex, creating the characteristic folded appearance of the brain in humans and most other mammals. The larger sulci are also called fissures. The cortex develops in the fetal stage of corticogenesis, preceding the cortical folding stage known as gyrification. The large fissures and main sulci are the first to develop.
+Mammals that have a folded cortex are known as 'gyrencephalic', and the small-brained mammals that have a smooth cortex, such as rats and mice are termed lissencephalic.
+
+Structure
+
+Sulci, the grooves, and gyri, the folds or ridges, make up the folded surface of the cerebral cortex. Larger or deeper sulci are also often termed fissures. The folded cortex creates a larger surface area for the brain in humans and other larger mammals, without the need of increasing the size of the skull. In the human brain, two-thirds of the folded cortex is buried within the sulci, if the division of the hemispheres by the longitudinal fissure is taken into account.
+The sulci and fissures are shallow and deep grooves respectively in the cortex, that organise the brain into its regions.  A sulcus is a shallow groove that surrounds a gyrus or part of a gyrus. A fissure is a deeper furrow that divides the brain into lobes, and also into the two hemispheres as the longitudinal fissure. Fissures are the most prominent and invariable of the sulci.
+The pia mater, the membrane surrounding the brain follows the surface of the brain into each sulcus, but the arachnoid mater stretches across all sizes of the sulci, except the longitudinal fissure where it follows the pia mater. Consequently the inner sides of almost all sulci are separated only by the pia mater and the subarachnoid space, in which the cerebrospinal fluid circulates. Sulci may be considered as extensions of the subarachnoid space.
+The approximate depth of a sulcus ranges between one and three centimetres. Other parameters of sulcal shape are length, width, and surface area. Within a sulcus there may be smaller gyri, collectively known as transverse gyri.
+A sulcus is not necessarily a single structure. Some sulci have one or more parts that may branch in different directions. Such parts may be short, long, isolated, or connected to other sulci.
+
+Variations
+The sulcal pattern varies between human individuals, but the sulci and gyri do have a generalised arrangement, making a common nomenclature possible.
+
+Types
+On the basis of formation: 
+
+Large primary sulci: formed before birth, independently, such as the  precentral sulcus and the central sulcus.
+Short primary sulci include rhinal sulcus, olfactory sulcus, occipital sulcus, and lateral sulcus.
+Short branched sulci sulci with several branches such as the subparietal sulcus, and orbital sulcus.
+Short free supplementary sulci include the lunate sulcus, and medial frontal sulcus.
+Sulci with side branches that connect adjacent parallel sulci.
+On the basis of function:
+
+A limiting sulcus separates at its floor into two areas which are different functionally and structurally e.g. central sulcus between the motor and sensory areas.
+Axial sulcus develops in the long axis of a rapidly growing homogeneous area e.g. postcalcarine sulcus in the long axis of the striate area.
+Operculated sulcus separates by its lips into two areas and contains a third area in the walls of the sulcus e.g. lunate sulcus is an operculated sulcus, separating the striate and parastriate areas.
+On the basis of depth:
+
+Complete sulcus is very deep so as to cause elevation in the walls of the lateral ventricle. Examples are the collateral and calcarine sulci.
+Incomplete sulci are superficially situated and are not very deep, E.g. paracentral sulcus.
+
+Development
+
+The process of cortical folding is complex and incompletely understood. It is explained by a number of hypotheses including mechanical buckling, and axonal tension factors. The hypotheses are not mutually exclusive and can include their combined effects, with that of another mechanism of tangential expansion. Tangential expansion is associated with radial glial cells, and a process of intercalation of cortical neurons in between cells of the outer cortical plate layer producing the outward buckling of a gyrus.
+In humans, cerebral convolutions  appear at about five months and take at least into the first year after birth to fully develop. There is a hierarchy of morphological development with the fissures and main sulci developing ahead of others.  The first sulci to develop are the primary sulci, followed by secondary sulci. The more constantly found sulci are those related to functional specialization. Tertiary sulci develop primarily after birth. The development of the tertiary sulci seems to be unaffected by genetics, and more related to environmental factors.
+Development varies greatly between individuals. The potential influences of genetic, epigenetic and environmental factors are not fully understood.
+
+Sulci of note
+
+Frontal lobe
+Superior frontal sulcus, Inferior frontal sulcus, Precentral sulcus, Olfactory sulcus, Orbital sulcus, Paracentral sulcus
+
+Parietal lobe
+Intraparietal sulcus, Marginal sulcus, Postcentral sulcus
+
+Occipital lobe
+Lunate sulcus, Transverse occipital sulcus, Calcarine sulcus
+
+Temporal lobe
+Superior temporal sulcus, Inferior temporal sulcus
+
+Interlobar fissures
+Longitudinal fissure, Central sulcus, Lateral sulcus, Collateral sulcus, Callosal sulcus, Parieto-occipital sulcus, Occipitotemporal sulcus, Subparietal sulcus, Cingulate sulcus
+
+Limbic lobe
+Hippocampal sulcus, Rhinal sulcus, Fimbriodentate sulcus, Central sulcus of the insula, Circular sulcus of insula
+
+Clinical significance
+The advanced cognitive abilities that have developed from the expansion of cortical folding, are shown to be adversely affected when the folds are malformed. Malformations of the cortical folds have been linked to the intellectual disabilities associated with epilepsy, schizophrenia, and autism. Anomalies in gyrification can affect the width or depth of sulci that are associated with many neurological or neuropsychiatric disorders. The widening of sulci is seen to indicate early atrophy in neurodegenerative disorders, and may be used as a biomarker in their progression. It has been found that the width of cortical sulci increases not only with age, but also with cognitive decline in the elderly.
+Ulegyria, is a condition of scarring in the deep regions of sulci leading to disruption of the associated gyri.
+The sulci are valuable landmarks in microneurosurgery, and may also be used as corridors for surgeries.
+
+Other animals
+The variation in the number of fissures in the brain (gyrification) between species is related to the size of the animal and the size of the brain. Mammals that have smooth-surfaced or nonconvoluted brains are called lissencephalics and those that have folded or convoluted brains gyrencephalics. The division between the two groups occurs when cortical surface area is about 10 cm2 and the brain has a volume of 3–4 cm3. Large rodents such as beavers (40 pounds (18 kg)) and capybaras (150 pounds (68 kg)) are gyrencephalic, and smaller rodents such as rats and mice, and some New World monkeys  are lissencephalic.
+
+Macaque
+A macaque has a more simple sulcal pattern. In a monograph Bonin and Bailey list the following as the primary sulci:
+
+Calcarine fissure (ca)
+Central sulcus (ce)
+Sulcus cinguli (ci)
+Hippocampal fissure (h)
+Sulcus intraparitalis (ip)
+Lateral fissure (or Sylvian fissure) (la)
+Sulcus olfactorius (olf)
+Medial parieto-occipital fissure (pom)
+Fissura rhinalis (rh)
+Sulcus temporalis superior (ts) – This sulcus runs parallel to the lateral fissure and extends to the temporal pole and often superficially merges with it.
+
+Additional images
+
+See also
+
+Sulcus (morphology)
+
+References
+
+External links
+Visual explanation of gyri, sulci, and fissures
+
+[[Amygdala]] [[Cerebral cortex]] [[Cerebrospinal fluid]] [[Cingulate cortex]] [[Epilepsy]] [[Frontal lobe]] [[Gyrus]] [[Lobes of the brain]] [[Skull]]

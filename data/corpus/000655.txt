@@ -1,0 +1,23 @@
+Lektz
+Lektz is an eBook business platform developed by AEL Data, operating in the UK and India. The platform has DRM, ebook reader applications, virtual book store, ebook conversion, elending and consumer analytics for small, medium-sized publishers and independent authors.
+The Lektz platform was presented as an ebook ecosystem at the London Book Fair 2013.
+
+Use
+On Lektz SaaS, publishers sign up and create their own branded ebook stores, upload PDF and EPUB ebooks to it, encrypt them using Lektz DRM, configure their own payment gateway and start selling their ebooks on the Lektz platform.
+
+DRM
+Lektz DRM is a proprietary eBook DRM technology of AEL Data. Lektz DRM secures eBooks from being copied and transmitted without appropriate rights and permissions. When publishers upload their eBooks in the Lektz platform, they can choose to enable DRM security for their eBooks which is decrypted when synced with the Lektz reader.
+There are three levels of protection:
+
+eBook encryption
+eBook accessing device control
+User account credentials verification
+The Lektz DRM mechanism is designed as a closed system and is implemented by protecting the eBooks with the system software, which also acts as an eBook reader (Lektz reader). To secure the eBooks, all the eBooks that are sold via the publisher's website are embedded with a security mechanism, and will only be permitted to open using Lektz e-reader software. Lektz DRM can be integrated with publishers existing websites or portals to secure their eBooks from piracy and to provide a secured platform to sell and distribute their books online.
+
+Ebook reader
+Lektz eBook Reader is a reader application for Android, iOS devices, and PC reader (web-based/Google Chrome Extension). It supports PDF, EPUB2, and EPUB3 ebook formats. It was launched by AEL Data Services in May 2012.
+Dyslektz eBook reader was launched during the first week of June 2013 on Google Play and the Apple App Store. This reader is intended to enable users with dyslexia to read ebooks on their smartphones and tablets. Any ebook imported into the Dyslektz Reader is converted into OpenDyslexic font which makes digital content more accessible to dyslexics.
+
+References
+
+[[Google Play]]

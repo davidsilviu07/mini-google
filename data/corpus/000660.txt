@@ -1,0 +1,40 @@
+Liquid helium
+Liquid helium is a physical state of helium at very low temperatures at standard atmospheric pressures. Liquid helium may show superfluidity.
+At standard pressure, the chemical element helium exists in a liquid form only at the extremely low temperature of −269 °C (−452.20 °F; 4.15 K). Its boiling point and critical point depend on the isotope of helium present: the common isotope helium-4 or the rare isotope helium-3. These are the only two stable isotopes of helium. See the table below for the values of these physical quantities. The density of liquid helium-4 at its boiling point and a pressure of one atmosphere (101.3 kilopascals) is about 125 g/L (0.125 g/ml), or about one-eighth the density of liquid water.
+
+Liquefaction
+Helium was first liquefied on July 10, 1908, by the Dutch physicist Heike Kamerlingh Onnes at the University of Leiden in the Netherlands. At that time, helium-3 was unknown because the mass spectrometer had not yet been invented. In more recent decades, liquid helium has been used as a cryogenic refrigerant (which is used in cryocoolers), and liquid helium is produced commercially for use in superconducting magnets such as those used in magnetic resonance imaging (MRI), nuclear magnetic resonance (NMR), magnetoencephalography (MEG), and experiments in physics, such as low temperature Mössbauer spectroscopy. The Large Hadron Collider contains superconducting magnets that are cooled with 120 tonnes of liquid helium.
+
+Liquified helium-3
+
+A helium-3 atom is a fermion and at very low temperatures, they form two-atom Cooper pairs which are bosonic and condense into a superfluid. These Cooper pairs are substantially larger than the interatomic separation.
+
+Characteristics
+
+The temperature required to produce liquid helium is low because of the weakness of the attractions between the helium atoms. These interatomic forces in helium are weak to begin with because helium is a noble gas, but the interatomic attractions are reduced even more by the effects of quantum mechanics. These are significant in helium because of its low atomic mass of about four daltons. The zero-point energy of liquid helium is less if its atoms are less confined by their neighbors. Hence in liquid helium, its ground state energy can decrease by a naturally occurring increase in its average interatomic distance. However at greater distances, the effects of the interatomic forces in helium are even weaker.
+Because of the very weak interatomic forces in helium, the element remains a liquid at atmospheric pressure all the way from its liquefaction point down to absolute zero. At temperatures below their liquefaction points, both helium-4 and helium-3 undergo transitions to superfluids. (See the table below.) Liquid helium can be solidified only under very low temperatures and high pressures.
+Liquid helium-4 and the rare helium-3 are not completely miscible. Below 0.9 kelvin at their saturated vapor pressure, a mixture of the two isotopes undergoes a phase separation into a normal fluid (mostly helium-3) that floats on a denser superfluid consisting mostly of helium-4. This phase separation happens because the overall mass of liquid helium can reduce its thermodynamic enthalpy by separating.
+At extremely low temperatures, the superfluid phase, rich in helium-4, can contain up to 6% helium-3 in solution. This makes the small-scale use of the dilution refrigerator possible, which is capable of reaching temperatures of a few millikelvins.
+Superfluid helium-4 has substantially different properties from ordinary liquid helium.
+
+History
+In 1908, Kamerlingh-Onnes succeeded in liquifying a small quantity of helium. In 1923, he provided advice to the Canadian physicist John Cunningham McLennan, who was the first to produce quantities of liquid helium almost on demand.
+Important early work on the characteristics of liquid helium was done by the Soviet physicist Lev Landau, later extended by the American physicist Richard Feynman.
+In 1961, Vignos and Fairbank reported the existence of a different phase of solid helium-4, designated the gamma-phase. It exists for a narrow range of pressure between 1.45 and 1.78 K.
+
+Data
+
+Gallery
+
+See also
+
+References
+
+General
+
+External links
+He-3 and He-4 phase diagrams, etc.
+Helium-3 phase diagram, etc. Archived 2004-10-12 at the Wayback Machine
+Onnes's liquifaction of helium
+Kamerlingh Onnes's 1908 article, online and analyzed on BibNum Archived 2018-02-18 at the Wayback Machine [for English analysis, click 'à télécharger']
+CERN's cryogenic systems.

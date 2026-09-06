@@ -90,6 +90,51 @@ snapshot takes a fraction of a second, and the gap grows with scale. The
 snapshot format starts with a magic number and a version, so a corrupt or
 outdated file is rejected on load.
 
+## Hybrid search
+
+BM25 finds lexical matches (shared words). Semantic search finds matches by
+meaning: an embedding model turns each document and the query into a dense
+vector, and cosine similarity ranks documents by how close their meaning is,
+even with no shared words. Hybrid search fuses both signals.
+
+Embeddings are produced offline in Python (that is where the ML model lives);
+the C++ engine loads the vectors and does the cosine search and fusion.
+
+```bash
+pip install -r embedder/requirements.txt
+python3 embedder/embed.py docs  --corpus data/corpus --out data/doc_emb.bin
+python3 embedder/embed.py query --text "how do machines learn" --out data/query.bin
+./build/search hybrid data/index.bin data/doc_emb.bin data/query.bin
+```
+
+The two ranked lists (BM25 and cosine) live on different score scales, so they
+are combined with Reciprocal Rank Fusion, which fuses by rank rather than by
+raw score and needs no normalization.
+
+## RAG answers
+
+On top of retrieval, the engine can produce a written answer with citations
+instead of just a list of links. This is Retrieval-Augmented Generation: fetch
+the most relevant documents, hand them to an LLM as the only allowed sources,
+and ask it to answer and cite them. Grounding the model in retrieved sources is
+what keeps the answer faithful instead of hallucinated.
+
+The C++ engine exposes a machine-readable `retrieve` mode; a Python script does
+the orchestration and the LLM call (default: a local Ollama server, no API key).
+
+```bash
+pip install -r rag/requirements.txt
+./build/search build data/corpus data/index.bin        # once
+# see the exact prompt without calling any model:
+python3 rag/answer.py "how does pagerank work" --dry-run
+# real answer (needs `ollama serve` and a pulled model):
+python3 rag/answer.py "how does pagerank work" --model llama3.2
+```
+
+The engineering that matters here is the retrieval underneath and the grounding
+in the prompt (answer only from the numbered sources, cite them, refuse if they
+do not cover the question), not the model itself.
+
 ## Roadmap
 
 1. Core IR: tokenizer, inverted index, BM25, CLI. Done.

@@ -1,0 +1,109 @@
+Delta wave
+Delta waves are high amplitude neural oscillations with a frequency between 0.5 and 4 hertz. Delta waves, like other brain waves, can be recorded with electroencephalography (EEG). They are usually associated with the deep stage 3 of NREM sleep, also known as slow-wave sleep (SWS), and aid in characterizing the depth of sleep. Suppression of delta waves leads to impaired body recovery, reduced brain restoration, and poorer sleep.
+
+Background and history
+"Delta waves" were first described in the 1930s by W. Grey Walter, who improved upon Hans Berger's electroencephalograph machine (EEG) to detect alpha and delta waves. Delta waves can be quantified using quantitative electroencephalography.
+
+Classification and features
+
+Delta waves, like all brain waves, can be detected by electroencephalography (EEG). Delta waves were originally defined as having a frequency between 1 and 4 Hz, although more recent classifications put the boundaries at between 0.5 and 2 Hz. They are the slowest and highest amplitude classically described brainwaves, although recent studies have described slower (<0.1 Hz) oscillations Delta waves begin to appear in stage 3 sleep, but by stage 4 nearly all spectral activity is dominated by delta waves. Stage 3 sleep is defined as having less than 50% delta wave activity, while stage 4 sleep has more than 50% delta wave activity. These stages have recently been combined and are now collectively referred to as stage N3 slow-wave sleep. During N3 SWS, delta waves account for 20% or more of the EEG record during this stage. Delta waves occur in all mammals, and potentially all animals as well.
+Delta waves are often associated with another EEG phenomenon, the K-complex. K-complexes have been shown to immediately precede delta waves in slow wave sleep.
+Delta waves have also been classified according to the location of the activity into frontal (FIRDA), temporal (TIRDA), and occipital (OIRDA) intermittent delta activity.
+
+Neurophysiology
+
+Sex differences
+Females have been shown to have more delta wave activity, and this is true across most mammal species.  This discrepancy does not become apparent until early adulthood (in the 30s or 40s in humans), with males showing greater age-related reductions in delta wave activity than females.
+
+Brain localization and biochemistry
+Delta waves can arise either in the thalamus or in the cortex. When associated with the thalamus, they are thought to arise in coordination with the reticular formation. In the cortex, the suprachiasmatic nuclei have been shown to regulate delta waves, as lesions to this area have been shown to cause disruptions in delta wave activity. In addition, delta waves show a lateralization, with right hemisphere dominance during sleep. Delta waves have been shown to be mediated in part by T-type calcium channels. During delta wave sleep, neurons are globally inhibited by gamma-aminobutyric acid (GABA).
+Delta activity stimulates the release of several hormones, including growth hormone releasing hormone GHRH and prolactin (PRL). GHRH is released from the hypothalamus, which in turn stimulates release of growth hormone (GH) from the pituitary. The secretion of (PRL), which is closely related to (GH), is also regulated by the pituitary. The release of thyroid stimulating hormone (TSH), is decreased in response to delta-wave signaling.
+
+Development
+Infants have been shown to spend a great deal of time in slow-wave sleep, and thus have more delta wave activity. In fact, delta-waves are the predominant waveforms of infants. Analysis of the waking EEG of a newborn infant indicates that delta wave activity is predominant in that age, and still appears in a waking EEG of five-year-olds. Delta wave activity during slow-wave sleep declines during adolescence, with a drop of around 25% reported between the ages of 11 and 14 years. Delta waves have been shown to decrease across the lifespan, with most of the decline seen in the mid-forties. By the age of about 75, stage four sleep and delta waves may be entirely absent.
+In addition to a decrease in the incidence of delta waves during slow-wave sleep in the elderly, the incidence of temporal delta wave activity is commonly seen in older adults, and incidences also increase with age.
+
+Disruptions and disorders
+Regional delta wave activity not associated with NREM sleep was first described by W. Grey Walter, who studied cerebral hemisphere tumors. Disruptions in delta wave activity and slow wave sleep are seen in a wide array of disorders. In some cases there may be increases or decreases in delta wave activity, while others may manifest as disruptions in delta wave activity, such as alpha waves presenting in the EEG spectrum. Delta wave disruptions may present as a result of physiological damage, changes in nutrient metabolism, chemical alteration, or may also be idiopathic.
+Disruptions in delta activity is seen in adults during states of intoxication or delirium and in those diagnosed with various neurological disorders such as dementia or schizophrenia.
+
+Temporal low-voltage irregular delta wave
+Temporal low-voltage irregular delta wave activity has been commonly detected in patients with ischemic brain diseases, particularly in association with small ischemic lesions and is seen to be indicative of early-stage cerebrovascular damage.
+
+Parasomnias
+Parasomnias, a category of sleep disorders, are often associated with disruptions in slow wave sleep. Sleep walking and sleep talking most often occur during periods of high delta wave activity. Sleep walkers have also been shown to have more hypersynchronous delta activity (HSD) compared to total time spent in stages 2, 3, and 4 sleep relative to healthy controls. HSD refers to the presence of continuous, high-voltage (> 150 μV) delta waves seen in sleep EEGs. Parasomnias which occur deep in NREM sleep also include sleep terrors and confusional arousals.
+
+Sleep deprivation
+Total sleep deprivation has been shown to increase delta wave activity during sleep recovery, and has also been shown to increase hypersynchronous delta activity.
+
+Parkinson's disease
+Sleep disturbances, as well as dementia, are common features of Parkinson's disease, and patients with this disease show disrupted brain wave activity. The drug Rotigotine, developed for the treatment of Parkinson's disease, has been shown to increase delta power and slow-wave sleep.
+
+Schizophrenia
+People with schizophrenia have shown disrupted EEG patterns, and there is a close association of reduced delta waves during deep sleep and negative symptoms associated with schizophrenia. During slow wave sleep (stages 3 and 4), people with schizophrenia have been shown to have reduced delta wave activity, although delta waves have also been shown to be increased during waking hours in more severe forms of schizophrenia.
+A recent study has shown that the right frontal and central delta wave dominance, seen in healthy individuals, is absent in patients with schizophrenia. In addition, the negative correlation between delta wave activity and age is also not observed in those with schizophrenia.
+
+Diabetes and insulin resistance
+Disruptions in slow wave (delta) sleep have been shown to increase risk for development of Type II diabetes, potentially due to disruptions in the growth hormone secreted by the pituitary. In addition, hypoglycemia occurring during sleep may also disrupt delta-wave activity. Low-voltage irregular delta waves, have also been found in the left temporal lobe of diabetic patients, at a rate of 56% (compared to 14% in healthy controls).
+
+Fibromyalgia
+Patients with fibromyalgia often report unrefreshing sleep. A study conducted in 1975 by Moldovsky et al. showed that the delta wave activity of these patients in stages 3 and 4 sleep were often interrupted by alpha waves. They later showed that depriving the body of delta wave sleep activity also induced musculoskeletal pain and fatigue.
+
+Alcoholism
+Alcoholism has been shown to produce sleep with less slow wave sleep and less delta power, while increasing stage 1 and REM incidence in both men and women. In long-term alcohol abuse, the influences of alcohol on sleep architecture and reductions in delta activity have been shown to persist even after long periods of abstinence.
+
+Temporal lobe epilepsy
+Slow waves, including delta waves, are associated with seizure-like activity within the brain.
+W. Grey Walter was the first person to use delta waves from an EEG to locate brain tumors and lesions causing temporal lobe epilepsy. Neurofeedback has been suggested as a treatment for temporal lobe epilepsy, and theoretically acts to reduce inappropriate delta wave intrusion, although there has been limited clinical research in this area.
+
+Other disorders
+Other disorders frequently associated with disrupted delta-wave activity include:
+
+Narcolepsy
+Depression
+Anxiety
+Obsessive–compulsive disorder
+Attention deficit hyperactivity disorder (ADHD) and its three subtypes.
+Juvenile chronic arthritis
+Postural orthostatic tachycardia syndrome (PoTS)
+Ehlers–Danlos syndromes
+Angelman syndrome
+
+Consciousness and dreaming
+Initially, dreaming was thought to only occur in rapid eye movement sleep, though it is now known that dreaming may also occur during slow-wave sleep. Delta waves and delta wave activity are marked, in most people, by an apparently unconscious state, and the loss of physical awareness as well as the "iteration of information".
+Delta wave activity has also been purported to aid in declarative and explicit memory formation.
+
+Pharmacology
+While most drugs that affect sleep do so by stimulating sleep onset, or disrupting REM sleep, a number of chemicals and drugs have been shown to alter delta wave activity.
+
+Delta sleep-inducing peptide, as the name suggests, induces delta wave EEG activity.
+Alcohol reduces SWS delta wave activity, thereby restricting the release of growth hormone (GH) by the pituitary.
+The muramyl peptide, muramyl dipeptide (MDP, N-acetylmuramyl-L-alanyl-D-isoglutamine) has been shown to increase delta wave activity during slow wave sleep.
+The drug gabapentin, a drug used to control epileptic seizures, increases delta-wave activity and slow wave sleep in adults.
+While hypnotics like zolpidem increase slow wave sleep, they do not increase delta wave activity, and instead increase spindle activity during slow wave sleep.
+Gamma-hydroxy butyrate (GHB) increases delta slow-wave sleep as well as sleep-related growth hormone (GH).
+Administration of high-dose nitrous oxide is associated with transient, large amplitude slow-delta oscillations.
+
+Effects of diet
+Diets very low in carbohydrates, such as a ketogenic diet, have been shown to increase the amount of delta activity and slow wave sleep in healthy individuals.
+
+See also
+Delta sleep-inducing peptide – NeuropeptidePages displaying short descriptions of redirect targetsPages displaying short descriptions with no spaces
+Electroencephalography – Electrophysiological method to record electrical activity of the brain
+K-complex – Waveform seen during stage 2 NREM sleep
+Sensorimotor rhythm – Oscillatory idle rhythm of synchronized electric brain activity
+slow-wave sleep – Period of sleep in humans and other animals
+Wolff–Parkinson–White syndrome – Abnormal heart rhythm due to  faulty electrical connections in the heart
+
+Brain waves
+Delta wave – 0.1–4 Hz
+Theta wave – 4–7 Hz
+Alpha wave – 8–12 Hz
+Mu wave – 7.5–12.5 Hz
+SMR wave – 12.5 – 15.5 Hz
+Beta wave – 16–31 Hz
+Gamma wave – 32–100 Hz
+
+References
+
+[[Amplitude integrated electroencephalography]] [[Attention deficit hyperactivity disorder]] [[Bereitschaftspotential]] [[Brainstem auditory evoked potential]] [[Bruxism]] [[Delirium]] [[Dementia]] [[Difference due to memory]] [[EEGLAB]] [[Early left anterior negativity]] [[Electrocorticography]] [[Electroencephalography]] [[Gamma wave]] [[K-complex]] [[Late positive component]] [[Mismatch negativity]] [[Mu wave]] [[N100]] [[N170]] [[N200 (neuroscience)]] [[N2pc]] [[N400 (neuroscience)]] [[Neural oscillation]] [[Neurofeedback]] [[Neurophysiological Biomarker Toolbox]] [[P200]] [[P3a]] [[P3b]] [[P50 (neuroscience)]] [[P600 (neuroscience)]] [[Parkinson's disease]] [[Polysomnography]] [[Quantitative electroencephalography]] [[Rapid eye movement sleep]] [[Sensorimotor rhythm]] [[Sleep cycle]] [[Sleep disorder]] [[Sleep spindle]] [[Slow-wave sleep]] [[Somatosensory evoked potential]]

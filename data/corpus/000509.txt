@@ -1,0 +1,29 @@
+FictionBook
+FictionBook is an open XML-based e-book format which originated and gained popularity in Russia. FictionBook files have the .fb2 or .fb3 filename extension, according to their version. All FB2/FB3 capable readers also support ZIP-compressed FictionBook files (.fb2.zip or .fbz).
+The FictionBook2 format describes the eBook's structure, rather than defining its layout. For example, there are special tags for epigraphs, verses and quotations. All eBook metadata, such as author name, title, and publisher are also present in the eBook file. This makes the format convenient for automatic processing, indexing, ebook collection management and allows for easy automated conversion into other formats.
+
+Software and hardware support
+FB2 is supported by e-book readers, such as FBReader, AlReader, Haali Reader, STDU Viewer, CoolReader, Okular, Ectaco jetBooks, Documents for iOS, and some others. Firefox can read FictionBook2 by installing the FB2 Reader extension. Many hardware vendors support FictionBook2 in their firmware: BeBook One, BeBook Mini and BeBook Club in Europe (and other Hanlin V3 and V5 based devices), all PocketBook Readers, COOL-ER devices, Cybook Opus and Cybook Gen3, and ASUS Eee Reader DR900. Devices based on the Hanvon N516 design can read FictionBook if a custom OpenInkpot firmware is installed; it is factory default for Azbooka 516. Amazon's Kindle, Barnes & Noble's Nook, and Sony devices do not support FictionBook directly.
+Conversion to and from FictionBook2 files (.fb2 and .fbz) is possible via the cross-platform eBook management software Calibre.  Conversion to and from FictionBook2 format is also available via Pandoc.
+
+FictionBook3
+
+FictionBook3 is a beta proposal to extend FictionBook2. In April 2017, LitRes announced its plans to bring a new “.fb3” format to the market. The new format was developed by LitRes Innovation at a cost equivalent to some US$10 million and is intended to answer a growing demand for high-quality ebooks in Russia, supporting complex layouts and large numbers of tables, lists, and illustrations. 
+FictionBook2 and FictionBook3 differ in two respects: FB2 consists of a single XML file, with pictures being embedded as base64-encoded "binary" blocks, thus removing the need for additional files. FB3 has a directory structure similar to that of the ePub format and incorporates the layout and embedding of multimedia content.
+FB3 adds layout capabilities and removes the need to embed pictures as Base64 encoded blocks, but for the most part stays true to the concept established with FB2.
+As of August 2025 there were no updates to the beta spec since 2008 and no popular e-book reader software supports it.
+
+See also
+List of e-book readers
+
+References
+
+https://opensource.com/education/15/11/ebook-open-formats
+https://www.publicbooks.org/books-after-the-death-of-the-book/
+https://publishingperspectives.com/2017/04/russia-litres-ebook-format-fb3/
+https://web.archive.org/web/20240521130856/https://ain.ua/ru/2023/09/11/ne-vse-znayut-chto-format-elektronnyh-knyg-fb2-eto-rossyjskaya-razrabotka/
+
+External links
+FictionBook 2.0 Specification
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

@@ -1,0 +1,19 @@
+Photoplotter
+A photoplotter is a specialized electro-opto-mechanical machine that exposes a latent image on a medium, usually high-contrast monochromatic (black-and-white) photographic film, using a light source being controlled by a computer. Once the film has been exposed, it must be processed before it is ready for use. Photoplotters are used primarily for industrial production of printed circuit boards (PCBs) and integrated circuit (IC) packaging.
+In the PCB industry, photoplotting is the first step of making photolithography masks for printed circuit boards.  These masks are called photoplots and are limited in resolution by the technology in use; in 1998, photoplots with resolvable details of 2.5 μm or more were possible. Integrated circuits are made in a similar fashion utilizing photomasks with sub-micrometer feature sizes; photomasks are traditionally made by photoreducing photoplotter output. 
+Other application of photoplotters include chemical milling and specialized graphic arts.
+
+History
+The first photoplotter was introduced by Gerber Scientific, Inc. in the 1960s. The company's file standard, the Gerber format for PCB files, eventually became an industry standard for describing the printed circuit board images such as the copper layers, solder mask and legend.
+Early machines used a xenon flash lamp, and projected an image mounted in a rotating aperture wheel onto the photosensitive surface of the film or glass plate. The imaging head assembly traversed over the surface of the media without touching it to produce draws and flashes. Draws are vectors or arcs created by continuous illumination as the imaging head moves over the photosensitive surface. A flash creates a single simple graphic in a location by shining light through an aperture of the appropriate shape at a fixed location.
+Modern photoplotters are generally raster-scan devices that use a laser beam focused to one or more spots, modulated at multi-megahertz rates to form the image.
+The most recent development related to photoplotting is laser direct imaging (LDI) which utilizes a high-power laser or xenon lamp to directly expose photoresist on a coated substrate instead of exposing photographic film. This eliminates the handling of photographic film.
+The input of photoplotters is a vector graphics file, typically in Gerber format.
+Manufacturers of photoplotters include Gerber Scientific, Orbotech and Ucamco.
+
+References
+
+External links
+Ronald B. Webster, Variable Aperture Photoexposure Device, 15 September 1970, 3 October 1972. Gerber variable shutter patent.
+
+[[Computer]] [[Gerber format]] [[Integrated circuit]] [[Photomask]]

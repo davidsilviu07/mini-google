@@ -1,0 +1,54 @@
+Michael S. Hart
+Michael Stern Hart (March 8, 1947 – September 6, 2011) was an American author credited with the invention of the e-book, and who founded Project Gutenberg (PG), the first project to make e-books freely available via the Internet.  He published e-books via ARPANET years before the Internet existed, and later on BBS networks and Gopher servers.
+Hart devoted his life after founding PG in 1971 to digitizing and distributing literature from works in the public domain with free and expired copyrights. The first e-books were typed in plain text format and published as text files; other formats were made available later. Hart typed most of the early e-books himself; later, volunteers expanded the project.
+
+Early life
+Michael Hart was born on March 8, 1947, in Tacoma, Washington. His father was an accountant and his mother, a former cryptanalyst during World War II, was a business manager at a retail store. In 1958 his family relocated to Urbana, Illinois, and his father and mother became college professors in Shakespearean studies and mathematics education, respectively. Hart attended the University of Illinois, graduating in just two years with a degree in Human-Machine Interfaces. He then attended but did not complete graduate school. He was also, briefly, a street musician.
+
+Project Gutenberg
+
+During Hart's time at the University of Illinois, the computer center gave Hart a user's account on its computer system; Hart's brother's best friend was the mainframe operator and gave an account with a virtually unlimited amount of computer time; its value at that time has since been variously estimated at $100,000 or $100,000,000. Although the focus of computer use there tended to be data processing, Hart was aware that it was connected to a network (part of what would become the Internet) and chose to use his computer time for information distribution. Hart related that after his account was created on July 4, 1971, he wanted to "give back" by doing something that could be considered to be of great value. He happened to have with him a copy of the United States Declaration of Independence, which he had been given at a grocery store after watching fireworks for the Independence Day celebration earlier that evening. He typed the text into the computer but was told that it would be unacceptable to transmit it to numerous people at once via e-mail. Thus, to avoid crashing the e-mail system, he made the e-text available for people to download.
+This was the beginning of Project Gutenberg as the first digital library. Hart began posting text copies of such classics as the Bible and the works of Homer, Shakespeare, and Mark Twain. As of 1987 he had typed in a total of 313 books in this fashion. Then, through being involved in the University of Illinois PC User Group and with assistance from Mark Zinzow, a programmer at the school, Hart was able to recruit volunteers and set up an infrastructure of mirror sites and mailing lists for the project. With this, the project was able to grow much more rapidly.
+
+The mission statements for the project were:
+
+"Encourage the Creation and Distribution of eBooks"
+"Help Break Down the Bars of Ignorance and Illiteracy"
+
+"Give As Many eBooks to As Many People As Possible"
+His overall outlook in the project was to develop in the least restrictive format possible: as worded in The Chronicle of Higher Education, to him, open access meant "open access without proprietary displays, without the need for special software, without the requirement for anything but the simplest of connections." His initial goal was to make the 10,000 most consulted books available to the public at little or no charge and to do so by the end of the 20th century.
+
+Other activities
+Hart was an author and his works are available free of charge on the Project Gutenberg server.  He was also a member of the RepRap Project, which aims at creating a self-replicating machine.
+Hart was involved in an early effort in 1993 to develop a free and openly accessible "Internet Encyclopedia", called "Interpedia". However, the effort did not go beyond the planning stage.
+
+Personal life
+Hart cobbled together a living with the money he earned as an adjunct professor and with grants and donations to Project Gutenberg. He supported himself by doing odd jobs and used an unpaid appointment at Illinois Benedictine College to solicit donations for the project. "I know that sounds odd to most people, but I just never bought into the money system all that much. I never spent it when I got it. It's all a matter of perspective". Hart's expenses were minimized by his habits of using home remedies, fixing his own house and car, and building computers, stereos, and other gear from discarded components.
+Hart died on September 6, 2011, of a heart attack at his home in Urbana, Illinois. He was 64.
+
+Writing style
+Michael Hart's email messages and blog posts had equal line length paragraphs in monospaced font: he chose the wording in such a way that each line had the same number of characters.
+Sample writing from his last newsletter that was distributed in July 2011:
+
+As many of you know, just 5 years ago or so Australia's
+Parliament voted a resolution to resist those copyright
+extensions that had recently taken place in the US, EU,
+and other locations, but only a few years later tumbled
+into line after a few rounds of economic warfare levied
+upon them by The Mouse or other long copyright holders.
+
+See also
+History of the Internet
+
+References
+
+External links
+Hart's personal page
+Hart's Online Writings
+Works by Michael Hart at Project Gutenberg
+Selected interviews
+
+Project Gutenberg's Founder, the Inventor of the eBook (Interview), Fried Beef, archived from the original on 2011-09-08, retrieved 2010-01-25.
+Michael Hart and Greg Newby (interview) (in Telugu), Pustakam.
+
+[[Digital library]] [[Mainframe computer]] [[Text file]]

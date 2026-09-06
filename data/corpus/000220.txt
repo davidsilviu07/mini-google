@@ -1,0 +1,54 @@
+Collabora Online
+Collabora Online (often abbreviated as COOL) is an open-source online office suite developed by Collabora, based on LibreOffice Online, the web-based edition of the LibreOffice office suite. It enables real-time collaborative editing of documents, spreadsheets, presentations, and vector graphics in a web browser. Optional applications are available for offline use on Android, ChromeOS, iOS, iPadOS, Linux distributions, macOS, and Windows. It supports the OpenDocument format and is compatible with other major formats, including those used by Microsoft Office. The Document Foundation (TDF), the nonprofit organization behind LibreOffice, states that a majority of the LibreOffice software development is done by its partners like Collabora.
+Collabora Online is an open-source alternative to proprietary cloud office platforms such as Google Workspace and Microsoft 365. Unlike these services, it can be self-hosted or hosted by third-party providers. The platform is marketed particularly toward enterprises and public institutions seeking greater digital sovereignty and independence from U.S.-based "big tech" companies.
+Collabora also develops Collabora Office, a standalone desktop and mobile app suite based on LibreOffice. Although Collabora Online has increasingly taken on a central role, both products may be used in parallel, similar to Microsoft Office and Microsoft 365. In November 2025, Collabora released Collabora Office Desktop and renamed the previous product Collabora Office Classic. The new product shares code with Collabora Online and brings the same user interface to the desktop on Linux, Windows and MacOS.
+A separate version, the Collabora Online Development Edition (CODE), is offered free of charge and is recommended for individuals, small teams, and developers. CODE provides early access to new features and serves as a testing and development platform for open-source community contributors. As TDF does not offer a free version of LibreOffice Online, CODE represents the primary freely available option for organizations and individuals interested in deploying LibreOffice in a web-based, collaborative setting.
+
+Applications
+Collabora Online includes several applications for document editing, available through the web-based interface and optional desktop and mobile apps:
+
+Collabora Writer – A word processor based on LibreOffice Writer, comparable to Microsoft Word and Google Docs. It supports WYSIWYG editing, styles, formatting tools, comment threads, and change tracking.
+Collabora Calc – A spreadsheet editor based on LibreOffice Calc, similar to Microsoft Excel and Google Sheets. Features include pivot tables, formulas, data validation, conditional formatting, advanced sorting and filtering, charts, and support for up to 16,000 columns. Compatible with some macros written in VBA.
+Collabora Impress – A presentation program based on LibreOffice Impress, comparable to Microsoft PowerPoint and Google Slides. It supports master slides, transitions, speaker notes, and multimedia elements.
+Collabora Draw is not always a separate application, most of the functionality of the Draw application is integrated in Writer and Impress – vector graphics editor based on LibreOffice Draw, comparable to Microsoft Visio and Google Drawings.
+
+Features
+Collabora Online can be accessed from modern web browsers without the need for plug-ins or add-ons. It supports real-time collaborative editing of word processing documents, spreadsheets, presentations, and vector graphics. Collaboration features include commenting, version tracking with document comparison and restoration, and integration with communication tools such as chat or video calls. These functions are often enabled through integration with enterprise open-source cloud platforms like Nextcloud, ownCloud, Seafile, EGroupware, GroupOffice and others. Collabora Online can also be embedded or integrated into a variety of third-party applications.
+Although client apps are not required to use the web-based suite, optional applications are available for offline use on Android, ChromeOS, iOS, iPadOS, Linux distributions, macOS, and Windows. These apps share the same LibreOffice-based core as the server version, ensuring document compatibility across platforms. Development of the LibreOffice core benefits both the online server and the client applications simultaneously. The mobile apps offer touch-optimized interfaces that adapt to different screen sizes and can be used offline, with optional integration into cloud storage services.
+Collabora Online supports OpenDocument formats (ODF; .odt, .odp, .ods, .odg) in accordance with ISO/IEC 26300. It is also compatible with Microsoft Office formats, including Office Open XML (.docx, .pptx, .xlsx) and legacy binary formats (.doc, .ppt, .xls). Additional supported formats include PDF, PNG, CSV, TSV, RTF, EPUB, and others. The suite can import a range of formats supported by LibreOffice, including Microsoft Visio and Publisher files, Apple Keynote, Numbers, and Pages files, as well as legacy formats used by Lotus 1-2-3, Microsoft Works, and Quattro Pro.
+The core of Collabora Online is written in C++ and utilizes LibreOfficeKit, a programming interface that enables reuse of much of LibreOffice's existing code for document saving, loading, and rendering. Collabora Online operates on the principle that documents remain on the server, with users viewing tile-rendered images of the document and sending their edits back to the server. The user interface is implemented in JavaScript. For file access and authentication with file hosting services, Collabora Online uses Microsoft's WOPI protocol, allowing compatibility with any service supporting Microsoft 365 integration.
+
+Server
+The server component can be self-hosted or deployed through third-party enterprise open-source cloud platforms, allowing organizations to maintain control over data and infrastructure. It is packaged for various Linux distributions, and also as a Docker image and as a   Kubernetes Helm chart. The server enables features such as in-browser document editing, file synchronization, and real-time communication.
+These third-party cloud platforms typically offer additional functionality comparable to services such as Dropbox, Google Workspace, Microsoft 365, or Zoom, including file sharing, calendars, email, contacts, chat, and video conferencing. Collabora Online can be integrated into these applications, as well as with other services such as learning management systems and enterprise content platforms, through open APIs and an SDK.
+
+Reception
+Various online and print publications have discussed Collabora Online. In December 2016 the technology website Softpedia mentioned the availability of collaborative editing in version 2.0 and the integration with ownCloud, Nextcloud, and other file synchronization and sharing solutions. In June 2020, ZDNET reported that Collabora Online would be included as the standard office suite in Nextcloud version 19, noting that direct document editing was added to the native video conferencing software Talk. The technology blog OMG! Ubuntu! covered the release of Collabora's Android and iOS apps, emphasizing their offline functionality. In September 2020, Linux Magazine compared Collabora Online with OnlyOffice, noting the flexibility and platform independence of both tools and highlighting Collabora's extensive feature set derived from LibreOffice.
+
+Digital sovereignty
+Collabora Online's open-source design and support for self-hosting have made it notable in discussions about digital sovereignty—the ability of users and organizations to control their own data. This is particularly relevant in Europe, where concerns about dependence on U.S.-based "big tech" companies and data privacy have grown in recent years.
+On 10th June 2025, Microsoft executives under oath in the French Senate admitted that they cannot guarantee data sovereignty and would be compelled to pass French (and by implication the wider European Union) information to the US administration if requested via a warrant or subpoena. The Cloud Act is a law that gives the US government authority to obtain digital data held by US-based tech corporations, irrespective of whether that data is stored on servers at home or on foreign soil.
+A 2020 briefing by the European Parliament highlighted risks associated with reliance on major technology companies that collect and exploit user data. Legal decisions such as the Schrems II ruling have further underscored these concerns. Several European government agencies have adopted private cloud solutions using Collabora Online and related platforms to enhance data security and maintain control over sensitive information.
+
+History
+The former LibreOffice development team from SUSE joined Collabora in September 2013, forming the subsidiary Collabora Productivity. In 2015 Collabora and IceWarp announced the development of an enterprise-ready version of LibreOffice Online to compete with Google Docs and Office 365 (now called Microsoft 365). In December 2015, the company's partnership with ownCloud and release of CODE (Collabora Online Development Edition) was announced on Joinup. In November 2016, Nextcloud announced their work and integration with v2.0 of CODE and their future work plans for improving performance, scalability, security and capabilities with Collabora Online. In October 2020, Collabora announced the move of its work on Collabora Online from The Document Foundation infrastructure to GitHub. A development version of Collabora Online is available called Collabora Online Development Edition (CODE).
+In 2026, TDF decided to renew works on LibreOffice Online. The action created rift and friction between Collabora and TDF. Eventually the friction escalate to the point that TDF decided to revoke all Collabora representatives in TDF.
+
+See also
+
+Comparison of office suites
+Comparison of word processors
+Comparison of spreadsheet software
+Collaborative software
+Online office suite
+Comparison of desktop publishing software
+List of desktop publishing software
+
+Notes
+
+References
+
+External links
+Official website
+
+[[Calligra]] [[Computing platform]] [[EPUB]] [[HTML]] [[Pages (word processor)]]

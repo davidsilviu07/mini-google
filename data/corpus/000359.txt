@@ -1,0 +1,48 @@
+Document management system
+A document management system (DMS) is a computerized system used to store, share, track and manage electronic files or documents. Some systems include version and revision tracking, where a history of the various versions created and modified by different users is recorded and stored. The term has some overlap with the concepts of content management systems. It is often viewed as a component of enterprise content management (ECM) and is related to product data management (PDM) systems, digital asset management, document imaging, workflow systems and records management systems.
+
+History
+Electronic document management systems emerged in the 1980s as organisations sought to digitise paper-based records and reduce reliance on physical filing infrastructure. Early systems were designed primarily for document imaging — scanning, indexing, and retrieving paper records in electronic form — and were largely limited to large enterprises and government agencies due to the cost and complexity of the technology involved. Systems such as FileNet, founded in 1982, began combining imaging with basic workflow capabilities, establishing the functional model that subsequent products would develop further.
+By the early 1990s, document management had become a distinct software category, with vendors introducing version control, access management, and full-text retrieval alongside the earlier imaging capabilities. The spread of personal computers and local area networks expanded adoption beyond specialist operators to knowledge workers more broadly; the unstructured nature of documents on distributed PC networks had exposed the absence of version control, audit trails, and access security, making dedicated document management systems increasingly necessary. As internet use became widespread through the late 1990s, user expectations around retrieval shifted considerably: rather than navigating folder hierarchies, users increasingly expected search-first interfaces, and capabilities including boolean queries, cluster analysis, and stemming became standard components of document management systems as a result.
+As organisations accumulated growing volumes of web content, email, and digital media, the scope of document management systems proved insufficient for the full range of unstructured information that enterprises needed to govern. This drove the consolidation of document management, records management, workflow, and imaging into broader platforms; the term Enterprise Content Management was introduced around 2000 and formalised by the Association for Intelligent Information Management (AIIM) in 2002.
+
+Components
+Document management systems provide storage, version control, metadata, audit trails, security and access controls, and more. Capabilities include: 
+
+Standardization
+Many industry associations publish their own lists of particular document control standards that are used in their particular field. Following is a list of some of the relevant ISO documents. Divisions ICS 01.140.10 and 01.140.20. The ISO has also published a series of standards regarding the technical documentation, covered by the division of 01.110.
+
+ISO 2709 Information and documentation – Format for information exchange
+ISO 15836 Information and documentation – The Dublin Core metadata element set
+ISO 15489 Information and documentation – Records management
+ISO 21127 Information and documentation – A reference ontology for the interchange of cultural heritage information
+ISO 23950 Information and documentation – Information retrieval (Z39.50) – Application service definition and protocol specification
+ISO 10244 Document management – Business process baselining and analysis
+ISO 32000 Document management – Portable document format
+ISO/IEC 27001 Information security, cybersecurity and privacy protection — Information security management systems
+
+Document control
+Government regulations typically require that companies working in certain industries control their documents. A Document Controller is responsible to control these documents strictly. These industries include accounting (for example: 8th EU Directive, Sarbanes–Oxley Act), food safety (for example the Food Safety Modernization Act in the US), ISO (mentioned above), medical device manufacturing (FDA), manufacture of blood, human cells, and tissue products (FDA), healthcare (JCAHO), and information technology (ITIL).
+Some industries work under stricter document control requirements due to the type of information they retain for privacy, warranty, or other highly regulated purposes. Examples include protected health information (PHI) as required by HIPAA or construction project documents required for warranty periods. An information systems strategy plan (ISSP) can shape organisational information systems over medium to long-term periods.
+Documents stored in a document management system—such as procedures, work instructions, and policy statements—provide evidence of documents under control. Failing to comply can cause fines, the loss of business, or damage to a business's reputation.
+Document control includes:
+
+reviewing and approving documents prior to release
+ensuring changes and revisions are clearly identified
+ensuring that relevant versions of applicable documents are available at their "points of use"
+ensuring that documents remain legible and identifiable
+ensuring that external documents (such as customer-supplied documents or supplier manuals) are identified and controlled
+preventing “unintended” use of obsolete documents
+These document control requirements form part of an organisation's compliance costs alongside related functions such as a data protection officer and internal audit.
+
+Integrated DM
+Integrated document management comprises the technologies, tools, and methods used to capture, manage, store, preserve, deliver and dispose of 'documents' across an enterprise. In this context 'documents' are any of a myriad of information assets including images, office documents, graphics, and drawings as well as the new electronic objects such as Web pages, email, instant messages, and video.
+
+Document management software
+Paper documents have long been used in storing information. However, paper can be costly and, if used excessively, wasteful. Document management software is not simply a tool but it lets a user manage access, track and edit information stored. Document management software is an electronic cabinet that can be used to organize all paper and digital files. The software helps the businesses to combine paper to digital files and store it into a single hub after it is scanned and digital formats get imported. One of the most important benefits of digital document management is a “fail-safe” environment for safeguarding all documents and data. In the heavy construction industry specifically, document management software allows team members to securely view and upload documents for projects they are assigned to from anywhere and at any time to help streamline day-to-day operations.
+
+See also
+
+References
+
+External links

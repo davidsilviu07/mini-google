@@ -1,0 +1,25 @@
+MOSIS
+MOSIS (Metal Oxide Semiconductor Implementation Service) is multi-project wafer service that provides metal–oxide–semiconductor (MOS) chip design tools and related services that enable universities, government agencies, research institutes and businesses to prototype chips efficiently and cost-effectively.
+Operated by the University of Southern California's Information Sciences Institute (ISI), MOSIS combines customers' orders onto shared multi-project wafers that speed production and reduce costs compared with underutilized single-project wafers. Customers are able to debug and adjust designs, or to commission small-volume runs, without making major production investments. Fabrication costs are also shared by combining multiple designs from a single customer onto one "mask set," or wafer template. According to MOSIS, by the end of 2016, the service had delivered more than 60,000 integrated circuit designs.
+Funded by DARPA, MOSIS was created in 1980 by ISI's Danny Cohen, an Internet pioneer who also developed Voice over Internet Protocol and Video over Internet Protocol. It was based on the revolutionary VLSI design methodology of Carver Mead and Lynn Conway, who pioneered and/or popularized the use of technology-independent design rules and modular cell-based, hierarchical system design, testing this new approach to rapid prototyping and short-run fabrication at Xerox PARC. One of the first e-commerce providers, MOSIS also launched the "fabless foundry" industry, in which vendors outsource chip fabrication rather than manufacturing them in-house. Thousands of students also have learned chip design in MOSIS-associate programs.
+Many early MOSIS users were students trying IC layout techniques from the seminal book  Introduction to VLSI Systems (ISBN 0-201-04358-0) published in 1980 by Caltech professor Carver Mead and PARC researcher Lynn Conway, who taught the world's first VLSI class at MIT. Some early reduced instruction set computing (RISC) processors such as MIPS (1984) and SPARC (1987) were run through MOSIS during their early design and testing phases.
+
+MOSIS in the 1980s
+After the transfer of Xerox PARC's multi-project wafer (MPW) technology to USC/ISI, the MOSIS Project was created, and the first trial run conducted in August 1980:
+In August 1980 MOSIS accepted designs for the first fabrication run using the software developed for automatic interaction with users. This run had 65 projects submitted by designers from 8 organizations: ISI, UCLA, Caltech, Jet Propulsion Laboratory, Stanford University, National Institute of Standards and Technology, Carnegie Mellon University, and Washington University in St. Louis. These projects were packed into 18 dies on the wafer.
+The service became operational in January 1981, with 5-micron nMOS as the first fabrication technology offered; designs were submitted in Caltech Intermediate Form via the ARPANET. By 1983, more than forty organizations were using the service.  Chips were returned to designers approximately a month after the close of a fabrication run.
+Over the course of the 1980s, more than 12,000 projects were fabricated through the MOSIS service. After the initial 5-micron, 1-metal layer nMOS service, new technologies were introduced, advancing to 1.2-micron, 2-metal layer CMOS by 1988. At the end of the 1980s, gallium arsenide (GaAs) fabrication service was added. 
+
+Notes
+
+See also
+Mead and Conway revolution
+
+References
+
+External links
+MOSIS web site
+foveon.com - Foveon - Executive Profiles (archived from 2005)
+NSF Integrated Circuit Research, Education and Workforce Development Workshop Final Report
+
+[[Carver Mead]] [[Institute of Electrical and Electronics Engineers]] [[Integrated circuit]] [[Lynn Conway]] [[Photomask]] [[Semiconductor device fabrication]] [[Wafer (electronics)]]

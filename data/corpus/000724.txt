@@ -1,0 +1,41 @@
+Model V
+The Model V was among the early electromechanical general purpose computers, designed by George Stibitz and built by Bell Telephone Laboratories and became operational in 1946.
+Only two machines were built: first one was installed at National Advisory Committee for Aeronautics (NACA, later NASA), the second (1947) at the US Army’s Ballistic Research Laboratory (BRL).
+
+Construction
+Design was started in 1944. The tape-controlled (Harvard architecture) machine had two (design allowed for a total of six) processors ("computers") that could operate independently, an early form of multiprocessing.
+The Model V weighed about 10 short tons (9.1 t).
+
+Significance
+Inspired Richard Hamming to investigate the automatic error-correction, which led to invention of Hamming codes
+One of the early electromechanical general purpose computers
+First American machine and first George Stibitz design to use floating-point arithmetic
+Had an early form of multiprocessing
+Had a very primitive form of an operating system, albeit in hardware. A separate hardware control unit existed to direct the sequence of computer operations.
+
+Model VI
+Built and used internally by Bell Telephone Laboratories, operational in 1949.
+Simplified version of the Model V (only one processor, about half the relays) but with several improvements, including one of the earliest use of the microcode.
+
+Bibliography
+Research, United States Office of Naval (1953). A survey of automatic digital computers. Models V and VI. Office of Naval Research, Dept. of the Navy. pp. 9–10 (in reader: 15–16).
+"The relay computers at Bell Labs : those were the machines, part 2". Datamation. The relay computers at Bell Labs : those were the machines, parts 1 and 2 | 102724647 | Computer History Museum. part 2: pp. 47, 49. May 1967.
+Irvine, M. M. (July 2001). "Early digital computers at Bell Telephone Laboratories". IEEE Annals of the History of Computing. 23 (3): 25–27. doi:10.1109/85.948904. ISSN 1058-6180. pdf
+Kaisler, Stephen H. (2016). "Chapter Three: Stibitz's Relay Computers". Birthing the Computer: From Relays to Vacuum Tubes. Cambridge Scholars Publishing. pp. 35–37. ISBN 9781443896313.
+"Г. – Bell Labs – Model V" [G. – Bell Labs – Model V]. oplib.ru (in Russian). Archived from the original on September 29, 2022. Retrieved 2017-10-11.
+
+Further reading
+Alt, Franz L. (1948). "A Bell Telephone Laboratories' computing machine. I". Mathematics of Computation. 3 (21): 1–13. doi:10.1090/S0025-5718-1948-0023118-1. ISSN 0025-5718.
+Alt, Franz L. (1948). "A Bell Telephone Laboratories' computing machine. II". Mathematics of Computation. 3 (22): 69–84. doi:10.1090/S0025-5718-1948-0025271-2. ISSN 0025-5718.
+Tomash, Erwin (2008). "The Erwin Tomash Library on the History of Computing: An Annotated and Illustrated Catalog". www.cbi.umn.edu. CBI Hosted Publications. Image: Bell Labs Model V.drawing of Model V, description: A Chapter, pp. 36-37. Retrieved 2018-05-08.
+Andrews, Ernest G. (1949-09-01). "The Bell Computer, Model VI". Proceedings of a Second Symposium on Large-scale Digital Calculating Machinery: 20–31 (58–69).
+"Bell Laboratories Digital Computers". Bell Laboratories Record. www.americanradiohistory.com. XXXV (3): 81–84. Mar 1957.
+Ceruzzi, Paul E. (1983). "4. Number, Please - Computers at Bell Labs". Reckoners: The Prehistory of the Digital Computer, from Relays to the Stored Program Concept, 1935-1945. Greenwood Publishing Group, Incorporated. pp. 95–99. ISBN 9780313233821.
+Bullynck, Maarten (2015). "3. Bell Model V Calculator: Tapes and Controls". Programming men and machines. Changing organisation in the artillery computations at Aberdeen Proving Ground (1916-1946). pp. 9–12.
+
+References
+
+External links
+"Control Panel, Bell Telephone Laboratories Model 5 Computer". National Museum of American History.
+
+[[Central processing unit]] [[Computer]] [[Computer hardware]] [[Donald Knuth]] [[Electromechanics]] [[Floating-point arithmetic]]

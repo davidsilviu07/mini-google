@@ -1,0 +1,27 @@
+Pallidotomy
+Pallidotomy is a neurosurgical procedure. It is used to treat Parkinson's disease and some other conditions, often as an alternative to deep brain stimulation. It involves placing a tiny electrical probe in the globus pallidus, one of the basal ganglia of the brain, to damage it. Unilateral pallidotomy can cause side effects including problems with language learning, visuospatial constructional ability, and executive functions. Bilateral pallidotomy is not effective, with many severe side effects.
+
+Uses
+
+Rationale
+The internal globus pallidus can be regarded as an "output structure" of the basal ganglia. It processes input from nucleus accumbens and the striatum, and sends input to the cerebral cortex via the thalamus. It is critical for the functioning of the basal ganglia.
+
+Parkinson's disease
+Pallidotomy is an alternative to deep brain stimulation for the treatment of the involuntary movements known as dyskinesias which can become a problem in people with Parkinson's disease after long-term treatment with levodopa — a condition known as levodopa-induced dyskinesia. Whilst it used to be used a primary treatment for Parkinson's disease, it has been mainly replaced by levodopa.
+
+Other conditions
+Pallidotomy may sometimes used to treat difficult cases of essential tremor as an alternative to deep brain stimulation. It may also be used for dystonia, and hemiballismus.
+
+Complications
+Unilateral posteroventral pallidotomy can be effective at reducing Parkinsonism. However, it is associated with impaired language learning (if performed on the dominant hemisphere) or impaired visuospatial constructional ability (if performed on the non-dominant hemisphere). It can also impair executive functions. Bilateral pallidotomy will not reduce Parkisonistic symptoms. It will cause severe apathy and depression, along with slurred, unintelligible speech, drooling, and pseudobulbar palsy.
+The surgery itself can cause complications. Damage to a blood vessel may cause intracranial haemorrhage. Damage to the optic tract can cause a permanent vision problem. Pressure on brain tissue can induce a seizure.
+
+Technique
+Pallidotomy involves placing a tiny electrical probe in the globus pallidus, one of the basal ganglia of the brain. A craniotomy (temporary hole in the skull) needs to be created. The probe is guided based on stereotactic information, and sometimes magnetic resonance imaging. The globus pallidus is heated for a short time to destroy a small area of brain cells.
+
+History
+Pallidotomy has been used to treat Parkinson's disease since at least the 1950s. Older techniques involved occluding the anterior choroidal artery, with lower success rates and more side effects.
+
+References
+
+[[Amygdalohippocampectomy]] [[Anterior temporal lobectomy]] [[Bilateral cingulotomy]] [[Brain biopsy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral cortex]] [[Cerebral shunt]] [[Cerebrum]] [[Clinical prediction rule]] [[Computed tomography of the head]] [[Cordotomy]] [[Corpus callosotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Hypophysectomy]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure monitoring]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Medical specialty]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[Myelography]] [[National Institutes of Health Stroke Scale]] [[Parkinson's disease]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Psychosurgery]] [[Seizure]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Suboccipital puncture]]

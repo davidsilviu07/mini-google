@@ -1,2 +1,0 @@
-Machine Learning
-Machine learning is a field of artificial intelligence. Models learn patterns from data. A modern [[Search Engine]] uses machine learning to rerank results, often on top of [[BM25 Ranking]].

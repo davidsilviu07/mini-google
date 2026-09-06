@@ -1,0 +1,174 @@
+Electronic voting in Canada
+Federal elections use hand-counted paper ballots.  Provincial elections use paper ballots, some provinces have introduced computer ballot counting (vote tabulators), and the Northwest Territories has experimented with Internet voting for absentee voting.  Paper ballots with computer vote tabulators have been used since at least the 1990s at the municipal level.
+A federal committee has recommended against national Internet voting.  Committee reports and analysis from Nova Scotia, New Brunswick, Quebec, Ontario, and British Columbia have all recommended against provincial Internet voting.
+Elections Quebec has studied Internet voting and wants to continue to do so.
+Some municipalities in Ontario and Nova Scotia provide Internet voting.
+There are no Canadian electronic voting standards.
+
+Federal
+There is no electronic or online voting in Canadian federal elections.  Paper ballots are hand-counted.
+For national elections, there is a uniform set of standards for voting.
+This governing law is the Canada Elections Act.
+The Act is c. 9, assented to (made law) 31 May 2000.
+It has been amended several times since 2000.  In 2014, it was amended (2014, c. 12, s. 8.) to require the prior approval of a majority in both the Senate and House of Commons for electronic voting, rather than just Senate and House committees.
+The relevant provision applying to electronic voting is:
+PART 2 CHIEF ELECTORAL OFFICER AND STAFF
+
+Alternative voting process
+18.1 The Chief Electoral Officer may carry out studies on voting, including studies respecting alternative voting processes, and may devise and test an alternative voting process for future use in a general election or a by-election. Such a process may not be used for an official vote without the prior approval of the committees of the Senate and of the House of Commons that normally consider electoral matters or, in the case of an alternative electronic voting process, without the prior approval of the Senate and the House of Commons.
+
+Federal Initiative to Increase Voter Turnout
+It was reported that 'Elections Canada hoped to test web voting by 2013, beginning with a byelection.  "The general philosophy is to take the ballot box to the voter," says Mayrand, Canada's chief electoral officer.'
+Elections Canada released a report requesting approval to conduct an "electronic voting test-run in a byelection by 2013".
+The tests of online voting never took place.
+
+2010 Federal Dialogue on Internet Voting
+On 26 January 2010, Elections Canada, in conjunction with partners organised The Canada-Europe Transatlantic Dialogue (Strategic Knowledge Cluster) - Internet Voting: What Can Canada Learn?  Examples of Internet voting from Europe and from Canadian municipalities were presented.
+
+2016 Federal Consultation on Electoral Reform, Including Online Voting
+
+On 7 June 2016, the House of Commons created a Special Committee on Electoral Reform. The committee was charged "to identify and conduct a study of viable alternate voting systems to replace the first-past-the-post system, as well as to examine mandatory voting and online voting".  The committee's report was issued 1 December 2016 and recommended against online voting.
+In parallel with the committee, starting 26 August 2016, the then Minister of Democratic Institutions Maryam Monsef conducted a cross-country consultation tour on the same topics.  The in-person consultation was followed with a Minister of Democratic Institutions online consultation that launched 5 December 2016.
+
+2017 Statement from Elections Canada
+The statement "Elections Canada has no plans to introduce electronic casting or counting of votes.  Polling places will continue using paper ballots, marked and counted by hand." is included in an advanced notice of proposed procurement for Electronic Polls Books issued 2 March 2017.
+
+2017 Government of Canada Statement Confirming No National Online Voting
+On 3 April 2017, the Government of Canada responded to the recommendations of the Special Committee on Electoral Reform, and accepted the recommendation against online voting, stating, "We will not implement online voting at this time."
+
+2017 Communications Security Establishment Report and Minister of Democratic Institutions Mandate Letter
+Released 1 February 2017, the Mandate Letter for incoming Minister of Democratic Institutions Karina Gould signaled concern about cyber threats to the Canadian electoral process:
+
+In collaboration with the Minister of National Defence and the Minister of Public Safety and Emergency Preparedness, lead the Government of Canada’s efforts to defend the Canadian electoral process from cyber threats. This should include asking the Communications Security Establishment (CSE) to analyze risks to Canada’s political and electoral activities from hackers, and to release this assessment publicly. As well, ask CSE to offer advice to Canada’s political parties and Elections Canada on best practices when it comes to cyber security.
+
+On 16 June 2017, the Communications Security Establishment released the report indicated in the Minister's Mandate Letter.  The report is entitled Cyber Threats to Canada's Democratic Process.  The report states that multiple types of adversaries are targeting Canada, including nation-states and cybercriminals.  It finds that federal elections are well-protected due to being conducted on paper with good control measures.
+
+Federal elections are largely paper-based and Elections Canada has a number of legal, procedural, and information technology measures in place, which mitigate cyber threats. 
+
+2020 Elections Canada Statement on Impact of COVID-19 on the ways to vote
+On 26 May 2020, Elections Canada released a statement about voting during the COVID-19 pandemic, including a statement about Internet voting.
+
+At this point, Elections Canada is not considering introducing internet voting. Implementing such a change would require significant planning and testing in order to ensure that the agency preserves certain aspects of the vote, including confidentiality, secrecy, reliability, and integrity. Given the current operational and time constraints, this option cannot be explored properly at this time.
+
+Provincial
+Each province can choose its own voting machines and standards.
+
+Alberta
+Alberta does not permit the use of Internet voting in provincial elections.
+
+British Columbia
+British Columbia does not permit the use of Internet voting in provincial elections.  A February 2014 Independent Panel on Internet Voting recommended: "Do not implement universal Internet voting for either local government or provincial government elections at this time."  The October 2014 Report of the Chief Electoral Officer indicated "Elections BC endorses the recommendations of the Independent Panel on Internet Voting".
+
+New Brunswick
+It was reported in the Globe and Mail on 13 May 2004, that "New Brunswick's chief electoral officer is reviewing the possibility of using electronic voting machines on a wide basis."
+New Brunswick used vote counting computers in 2014 and encountered problems, but did not expect to change the system in 2018.
+
+2016-2017 Commission on Electoral Reform
+On 5 July 2016, the governing Liberals tabled a discussion on electoral paper in the legislature and signaled the formation of a Commission on Electoral Reform.  The discussion paper included online voting as one of the ideas.
+On 9 November 2016, the five electoral reform commissioners were announced.
+The Commission on Electoral Reform held public meetings in January 2017.
+The Commission report recommended against online voting.  The recommendations from the Commission on Electoral Reform were submitted to the clerk of the Executive Council on 1 March 2017.
+
+Nova Scotia
+Nova Scotia does not permit the use of Internet voting in provincial elections, with the exception of military members deployed outside of Nova Scotia.
+In a 2013 report, the Election Commission of Nova Scotia concluded that "it is premature to entertain either Internet-based or telephone voting options at this time."
+Revisions to the Nova Scotia Elections Act on 6 May 2021, enable Elections Nova Scotia to provide internet voting to military members deployed outside of Nova Scotia.  On 13 May 2021 Elections Nova Scotia issued a Request for Proposals for an Internet Voting Solution for Nova Scotia Members of the Canadian Armed Forces.
+In Election Readiness Update 3, released 29 April 2021, Chief Electoral Officer Richard Temporale stated, "While we are preparing to have an internet voting solution on the shelf for Canadian military stationed outside of the province, it has not been my intent, nor the election commission’s advice, that it’s [sic] use be extended to other groups of voters."
+
+Ontario
+Ontario does not permit the use of Internet voting in provincial elections.
+A three-year study of "network voting" concluded in 2013: "At this point, we do not have a viable method of network voting that meets our criteria and protects the integrity of the electoral process."
+Ontario piloted electronic vote counting in a provincial byelection in 2016. They spent $32 million, and electronic vote counting took one hour less than hand counting. They expect to use it province-wide in 2018 and hire only 55,000 poll workers, instead of 100,000, but costs will still rise from $78 million to $126 million. "The public has an expectation as a modern society to expect modern services and this is what we’re trying to do," said a spokeswoman for Elections Ontario.
+
+Prince Edward Island
+In Prince Edward Island's 2016 plebiscite on electoral reform residents were able to cast their vote in-person, online, or by touch-tone telephone.  This was the first time a provincial plebiscite offered online and telephone voting options.
+
+Quebec
+Quebec does not permit the use of Internet voting or electronic voting.
+On 24 October 2006 the Chief Electoral Officer of Quebec released a report (in French only) "Report on the Evaluation of New Methods of Voting".  In a press release, three root causes of problems with electronic voting machines in the 2005 municipal elections were identified:
+
+an imprecise legislative and administrative framework
+absence of technical specifications, norms, and standards
+poor management of voting systems (especially lack of security measures)
+He recommended that the moratorium on the use of these systems be maintained, and left it up to the provincial legislature to decide whether or not to use electronic voting in the future. The moratorium remains in place.
+
+Municipal
+Each municipality can choose its own voting machines and standards, although, in some provinces, municipalities must follow provincial standards and regulations.  For more information about the elections themselves, see Municipal elections in Canada.  Ontario and Nova Scotia permit municipal Internet voting, upon approval by individual city councils.
+
+Alberta
+As of 2013, Alberta does not support the use of online voting in municipal elections.
+Edmonton, Alberta offered touch-screen voting machines for advance voting in 2004.
+
+British Columbia
+On 1 January 2018, Vancouver entered into an agreement with Dominion Voting Systems Corporation for voting tabulation and software and related services and supplies.
+
+New Brunswick
+Saint John, New Brunswick used optical scanning machines in the 2004 municipal election.
+
+Nova Scotia
+
+2016 Municipal Elections
+20 communities used Internet voting as a voting method in the 2016 Nova Scotia municipal elections.
+Internet and telephone voting combined turnout in Halifax dropped by more than 10,000 compared to 2012. The internet and telephone voting system was contracted to the Spanish company Scytl and the Canadian company Intelivote Systems.
+Digby, Nova Scotia (population approximately 2,000) offered only Internet and telephone as voting options; no paper ballots.
+
+2012 Municipal Elections
+16 communities with a combined population of 490,490 used Internet voting as a voting method in the 2012 Nova Scotia municipal elections.
+Digby, Nova Scotia (population approximately 2,000) offered only Internet and telephone as voting options; no paper ballots.
+
+2008 Municipal Elections
+4 communities with a combined population of 284,768 used Internet voting as a voting method in the 2008 Nova Scotia municipal elections.
+In the 2008 Halifax Regional Municipality municipal election, residents of the Halifax Regional Municipality had the option of advance voting over the Internet.  Voters received a PIN in a letter sent specifically in their name to their address, and needed the PIN plus their date of birth to identify themselves to the system.
+
+Ontario
+See Municipal elections in Ontario for a list of elections.
+
+2018 Municipal Elections
+Over 150 municipalities in Ontario conducted their elections primarily online, with physical polling stations either abandoned entirely or limited to only a few central polling stations for voters who could not or did not want to vote online. Municipalities contracted with election companies, including Intelivote Systems, Dominion Voting Systems and Simply Voting Inc.  Voters used a PIN number to identify themselves.
+On election day, 51 of these municipalities, all of which had selected Dominion Voting Systems as their online voting contractor, were affected by a technical failure. Dominion subcontracted processing to another company (colocation centre), which capped internet connections in the early evening, without authorization from or consultation with Dominion. They could not handle the early evening increase in voting traffic, thus making it impossible for many voters to get through to the server between 5:00 and 7:30 p.m. All of the affected municipalities extended voting for at least a few hours to compensate for the outage; several, including Pembroke, Waterloo, Prince Edward County and Greater Sudbury, opted to extend voting for a full 24 hours into the evening of 23 October.
+
+2014 Municipal Elections
+97 communities (out of a potential 414 that ran elections) used Internet voting as a voting method.
+Leamington, Ontario (population approximately 28,000) provided Internet voting as the only option in the 2014 municipal election; no paper ballots.
+Coburg, Ontario (population approximately 18,000) provided only Internet and telephone voting in 2014; no paper ballots.
+
+2010 Municipal Elections
+44 communities with a combined population of 800,887 used Internet voting as a voting method in the 2010 Ontario municipal elections.
+CTV reported that 33 municipalities used the Intelivote Internet and telephone voting system.  "The online and telephone voting system was used by 33 municipalities, causing several problems across the region."  Other municipalities extended their voting period by one hour.
+In the Huntsville, Ontario election there was Internet voting provided by Canadian company Intelivote.  There was an error in sending some of the PINs out by postal mail; as a result, replacement PINs were mailed out.
+Arnprior, Ontario provided Internet and telephone voting and was forced to extend voting by a further 24 hours due to problems with people logging into the Intelivote system. The issue was traced to a hardware failure of one of the servers due to higher than expected load.
+Coburg, Ontario (population approximately 18,000) provided only Internet and telephone voting in 2010; no paper ballots.
+
+2006 Municipal Elections
+20 communities with a combined population of 397,537 used Internet voting as a voting method in the 2006 Ontario municipal elections.
+In an effort to address accessibility issues Kingston, Ontario offered touch-screen voting machines for advance voting in 2006 supplied by Diebold Election Systems.  Diebold Election Systems became Premier Election Solutions, whose primary assets have been purchased by Dominion Voting Systems.
+Peterborough, Ontario introduced Internet voting in 2006 in addition to the more traditional methods.
+In 2006, Markham again used Internet voting and experienced a 48% growth in online voting.
+
+2003 Municipal Elections
+12 communities with a combined population of 255,837 used Internet voting as a voting method in the 2003 Ontario municipal elections.
+The Ottawa municipal elections have used optical scan machines since at least 2003.
+Markham, Ontario introduced an Internet voting system in 2003.  The system was supplied by US company Election Systems & Software at a cost of $25,000.
+Windsor, Ontario used touch-screen balloting in a 2002 by-election and in the 2003 Ontario Municipal Election, but only at their advance polls.
+
+Previous Elections
+Since 1988, the City of St. Catharines has been using optical scan voting technology for tabulating votes during the Municipal Elections.
+Jonathon Hollins, Canadian director of Election Systems & Software reports that "Voting on standalone touch-screen machines (Direct Recording Electronics), ... which also caters to the visually-impaired through an audio ballot, has been used in municipal elections held in Toronto, 
+Edmonton, and the Ontario cities of Vaughan, Brantford, Oakville and Mississauga.
+A 2000 year-end report from Global Election Systems (formerly called Diebold Election Systems and now called Premier Election Solutions) states "Global reports add-on sales of 60 AccuVote systems to the City of Ottawa and 70 to the City of Hamilton as well as first-time sales of 60 AccuVote-TS systems to the City of Barrie".
+
+Quebec
+Quebec held municipal elections in 2005.  Numerous problems were reported with the voting machines used, and Pierre Bourque of Vision Montreal called for some re-votes.  Approximately one year later, the Quebec Chief Electoral Officer released a report highly critical of the systems and processes used.
+As a result of the report, a moratorium on the use of electronic voting in municipal elections has been in place in Quebec since 2006.
+
+See also
+Canada Elections Act
+
+References
+
+External links
+Rapport d'évaluation des nouveaux mécanismes de votation Archived 2 April 2012 at the Wayback Machine Directeur général des élections du Québec (octobre 2006)
+Discussion Paper on Internet Voting 2011 Elections BC
+Paper Vote Canada 2 a blog about electronic voting issues in Canada
+
+[[Dominion Voting Systems]] [[Election Systems & Software]] [[Premier Election Solutions]]

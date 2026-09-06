@@ -1,0 +1,120 @@
+David Sulzer
+David Sulzer (born November 6, 1956) is an American neuroscientist and musician. He is a professor at Columbia University Medical Center in the departments of psychiatry, neurology, and pharmacology. Sulzer's laboratory investigates the interaction between the synapses of the cerebral cortex and the basal ganglia, including the dopamine system, in habit formation, planning, decision making, and diseases of the system.  His lab has developed the first means to optically measure neurotransmission, and has introduced new hypotheses of neurodegeneration in Parkinson's disease, and changes in synapses that produce autism  and habit learning.
+Under the stage name Dave Soldier, he is known as a composer and musician in a variety of genres including avant-garde, classical, and jazz. The intersection between these careers was detailed in a 2023 New Yorker profile.
+
+Scientific contributions
+
+Studies on synapses
+Sulzer works on basal ganglia and dopamine neurons, brain cells of central importance in translating will to action. His team have introduced new methods to study synapses, including the first means to measure the fundamental "quantal" unit of neurotransmitter release from central synapses. They reported the first direct recordings of quantal neurotransmitter release from brain synapses using an electrochemistry technique known as amperometry, based on the method of Mark Wightman, a chemist at the University of North Carolina, to measure release of adrenaline from adrenal chromaffin cells. They showed that the quantal event at dopamine synapses consisted of the release of  about 3,000 dopamine molecules in about 100 nanoseconds. They further showed that the quantal events could "flicker" due to extremely rapid opening and closing of the a synaptic vesicle fusion pore (at rates as high as 4,000 times a second) with the plasma membrane. This approach also demonstrated that the "size" of the quanta could be altered in numerous ways, for example by the drug L-DOPA, a drug so used to treat Parkinson's disease.
+Sulzer's lab, together with that of Dalibor Sames, a chemist at Columbia University, introduced "fluorescent false neurotransmitters", compounds that accumulated like genuine neurotransmitters into neurons and synaptic vesicles. This is used to observe neurotransmitter release and reuptake from individual synapses in video. Sulzer, along with his mentor Stephen Rayport, showed that the neurotransmitter glutamate is released from dopamine neurons, an important exception to the Dale's principle that a neuron releases the same transmitter from each of its synapses.
+
+Addictive drugs
+By introducing the "weak base hypothesis" of amphetamine action, for measuring amphetamine's effects on the quantal size of dopamine release, intracellular patch electrochemistry to measure dopamine levels in the cytosol, and providing real-time measurement of dopamine release by reverse transport, Sulzer's lab showed how amphetamine and methamphetamine release dopamine and other neurotransmitters and exert their synaptic and clinical effects. They showed how methamphetamine neurotoxicity occurs due to dopamine-derived oxidative stress in the cytosol followed by induction of autophagy, and with Nigel Bamford of the University of Washington, how these drugs activate long-term changes in the cortical synapses that project to the striatum. They call these "chronic postsynaptic depression" and "paradoxical presynaptic potentiation", which may explain drug dependence and addiction.
+Sulzer explains in an interview on NOVA that his interest in understanding mechanisms of addiction stem from crashing a talk by William Burroughs at Naropa Institute in 1980, where Burroughs claimed that new synthetic opiates would be so powerful that users would become addicts with a single dose. In an interview in Nature Medicine on his lab's discovery of the mechanism by which nicotine filters synaptic noise and can focus attention to tasks, he recalls his father's early death due to smoking, saying "if some idiot or drug company is going to twist things around, the only thing that would come out of [this research] that I'd be horrified by is if people used it to advocate smoking. I think it would be a real travesty if that happened."
+
+Neurological and psychiatric disease
+Sulzer and his lab also studied nerve impulses in Parkinson's and Huntington's diseases, schizophrenia, drug addiction, and autism. They helped to establish the role of autophagy by lysosomes in neuronal disease. They showed the role of neuromelanin, the pigment of the substantia nigra, in methamphetamine neurotoxicity, and Huntington's disease. With Ana Maria Cuervo of Albert Einstein College of Medicine they showed that a cause of Parkinson's disease could be due to an interference with a chaperone-mediated autophagy caused by the protein alpha-synuclein. His work indicates that a lack of normal pruning of synapses could underlie the development of autism, and that in turn may also my due to inhibited neuronal autophagy in patients, due to overactivation of the mTOR pathway during childhood and adolescence.
+In 2017, his lab introduced the role of autoimmune response in Parkinson's disease patients, which answers a century-old mystery on the role of immune system activation in that disorder.
+The Sulzer lab has published over 250 papers on this research. For his work, Sulzer has received awards from the McKnight Foundation, the National Institute on Drug Abuse (NIDA), and NARSAD. He ran the Basic Neuroscience NIH / NIDA (T32) training program for postdoctoral research in basic neuroscience at Columbia.  He received a Ph.D. in biology from Columbia University in 1988. He founded the Gordon Conference on Parkinson's Disease, the Dopamine Society (with Louis-Eric Trudeau) and the journal Nature Parkinson's Disease (with Ray Chaudhuri).
+
+Awards and honors
+2020 - Youdim / Finberg Award, Hebrew University, Jerusalem, Israel
+2020 - Raymond D. Adams Lecture, Harvard University, Mass General Hospital, Boston, Massachusetts, USA
+2019 - Distinguished Lecture in Medicinal Chemistry, University of Minnesota, USA
+2017 - Presidential Lecture, Society of Neuroimmune Pharmacology
+2013 - Helmsley Award for Scientific Research
+2012 - Keynote Lecture in Cellular Neuroscience, Yale University, New Haven, Connecticut, USA
+2008 - McKnight Award in Neuroscience for Technical Innovation
+1996 - James T. Shannon Award, National Institute on Drug Abuse, National Institutes of Health, USA
+
+Art and Science projects
+Sulzer wrote a book on scientific principles that underlie music and sound "Music Math and Mind" [Columbia University Press], 2021), and teaches a related course at Columbia University  on the physics and neuroscience of music and sound.
+He co-ran the original science cafe, "Entertaining Science" from 2012 to 2019, with its founder (2002), chemist and writer Roald Hoffmann in Greenwich Village at the Cornelia Street Cafe .
+With Brad Garton, he developed the "Brainwave Music Project", which allows users to create music from neural activity and enable teaching on brain function.
+
+Music
+Sulzer uses the alias, Dave Soldier, for his alternate career in music.
+
+Music by animals
+Many of Soldier's works are collaborative, such as with the Thai Elephant Orchestra which he co-founded with conservationist Richard Lair, based on the observation that elephants are said to enjoy listening to music. This ensemble consists of up to 14 elephants at the Thai Elephant Conservation Center near Lampang, and is listed by Guinness as the world's largest animal orchestra, with a combined weight of approximately 23 tonnes (50,706 lb).   He built giant musical instruments on which he trained the elephants to improvise: they eventually played on 22 instruments. The orchestra has released three CDs and play an abbreviated concert daily at the Conservation Center.
+He also created  specially designed instruments for music played by zebra finches and bonobos, the latter in collaborations with physicist Gordon Shaw, who researched classical music's effect on the brain and introduced the Mozart effect.
+
+Music by children
+Soldier has made multiple recordings in which he coached child composers in different cultures.  He and flutist Katie Down coached free improvisation with The Tangerine Awkestra featuring 2-10 year old Brooklyn schoolchildren. Da HipHop Raskalz featured rap and dub tracks performed (including the instrumental tracks)  by 5-10 year old East Harlem children, who had no previous experience playing instruments. Sulzer and the santur player Alan Kushan produced Yol K'u with Mayan Indian children from the Seeds of Knowledge School in the high mountains of San Mateo Ixtatan, Guatemala, a collaboration using giant marimbas. He produced two CDs by Les Enfants des Tyabala, with the jazz musician Sylvian Leroux who coached children in Conakry, Guinea to form an ensemble and create works with the traditional Fula flute, which Leroux has adapted to play chromatic scales.
+
+The Soldier String Quartet
+
+In 1985 he founded the Soldier String Quartet, a punk chamber group that plays with amplification and a percussionist . As a leader, composer and violinist for the group, Soldier wrote and performed traditional pieces influenced by music styles including serialism, Delta blues and hip-hop. With inspiration from Haydn and Beethoven quartets, he explored anachronisms stemming from a classical ensemble playing in contemporary popular idioms, particularly rhythm and blues and punk rock.  With a drummer incorporated into the quartet, Soldier found that string instruments could play the blues in the hands of players who understood the contrasting styles, including violinists Regina Carter and Todd Reynolds.  The Soldier String Quartet also premiered and recorded works by other composers such as Elliott Sharp, Iannis Xenakis, Alvin Curran, Nicolas Collins, Fred Frith, Butch Morris, Zeena Parkins, Leroy Jenkins and Phill Niblock, as well as with jazz musicians including Tony Williams and Amina Claudine Myers. They recorded with the rock and pop musicians Guided by Voices, Lambchop, Bob Neuwirth, Ric Ocasek, Van Dyke Parks, and Jesse Harris and were the touring and recording group for the Velvet Underground's John Cale from 1992 to 1998, making many recordings together.
+
+Experimental music
+With Komar & Melamid, and inspired by their art project, "The People's Choice", Soldier wrote The People's Choice Music, with lyrics by Nina Mankin.  It was written according to answers from a survey of over 500 Americans, resulting in "The Most Wanted Song" and "The Most Unwanted Song".  The latter is over 22 minutes in length and features an operatic soprano rapping cowboy songs, holiday songs with a children's choir screaming advertisements, and political rants backed by bagpipe, banjo, tuba, piccolo, and church organ.
+Soldier collaborates with the computer musician Brad Garton for the Brainwave Music Project, creating music played by performer's brainwaves using electroencephalograms.
+Soldier realized the request by Johannes Kepler for a specific motet as related 400 years earlier in Harmonices Mundi, also known as The Music of the Spheres, a foundational book for modern physics. This microtonal piece for six a cappella singers, each portraying a different planet in the Solar System, had not been realized before according to Kepler's specific instructions, and is recorded in three dimensional virtual reality sound by Drazen Bosnjak with the vocal ensemble Ekmeles so that the planets revolve around the head of the listener. The resulting composition, "Motet: Harmony of the World", is co-credited to Kepler and Soldier.
+He has a body of compositions using math derivations such as fractal manipulations, including a notorious 20-minute version of Chopin's Minute Waltz.
+
+Concert music
+Soldier's compositions with classical musicians include a socialist-realist opera, "Naked Revolution", based on paintings by the Russian conceptual artists Komar and Melamid, commissioned for the 25th anniversary of "The Kitchen".
+The opera "The Eighth Hour of Amduat" uses as its text Italian translations of the ancient Egyptian of the book of Amduat and features Marshall Allen of the Sun Ra Arkestra playing the part of Sun Ra.
+Soldier wrote two chamber operas in collaboration with author Kurt Vonnegut, "The Soldier's Story" and "Ice-9 Ballads", both recorded with Vonnegut playing characters.
+Soldier's "Motet: Harmony of the World" closely followed Johannes Kepler's instructions and request to compose a microtonal Renaissance motet in the book Harmonice Mundi that would provide the music of the spheres, performed in the six voices of the planets, performed by the choir Ekemeles.
+Many of his chamber and orchestra works were recorded by the Manhattan Chamber Orchestra under conductor Richard Auldon Clark, by the Composer's Concordance orchestra and by the Prague Filmharmonik, which is a recording orchestra from the Prague Philharmonic Orchestra.  These include a collection of medieval Latin homoerotic lyrics in "Smut", and settings of Frederick Douglass in "The Apotheosis of John Brown" and Mark Twain in "War Prayer". The orchestra fanfare, "Samul Nori Overture", was commissioned by Kristjan Järvi and the Absolute Ensemble, a violin concerto composed of themes recorded on a home tape by Stuff Smith, "Stuff Smith's Unfinished Concerto", and "Jaleo", dedicated to the pianist-composer Eddie Palmieri.
+Chamber works by Soldier have been recorded by violinists Regina Carter, Curtis Stewart, and Miranda Cuckson, cellist Erik Friedlander, pianists Steven Beck, Taka Kigawa and Christopher O'Riley, accordionist William Schimmel, the PubliQuartet, singer Eliza Carthy, and flutist Robert Dick.
+
+Rock music
+Soldier performed in the early 1980s with Bo Diddley and founded The Kropotkins in the 1990s, a punk/country blues band with the Memphis singer Lorette Velvette and the drummers Moe Tucker of The Velvet Underground, Charles Burnham of the James Blood Ulmer's Odyssey Band, and Jonathan Kane of Swans and La Monte Young's band; the Kropotkins recorded four albums and developed a cult following. He continued collaborations with Jonathan Kane in a symphonic minimalist blues duo known as Soldier Kane.
+In the early 1980s, Soldier played guitar with Bo Diddley and various rock groups. He later worked as an arranger, violinist, or guitarist with John Cale, Guided by Voices, Van Dyke Parks, David Byrne, Ric Ocasek, Lee Ranaldo, Eliza Carthy, Maureen Tucker, Laurie Anderson, the Plastic People of the Universe, Jesse Harris, Pete Seeger, Richard Hell, and Bob Neuwirth.
+Soldier led the touring group for John Cale, consisting of the Soldier String Quartet and B. J. Cole from 1992 to 1996, writing the groups arrangements for tours and several CDs and films including for Cale's scores for the Andy Warhol films "Eat" and "Kiss": his metal violin playing is featured on "Heartbreak Hotel" on Fragments of a Rainy Season. He led an flamenco/Middle Eastern rock group, The Spinozas, featuring lyrics from Arabic and Hebrew poetry from medieval Andalusia released on the album "Zajal".
+
+Jazz
+Soldier recorded as a multi-instrumentalist with the William Hooker Trio with Sabir Mateen and Roy Campbell, and has performed and recorded with Leroy Jenkins, Henry Threadgill, drummer Tony Williams, Jonas Hellborg, Butch Morris, Jason Hwang, William Parker, Billy Bang, Marshall Allen of the Sun Ra Arkestra, Karl Berger, Teo Macero, Myra Melford, Michael Wolff and Amina Claudine Myers.
+
+Production
+Soldier co-founded the EEG Records (formerly Mulatta Records) label in 2000, for which he has produced a wide variety of recordings including contemporary flamenco music by Pedro Cortes, Texas singer/ songwriter Vince Bell with Bob Neuwirth, the 30 piece jazz string orchestra Spontaneous River by Jason Hwang, jazz drummer William Hooker, the traditional group Wofa from Guinea with American R&B musicians including Bernie Worrell; the jazz French horn virtuoso John Clark (musician), the New York-Iranian santur virtuoso Alan Kushan and released music by David First,  two albums of Fula flute music by Sylvain Leroux with children in Conakry, Guinea, Memphis musician Alex Greene, Ursel Schlicht, and Twink.
+
+Film
+Soldier arranged multiple film scores with John Cale, including Andy Warhol's films "Eat" and "Kiss", Julian Schnabel's "Basquiat" and Mary Harron's "I Shot Andy Warhol". His compositions for violin and piano are the basis for Winsome Brown's film "The Violinist". He wrote soundtracks for animations on the TV series Sesame Street and produced and scored an animation of his opera "The Eighth Hour of Amduat" based on the oldest known illustrated book.
+
+Personal life
+Sulzer grew up in Carbondale in southern Illinois where he was exposed to music common to the area, particularly country and R&B. His earliest influences included James Brown and Isaac Hayes. He played viola, violin, piano, and eventually banjo and guitar. He moved with his family to Storrs, CT, at the age of 16, where he became enamoured with salsa music. He credits Eddie Palmieri's music as his inspiration to be a composer. He attended Michigan State University as an undergraduate and attempted a study of classical composition. He found that stultifying, however, and instead studied botany at the university and privately with the avant-garde jazz saxophonist/composer Roscoe Mitchell. He lived in Florida briefly, where he played guitar in Bo Diddley's band.
+He relocated to New York in 1981, and played in various salsa, classical, and rock-oriented bands in the early '80s. In New York he engaged in many collaborations with producer Giorgio Gomelsky, including running "The House Band", the Russian conceptual artists Komar and Melamid, and co-wrote two extended musical theater pieces with author Kurt Vonnegut. While attending graduate school in biology at Columbia University, he privately studied composition with the co-inventor of the synthesizer and "tape music" Otto Luening and formed his Soldier String Quartet in 1985. He co-founded Mulatta Records in 2000 to document his projects, including the Thai Elephant Orchestra and recordings with child improvisers, and to produce a broad range of unusual musical styles.
+Soldier  performed, recorded, composed, and arranged for television and film (Sesame Street, I Shot Andy Warhol), and pop and jazz acts ranging from Pete Seeger to David Byrne and Guided by Voices. In 2021, his book "Music, Math, and Mind" on the physics and neuroscience of music was published by Columbia University Press. Sulzer is married to biologist Francesca Bartolini.
+
+Discography
+Studio Albums as Leader
+
+Collaborations
+
+Recordings with the Soldier String Quartet
+
+Sideman
+
+Film Scores
+
+Producer
+
+Compositions for Classical Musicians
+
+References
+
+Additional sources
+Ratcliff, Carter. Komar and Melamid, New York: Abbeville Press, 1988. ISBN 0-89659-891-8
+Wypijewski, JoAnn, ed.  Painting by Numbers: Komar and Melamid's Scientific Guide to Art, New York: Farrar Straus Giroux, 1997.  ISBN 9780520218611
+Komar and Melamid.  When Elephants Paint: The Quest of Two Russian Artists to Save the Elephants of Thailand, New York: HarperCollins, 2000. ISBN 0-06-095352-7
+Weiss, Evelyn. Komar & Melamid: The Most Wanted and the Most Unwanted Painting, Museum Ludwig Koln, Ostfildern: Cantz, 1997.
+
+External links
+Sulzer lab, Columbia University: homepage
+Scientific articles Archived 2011-12-19 at the Wayback Machine
+The Department of Neuroscience | DEPARTMENT OF NEUROSCIENCE
+Sulzer lab, Columbia University, research directions Archived 2011-11-12 at the Wayback Machine
+Entertaining Science – The Back Story
+Dave Soldier Archived 2017-07-06 at the Wayback Machine at Mulatta Records
+Dave Soldier at IMDb
+Dave Soldier Music Blog
+Brainwave Music Project at Columbia University
+
+Interviews
+PDONLINERESEARCH.ORG
+Dave Sulzer | Secret: Elephant Music | Secret Lives of Scientists - YouTube
+
+[[Brad Garton]] [[Cerebral cortex]] [[Columbia University]] [[Neurology]] [[Parkinson's disease]]

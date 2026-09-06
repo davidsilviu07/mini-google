@@ -1,0 +1,96 @@
+Status epilepticus
+Status epilepticus (SE), or status seizure, is a medical condition characterized by a refractory period of seizure activity without a complete return to normal. It is a medical emergency that can lead to irreversible brain injury (due to excitotoxicity) if untreated.
+Convulsive status epilepticus, the most dangerous and life-threatening type, is characterized by seizures of the tonic–clonic type, with a regular pattern of contraction and extension of the arms and legs, lasting at least 5 minutes without return to normal (time point 1). Early treatment is essential to minimize damage to the brain, which starts to particularly accrue after 30 minutes (time point 2). Status epilepticus may also be non-convulsive, manifesting in the form of absence seizures or complex partial seizures. For other seizure types, the time points may vary. Previous definitions used a 30-minute time limit irrespective of type of seizure.
+Risk factors for status epilepticus include a history of epilepsy or other brain problems. These brain problems may include trauma, infections, or strokes, among others. Diagnosis often involves checking the blood sugar, imaging of the head, a number of blood tests, and an electroencephalogram. Psychogenic nonepileptic seizures may present similarly to status epilepticus. Other conditions that can mimic status epilepticus include low blood sugar, movement disorders, meningitis (including tuberculous meningitis), and delirium, among others.
+Benzodiazepines are the preferred initial treatment, after which typically phenytoin is given. Possible benzodiazepines include intravenous lorazepam as well as intramuscular injections of midazolam. A number of other medications may be used if these are not effective, such as phenobarbital, propofol, or ketamine. After initial treatment with benzodiazepines, typical antiseizure drugs are given, including valproate, fosphenytoin, levetiracetam, or similar substances. Intubation may be required to help maintain the person's airway. Between 10% and 30% of people who have status epilepticus die within 30 days. The underlying cause, the person's age, and the length of the seizure are important factors in the prognosis. Status epilepticus occurs in up to 40 per 100,000 people per year. Those with status epilepticus make up about 1% of people who visit the emergency department.
+
+Signs and symptoms
+Status epilepticus can be divided into two categories: convulsive and nonconvulsive (NCSE).
+
+Convulsive
+Convulsive status epilepticus presents an urgent neurological condition, which is characterized by an elongated and uncontrollable onset of seizures in which a regular pattern of contraction and extension of the arms and legs will be observed from the patient. The symptoms can be managed by initially introducing a seizure suppressing medication as the first stage of the treatment, which optimally works only for that stage because any delay will reduce the efficacy of those medications. Convulsive status epilepticus commonly affects the elderly and young children, with a mortality rate of up to 20–30% of elderly patients and 0–3% of young children. Patients who survive initial onset are often left with cognitive and neurological defects.
+Epilepsia partialis continua is a variant involving hour-, day-, or even week-long jerking. It is a consequence of vascular disease, tumors, or encephalitis, and is drug-resistant.
+Generalized myoclonus is commonly seen in comatose people following cardiopulmonary resuscitation (CPR) and is seen by some as an indication of catastrophic damage to the neocortex; myoclonus status in this situation can usually (but not always) be considered an agonal phenomenon.
+Refractory status epilepticus is defined as status epilepticus that continues despite treatment with benzodiazepines and one antiepileptic drug.
+Super-refractory status epilepticus is defined as status epilepticus that continues or recurs 24 hours or more after the onset of anaesthetic therapy, including those cases where status epilepticus recurs on the reduction or withdrawal of anesthesia.
+
+Nonconvulsive
+Nonconvulsive status epilepticus is a relatively long duration change in a person's level of consciousness without large-scale bending and extension of the limbs due to seizure activity. It is of two main types with either prolonged complex partial seizures or absence seizures. Up to a quarter of cases of status epilepticus are nonconvulsive.
+In the case of complex partial status epilepticus, the seizure is confined to a small area of the brain, normally the temporal lobe. Absence status epilepticus is marked by a generalized seizure affecting the whole brain. An electroencephalogram (EEG) is needed to differentiate between the two conditions. 
+The cases of nonconvulsive status epilepticus are characterized by a long-lasting stupor, staring, and unresponsiveness. Recent studies indicated 50% of cases involve patients that are semi-conscious in a way that they can respond but are confused spontaneously. Only 6% have shown a decelerated thought process. About 44% of cases of nonconvulsive status epilepticus are marked by a prolonged or fragmentary coma.
+
+Causes
+
+Only 25% of people who experience seizures or status epilepticus have epilepsy. The following is a list of possible causes:
+
+Stroke
+Hemorrhage
+Intoxicants or adverse reactions to drugs
+Insufficient dosage or sudden withdrawal of a medication (especially anticonvulsants)
+Insufficient dosage or sudden withdrawal of benzodiazepine(s) medication (akin to alcohol withdrawal); itself a class of antiseizure/anticonvulsant medications
+Consumption of alcoholic beverages while on an anticonvulsant, or alcohol withdrawal
+Dieting or fasting while on an anticonvulsant
+Starting on a new medication that reduces the effectiveness of the anticonvulsant or changes drug metabolism, decreasing its half-life, leading to decreased blood concentrations
+Developing a resistance to an anticonvulsant already being used
+Gastroenteritis while on an anticonvulsant, where lower levels of anticonvulsant may exist in the bloodstream due to vomiting of gastric contents or reduced absorption due to mucosal edema
+Developing a new, unrelated condition in which seizures are coincidentally also a symptom, but are not controlled by an anticonvulsant already used
+Metabolic disturbances—such as affected kidney and liver
+Sleep deprivation of more than a short duration is often the cause of a (usually, but not always, temporary) loss of seizure control
+Dehydration – moderate- to severe, especially when combined with any single factor above
+
+Diagnosis
+Diagnostic criteria vary, though most practitioners diagnose as status epilepticus for: one continuous, unremitting seizure lasting longer than five minutes, or recurrent seizures without regaining consciousness between seizures for greater than five minutes. Previous definitions used a 30-minute time limit.
+Nonconvulsive status epilepticus is believed to be under-diagnosed.
+New-onset refractory status epilepticus (NORSE) is a clinical presentation, not a specific diagnosis, in a patient without active epilepsy or other relevant neurological disorder, with new onset of refractory status epilepticus without a clear structural, toxic or metabolic cause.
+
+Treatments
+
+Benzodiazepines are the preferred initial treatment after which typically phenytoin or fosphenytoin is given. First aid guidelines for seizures state that, as a rule, an ambulance should be called for seizures lasting longer than five minutes (or sooner if this is the person's first seizure episode and no precipitating factors are known, or if said SE happens to a person with epilepsy whose seizures were previously absent or well-controlled for a considerable time).
+
+Benzodiazepines
+When given intravenously, lorazepam appears to be superior to diazepam for stopping seizure activity. Intramuscular midazolam appears to be a reasonable alternative especially in those who are not in hospital.
+The benzodiazepine of choice in North America for initial treatment is lorazepam, due to its relatively long duration of action (2–8 hours) when injected, and particularly due to its rapid onset of action, which is thought to be due to its high affinity for GABA receptors and low lipid solubility. This causes the drug to remain in the vascular compartment. If lorazepam is not available, or intravenous access is not possible, then diazepam should be given. Alternatively, medication, such as glucagon, should be given through the bone (intraosseously).
+In several countries outside North America, such as the Netherlands, intravenous clonazepam is regarded as the drug of first choice. Cited advantages of clonazepam include a longer duration of action than diazepam and a lower propensity for the development of acute tolerance than lorazepam. The use of clonazepam for this indication is not recognized in North America, perhaps because it is not available as an intravenous formulation there.
+Particularly in children, another popular treatment choice is midazolam, given into the side of the mouth or the nose. Sometimes, the failure of lorazepam alone is considered to be enough to classify a case of SE as refractory–that is, resistant to treatment.
+
+Phenytoin and fosphenytoin
+Phenytoin was once another first-line therapy, although the prodrug fosphenytoin can be administered three times as fast and with far fewer injection site reactions. If these or any other hydantoin derivatives are used, then cardiac monitoring is necessary if they are administered intravenously. Because the hydantoins take 15–30 minutes to work, a benzodiazepine or barbiturate is often coadministered. Because of diazepam's short duration of action, they were often administered together anyway. At present, these remain recommended second-line, follow-up treatments in the acute setting per guidelines by groups like Neurocritical Care Society (United States).
+
+Barbiturates
+Before the benzodiazepines were invented, barbiturates were used for purposes similar to benzodiazepines in general. Some are still used today in SE, for instance, if benzodiazepines or the hydantoins are not an option. These are used to induce a barbituric coma. The barbiturate most commonly used for this is phenobarbital. Thiopental or pentobarbital may also be used for that purpose if the seizures have to be stopped immediately or if the person has already been compromised by the underlying illness or toxic/metabolic-induced seizures; however, in those situations, thiopental is the agent of choice. That said, even when benzodiazepines are available, certain algorithms–including in the United States–indicate the use of phenobarbital as a second- or third-line treatment in SE. Such use is adjunctive. At least one U.S. study showed phenobarbital, when used alone, controlled about 60% of seizures, hence its preference as an add-on therapy.
+
+Carbamazepine and valproate
+Valproate is available to be given intravenously, and may be used for status epilepticus. Carbamazepine is not available in an intravenous formulation, and does not play a role in status epilepticus. It was found that all of valproate, phenobarbital, fosphenytoin (phenytoin), midazolam or levetiracetam are considered to the second line drugs after benzodiazepine is used as the first line treatment. It was found that especially valproate in contrast to antiepileptic drugs is more effective to the treatment of nonconvulsive status epilepticus and more commonly used for it.
+
+Others
+If this proves ineffective or if barbiturates cannot be used for some reason, then a general anesthetic such as propofol may be tried; sometimes it is used second after the failure of lorazepam. This would entail putting the person on artificial ventilation. Propofol has been shown to be effective in suppressing the jerks seen in myoclonus status epilepticus.
+Ketamine, an NMDA antagonist drug, can be used as a last resort for drug-resistant status epilepticus.
+Lidocaine has been used in cases that do not improve with other more typical medications. One concern is that seizures often begin again 30 minutes after it is stopped. Additionally, it is not recommended in those with heart or liver problems.
+
+Prognosis
+While sources vary, about 16 to 20% of first-time SE patients die; with other sources indicating between 10 and 30% of such patients die within 30 days. Further, 10-50% of first-time SE patients experience lifelong disabilities. In the 30% mortality figure, the great majority of these people have an underlying brain condition causing their status seizure such as brain tumor, brain infection, brain trauma, or stroke. People  with diagnosed epilepsy who have a status seizure also have an increased risk of death if their condition is not stabilized quickly, their medication and sleep regimen adapted and adhered to, and stress and other stimulant (seizure trigger) levels controlled. However, with optimal neurological care, adherence to the medication regimen, and a good prognosis (no other underlying uncontrolled brain or other organic disease), the person—even people who have been diagnosed with epilepsy—in otherwise good health can survive with minimal or no brain damage, and can decrease risk of death and even avoid future seizures.
+Prognosis of refractory status epilepticus
+A different prognosis method was developed for refractory status epilepticus (RSE). Prognosis studies have shown that there is no clear structure of the symptoms; since they range from gastrointestinal to flu-like symptoms, which are considered to be mild and only represent 10%, while the remaining majority of 90% of the clinical cases were unknown. It was found that it takes a period of 1 to 14 days for the patient to reach the prodromal stage in which the episode is yet to come for the first time. It was found that the frequency of those initial seizures starts from a short and inconsistent seizures that lasts for a few hours and may extend to few days. It can simply strike to hundreds of seizures per day, which is the stage that needed an urgent medical intervene in which the patient expected to be in the intensive care unit (ICU) as soon as possible. Typically focal seizures are the most common among those cases.
+
+Epidemiology
+In the United States, about 40 cases of SE occur annually per 100,000 people. This includes about 10–20% of all first seizures.
+Prevalence 
+It was found that status epilepticus is more prevalent among African Americans than Caucasian Americans by threefold in North London, and that Asian children have recorded a relatively higher susceptibility of developing the more severe form of febrile seizures. These ethnic distribution rates indicate the genetic contribution to the susceptibility of status epilepticus. Also, studies have shown that status epilepticus is more common in males.
+Aetiology
+Many studies have found out that age is the most related factor to the etiology of status epilepticus, since 52% of febrile seizures was found in children, while for adults acute cerebralvascular cases was more common, side by side with hypoxia and other metabolic causes.
+
+Research
+Allopregnanolone was being studied as a treatment for super-resistant status epilepticus, but was found to have no benefit over placebo.
+
+See also
+Status asthmaticus
+Status angiotensus
+
+References
+
+External links
+
+Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults: Report of the Guideline Committee of the American Epilepsy Society
+Thomas, SanjeevV; Cherian, Ajith (2009). "Status epilepticus". Annals of Indian Academy of Neurology. 12 (3): 140–53. doi:10.4103/0972-2327.56312. PMC 2824929. PMID 20174493.
+
+[[Absence seizure]] [[Anticonvulsant]] [[Atonic seizure]] [[Aura (symptom)]] [[Automatism (medicine)]] [[Benign familial neonatal seizures]] [[CACNA1C-related disorders]] [[Cerebrospinal fluid]] [[Citizens United for Research in Epilepsy]] [[Complex partial status epilepticus]] [[Delirium]] [[Dementia]] [[Dentatorubral–pallidoluysian atrophy]] [[Early myoclonic encephalopathy]] [[Electroencephalography]] [[Encephalopathy]] [[Epilepsia partialis continua]] [[Epilepsy]] [[Epilepsy Action]] [[Epilepsy Action Australia]] [[Epilepsy Foundation]] [[Epilepsy Outlook]] [[Epilepsy Society]] [[Epilepsy and driving]] [[Epilepsy and employment]] [[Epilepsy in animals]] [[Epilepsy in children]] [[Epileptogenesis]] [[Epileptologist]] [[Febrile seizure]] [[Focal seizure]] [[Frontal lobe epilepsy]] [[Gelastic seizure]] [[Generalized epilepsy]] [[Generalized tonic–clonic seizure]] [[Intensive care unit]] [[International League Against Epilepsy]] [[Intracranial pressure]] [[Issues for people with epilepsy]] [[Juvenile myoclonic epilepsy]] [[KCNH1-related disorders]] [[Lafora disease]] [[Landau–Kleffner syndrome]] [[Lennox–Gastaut syndrome]] [[MERRF syndrome]] [[Medical specialty]] [[Migraine]] [[Myoclonic astatic epilepsy]] [[Myoclonic epilepsy]] [[Neocortex]] [[Neonatal seizure]] [[Neurology]] [[Panayiotopoulos syndrome]] [[Parkinson's disease]] [[Postictal state]] [[Progressive myoclonus epilepsy]] [[Propofol]] [[Psychogenic non-epileptic seizure]] [[Rolandic epilepsy]] [[Seizure]] [[Seizure types]] [[Sleep-related hypermotor epilepsy]] [[Spike-and-wave]] [[Spinal cord]] [[Stroke]] [[Sudden unexpected death in epilepsy]]

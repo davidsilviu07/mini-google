@@ -1,0 +1,11 @@
+CACNA1C-related disorders
+CACNA1C-related disorders are a group of rare diseases caused by variants in the CACNA1C gene, which encodes a subunit of the L-type voltage-dependent calcium channel. Genomic sequencing has linked a number of heterogenous phenotypes to pathogenic variants in the CACNA1C gene:
+
+Timothy syndrome, which may or may not occur with syndactyly
+Short QT syndrome or Brugada syndrome
+Long QT syndrome or other arrhythmia without additional symptoms.
+CACNA1C-related disorders are inherited in an autosomal dominant manner. Symptoms of CACNA1C-related disorders are primarily neurological and may include developmental delay, autism or autistic features, and seizures. Facial dysmorphism may also be present.
+
+References
+
+[[Neurology]] [[Seizure]]

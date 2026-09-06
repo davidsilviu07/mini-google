@@ -1,0 +1,99 @@
+Compulsory voting
+Compulsory voting, also called universal civic duty voting or mandatory voting, is the requirement that registered voters participate in an election. As of January 2026, 21 countries have compulsory voting laws. Law enforcement in those countries varies considerably, and the penalty for not casting a ballot without a proper justification ranges from severe to non-existent.
+
+History
+
+Antiquity
+Athenian democracy held that it was every Athenian citizen's duty to participate in decision-making, but attendance at the assembly was voluntary. Sometimes there was some form of social opprobrium to those not participating, particularly if they were engaging in other public activity at the time of the assembly. For example, Aristophanes's comedy Acharnians 17–22, in the 5th century BC, shows public slaves herding citizens from the agora into the assembly meeting place (Pnyx) with a red-stained rope. Those with red on their clothes were fined. This usually happens if fewer than 6,000 people were in attendance, and more were needed for the assembly to continue.
+In the Roman Republic, the legitimacy of the form of government known as res publica, which entrusted the powers of sovereignty to an elected aristocracy, was most evident in the Roman right to suffragium. Cicero argues that the right to vote provided Roman citizens with a certain degree of political participation, thereby guaranteeing their de facto ownership of their property, which they could administer as they wished. In practice, voting was conducted only in Rome, either in the Campus Martius or in the Forum, and not many citizens would have been able to afford the journey or take time off to vote. In addition, contrary to Greek custom, there was no economic compensation for voting; however, Cicero mentions an election that could not continue because of particularly low voter turnout, requiring a temporary draft to be implemented, though it is unclear if this was an exceptional case.
+
+Modern era
+From the 19th century onward, a relatively small number of democracies have introduced compulsory voting at one time or another. From 1862 to 1998, compulsory voting was enacted in 20 democracies, most of which were in Western Europe or Latin America. Belgium has the oldest extant compulsory voting system which was introduced in 1893 for men, and in 1948 for women.
+Compulsory voting for national elections was introduced in Australia in 1924, with states and territories passing their own compulsory voting laws at various times. Voluntary voting in Australia before 1924 accounted between 47% and 78% turnout of eligible voters. Following the introduction of compulsory federal voting in 1924, this figure increased to between 91% and 96%, with only 5% of eligible voters accounted as not enrolled. The Netherlands and Venezuela are among several countries that have moved from compulsory to voluntary voting, in 1967 and 1993 respectively. Venezuela saw turnout drop from 82% to 61% in 1993 once compulsion was removed.
+
+Arguments for
+
+Capture voter preferences
+A system with higher turnout helps make the electorate more representative and voter suppression more difficult. This major step towards the universal democratic principle of "one person, one vote" strengthens democracies and aligns the choices of its politicians with the preferences of its citizens. Since lower-turnout races are not randomized samples of an electorate (unlike a citizens' assembly), they distort the wishes and power of the electorate.
+
+Civil responsibility
+Supporters argue the democratic election of governing representatives is a citizen's responsibility as opposed to a right. Equating in kind to similar civil responsibilities such as taxation, jury duty, compulsory education or military service, voting in these democracies is regarded as one of the "duties to community" mentioned in the United Nations Universal Declaration of Human Rights. This view asserts that, by introducing an obligation to vote, all citizens governed by a democracy partake in the responsibility for the government appointed by democratic election.
+
+Improve candidate choices
+Monash University political scientist Waleed Aly argues that whether compulsory voting favors the right or the left is beside the point, because the most beneficial aspect of compulsory voting is that it will improve the caliber of individuals who run for office and the quality of the decisions that they make. In his words, "In a compulsory election, it does not pay to energize your base to the exclusion of all other voters. Since elections cannot be determined by turnout, they are decided by swing voters and won in the center... That is one reason Australia's version of the far right lacks anything like the power of its European or American counterparts. Australia has had some bad governments, but it hasn't had any truly extreme ones and it isn't nearly as vulnerable to demagogues."
+
+Mild penalties provide big boosts in turnout
+Penalties only need to be modest to boost turnout and achieve the goal of attaining a much more representative electorate, especially since the public and the courts usually insist on a seamless voting process for places with mandatory voting laws.
+
+Paradox of voting
+Supporters of compulsory voting also argue that voting addresses the paradox of voting, which is that for a rational, self-interested voter, the costs of voting will normally exceed the expected benefits. The paradox disproportionately affects the socially disadvantaged, for whom the costs of voting tend to be greater. Australian academic and supporter of compulsory voting, Lisa Hill, has argued that a prisoner's dilemma situation arises under voluntary systems for marginalized citizens: it seems rational for them to abstain from voting, under the assumption that others in their situation are also doing so, to conserve their limited resources. However, since these are people who have a pronounced need for representation, this decision is irrational. Hill argues that the introduction of compulsory voting removes this dilemma.
+
+Political legitimacy
+The idea that compulsory voting results in a higher degree of political legitimacy is based on higher voter turnout and the more representative electorate that brings.
+
+Protect against demagogues
+High levels of participation decreases the risk of political instability created by crises or charismatic but sectionally focused demagogues.
+
+Reduce income inequality
+A 2005 Inter-American Development Bank working paper purported to show that there was a correlation between compulsory voting, when enforced strictly, and improved income distribution, as measured by the Gini coefficient and the bottom income quintiles of the population. A 2011 Conference Board of Canada study on world income inequality – also relying on the Gini index – shows that income inequality is lowest in the Scandinavian countries, where compulsory voting has never existed, while Australia, and to a lesser extent Belgium, which strictly enforce their compulsory voting legislation, have a higher income inequality level than a number of other Western countries, such as Canada, France, Germany, Switzerland, and the Netherlands, where compulsory voting does not exist.
+
+Remove voting restrictions
+Supporters of compulsory voting also argue that just as the secret ballot is designed to prevent interference with the votes actually cast, compelling voters to the polls for an election removes interference with accessing a polling place, reducing the impact that external factors such as the weather, transport, or restrictive employers might have. If everybody must vote, restrictions on voting are identified and steps are taken to remove them. This notion is especially reinforced when both men and women are required to vote and further sustained by diligent enforcement of laws requiring registration of all eligible voters (deemed adult and without exclusion of any significant community within the population). A growing voter preference towards pre-polling such as vote by mail can make participation easier, where the voter can fulfil their obligation more at their own convenience prior to polling day, rather than trying to arrange release from their responsibilities on the nominated date of polling.
+
+Stimulate political interest and education
+Other perceived advantages to compulsory voting are the stimulation of broader interest politics, as a sort of civil education and political stimulation, which creates a better informed population. For example, since far fewer campaign funds are needed to convince people to vote, they can be directed towards discussing proposed policies with a wider range of voters. Australian senator Herbert Payne, whose 1924 private member's bill introduced compulsory voting in Australia, believed compulsory voting was necessary to counteract "apathy and indolence" among voters and would bring "a wonderful improvement in the political knowledge of the people".
+
+Arguments against
+
+Regressive taxation
+Concerns about fines landing harder on the poorest citizens can lead to reforms to ensure penalties are mild for the poorest citizens and that voting is accessible and seamless for all to help assure concerned voters that mandatory voting will not become a regressive tax. The impact of these fines can be mitigated by making sure they do not compound over time, are weighted based on income, and by providing an option to perform community service in lieu of payment.
+
+Compelled speech
+Another concern expressed about compulsory voting is that it would compel speech, which violates freedom of speech which includes the freedom not to speak. Former Australian opposition leader Mark Latham urged Australians to lodge blank votes for the 2010 election. He stated the government should not force citizens to vote or threaten them with a fine. At the 2013 federal election, considering the threat of a non-voting fine of up to A$20, there was a turnout of 92%, of whom 6% lodged either informal or blank ballot papers. Systems in democratic countries, which have a secret ballot, allow for blank ballots, but voting systems could also add a 'none of the above' option to each race so as to provide multiple clear ways for voters to refrain from speaking/voting if, for some reason, a voter does not want to submit a partially or fully blank ballot.
+
+Religious objections
+Religious objection is one that many Christadelphians and Jehovah's Witnesses, for example, cite as for why they should not participate in political events. As a result, many countries allow religious beliefs as a valid excuse for not going to the polls.
+
+Civil liberties
+American libertarians in particular debate to what extent voting is a civic duty and not just a civic right. Even in the case of the US where most Americans see voting as a civic duty, most Americans in a 2020 poll did not like the idea of imposing a US$20 fine on those who did not cite an excuse for not voting including a conscientious objection.
+
+Vote buying
+One perceived downside to compulsory voting is that by coercing politically apathetic people to vote in elections, they are vulnerable to manipulation through vote buying.
+
+Impact
+A 2015 study of a Swiss canton where compulsory voting was enforced found that compulsory voting significantly increased electoral support for leftist policy positions in referendums by up to 20 percentage points. A 2008 study found that the effects of universal turnout in the United States would likely be small in national elections, but that universal turnout could matter in close elections, such as the presidential elections of 2000 and 2004. In the United States, Democrats would most likely fare better under universal voting, as nonvoters are generally more Democratic, but due to the rarity of close elections in the United States, universal voting would change "very few election outcomes". 
+2011 research on compulsory voting in Australia found that it increased the vote shares and seat shares of the Australian Labor Party by 7 to 10 percentage points and led to greater pension spending at the national level. While weakly enforced compulsory voting in Austria increased overall turnout by roughly 10 percentage points, there is "no evidence that this change in turnout affected government spending patterns (in levels or composition) or electoral outcomes." 
+A 2016 study found that compulsory voting reduces the gender gap in electoral engagement in several ways. A 2016 study of the Netherlands found that the abolition of compulsory voting increased the vote share of Dutch social democratic parties while reducing the vote share of "minor and extreme parties". 2016 research suggests that higher rates of voter turnout lead to higher top tax rates. A 2024 study found that compulsory voting can reduce political polarization and push political parties towards the preferences of the median voter by eliminating the ability of extremist partisans to threaten to abstain from voting, which pressures parties to adopt policies to appease those voters.
+
+Public opinion
+According to a 1997 paper by Malcolm Mackerras and Ian McAllister, in Australia "polls taken over the years have consistently shown a community support of between 60 and 70 per cent" for compulsory voting. In 2005, polls taken by Roy Morgan Research and Ipsos-Mackay found 71 and 74 percent support respectively. Both polls also found there was roughly equal support for compulsory voting among supporters of Australia's major political groups, the Liberal–National Coalition and the Australian Labor Party. In Belgium, which has had compulsory voting since 1893, support for the abolition of compulsory voting is in progression. Results from a 2016 public opinion poll showed that 49% of respondents were in favor of abolition (46% in Wallonia, 49% in Brussels, 51% in Flanders) with 10% having no opinion. In Canada, an e-consultation conducted in 2016 by the House of Commons' Special Committee on the Electoral Reform showed that 50.3% of the 22,247 respondents strongly disagreed or disagreed with the statement "Canadians should be required to cast a ballot in a federal election (this could include spoiling a ballot)", as opposed to 36.3% who strongly agreed or agreed.
+
+Current and past use by countries
+As of December 2021, 21 countries were recorded as having compulsory voting. Of these, only 10 countries (additionally one Swiss canton) enforce it. As of January 2020, of the 36 member states of the Organisation for Economic Co-operation and Development (OECD), only Australia had forms of compulsory voting which were enforced in practice. Voting in Belgium, Greece, Luxembourg, Mexico and Turkey is compulsory de jure but not enforced.
+
+Repealed
+Countries where voting is no longer compulsory:
+
+Measures to encourage voting
+Although voting in a country may be compulsory, penalties for failing to vote are not always strictly enforced. In Australia and Brazil, providing a legitimate reason for not voting, such as illness, is accepted. In Australia, if a citizen is asked why they did not vote and they reply that it is against their religion, the Electoral Act provides that this answer must be taken as conclusive, and no further action is to be taken.  In Argentina, those who were ill on voting day are excused by requesting a doctor to prove their condition. Those over 500 km (310 mi) away from their voting place are also excused by asking for a certificate at a police station near where they are. Belgian voters can vote in an embassy if they are abroad or can empower another voter to cast the vote in their name. The voter must give a "permission to vote" and carry a copy of the ID card and their own on the actual elections. 
+States that sanction nonvoters with fines generally impose small or nominal penalties. This can be seen as reflecting the practical rationale for compulsory voting – that compulsion is aimed at making it more irksome not to vote than to vote, and therefore mild penalties are all that is required. Penalties for failing to vote are not limited to fines and legal sanctions. Belgian voters who repeatedly fail to vote in elections may be subject to disenfranchisement. Singaporean voters who fail to vote in a general election or presidential election will be subjected to disenfranchisement until a valid reason is given or a fine is paid.
+Goods and services provided by public offices may be denied to those failing to vote in Peru and Greece. In Brazil, people who fail to vote in an election are barred from obtaining a passport and subject to other restrictions until settling their situation before an electoral court or after they have voted in the two most recent elections. If a Bolivian voter fails to participate in an election, the person may be denied withdrawal of the salary from the bank for three months. A postal vote may be available for those for whom it is difficult to attend a polling station. Pre-poll voting at nominated polling stations in Australia has been increasing in recent years.
+
+See also
+Citizens' assembly
+Get out the vote
+Jury duty
+
+References
+
+Further reading
+
+External links
+International Institute for Democracy and Electoral Assistance – Compulsory voting information
+Suffrage, The CIA World Factbook
+Compulsory Voting, Not
+Australian Electoral Commission – Electoral Backgrounder – Compulsory Voting
+Australian Electoral Commission Australian Electoral Commission
+European Consortium for Political Research (ECPR) Sessions of Workshops 2007, Workshop No.7: Compulsory Voting: Principle and Practice – academic conference papers on compulsory voting.
+
+[[Absentee ballot]] [[Abstention]] [[Ballot]] [[Ballot box]] [[Binomial voting system]] [[Biometric voter registration]] [[Candidate]] [[Carousel voting]] [[Coattail effect]] [[Cumulative voting]] [[Donkey vote]] [[Early voting]] [[Election boycott]] [[Election ink]] [[Elections in the United States]] [[Electoral district]] [[Electoral fraud]] [[Electoral precinct]] [[Electronic voting]] [[Family voting]] [[First-past-the-post voting]] [[General ticket]]

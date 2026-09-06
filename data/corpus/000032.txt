@@ -1,0 +1,23 @@
+Air data computer
+An air data computer (ADC) or central air data computer (CADC) computes critical real-time flight data. It is an essential avionics component found in modern aircraft. This computer, rather than individual instruments, can determine the calibrated airspeed, Mach number, altitude, and altitude trend data from pressure and temperature inputs from an aircraft's pitot-static system. In some very high-speed aircraft such as the Space Shuttle, equivalent airspeed is calculated instead of calibrated airspeed. Air data computers usually also have an input of total air temperature. This enables the computation of static air temperature and true airspeed.
+
+Models
+In Airbus aircraft the air data computer is combined with attitude, heading and navigation sources in a single unit known as the Air Data Inertial Reference Unit (ADIRU) which has now been replaced by the Global Navigation Air Data Inertial Reference System (GNADIRS).
+On the Embraer Embraer E-Jet family the concept has been refined further by splitting air data acquisition and measurement – performed by combined pitot and static air data smart probes with integrated sensors – and computation of parameters performed by air data applications (ADA) executed on non-dedicated processing units. As all information from the sensors is transmitted electrically, routing of pitot and static pressure lines through the aircraft and associated maintenance tasks is avoided.
+In simpler aircraft and helicopters, the air data computers, generally two in number, and smaller, lighter and simpler than an ADIRU, may be called air data units, although their internal computational power is still significant. They commonly have the pitot and static pressure inputs, as well as outside air temperature from a platinum resistance thermometer and may control heating of the pitot tube and static vent to prevent blockage due to ice. On simpler aircraft, there is usually not a fly-by-wire system, so the outputs are typically to the cockpit altimeters or display system, flight data recorder and autopilot system. Output interfaces typically are ARINC 429, Gillham or even IEEE 1394 (Firewire). The data provided may be true airspeed, pressure altitude, density altitude and Outside Air Temperature (OAT), but with no involvement in aircraft attitude or heading, as there are no gyroscopes or accelerometers fitted internally. These devices are usually autonomous and do not require pilot input, merely sending continuously updated data to the recipient systems while the aircraft is powered up. Some, like the Enhanced Software Configurable Air Data Unit (ESCADU) are software configurable to suit many different aircraft applications.
+Apart from commercial ADCs, there are available do-it-yourself, and open-source implementations.
+
+History
+
+Electrical-mechanical air data computers were developed in the early 1950s to provide a central source of airspeed, altitude, and other signals to avionic systems that needed this data. A central air data computer avoided duplication of sensing equipment and could be more sophisticated and accurate. The first air data computer was built by Kollsman Instruments for the B-52 bomber. Bendix started producing a central air data computer in 1956 for use on US Air Force jet fighters. Garrett AiResearch developed early central air data computer systems that integrated pneumatic, electrical, and electronic components.
+The late 1960s saw the introduction of digital air data computers. In 1967, Garrett AiResearch's ILAAS air data computer was the first all-digital unit. The DC-10 used Honeywell's digital air data system in 1969 and the F-14 CADC used on the F-14 in 1970 used custom integrated circuits.
+From the late 1980s much of the USAF and USN aircraft fleets were retrofitted with the GEC Avionics Rochester-developed Standard Central Air Data Computer (SCADC). Aircraft fitted included the A-4 Skyhawk, A-6 Intruder, A-7 Corsair, C-5A/B Galaxy, EA-6B Prowler, F-111 Aardvark, F-4 Phantom, S-3 Viking, C-141 Starlifter, C-135 Stratolifter, C-2 Greyhound, and E-2 Hawkeye, for which the company received the Queen's Award for Technological Achievement.
+
+See also
+Acronyms and abbreviations in avionics
+F-14 Central Air Data Computer, used on the F-14
+Synthetic air data system
+
+References
+
+[[Integrated circuit]]

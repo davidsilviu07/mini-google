@@ -1,0 +1,30 @@
+Electronic circuit simulation
+Electronic circuit simulation uses mathematical models to replicate the behavior of an actual electronic device or circuit.  
+Simulation software allows for the modeling of circuit operation and is an invaluable analysis tool.  Due to its highly accurate modeling capability, many colleges and universities use this type of software for the teaching of electronics technician and electronics engineering programs.  Electronics simulation software engages its users by integrating them into the learning experience. These kinds of interactions actively engage learners to analyze, synthesize, organize, and evaluate content and result in learners constructing their own knowledge.
+Simulating a circuit’s behavior before actually building it can greatly improve design efficiency by making faulty designs known as such, and providing insight into the behavior of electronic circuit designs.  In particular, for integrated circuits, the tooling (photomasks) is expensive, breadboards are impractical, and probing the behavior of internal signals is extremely difficult.  Therefore, almost all IC design relies heavily on simulation.  The most well known analog simulator is SPICE. Probably the best known digital simulators are those based on Verilog and VHDL.
+Some electronics simulators integrate a schematic editor, a simulation engine, and an on-screen waveform display (see Figure 1), allowing designers to rapidly modify a simulated circuit and see what effect the changes have on the output.  They also typically contain extensive model and device libraries.  These models typically include IC specific transistor models such as BSIM, generic components such as resistors, capacitors, inductors and transformers, user defined models (such as controlled current and voltage sources, or models in Verilog-A or VHDL-AMS). Printed circuit board (PCB) design requires specific models as well, such as transmission lines for the traces and IBIS models for driving and receiving electronics.
+
+Types
+While there are strictly analog electronics circuit simulators, popular simulators often include both analog and event-driven digital simulation capabilities, and are known as mixed-mode or mixed-signal simulators if they can simulate both simultaneously. An entire mixed signal analysis can be driven from one integrated schematic. All the digital models in mixed-mode simulators provide accurate specification of propagation time and rise/fall time delays.
+The event-driven algorithm provided by mixed-mode simulators is general-purpose and supports non-digital types of data. For example, elements can use real or integer values to simulate DSP functions or sampled data filters. Because the event-driven algorithm is faster than the standard SPICE matrix solution, simulation time is greatly reduced for circuits that use event-driven models in place of analog models.
+Mixed-mode simulation is handled on three levels: with primitive digital elements that use timing models and the built-in 12 or 16 state digital logic simulator, with subcircuit models that use the actual transistor topology of the integrated circuit, and finally, with inline Boolean logic expressions.
+Exact representations are used mainly in the analysis of transmission line and signal integrity problems where a close inspection of an IC’s I/O characteristics is needed. Boolean logic expressions are delay-less functions that are used to provide efficient logic signal processing in an analog environment. These two modeling techniques use SPICE to solve a problem while the third method, digital primitives, uses mixed mode capability. Each of these methods has its merits and target applications. In fact, many simulations (particularly those which use A/D technology) call for the combination of all three approaches. No one approach alone is sufficient.
+Another type of simulation used mainly for power electronics represent piecewise linear algorithms. These algorithms use an analog (linear) simulation until a power electronic switch changes its state. At this time a new analog model is calculated to be used for the next simulation period. This methodology both enhances simulation speed and stability significantly.
+Another approach that dramatically shortens the simulation time of switch-mode converters is based on average behavioral circuits that apply the switched inductor model. In this approach, the simulation is carried out on the average signals, voltages, and currents, and hence runs much faster. Another advantage of this approach is that it can carry both time domain and frequency domain simulations. The latter can be used to extract the transfer functions in open and closed loop.
+
+Complexities
+Process variations occur when the design is fabricated and circuit simulators often do not take these variations into account. These variations can be small, but taken together, they can change the output of a chip significantly.
+Temperature variation can also be modeled to simulate the circuit's performance through temperature ranges.
+
+Simulation from admittance matrix
+A common method of simulating linear circuits systems is with admittance matrices, or Y matrices.  The technique involves modeling the individual linear components as an N port admittance matrix, inserting the component Y matrix into a circuits nodal admittance matrix, installing port terminations at nodes that contain ports, eliminating ports without nodes though Kron reduction, converting the final Y matrix to an S or Z matrix as needed, and extracting desired measurements from the Y, Z, and/or S matrix.
+
+See also
+
+References
+
+External links
+WCCA Simple Comparing of different Methods
+Electronic circuit simulation at the Open Directory Project
+
+[[Algorithm]] [[Altium]] [[Computational biology]] [[Computational chemistry]] [[Computational physics]] [[Computational social science]] [[Integrated circuit]] [[LTspice]] [[Micro-Cap]] [[Ngspice]] [[Photomask]] [[SPICE]] [[Semiconductor device fabrication]] [[Zuken]]

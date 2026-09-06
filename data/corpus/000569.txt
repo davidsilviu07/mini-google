@@ -1,0 +1,3835 @@
+Glossary of calculus
+Most of the terms listed in Wikipedia glossaries are already defined and explained within Wikipedia itself. However, glossaries like this one are useful for looking up, comparing and reviewing large numbers of terms together. You can help enhance this page by adding new terms or writing definitions for existing ones.
+This glossary of calculus is a list of definitions about calculus, its sub-disciplines, and related fields.
+
+A
+
+Abel's test
+A method of testing for the convergence of an infinite series.
+absolute convergence
+An infinite series of numbers is said to converge absolutely (or to be absolutely convergent) if the sum of the absolute values of the summands is finite. More precisely, a real or complex series 
+  
+    
+      
+        
+          
+            ∑
+            
+              n
+              =
+              0
+            
+            
+              ∞
+            
+          
+          
+            a
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \sum _{n=0}^{\infty }a_{n}}
+  
+ is said to converge absolutely if 
+  
+    
+      
+        
+          
+            ∑
+            
+              n
+              =
+              0
+            
+            
+              ∞
+            
+          
+          
+            |
+            
+              a
+              
+                n
+              
+            
+            |
+          
+          =
+          L
+        
+      
+    
+    {\displaystyle \textstyle \sum _{n=0}^{\infty }\left|a_{n}\right|=L}
+  
+ for some real number 
+  
+    
+      
+        
+          L
+        
+      
+    
+    {\displaystyle \textstyle L}
+  
+. Similarly, an improper integral of a function, 
+  
+    
+      
+        
+          
+            ∫
+            
+              0
+            
+            
+              ∞
+            
+          
+          f
+          (
+          x
+          )
+          
+          d
+          x
+        
+      
+    
+    {\displaystyle \textstyle \int _{0}^{\infty }f(x)\,dx}
+  
+, is said to converge absolutely if the integral of the absolute value of the integrand is finite—that is, if 
+  
+    
+      
+        
+          
+            ∫
+            
+              0
+            
+            
+              ∞
+            
+          
+          
+            |
+            
+              f
+              (
+              x
+              )
+            
+            |
+          
+          d
+          x
+          =
+          L
+          .
+        
+      
+    
+    {\displaystyle \textstyle \int _{0}^{\infty }\left|f(x)\right|dx=L.}
+  
+
+absolute maximum
+The highest value a function attains.
+absolute minimum
+The lowest value a function attains.
+absolute value
+The absolute value or modulus |x| of a real number x is the non-negative value of x without regard to its sign. Namely, |x| = x for a positive x, |x| = −x for a negative x (in which case −x is positive), and |0| = 0. For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3. The absolute value of a number may be thought of as its distance from zero.
+alternating series
+An infinite series whose terms alternate between positive and negative.
+alternating series test
+Is the method used to prove that an alternating series with terms that decrease in absolute value is a convergent series. The test was used by Gottfried Leibniz and is sometimes known as Leibniz's test, Leibniz's rule, or the Leibniz criterion.
+annulus
+A ring-shaped object, a region bounded by two concentric circles.
+antiderivative
+An antiderivative, primitive function, primitive integral or indefinite integral of a function f is a differentiable function F whose derivative is equal to the original function f. This can be stated symbolically as 
+  
+    
+      
+        
+          F
+          ′
+        
+        =
+        f
+      
+    
+    {\displaystyle F'=f}
+  
+. The process of solving for antiderivatives is called antidifferentiation (or indefinite integration) and its opposite operation is called differentiation, which is the process of finding a derivative.
+arcsin
+
+area under a curve
+
+asymptote
+In analytic geometry, an asymptote of a curve is a line such that the distance between the curve and the line approaches zero as one or both of the x or y coordinates tends to infinity. Some sources include the requirement that the curve may not cross the line infinitely often, but this is unusual for modern authors. In projective geometry and related contexts, an asymptote of a curve is a line which is tangent to the curve at a point at infinity.
+automatic differentiation
+In mathematics and computer algebra, automatic differentiation (AD), also called algorithmic differentiation or computational differentiation, is a set of techniques to numerically evaluate the derivative of a function specified by a computer program. AD exploits the fact that every computer program, no matter how complicated, executes a sequence of elementary arithmetic operations (addition, subtraction, multiplication, division, etc.) and elementary functions (exp, log, sin, cos, etc.). By applying the chain rule repeatedly to these operations, derivatives of arbitrary order can be computed automatically, accurately to working precision, and using at most a small constant factor more arithmetic operations than the original program.
+
+average rate of change
+
+B
+
+binomial coefficient
+Any of the positive integers that occurs as a coefficient in the binomial theorem is a binomial coefficient. Commonly, a binomial coefficient is indexed by a pair of integers n ≥ k ≥ 0 and is written 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                n
+                k
+              
+              
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\tbinom {n}{k}}.}
+  
+ It is the coefficient of the xk term in the polynomial expansion of the binomial power (1 + x)n, and it is given by the formula
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              k
+              !
+              (
+              n
+              −
+              k
+              )
+              !
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\binom {n}{k}}={\frac {n!}{k!(n-k)!}}.}
+  
+
+binomial theorem (or binomial expansion)
+ Describes the algebraic expansion of powers of a binomial.
+bounded function
+A function f defined on some set X with real or complex values is called bounded, if the set of its values is bounded. In other words, there exists a real number M such that 
+
+  
+    
+      
+        
+          |
+        
+        f
+        (
+        x
+        )
+        
+          |
+        
+        ≤
+        M
+      
+    
+    {\displaystyle |f(x)|\leq M}
+  
+
+for all x in X. A function that is not bounded is said to be unbounded.
+
+Sometimes, if f(x) ≤ A for all x in X, then the function is said to be bounded above by A. On the other hand, if f(x) ≥ B for all x in X, then the function is said to be bounded below by B.
+bounded sequence
+ .
+
+C
+
+calculus
+(From Latin calculus, literally 'small pebble', used for counting and calculations, as on an abacus) is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations.
+Cavalieri's principle
+ Cavalieri's principle, a modern implementation of the method of indivisibles, named after Bonaventura Cavalieri, is as follows:
+2-dimensional case: Suppose two regions in a plane are included between two parallel lines in that plane. If every line parallel to these two lines intersects both regions in line segments of equal length, then the two regions have equal areas.
+3-dimensional case: Suppose two regions in three-space (solids) are included between two parallel planes. If every plane parallel to these two planes intersects both regions in cross-sections of equal area, then the two regions have equal volumes.
+chain rule
+The chain rule is a formula for computing the derivative of the composition of two or more functions. That is, if f and g are functions, then the chain rule expresses the derivative of their composition f ∘ g (the function which maps x to f(g(x)) ) in terms of the derivatives of f and g and the product of functions as follows:
+
+  
+    
+      
+        (
+        f
+        ∘
+        g
+        
+          )
+          ′
+        
+        =
+        (
+        
+          f
+          ′
+        
+        ∘
+        g
+        )
+        ⋅
+        
+          g
+          ′
+        
+        .
+      
+    
+    {\displaystyle (f\circ g)'=(f'\circ g)\cdot g'.}
+  
+
+This may equivalently be expressed in terms of the variable. Let F = f ∘ g, or equivalently, F(x) = f(g(x)) for all x. Then one can also write
+
+  
+    
+      
+        
+          F
+          ′
+        
+        (
+        x
+        )
+        =
+        
+          f
+          ′
+        
+        (
+        g
+        (
+        x
+        )
+        )
+        
+          g
+          ′
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle F'(x)=f'(g(x))g'(x).}
+  
+
+The chain rule may be written in Leibniz's notation in the following way. If a variable z depends on the variable y, which itself depends on the variable x, so that y and z are therefore dependent variables, then z, via the intermediate variable of y, depends on x as well. The chain rule then states,
+
+  
+    
+      
+        
+          
+            
+              d
+              z
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        
+          
+            
+              d
+              z
+            
+            
+              d
+              y
+            
+          
+        
+        ⋅
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {dz}{dx}}={\frac {dz}{dy}}\cdot {\frac {dy}{dx}}.}
+  
+
+The two versions of the chain rule are related; if 
+  
+    
+      
+        z
+        =
+        f
+        (
+        y
+        )
+      
+    
+    {\displaystyle z=f(y)}
+  
+ and 
+  
+    
+      
+        y
+        =
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle y=g(x)}
+  
+, then
+
+  
+    
+      
+        
+          
+            
+              d
+              z
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        
+          
+            
+              d
+              z
+            
+            
+              d
+              y
+            
+          
+        
+        ⋅
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        
+          f
+          ′
+        
+        (
+        y
+        )
+        
+          g
+          ′
+        
+        (
+        x
+        )
+        =
+        
+          f
+          ′
+        
+        (
+        g
+        (
+        x
+        )
+        )
+        
+          g
+          ′
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle {\frac {dz}{dx}}={\frac {dz}{dy}}\cdot {\frac {dy}{dx}}=f'(y)g'(x)=f'(g(x))g'(x).}
+  
+
+In integration, the counterpart to the chain rule is the substitution rule.
+change of variables
+ Is a basic technique used to simplify problems in which the original variables are replaced with functions of other variables. The intent is that when expressed in new variables, the problem may become simpler, or equivalent to a better understood problem.
+cofunction
+A function f is cofunction of a function g if f(A) = g(B) whenever A and B are complementary angles. This definition typically applies to trigonometric functions. The prefix "co-" can be found already in Edmund Gunter's Canon triangulorum (1620).
+concave function
+ Is the negative of a convex function. A concave function is also synonymously called concave downwards, concave down, convex upwards, convex cap or upper convex.
+constant of integration
+The indefinite integral of a given function (i.e., the set of all antiderivatives of the function) on a connected domain is only defined up to an additive constant, the constant of integration. This constant expresses an ambiguity inherent in the construction of antiderivatives. If a function 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ is defined on an interval and 
+  
+    
+      
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle F(x)}
+  
+ is an antiderivative of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+, then the set of all antiderivatives of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ is given by the functions 
+  
+    
+      
+        F
+        (
+        x
+        )
+        +
+        C
+      
+    
+    {\displaystyle F(x)+C}
+  
+, where C is an arbitrary constant (meaning that any value for C makes 
+  
+    
+      
+        F
+        (
+        x
+        )
+        +
+        C
+      
+    
+    {\displaystyle F(x)+C}
+  
+ a valid antiderivative). The constant of integration is sometimes omitted in lists of integrals for simplicity.
+continuous function
+Is a function for which sufficiently small changes in the input result in arbitrarily small changes in the output. Otherwise, a function is said to be a discontinuous function. A continuous function with a continuous inverse function is called a homeomorphism.
+continuously differentiable
+A function f is said to be continuously differentiable if the derivative f′(x) exists and is itself a continuous function.
+contour integration
+In the mathematical field of complex analysis, contour integration is a method of evaluating certain integrals along paths in the complex plane.
+convergence tests
+Are methods of testing for the convergence, conditional convergence, absolute convergence, interval of convergence or divergence of an infinite series 
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum _{n=1}^{\infty }a_{n}}
+  
+.
+convergent series
+In mathematics, a series is the sum of the terms of an infinite sequence of numbers.
+
+Given an infinite sequence 
+  
+    
+      
+        
+          (
+          
+            
+              a
+              
+                1
+              
+            
+            ,
+             
+            
+              a
+              
+                2
+              
+            
+            ,
+             
+            
+              a
+              
+                3
+              
+            
+            ,
+            …
+          
+          )
+        
+      
+    
+    {\displaystyle \left(a_{1},\ a_{2},\ a_{3},\dots \right)}
+  
+, the nth partial sum 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S_{n}}
+  
+ is the sum of the first n terms of the sequence, that is,
+
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          a
+          
+            k
+          
+        
+        .
+      
+    
+    {\displaystyle S_{n}=\sum _{k=1}^{n}a_{k}.}
+  
+
+A series is convergent if the sequence of its partial sums 
+  
+    
+      
+        
+          {
+          
+            
+              S
+              
+                1
+              
+            
+            ,
+             
+            
+              S
+              
+                2
+              
+            
+            ,
+             
+            
+              S
+              
+                3
+              
+            
+            ,
+            …
+          
+          }
+        
+      
+    
+    {\displaystyle \left\{S_{1},\ S_{2},\ S_{3},\dots \right\}}
+  
+ tends to a limit; that means that the partial sums become closer and closer to a given number when the number of their terms increases. More precisely, a series converges, if there exists a number 
+  
+    
+      
+        ℓ
+      
+    
+    {\displaystyle \ell }
+  
+ such that for any arbitrarily small positive number 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+, there is a (sufficiently large) integer 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ such that for all 
+  
+    
+      
+        n
+        ≥
+         
+        N
+      
+    
+    {\displaystyle n\geq \ N}
+  
+,
+
+  
+    
+      
+        
+          |
+          
+            
+              S
+              
+                n
+              
+            
+            −
+            ℓ
+          
+          |
+        
+        ≤
+         
+        ε
+        .
+      
+    
+    {\displaystyle \left|S_{n}-\ell \right\vert \leq \ \varepsilon .}
+  
+
+If the series is convergent, the number 
+  
+    
+      
+        ℓ
+      
+    
+    {\displaystyle \ell }
+  
+ (necessarily unique) is called the sum of the series.
+
+Any series that is not convergent is said to be divergent.
+convex function
+In mathematics, a real-valued function defined on an n-dimensional interval is called convex (or convex downward or concave upward) if the line segment between any two points on the graph of the function lies above or on the graph, in a Euclidean space (or more generally a vector space) of at least two dimensions. Equivalently, a function is convex if its epigraph (the set of points on or above the graph of the function) is a convex set. For a twice differentiable function of a single variable, if the second derivative is always greater than or equal to zero for its entire domain then the function is convex. Well-known examples of convex functions include the quadratic function 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+  
+ and the exponential function 
+  
+    
+      
+        
+          e
+          
+            x
+          
+        
+      
+    
+    {\displaystyle e^{x}}
+  
+.
+Cramer's rule
+ In linear algebra, Cramer's rule is an explicit formula for the solution of a system of linear equations with as many equations as unknowns, valid whenever the system has a unique solution. It expresses the solution in terms of the determinants of the (square) coefficient matrix and of matrices obtained from it by replacing one column by the column vector of right-hand-sides of the equations. It is named after Gabriel Cramer (1704–1752), who published the rule for an arbitrary number of unknowns in 1750, although Colin Maclaurin also published special cases of the rule in 1748 (and possibly knew of it as early as 1729).
+critical point
+A critical point or stationary point of a differentiable function of a real or complex variable is any value in its domain where its derivative is 0.
+curve
+A curve (also called a curved line in older texts) is, generally speaking, an object similar to a line but that need not be straight. 
+curve sketching
+In geometry, curve sketching (or curve tracing) includes techniques that can be used to produce a rough idea of overall shape of a plane curve given its equation without computing the large numbers of points required for a detailed plot. It is an application of the theory of curves to find their main features. Here input is an equation.
+ In digital geometry it is a method of drawing a curve pixel by pixel. Here input is an array (digital image).
+
+D
+
+damped sine wave
+Is a sinusoidal function whose amplitude approaches zero as time increases.
+degree of a polynomial
+Is the highest degree of its monomials (individual terms) with non-zero coefficients. The degree of a term is the sum of the exponents of the variables that appear in it, and thus is a non-negative integer.
+derivative
+The derivative of a function of a real variable measures the sensitivity to change of the function value (output value) with respect to a change in its argument (input value). Derivatives are a fundamental tool of calculus. For example, the derivative of the position of a moving object with respect to time is the object's velocity: this measures how quickly the position of the object changes when time advances.
+derivative test
+A derivative test uses the derivatives of a function to locate the critical points of a function and determine whether each point is a local maximum, a local minimum, or a saddle point. Derivative tests can also give information about the concavity of a function.
+differentiable function
+A differentiable function of one real variable is a function whose derivative exists at each point in its domain. As a result, the graph of a differentiable function must have a (non-vertical) tangent line at each point in its domain, be relatively smooth, and cannot contain any breaks, bends, or cusps.
+differential (infinitesimal)
+The term differential is used in calculus to refer to an infinitesimal (infinitely small) change in some varying quantity. For example, if x is a variable, then a change in the value of x is often denoted Δx (pronounced delta x). The differential dx represents an infinitely small change in the variable x. The idea of an infinitely small or infinitely slow change is extremely useful intuitively, and there are a number of ways to make the notion mathematically precise.
+
+Using calculus, it is possible to relate the infinitely small changes of various variables to each other mathematically using derivatives. If y is a function of x, then the differential dy of y is related to dx by the formula
+
+  
+    
+      
+        d
+        y
+        =
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle dy={\frac {dy}{dx}}\,dx,}
+  
+
+where dy/dx denotes the derivative of y with respect to x. This formula summarizes the intuitive idea that the derivative of y with respect to x is the limit of the ratio of differences Δy/Δx as Δx becomes infinitesimal.
+differential calculus
+Is a subfield of calculus concerned with the study of the rates at which quantities change. It is one of the two traditional divisions of calculus, the other being integral calculus, the study of the area beneath a curve.
+differential equation
+Is a mathematical equation that relates some function with its derivatives. In applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two.
+differential operator
+.
+differential of a function
+In calculus, the differential represents the principal part of the change in a function y = f(x) with respect to changes in the independent variable. The differential dy is defined by
+
+  
+    
+      
+        d
+        y
+        =
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle dy=f'(x)\,dx,}
+  
+
+where 
+  
+    
+      
+        
+          f
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f'(x)}
+  
+ is the derivative of f with respect to x, and dx is an additional real variable (so that dy is a function of x and dx). The notation is such that the equation
+
+  
+    
+      
+        d
+        y
+        =
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle dy={\frac {dy}{dx}}\,dx}
+  
+
+holds, where the derivative is represented in the Leibniz notation dy/dx, and this is consistent with regarding the derivative as the quotient of the differentials. One also writes
+
+  
+    
+      
+        d
+        f
+        (
+        x
+        )
+        =
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle df(x)=f'(x)\,dx.}
+  
+
+The precise meaning of the variables dy and dx depends on the context of the application and the required level of mathematical rigor. The domain of these variables may take on a particular geometrical significance if the differential is regarded as a particular differential form, or analytical significance if the differential is regarded as a linear approximation to the increment of a function. Traditionally, the variables dx and dy are considered to be very small (infinitesimal), and this interpretation is made rigorous in non-standard analysis.
+differentiation rules
+.
+direct comparison test
+A convergence test in which an infinite series or an improper integral is compared to one with known convergence properties.
+Dirichlet's test
+Is a method of testing for the convergence of a series. It is named after its author Peter Gustav Lejeune Dirichlet, and was published posthumously in the Journal de Mathématiques Pures et Appliquées in 1862. The test states that if 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+  
+ is a sequence of real numbers and 
+  
+    
+      
+        {
+        
+          b
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{b_{n}\}}
+  
+ a sequence of complex numbers satisfying
+
+  
+    
+      
+        
+          a
+          
+            n
+            +
+            1
+          
+        
+        ≤
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n+1}\leq a_{n}}
+  
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{n\rightarrow \infty }a_{n}=0}
+  
+
+  
+    
+      
+        
+          |
+          
+            
+              ∑
+              
+                n
+                =
+                1
+              
+              
+                N
+              
+            
+            
+              b
+              
+                n
+              
+            
+          
+          |
+        
+        ≤
+        M
+      
+    
+    {\displaystyle \left|\sum _{n=1}^{N}b_{n}\right|\leq M}
+  
+ for every positive integer N
+
+where M is some constant, then the series
+
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum _{n=1}^{\infty }a_{n}b_{n}}
+  
+
+converges.
+disc integration
+Also known in integral calculus as the disc method, is a means of calculating the volume of a solid of revolution of a solid-state material when integrating along an axis "parallel" to the axis of revolution.
+divergent series
+Is an infinite series that is not convergent, meaning that the infinite sequence of the partial sums of the series does not have a finite limit.
+discontinuity
+Continuous functions are of utmost importance in mathematics, functions and applications. However, not all functions are continuous. If a function is not continuous at a point in its domain, one says that it has a discontinuity there. The set of all points of discontinuity of a function may be a discrete set, a dense set, or even the entire domain of the function.
+dot product
+In mathematics, the dot product or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used and often called "the" inner product (or rarely projection product) of Euclidean space even though it is not the only inner product that can be defined on Euclidean space; see also inner product space.
+double integral
+The multiple integral is a definite integral of a function of more than one real variable, for example, f(x, y) or f(x, y, z). Integrals of a function of two variables over a region in R2 are called double integrals, and integrals of a function of three variables over a region of R3 are called triple integrals.
+
+E
+
+e (mathematical constant)
+The number e is a mathematical constant that is the base of the natural logarithm: the unique number whose natural logarithm is equal to one. It is approximately equal to 2.71828, and is the limit of (1 + 1/n)n as n approaches infinity, an expression that arises in the study of compound interest. It can also be calculated as the sum of the infinite series
+
+  
+    
+      
+        e
+        =
+        
+          
+            ∑
+            
+              n
+              =
+              0
+            
+            
+              ∞
+            
+          
+          
+            
+              
+                1
+                
+                  n
+                  !
+                
+              
+            
+          
+          =
+          
+            
+              1
+              1
+            
+          
+          +
+          
+            
+              1
+              1
+            
+          
+          +
+          
+            
+              1
+              
+                1
+                ⋅
+                2
+              
+            
+          
+          +
+          
+            
+              1
+              
+                1
+                ⋅
+                2
+                ⋅
+                3
+              
+            
+          
+          +
+          ⋯
+        
+      
+    
+    {\displaystyle e=\displaystyle \sum \limits _{n=0}^{\infty }{\dfrac {1}{n!}}={\frac {1}{1}}+{\frac {1}{1}}+{\frac {1}{1\cdot 2}}+{\frac {1}{1\cdot 2\cdot 3}}+\cdots }
+  
+
+elliptic integral
+In integral calculus, elliptic integrals originally arose in connection with the problem of giving the arc length of an ellipse. They were first studied by Giulio Fagnano and Leonhard Euler (c. 1750). Modern mathematics defines an "elliptic integral" as any function f which can be expressed in the form
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            c
+          
+          
+            x
+          
+        
+        R
+        
+          (
+          
+            t
+            ,
+            
+              
+                P
+                (
+                t
+                )
+              
+            
+          
+          )
+        
+        
+        d
+        t
+        ,
+      
+    
+    {\displaystyle f(x)=\int _{c}^{x}R\left(t,{\sqrt {P(t)}}\right)\,dt,}
+  
+
+where R is a rational function of its two arguments, P is a polynomial of degree 3 or 4 with no repeated roots, and c is a constant..
+essential discontinuity
+For an essential discontinuity, only one of the two one-sided limits needs not exist or be infinite.
+Consider the function 
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  sin
+                  ⁡
+                  
+                    
+                      5
+                      
+                        x
+                        −
+                        1
+                      
+                    
+                  
+                
+                
+                  
+                    
+                       for 
+                    
+                  
+                  x
+                  <
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    
+                       for 
+                    
+                  
+                  x
+                  =
+                  1
+                
+              
+              
+                
+                  
+                    
+                      1
+                      
+                        x
+                        −
+                        1
+                      
+                    
+                  
+                
+                
+                  
+                    
+                       for 
+                    
+                  
+                  x
+                  >
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle f(x)={\begin{cases}\sin {\frac {5}{x-1}}&{\mbox{ for }}x<1\\0&{\mbox{ for }}x=1\\{\frac {1}{x-1}}&{\mbox{ for }}x>1\end{cases}}}
+  
+
+Then, the point 
+  
+    
+      
+        
+          
+            x
+            
+              0
+            
+          
+          
+          =
+          
+          1
+        
+      
+    
+    {\displaystyle \scriptstyle x_{0}\;=\;1}
+  
+ is an essential discontinuity.
+
+In this case, 
+  
+    
+      
+        
+          
+            L
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle L^{-}}
+  
+ doesn't exist and 
+  
+    
+      
+        
+          
+            L
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle L^{+}}
+  
+ is infinite – thus satisfying twice the conditions of essential discontinuity. So x0 is an essential discontinuity, infinite discontinuity, or discontinuity of the second kind. (This is distinct from the term essential singularity which is often used when studying functions of complex variables.
+Euler method
+Euler's method is a numerical method to solve first order first degree differential equation with a given initial value. It is the most basic explicit method for numerical integration of ordinary differential equations and is the simplest Runge–Kutta method. The Euler method is named after Leonhard Euler, who treated it in his book Institutionum calculi integralis (published 1768–1870).
+exponential function
+In mathematics, an exponential function is a function of the form
+
+where b is a positive real number, and in which the argument x occurs as an exponent. For real numbers c and d, a function of the form 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        a
+        
+          b
+          
+            c
+            x
+            +
+            d
+          
+        
+      
+    
+    {\displaystyle f(x)=ab^{cx+d}}
+  
+ is also an exponential function, as it can be rewritten as 
+
+  
+    
+      
+        a
+        
+          b
+          
+            c
+            x
+            +
+            d
+          
+        
+        =
+        
+          (
+          
+            a
+            
+              b
+              
+                d
+              
+            
+          
+          )
+        
+        
+          
+            (
+            
+              b
+              
+                c
+              
+            
+            )
+          
+          
+            x
+          
+        
+        .
+      
+    
+    {\displaystyle ab^{cx+d}=\left(ab^{d}\right)\left(b^{c}\right)^{x}.}
+  
+
+extreme value theorem
+States that if a real-valued function f is continuous on the closed interval [a,b], then f must attain a maximum and a minimum, each at least once. That is, there exist numbers c and d in [a,b] such that:
+
+  
+    
+      
+        f
+        (
+        c
+        )
+        ≥
+        f
+        (
+        x
+        )
+        ≥
+        f
+        (
+        d
+        )
+        
+        
+          for all 
+        
+        x
+        ∈
+        [
+        a
+        ,
+        b
+        ]
+        .
+      
+    
+    {\displaystyle f(c)\geq f(x)\geq f(d)\quad {\text{for all }}x\in [a,b].}
+  
+
+A related theorem is the boundedness theorem which states that a continuous function f in the closed interval [a,b] is bounded on that interval. That is, there exist real numbers m and M such that:
+
+  
+    
+      
+        m
+        <
+        f
+        (
+        x
+        )
+        <
+        M
+        
+        
+          for all 
+        
+        x
+        ∈
+        [
+        a
+        ,
+        b
+        ]
+        .
+      
+    
+    {\displaystyle m<f(x)<M\quad {\text{for all }}x\in [a,b].}
+  
+
+The extreme value theorem enriches the boundedness theorem by saying that not only is the function bounded, but it also attains its least upper bound as its maximum and its greatest lower bound as its minimum.
+extremum
+In mathematical analysis, the maxima and minima (the respective plurals of maximum and minimum) of a function, known collectively as extrema (the plural of extremum), are the largest and smallest value of the function, either within a given range (the local or relative extrema) or on the entire domain of a function (the global or absolute extrema). Pierre de Fermat was one of the first mathematicians to propose a general technique, adequality, for finding the maxima and minima of functions.
+
+As defined in set theory, the maximum and minimum of a set are the greatest and least elements in the set, respectively. Unbounded infinite sets, such as the set of real numbers, have no minimum or maximum.
+
+F
+
+Faà di Bruno's formula
+Is an identity in mathematics generalizing the chain rule to higher derivatives, named after Francesco Faà di Bruno (1855, 1857), though he was not the first to state or prove the formula. In 1800, more than 50 years before Faà di Bruno, the French mathematician Louis François Antoine Arbogast stated the formula in a calculus textbook, considered the first published reference on the subject.
+
+Perhaps the most well-known form of Faà di Bruno's formula says that
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                n
+              
+            
+            
+              d
+              
+                x
+                
+                  n
+                
+              
+            
+          
+        
+        f
+        (
+        g
+        (
+        x
+        )
+        )
+        =
+        ∑
+        
+          
+            
+              n
+              !
+            
+            
+              
+                m
+                
+                  1
+                
+              
+              !
+              
+              1
+              
+                !
+                
+                  
+                    m
+                    
+                      1
+                    
+                  
+                
+              
+              
+              
+                m
+                
+                  2
+                
+              
+              !
+              
+              2
+              
+                !
+                
+                  
+                    m
+                    
+                      2
+                    
+                  
+                
+              
+              
+              ⋯
+              
+              
+                m
+                
+                  n
+                
+              
+              !
+              
+              n
+              
+                !
+                
+                  
+                    m
+                    
+                      n
+                    
+                  
+                
+              
+            
+          
+        
+        ⋅
+        
+          f
+          
+            (
+            
+              m
+              
+                1
+              
+            
+            +
+            ⋯
+            +
+            
+              m
+              
+                n
+              
+            
+            )
+          
+        
+        (
+        g
+        (
+        x
+        )
+        )
+        ⋅
+        
+          ∏
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            (
+            
+              
+                g
+                
+                  (
+                  j
+                  )
+                
+              
+              (
+              x
+              )
+            
+            )
+          
+          
+            
+              m
+              
+                j
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {d^{n} \over dx^{n}}f(g(x))=\sum {\frac {n!}{m_{1}!\,1!^{m_{1}}\,m_{2}!\,2!^{m_{2}}\,\cdots \,m_{n}!\,n!^{m_{n}}}}\cdot f^{(m_{1}+\cdots +m_{n})}(g(x))\cdot \prod _{j=1}^{n}\left(g^{(j)}(x)\right)^{m_{j}},}
+  
+
+where the sum is over all n-tuples of nonnegative integers (m1, …, mn) satisfying the constraint
+
+  
+    
+      
+        1
+        ⋅
+        
+          m
+          
+            1
+          
+        
+        +
+        2
+        ⋅
+        
+          m
+          
+            2
+          
+        
+        +
+        3
+        ⋅
+        
+          m
+          
+            3
+          
+        
+        +
+        ⋯
+        +
+        n
+        ⋅
+        
+          m
+          
+            n
+          
+        
+        =
+        n
+        .
+      
+    
+    {\displaystyle 1\cdot m_{1}+2\cdot m_{2}+3\cdot m_{3}+\cdots +n\cdot m_{n}=n.}
+  
+
+Sometimes, to give it a memorable pattern, it is written in a way in which the coefficients that have the combinatorial interpretation discussed below are less explicit:
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                n
+              
+            
+            
+              d
+              
+                x
+                
+                  n
+                
+              
+            
+          
+        
+        f
+        (
+        g
+        (
+        x
+        )
+        )
+        =
+        ∑
+        
+          
+            
+              n
+              !
+            
+            
+              
+                m
+                
+                  1
+                
+              
+              !
+              
+              
+                m
+                
+                  2
+                
+              
+              !
+              
+              ⋯
+              
+              
+                m
+                
+                  n
+                
+              
+              !
+            
+          
+        
+        ⋅
+        
+          f
+          
+            (
+            
+              m
+              
+                1
+              
+            
+            +
+            ⋯
+            +
+            
+              m
+              
+                n
+              
+            
+            )
+          
+        
+        (
+        g
+        (
+        x
+        )
+        )
+        ⋅
+        
+          ∏
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    g
+                    
+                      (
+                      j
+                      )
+                    
+                  
+                  (
+                  x
+                  )
+                
+                
+                  j
+                  !
+                
+              
+            
+            )
+          
+          
+            
+              m
+              
+                j
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {d^{n} \over dx^{n}}f(g(x))=\sum {\frac {n!}{m_{1}!\,m_{2}!\,\cdots \,m_{n}!}}\cdot f^{(m_{1}+\cdots +m_{n})}(g(x))\cdot \prod _{j=1}^{n}\left({\frac {g^{(j)}(x)}{j!}}\right)^{m_{j}}.}
+  
+
+Combining the terms with the same value of m1 + m2 + ... + mn = k and noticing that m j has to be zero for j > n − k + 1 leads to a somewhat simpler formula expressed in terms of Bell polynomials Bn,k(x1,...,xn−k+1):
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                n
+              
+            
+            
+              d
+              
+                x
+                
+                  n
+                
+              
+            
+          
+        
+        f
+        (
+        g
+        (
+        x
+        )
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          f
+          
+            (
+            k
+            )
+          
+        
+        (
+        g
+        (
+        x
+        )
+        )
+        ⋅
+        
+          B
+          
+            n
+            ,
+            k
+          
+        
+        
+          (
+          
+            
+              g
+              ′
+            
+            (
+            x
+            )
+            ,
+            
+              g
+              ″
+            
+            (
+            x
+            )
+            ,
+            …
+            ,
+            
+              g
+              
+                (
+                n
+                −
+                k
+                +
+                1
+                )
+              
+            
+            (
+            x
+            )
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle {d^{n} \over dx^{n}}f(g(x))=\sum _{k=1}^{n}f^{(k)}(g(x))\cdot B_{n,k}\left(g'(x),g''(x),\dots ,g^{(n-k+1)}(x)\right).}
+  
+
+first-degree polynomial
+
+first derivative test
+The first derivative test examines a function's monotonic properties (where the function is increasing or decreasing) focusing on a particular point in its domain. If the function "switches" from increasing to decreasing at the point, then the function will achieve a highest value at that point. Similarly, if the function "switches" from decreasing to increasing at the point, then it will achieve a least value at that point. If the function fails to "switch", and remains increasing or remains decreasing, then no highest or least value is achieved.
+Fractional calculus
+Is a branch of mathematical analysis that studies the several different possibilities of defining real number powers or complex number powers of the differentiation operator D
+
+  
+    
+      
+        D
+        f
+        (
+        x
+        )
+        =
+        
+          
+            
+              d
+              
+                d
+                x
+              
+            
+          
+        
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle Df(x)={\dfrac {d}{dx}}f(x)}
+  
+,
+
+and of the integration operator J
+
+  
+    
+      
+        J
+        f
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+        
+        
+        
+        f
+        (
+        s
+        )
+        
+          d
+          s
+        
+      
+    
+    {\displaystyle Jf(x)=\int _{0}^{x}\!\!\!\!f(s){ds}}
+  
+,
+
+and developing a calculus for such operators generalizing the classical one.
+
+In this context, the term powers refers to iterative application of a linear operator to a function, in some analogy to function composition acting on a variable, i.e. f ∘2(x) = f ∘ f (x) = f ( f (x) ).
+frustum
+In geometry, a frustum (plural: frusta or frustums) is the portion of a solid (normally a cone or pyramid) that lies between one or two parallel planes cutting it. A right frustum is a parallel truncation of a right pyramid or right cone.
+function
+Is a process or a relation that associates each element x of a set X,  the domain of the function, to a single element y of another set Y (possibly the same set), the codomain of the function. If the function is called f, this relation is denoted y = f (x) (read f of x), the element x is the argument or input of the function, and y is the value of the function, the output, or the image of x by f. The symbol that is used for representing the input is the variable of the function (one often says that f is a function of the variable x).
+function composition
+Is an operation that takes two functions f and g and produces a function h such that h(x) = g(f(x)). In this operation, the function g is applied to the result of applying the function f to x. That is, the functions f : X → Y and g : Y → Z are composed to yield a function that maps x in X to g(f(x)) in Z.
+fundamental theorem of calculus
+The fundamental theorem of calculus is a theorem that links the concept of differentiating a function with the concept of integrating a function. The first part of the theorem, sometimes called the first fundamental theorem of calculus, states that one of the antiderivatives (also called indefinite integral), say F, of some function f may be obtained as the integral of f with a variable bound of integration. This implies the existence of antiderivatives for continuous functions.  Conversely, the second part of the theorem, sometimes called the second fundamental theorem of calculus, states that the integral of a function f over some interval can be computed by using any one, say F, of its infinitely many antiderivatives. This part of the theorem has key practical applications, because explicitly finding the antiderivative of a function by symbolic integration avoids numerical integration to compute integrals. This provides generally a better numerical accuracy.
+
+G
+
+general Leibniz rule
+The general Leibniz rule, named after Gottfried Wilhelm Leibniz, generalizes the product rule (which is also known as "Leibniz's rule").  It states that if 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ and 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ are 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+-times differentiable functions, then the product 
+  
+    
+      
+        f
+        g
+      
+    
+    {\displaystyle fg}
+  
+ is also 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+-times differentiable and its 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+th derivative is given by
+
+  
+    
+      
+        (
+        f
+        g
+        
+          )
+          
+            (
+            n
+            )
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          f
+          
+            (
+            n
+            −
+            k
+            )
+          
+        
+        
+          g
+          
+            (
+            k
+            )
+          
+        
+        ,
+      
+    
+    {\displaystyle (fg)^{(n)}=\sum _{k=0}^{n}{n \choose k}f^{(n-k)}g^{(k)},}
+  
+
+where 
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              k
+              !
+              (
+              n
+              −
+              k
+              )
+              !
+            
+          
+        
+      
+    
+    {\displaystyle {n \choose k}={n! \over k!(n-k)!}}
+  
+ is the binomial coefficient and 
+  
+    
+      
+        
+          f
+          
+            (
+            0
+            )
+          
+        
+        ≡
+        f
+        .
+      
+    
+    {\displaystyle f^{(0)}\equiv f.}
+  
+
+This can be proved by using the product rule and mathematical induction.
+global maximum
+In mathematical analysis, the maxima and minima (the respective plurals of maximum and minimum) of a function, known collectively as extrema (the plural of extremum), are the largest and smallest value of the function, either within a given range (the local or relative extrema) or on the entire domain of a function (the global or absolute extrema). Pierre de Fermat was one of the first mathematicians to propose a general technique, adequality, for finding the maxima and minima of functions.
+
+As defined in set theory, the maximum and minimum of a set are the greatest and least elements in the set, respectively. Unbounded infinite sets, such as the set of real numbers, have no minimum or maximum.
+global minimum
+In mathematical analysis, the maxima and minima (the respective plurals of maximum and minimum) of a function, known collectively as extrema (the plural of extremum), are the largest and smallest value of the function, either within a given range (the local or relative extrema) or on the entire domain of a function (the global or absolute extrema). Pierre de Fermat was one of the first mathematicians to propose a general technique, adequality, for finding the maxima and minima of functions.
+
+As defined in set theory, the maximum and minimum of a set are the greatest and least elements in the set, respectively. Unbounded infinite sets, such as the set of real numbers, have no minimum or maximum.
+golden spiral
+In geometry, a golden spiral is a logarithmic spiral whose growth factor is φ, the golden ratio. That is, a golden spiral gets wider (or further from its origin) by a factor of φ for every quarter turn it makes.
+gradient
+Is a multi-variable generalization of the derivative.  While a derivative can be defined on functions of a single variable, for functions of several variables, the gradient takes its place.  The gradient is a vector-valued function, as opposed to a derivative, which is scalar-valued.
+
+H
+
+harmonic progression
+In mathematics, a harmonic progression (or harmonic sequence) is a progression formed by taking the reciprocals of an arithmetic progression. It is a sequence of the form
+
+  
+    
+      
+        
+          
+            1
+            a
+          
+        
+        ,
+         
+        
+          
+            1
+            
+              a
+              +
+              d
+            
+          
+        
+         
+        ,
+        
+          
+            1
+            
+              a
+              +
+              2
+              d
+            
+          
+        
+         
+        ,
+        
+          
+            1
+            
+              a
+              +
+              3
+              d
+            
+          
+        
+         
+        ,
+        ⋯
+        ,
+        
+          
+            1
+            
+              a
+              +
+              k
+              d
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {1}{a}},\ {\frac {1}{a+d}}\ ,{\frac {1}{a+2d}}\ ,{\frac {1}{a+3d}}\ ,\cdots ,{\frac {1}{a+kd}},}
+  
+
+where −a/d is not a natural number and k is a natural number.
+
+Equivalently, a sequence is a harmonic progression when each term is the harmonic mean of the neighboring terms.
+
+It is not possible for a harmonic progression (other than the trivial case where a = 1 and k = 0)  to sum to an integer. The reason is that, necessarily, at least one denominator of the progression will be divisible by a prime number that does not divide any other denominator.
+
+higher derivative
+Let f be a differentiable function, and let f ′ be its derivative. The derivative of f ′ (if it has one) is written f ′′ and is called the second derivative of f.  Similarly, the derivative of the second derivative, if it exists, is written f ′′′ and is called the third derivative of f. Continuing this process, one can define, if it exists, the nth derivative as the derivative of the (n-1)th derivative. These repeated derivatives are called higher-order derivatives. The nth derivative is also called the derivative of order n.
+homogeneous linear differential equation
+A differential equation can be homogeneous in either of two respects.
+
+A first order differential equation is said to be homogeneous if it may be written
+
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        d
+        y
+        =
+        g
+        (
+        x
+        ,
+        y
+        )
+        d
+        x
+        ,
+      
+    
+    {\displaystyle f(x,y)dy=g(x,y)dx,}
+  
+
+where f and g are homogeneous functions of the same degree of x and y. In this case, the change of variable y = ux leads to an equation of the form 
+
+  
+    
+      
+        
+          
+            
+              d
+              x
+            
+            x
+          
+        
+        =
+        h
+        (
+        u
+        )
+        d
+        u
+        ,
+      
+    
+    {\displaystyle {\frac {dx}{x}}=h(u)du,}
+  
+
+which is easy to solve by integration of the two members.
+
+Otherwise, a differential equation is homogeneous if it is a homogeneous function of the unknown function and its derivatives. In the case of linear differential equations, this means that there are no constant terms. The solutions of any linear ordinary differential equation of any order may be deduced by integration from the solution of the homogeneous equation obtained by removing the constant term.
+hyperbolic function
+Hyperbolic functions are analogs of the ordinary trigonometric, or circular, functions.
+
+I
+
+identity function
+Also called an identity relation or identity map or identity transformation, is a function that always returns the same value that was used as its argument. In equations, the function is given by f(x) = x.
+imaginary number
+Is a complex number that can be written as a real number multiplied by the imaginary unit i, which is defined by its property i2 = −1. The square of an imaginary number bi is −b2. For example, 5i is an imaginary number, and its square is −25. Zero is considered to be both real and imaginary.
+implicit function
+In mathematics, an implicit equation is a relation  of the form 
+  
+    
+      
+        R
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle R(x_{1},\ldots ,x_{n})=0}
+  
+, where 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is a function of several variables (often a polynomial). For example, the implicit equation of the unit circle is 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        1
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+y^{2}-1=0}
+  
+.
+
+An implicit function is a function that is defined implicitly by an implicit equation, by associating one of the variables (the value) with the others (the arguments). Thus, an implicit function for 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ in the context of the unit circle is defined implicitly by 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        f
+        (
+        x
+        
+          )
+          
+            2
+          
+        
+        −
+        1
+        =
+        0
+      
+    
+    {\displaystyle x^{2}+f(x)^{2}-1=0}
+  
+. This implicit equation defines 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ as a function of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ only if 
+  
+    
+      
+        −
+        1
+        ≤
+        x
+        ≤
+        1
+      
+    
+    {\displaystyle -1\leq x\leq 1}
+  
+ and one considers only non-negative (or non-positive) values for the values of the function.
+
+The implicit function theorem provides conditions under which some kinds of relations define an implicit function, namely relations defined as the indicator function of the zero set of some continuously differentiable multivariate function.
+improper fraction
+Common fractions can be classified as either proper or improper. When the numerator and the denominator are both positive, the fraction is called proper if the numerator is less than the denominator, and improper otherwise. In general, a common fraction is said to be a proper fraction if the absolute value of the fraction is strictly less than one—that is, if the fraction is greater than −1 and less than 1.
+It is said to be an improper fraction, or sometimes top-heavy fraction, if the absolute value of the fraction is greater than or equal to 1. Examples of proper fractions are 2/3, –3/4, and 4/9; examples of improper fractions are 9/4, –4/3, and 3/3.
+improper integral
+In mathematical analysis, an improper integral is the limit of a definite integral as an endpoint of the interval(s) of integration approaches either a specified real number, 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  
+, 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+  
+, or in some instances as both endpoints approach limits. Such an integral is often written symbolically just like a standard definite integral, in some cases with infinity as a limit of integration.
+
+Specifically, an improper integral is a limit of the form:
+
+  
+    
+      
+        
+          lim
+          
+            b
+            →
+            ∞
+          
+        
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        ,
+        
+        
+          lim
+          
+            a
+            →
+            −
+            ∞
+          
+        
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle \lim _{b\to \infty }\int _{a}^{b}f(x)\,dx,\qquad \lim _{a\to -\infty }\int _{a}^{b}f(x)\,dx,}
+  
+
+or
+
+  
+    
+      
+        
+          lim
+          
+            c
+            →
+            
+              b
+              
+                −
+              
+            
+          
+        
+        
+          ∫
+          
+            a
+          
+          
+            c
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        ,
+        
+        
+          lim
+          
+            c
+            →
+            
+              a
+              
+                +
+              
+            
+          
+        
+        
+          ∫
+          
+            c
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle \lim _{c\to b^{-}}\int _{a}^{c}f(x)\,dx,\quad \lim _{c\to a^{+}}\int _{c}^{b}f(x)\,dx,}
+  
+
+in which one takes a limit in one or the other (or sometimes both) endpoints (Apostol 1967, §10.23).
+inflection point 
+In differential calculus, an inflection point, point of inflection, flex, or inflection (British English: inflexion) is a point on a continuous plane curve at which the curve changes from being concave (concave downward) to convex (concave upward), or vice versa.
+instantaneous rate of change
+The derivative of a function of a single variable at a chosen input value, when it exists, is the slope of the tangent line to the graph of the function at that point. The tangent line is the best linear approximation of the function near that input value.  For this reason, the derivative is often described as the "instantaneous rate of change", the ratio of the instantaneous change in the dependent variable to that of the independent variable. .
+instantaneous velocity
+If we consider v as velocity and x as the displacement (change in position) vector, then we can express the (instantaneous) velocity of a particle or object, at any particular time t, as the derivative of the position with respect to time:
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          lim
+          
+            
+              Δ
+              t
+            
+            →
+            0
+          
+        
+        
+          
+            
+              Δ
+              
+                x
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                x
+              
+            
+            
+              d
+              
+                
+                  t
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\boldsymbol {v}}=\lim _{{\Delta t}\to 0}{\frac {\Delta {\boldsymbol {x}}}{\Delta t}}={\frac {d{\boldsymbol {x}}}{d{\mathit {t}}}}.}
+  
+
+From this derivative equation, in the one-dimensional case it can be seen that the area under a velocity vs. time (v vs. t graph) is the displacement, x. In calculus terms, the integral of the velocity function v(t) is the displacement function x(t). In the figure, this corresponds to the yellow area under the curve labeled s (s being an alternative notation for displacement).
+
+  
+    
+      
+        
+          x
+        
+        =
+        ∫
+        
+          v
+        
+         
+        d
+        
+          
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle {\boldsymbol {x}}=\int {\boldsymbol {v}}\ d{\mathit {t}}.}
+  
+
+Since the derivative of the position with respect to time gives the change in position (in metres) divided by the change in time (in seconds), velocity is measured in metres per second (m/s). Although the concept of an instantaneous velocity might at first seem counter-intuitive, it may be thought of as the velocity that the object would continue to travel at if it stopped accelerating at that moment. .
+integral
+An integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data. Integration is one of the two main operations of calculus, with its inverse operation, differentiation, being the other. .
+integral symbol
+The integral symbol:
+∫ (Unicode), 
+  
+    
+      
+        
+          ∫
+        
+      
+    
+    {\displaystyle \displaystyle \int }
+  
+ (LaTeX)
+is used to denote integrals and antiderivatives in mathematics. .
+integrand 
+The function to be integrated in an integral.
+integration by parts
+In calculus, and more generally in mathematical analysis, integration by parts or partial integration is a process that finds the integral of a product of functions in terms of the integral of their derivative and antiderivative. It is frequently used to transform the antiderivative of a product of functions into an antiderivative for which a solution can be more easily found. The rule can be readily derived by integrating the product rule of differentiation.
+
+If u = u(x) and du = u′(x) dx, while v = v(x) and dv = v′(x) dx, then integration by parts states that:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  ∫
+                  
+                    a
+                  
+                  
+                    b
+                  
+                
+                u
+                (
+                x
+                )
+                
+                  v
+                  ′
+                
+                (
+                x
+                )
+                
+                d
+                x
+              
+              
+                
+                =
+                
+                  
+                    [
+                  
+                
+                u
+                (
+                x
+                )
+                v
+                (
+                x
+                )
+                
+                  
+                    
+                      ]
+                    
+                  
+                  
+                    a
+                  
+                  
+                    b
+                  
+                
+                −
+                
+                  ∫
+                  
+                    a
+                  
+                  
+                    b
+                  
+                
+                
+                  u
+                  ′
+                
+                (
+                x
+                )
+                v
+                (
+                x
+                )
+                
+                d
+                x
+              
+            
+            
+              
+              
+                
+                =
+                u
+                (
+                b
+                )
+                v
+                (
+                b
+                )
+                −
+                u
+                (
+                a
+                )
+                v
+                (
+                a
+                )
+                −
+                
+                  ∫
+                  
+                    a
+                  
+                  
+                    b
+                  
+                
+                
+                  u
+                  ′
+                
+                (
+                x
+                )
+                v
+                (
+                x
+                )
+                
+                d
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\int _{a}^{b}u(x)v'(x)\,dx&={\Big [}u(x)v(x){\Big ]}_{a}^{b}-\int _{a}^{b}u'(x)v(x)\,dx\\&=u(b)v(b)-u(a)v(a)-\int _{a}^{b}u'(x)v(x)\,dx\end{aligned}}}
+  
+
+or more compactly:
+
+  
+    
+      
+        ∫
+        u
+        
+        d
+        v
+        =
+        u
+        v
+        −
+        ∫
+        v
+        
+        d
+        u
+        .
+      
+    
+    {\displaystyle \int u\,dv=uv-\int v\,du.}
+  
+
+Mathematician Brook Taylor discovered integration by parts, first publishing the idea in 1715. More general formulations of integration by parts exist for the Riemann–Stieltjes and Lebesgue–Stieltjes integrals. The discrete analogue for sequences is called summation by parts.
+ .
+integration by substitution
+Also known as u-substitution, is a method for solving integrals. Using the fundamental theorem of calculus often requires finding an antiderivative. For this and other reasons, integration by substitution is an important tool in mathematics. It is the counterpart to the chain rule for differentiation. .
+intermediate value theorem
+In mathematical analysis, the intermediate value theorem states that if a continuous function, f, with an interval, [a, b], as its domain, takes values f(a) and f(b) at each end of the interval, then it also takes any value between f(a) and f(b) at some point within the interval.
+
+This has two important corollaries:
+
+If a continuous function has values of opposite sign inside an interval, then it has a root in that interval (Bolzano's theorem).
+The image of a continuous function over an interval is itself an interval. .
+inverse trigonometric functions
+(Also called arcus functions, antitrigonometric functions or cyclometric functions) are the inverse functions of the trigonometric functions (with suitably restricted domains). Specifically, they are the inverses of the sine, cosine, tangent, cotangent, secant, and cosecant functions, and are used to obtain an angle from any of the angle's trigonometric ratios.
+
+J
+
+jump discontinuity
+Consider the function  
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    x
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    
+                       for 
+                    
+                  
+                  x
+                  <
+                  1
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    
+                       for 
+                    
+                  
+                  x
+                  =
+                  1
+                
+              
+              
+                
+                  2
+                  −
+                  (
+                  x
+                  −
+                  1
+                  
+                    )
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    
+                       for 
+                    
+                  
+                  x
+                  >
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle f(x)={\begin{cases}x^{2}&{\mbox{ for }}x<1\\0&{\mbox{ for }}x=1\\2-(x-1)^{2}&{\mbox{ for }}x>1\end{cases}}}
+  
+
+Then, the point x0 = 1 is a jump discontinuity.
+
+In this case, a single limit does not exist because the one-sided limits, L− and L+, exist and are finite, but are not equal: since, L− ≠ L+, the limit L does not exist. Then, x0 is called a jump discontinuity, step discontinuity, or discontinuity of the first kind. For this type of discontinuity, the function f may have any value at x0.
+
+L
+
+Lebesgue integration
+In mathematics, the integral of a non-negative function of a single variable can be regarded, in the simplest case, as the area between the graph of that function and the x-axis. The Lebesgue integral extends the integral to a larger class of functions. It also extends the domains on which these functions can be defined.
+L'Hôpital's rule
+L'Hôpital's rule or L'Hospital's rule  uses derivatives to help evaluate limits involving indeterminate forms.  Application (or repeated application) of the rule often converts an indeterminate form to an expression that can be evaluated by substitution, allowing easier evaluation of the limit. The rule is named after the 17th-century French mathematician Guillaume de l'Hôpital. Although the contribution of the rule is often attributed to L'Hôpital, the theorem was first introduced to L'Hôpital in 1694 by the Swiss mathematician Johann Bernoulli.
+
+L'Hôpital's rule states that for functions f and g which are differentiable on an open interval I except possibly at a point c contained in I, if
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        g
+        (
+        x
+        )
+        =
+        0
+        
+           or 
+        
+        ±
+        ∞
+        ,
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=\lim _{x\to c}g(x)=0{\text{ or }}\pm \infty ,}
+  
+ 
+  
+    
+      
+        
+          g
+          ′
+        
+        (
+        x
+        )
+        ≠
+        0
+      
+    
+    {\displaystyle g'(x)\neq 0}
+  
+ for all x in I with x ≠ c, and 
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          
+            
+              
+                f
+                ′
+              
+              (
+              x
+              )
+            
+            
+              
+                g
+                ′
+              
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \lim _{x\to c}{\frac {f'(x)}{g'(x)}}}
+  
+ exists, then
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          
+            
+              f
+              (
+              x
+              )
+            
+            
+              g
+              (
+              x
+              )
+            
+          
+        
+        =
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        
+          
+            
+              
+                f
+                ′
+              
+              (
+              x
+              )
+            
+            
+              
+                g
+                ′
+              
+              (
+              x
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \lim _{x\to c}{\frac {f(x)}{g(x)}}=\lim _{x\to c}{\frac {f'(x)}{g'(x)}}.}
+  
+
+The differentiation of the numerator and denominator often simplifies the quotient or converts it to a limit that can be evaluated directly.
+limit comparison test
+The limit comparison test allows one to determine the convergence of one series based on the convergence of another.
+limit of a function
+.
+limits of integration
+.
+linear combination
+In mathematics, a linear combination is an expression constructed from a set of terms by multiplying each term by a constant and adding the results (e.g. a linear combination of x and y would be any expression of the form ax + by, where a and b are constants). The concept of linear combinations is central to linear algebra and related fields of mathematics.
+linear equation
+A linear equation is an equation relating two or more variables to each other in the form of 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        
+          x
+          
+            1
+          
+        
+        +
+        ⋯
+        +
+        
+          a
+          
+            n
+          
+        
+        
+          x
+          
+            n
+          
+        
+        +
+        b
+        =
+        0
+        ,
+      
+    
+    {\displaystyle a_{1}x_{1}+\cdots +a_{n}x_{n}+b=0,}
+  
+ with the highest power of each variable being 1.
+linear system
+.
+list of integrals
+.
+logarithm
+.
+logarithmic differentiation
+.
+lower bound
+.
+
+M
+
+mean value theorem
+.
+monotonic function
+.
+multiple integral
+.
+Multiplicative calculus
+.
+multivariable calculus
+.
+
+N
+
+natural logarithm
+The natural logarithm of a number is its logarithm to the base of the mathematical constant e, where e is an irrational and transcendental number approximately equal to 2.718281828459. The natural logarithm of x is generally written as ln x, loge x,  or sometimes, if the base e is implicit, simply log x. Parentheses are sometimes added for clarity, giving ln(x), loge(x) or log(x). This is done in particular when the argument to the logarithm is not a single symbol, to prevent ambiguity.
+non-Newtonian calculus
+.
+nonstandard calculus
+.
+notation for differentiation
+.
+numerical integration
+.
+
+O
+
+one-sided limit
+.
+ordinary differential equation
+.
+
+P
+
+Pappus's centroid theorem
+(Also known as  the Guldinus theorem, Pappus–Guldinus theorem or Pappus's theorem) is either of two related theorems dealing with the surface areas and volumes of surfaces and solids of revolution.
+parabola
+Is a plane curve that is mirror-symmetrical and is approximately U-shaped. It fits several superficially different other mathematical descriptions, which can all be proved to define exactly the same curves.
+paraboloid
+.
+partial derivative
+.
+partial differential equation
+.
+partial fraction decomposition
+.
+particular solution
+.
+piecewise-defined function
+A function defined by multiple sub-functions that apply to certain intervals of the function's domain.
+position vector
+.
+power rule
+.
+product integral
+.
+product rule
+.
+proper fraction
+.
+proper rational function
+.
+Pythagorean theorem
+.
+Pythagorean trigonometric identity
+.
+
+Q
+
+quadratic function
+In algebra, a quadratic function, a quadratic polynomial, a polynomial of degree 2, or simply a quadratic, is a polynomial function with one or more variables in which the highest-degree term is of the second degree. For example, a quadratic function in three variables x, y, and z contains exclusively terms x2, y2, z2, xy, xz, yz, x, y, z, and a constant:
+
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        
+          y
+          
+            2
+          
+        
+        +
+        c
+        
+          z
+          
+            2
+          
+        
+        +
+        d
+        x
+        y
+        +
+        e
+        x
+        z
+        +
+        f
+        y
+        z
+        +
+        g
+        x
+        +
+        h
+        y
+        +
+        i
+        z
+        +
+        j
+        ,
+      
+    
+    {\displaystyle f(x,y,z)=ax^{2}+by^{2}+cz^{2}+dxy+exz+fyz+gx+hy+iz+j,}
+  
+
+with at least one of the coefficients a, b, c, d, e, or f of the second-degree terms being non-zero.
+
+A univariate (single-variable) quadratic function has the form
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        ,
+        
+        a
+        ≠
+        0
+      
+    
+    {\displaystyle f(x)=ax^{2}+bx+c,\quad a\neq 0}
+  
+
+in the single variable x. The graph of a univariate quadratic function is a parabola whose axis of symmetry is parallel to the y-axis, as shown at right.
+
+If the quadratic function is set equal to zero, then the result is a quadratic equation. The solutions to the univariate equation are called the roots of the univariate function.
+
+The bivariate case in terms of variables x and y has the form
+
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        
+          y
+          
+            2
+          
+        
+        +
+        c
+        x
+        y
+        +
+        d
+        x
+        +
+        e
+        y
+        +
+        f
+        
+        
+      
+    
+    {\displaystyle f(x,y)=ax^{2}+by^{2}+cxy+dx+ey+f\,\!}
+  
+
+with at least one of a, b, c not equal to zero, and an equation setting this function equal to zero gives rise to a conic section (a circle or other ellipse, a parabola, or a hyperbola).
+
+In general there can be an arbitrarily large number of variables, in which case the resulting surface is called a quadric, but the highest degree term must be of degree 2, such as x2, xy, yz, etc.
+quadratic polynomial
+.
+quotient rule
+A formula for finding the derivative of a function that is the ratio of two functions.
+
+R
+
+radian
+Is the SI unit for measuring angles, and is the standard unit of angular measure used in many areas of mathematics.  The length of an arc of a unit circle is numerically equal to the measurement in radians of the angle that it subtends; one radian is just under 57.3 degrees (expansion at OEIS: A072097). The unit was formerly an SI supplementary unit, but this category was abolished in 1995 and the radian is now considered an SI derived unit.  Separately, the SI unit of solid angle measurement is the steradian .
+ratio test
+.
+reciprocal function
+.
+reciprocal rule
+.
+Riemann integral
+.
+related rates
+.
+removable discontinuity
+.
+Rolle's theorem
+.
+root test
+.
+
+S
+
+scalar
+.
+secant line
+.
+second-degree polynomial
+.
+second derivative
+.
+second derivative test
+.
+second-order differential equation
+.
+series
+.
+shell integration
+.
+Simpson's rule
+.
+sine
+.
+sine wave
+.
+slope field
+.
+squeeze theorem
+.
+sum rule in differentiation
+.
+sum rule in integration
+.
+summation
+.
+supplementary angle
+.
+surface area
+.
+system of linear equations
+.
+
+T
+
+table of integrals
+.
+Taylor series
+.
+Taylor's theorem
+.
+tangent
+.
+third-degree polynomial
+.
+third derivative
+.
+toroid
+.
+total differential
+.
+trigonometric functions
+.
+trigonometric identities
+.
+trigonometric integral
+.
+trigonometric substitution
+.
+trigonometry
+.
+triple integral
+.
+
+U
+
+upper bound
+.
+
+V
+
+variable
+.
+vector
+.
+vector calculus
+.
+
+W
+
+washer
+.
+washer method
+.
+
+See also
+Outline of calculus
+Glossary of areas of mathematics
+Glossary of astronomy
+Glossary of biology
+Glossary of botany
+Glossary of chemistry
+Glossary of ecology
+Glossary of engineering
+Glossary of physics
+Glossary of probability and statistics
+
+References
+
+Works cited
+Apostol, T (1967), Calculus, Vol. 1 (2nd ed.), Jon Wiley & Sons.
+Arbogast, L. F. A. (1800), Du calcul des derivations [On the calculus of derivatives] (in French), Strasbourg: Levrault, pp. xxiii+404.
+Butcher, John C. (2003). Numerical Methods for Ordinary Differential Equations. New York: John Wiley & Sons. ISBN 978-0-471-96758-3.
+Craik, Alex D. D. (February 2005), "Prehistory of Faà di Bruno's Formula", American Mathematical Monthly, 112 (2): 217–234, doi:10.2307/30037410, JSTOR 30037410, MR 2121322, Zbl 1088.01008.
+Hairer, Ernst; Nørsett, Syvert Paul; Wanner, Gerhard (1993). Solving ordinary differential equations I: Nonstiff problems. Berlin, New York: Springer-Verlag. ISBN 978-3-540-56670-0.
+Johnson, Warren P. (March 2002), "The Curious History of Faà di Bruno's Formula" (PDF), American Mathematical Monthly, 109 (3): 217–234, CiteSeerX 10.1.1.109.4135, doi:10.2307/2695352, JSTOR 2695352, MR 1903577, Zbl 1024.01010, archived from the original (PDF) on 2021-04-11, retrieved 2023-04-30 {{citation}}: Cite uses deprecated parameter |citeseerx= (help).
+
+Notes
+
+[[Abacus]] [[Algebra]] [[Bernoulli number]] [[Engineering]] [[Glossary of Arabic toponyms]] [[Glossary of Hebrew toponyms]] [[Glossary of aerospace engineering]] [[Glossary of agriculture]] [[Glossary of archaeology]] [[Glossary of architecture]] [[Glossary of areas of mathematics]] [[Glossary of artificial intelligence]] [[Glossary of astronomy]] [[Glossary of biology]] [[Glossary of bird terms]] [[Glossary of botanical terms]] [[Glossary of cellular and molecular biology (0–L)]] [[Glossary of cellular and molecular biology (M–Z)]] [[LaTeX]]

@@ -1,0 +1,44 @@
+MiniMax Group
+MiniMax Group Inc. (Chinese: 稀宇科技; pinyin: Xīyǔ Kējì ) is an artificial intelligence (AI) company based in Shanghai, China. It develops multimodal AI models and consumer applications, including the AI character apps Talkie and Xingye and the video-generation service Hailuo AI. The company listed on the Hong Kong Stock Exchange in January 2026. It is one of China's 6 "AI Tigers".
+
+History
+MiniMax was founded in December 2021 by several computer vision researchers from SenseTime. When it first started out, it received funding from MiHoYo. The company's name comes from the Minimax algorithm.
+In January 2022, MiniMax began R&D operations, and in April launched abab1, its first text model. The next iteration, abab2, completed training in June, followed by abab3 in October with an increased parameter count.
+In March 2024, Alibaba Group led a $600 million financing round for MiniMax giving it a valuation of $2.5 billion. Other investors of MiniMax include GL Ventures, HongShan, IDG Capital and Tencent.
+On 9 January 2026, MiniMax held its initial public offering on the Hong Kong Stock Exchange to become a listed company.
+Minimax's office headquarters are located at the Xinyan Mansion, Guiqing Road, Xuhui, Shanghai.
+
+Products
+
+Talkie
+MiniMax's first product was Glow which was launched in October 2022. The app allowed users to create virtual characters and then chat with them about various topics. Only four months after launch, the app had over 5 million users. Glow was later removed from Chinese app stores in 2023.
+Glow was relaunched under two new brands: Talkie, launched for international markets in June 2023, and Xing Ye (星野), introduced in September 2023 for the Chinese market.
+In July 2024, The Wall Street Journal reported that Talkie ranked among the most-downloaded free entertainment apps in the U.S. and had about 11 million monthly active users. Talkie produced AI-simulated conversations with people such as Donald Trump, Taylor Swift, Elon Musk and LeBron James.
+
+Hailuo AI
+
+In March 2024, MiniMax launched Hailuo AI, an AI text and music-generating large language model (LLM) platform.
+In September 2024, MiniMax launched video-01, a text-to-video model under Hailuo AI.
+In December 2024, Broadcast reported that Hailuo AI can reproduce the logos of British television channels Channel 4, Channel 5, and ITV in its AI-generated videos.
+On 20 January 2025, MiniMax launched audio functions for Hailuo AI.
+
+Models
+On 17 April 2024, MiniMax launched the ABAB 6.5 series, a mixture of experts language model.
+In January 2025, MiniMax unveiled the MiniMax-01 LLM product line, which includes a general-purpose MiniMax-Text-01 model and MiniMax-VL-01 model with visual capabilities.
+In April 2025, MiniMax released Speech-02, a text-to-speech model with support for over 30 languages.
+In June 2025, MiniMax released MiniMax-M1. In February 2026, MiniMax released MiniMax-M2.5, and the M2.5-Lightning variant. In March 2026, MiniMax released MiniMax-M2.7 In June 2026, MiniMax released MiniMax-M3.
+
+Legal issues
+In September 2025, Disney, Universal, and Warner Bros. Discovery filed a copyright lawsuit in the United States alleging that Hailuo AI infringed their copyrighted characters and related works.
+In February 2026, Anthropic accused MiniMax and two other Chinese AI companies of using thousands of fraudulent accounts to generate more than 16 million interactions with Claude in order to improve their own large language models via distillation.
+
+See also
+List of artificial intelligence companies
+Six AI tigers
+
+References
+
+External links
+Official website
+
+[[Artificial intelligence]] [[Artificial intelligence in music]] [[Computer vision]] [[Midjourney]] [[Model Context Protocol]] [[Neural network (machine learning)]]

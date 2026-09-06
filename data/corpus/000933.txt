@@ -1,0 +1,155 @@
+Spectral flatness
+Spectral flatness or tonality coefficient, also known as Wiener entropy, is a measure used in digital signal processing to characterize an audio spectrum. Spectral flatness is typically measured in decibels, and provides a way to quantify how much a sound resembles a pure tone, as opposed to being noise-like.
+
+Interpretation
+The meaning of tonal in this context is in the sense of the amount of peaks or resonant structure in a power spectrum, as opposed to the flat spectrum of white noise. A high spectral flatness (approaching 1.0 for white noise) indicates that the spectrum has a similar amount of power in all spectral bands — this would sound similar to white noise, and the graph of the spectrum would appear relatively flat and smooth. A low spectral flatness (approaching 0.0 for a pure tone) indicates that the spectral power is concentrated in a relatively small number of bands — this would typically sound like a mixture of sine waves, and the spectrum would appear "spiky".
+Dubnov  has shown that spectral flatness is equivalent to information theoretic concept of mutual information that is known as dual total correlation.
+
+Formulation
+The spectral flatness is calculated by dividing the geometric mean of the power spectrum by the arithmetic mean of the power spectrum, i.e.:
+
+  
+    
+      
+        
+          F
+          l
+          a
+          t
+          n
+          e
+          s
+          s
+        
+        =
+        
+          
+            
+              
+                
+                  ∏
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    N
+                    −
+                    1
+                  
+                
+                x
+                (
+                n
+                )
+              
+              
+                N
+              
+            
+            
+              
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    N
+                    −
+                    1
+                  
+                
+                x
+                (
+                n
+                )
+              
+              N
+            
+          
+        
+        =
+        
+          
+            
+              exp
+              ⁡
+              
+                (
+                
+                  
+                    
+                      1
+                      N
+                    
+                  
+                  
+                    ∑
+                    
+                      n
+                      =
+                      0
+                    
+                    
+                      N
+                      −
+                      1
+                    
+                  
+                  ln
+                  ⁡
+                  x
+                  (
+                  n
+                  )
+                
+                )
+              
+            
+            
+              
+                
+                  1
+                  N
+                
+              
+              
+                ∑
+                
+                  n
+                  =
+                  0
+                
+                
+                  N
+                  −
+                  1
+                
+              
+              x
+              (
+              n
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Flatness} ={\frac {\sqrt[{N}]{\prod _{n=0}^{N-1}x(n)}}{\frac {\sum _{n=0}^{N-1}x(n)}{N}}}={\frac {\exp \left({\frac {1}{N}}\sum _{n=0}^{N-1}\ln x(n)\right)}{{\frac {1}{N}}\sum _{n=0}^{N-1}x(n)}}}
+  
+
+where x(n) represents the magnitude of bin number n. Note that a single (or more) empty bin yields a flatness of 0, so this measure is most useful when bins are generally not empty.
+The ratio produced by this calculation is often converted to a decibel scale for reporting, with a maximum of 0 dB and a minimum of −∞ dB.
+The spectral flatness can also be measured within a specified sub-band, rather than across the whole band.
+
+Applications
+This measurement is one of the many audio descriptors used in the MPEG-7 standard, in which it is labelled "AudioSpectralFlatness".
+In birdsong research, it has been used as one of the features measured on birdsong audio, when testing similarity between two excerpts. Spectral flatness has also been used in the analysis of electroencephalography (EEG) diagnostics and research, and psychoacoustics in humans.
+
+References
+
+[[Electroencephalography]]

@@ -1,0 +1,62 @@
+Myogenic mechanism
+The myogenic mechanism is the process by which arteries and arterioles react to an increase or decrease in blood pressure to keep the blood flow constant within the blood vessel. Myogenic response refers to a contraction initiated by the myocyte itself instead of an outside occurrence or stimulus such as nerve innervation. This response is most commonly observed in (although not necessarily restricted to) smaller resistance arteries, where the 'basal' myogenic tone may be useful in the regulation of organ blood flow and peripheral resistance, as it positions a vessel in a preconstricted state that allows other factors to induce additional constriction or dilation to increase or decrease blood flow.
+The smooth muscle of the blood vessels reacts to the stretching of the muscle by opening ion channels, which cause the muscle to depolarize, leading to muscle contraction. This significantly reduces the volume of blood able to pass through the lumen, which reduces blood flow through the blood vessel. Alternatively when the smooth muscle in the blood vessel relaxes, the ion channels close, resulting in vasodilation of the blood vessel; this increases the rate of flow through the lumen.
+This system is especially significant in the kidneys, where the glomerular filtration rate (the rate of blood filtration by the nephron) is particularly sensitive to changes in blood pressure. However, with the aid of the myogenic mechanism, the glomerular filtration rate remains very insensitive to changes in human blood pressure.
+Myogenic mechanisms in the kidney are part of the autoregulation mechanism which maintains a constant renal blood flow at varying arterial pressure. Concomitant autoregulation of glomerular pressure and filtration indicates regulation of preglomerular resistance. Model and experimental studies were performed to evaluate two mechanisms in the kidney, myogenic response and tubuloglomerular feedback. A mathematical model showed good autoregulation through a myogenic response, aimed at maintaining a constant wall tension in each segment of the preglomerular vessels. Tubuloglomerular feedback gave rather poor autoregulation. The myogenic mechanism showed 'descending' resistance changes, starting in the larger arteries, and successively affecting downstream preglomerular vessels at increasing arterial pressures. This finding was supported by micropuncture measurements of pressure in the terminal interlobular arteries. Evidence that the mechanism was myogenic was obtained by exposing the kidney to a subatmospheric pressure of 40 mmHg; this led to an immediate increase in renal resistance, which could not be prevented by denervation or various blocking agents.
+
+Bayliss effect
+
+Bayliss effect or Bayliss myogenic response is a special manifestation of the myogenic tone in the vasculature. The Bayliss effect in vascular smooth muscles cells is a response to stretch. This is especially relevant in arterioles of the body. When blood pressure is increased in the blood vessels and the blood vessels distend, they react with a constriction; this is the Bayliss effect. Stretch of the muscle membrane opens a stretch-activated ion channel. The cells then become depolarized and this results in a Ca2+ signal and triggers muscle contraction. No action potential is necessary here; the level of entered calcium affects the level of contraction proportionally and causes tonic contraction. The contracted state of the smooth muscle depends on the grade of stretch and plays an important part in the regulation of blood flow. 
+Increased contraction increases the total peripheral resistance (TPR) and this further increases the mean arterial pressure (MAP). This is explained by the following equation:
+
+  
+    
+      
+        M
+        A
+        P
+        =
+        C
+        O
+        ∗
+        T
+        P
+        R
+      
+    
+    {\displaystyle MAP=CO*TPR}
+  
+, where CO is the cardiac output, which is the volume of blood pumped by the heart in one minute.
+This effect is independent of nervous mechanisms, which is controlled by the sympathetic nervous system.
+The overall effect of the myogenic response (Bayliss effect) is to decrease blood flow across a vessel after an increase in blood pressure.
+
+History
+The Bayliss effect was discovered by physiologist Sir William Bayliss in 1902.
+
+Proposed mechanism
+When the endothelial cell in the tunica intima of an artery is stretched it is likely that the endothelial cell may signal constriction to the muscle cell layer in a  paracrine fashion. Increase in blood pressure may cause depolarisation of the affected myocytes as well or endothelial cells alone. The mechanism is not yet completely understood, but studies have shown that volume regulated chloride channels and stretch sensitive non-selective cation channels lead to an increased probability in opening of L-type (voltage-dependent) Ca2+ channels, thus raising the cytosolic concentration of Ca2+ leading to a contraction of the myocyte, and this may involve other channels in the endothelia.
+
+Unstable Membrane Potentials
+Many cells have resting membrane potentials that are unstable. It is usually due to ion channels in the cell membrane that spontaneously open and close (e.g. If channels in cardiac pacemaker cells). When the membrane potential reaches depolarization threshold an action potential (AP) is fired, excitation-contraction coupling initiates and the myocyte contracts.
+
+Slow wave potentials
+Slow-wave potentials are unstable resting membrane potentials that continuously cycle through depolarization- and repolarization phases. However, not every cycle reaches depolarization threshold and thus an action potential (AP) will not always fire. Owing to temporal summation (depolarization potentials spaced closely together in time so that they summate), however, cell membrane depolarization will periodically reach depolarization threshold and an action potential will fire, triggering contraction of the myocyte.
+
+Pacemaker potentials
+Pacemaker potentials are unstable cell membrane potentials that reach depolarization threshold with every depolarization/repolarization cycle. This results in AP's being fired according to a set rhythm. Cardiac pacemaker cells, a type of cardiac myocyte in the SA node of heart, are an example of cells with a pacemaker potential.
+
+Stretch
+This mechanism involves the opening of mechanically gated Ca2+ channels when some myocytes are stretched. The resulting influx of Ca2+ ions lead to the initiation of excitation-contraction coupling and thus contraction of the myocyte.
+
+See also
+Tubuloglomerular feedback
+Kidney
+Juxtaglomerular apparatus
+Renal corpuscle
+
+References
+
+External links
+Moore L.C., A. Rich, and D. Casellas. Ascending myogenic autoregulation: interactions between tubuloglomerular feedback and myogenic mechanisms.. Bull. Math. Biol. 56:391-410, 1994.
+
+[[Electrocardiography]] [[Heart]]

@@ -1,0 +1,23 @@
+Piet Bergveld
+Piet Bergveld (Dutch pronunciation: [pid ˈbɛr(ə)xfɛlt]; born 26 January 1940) is a Dutch electrical engineer. He was a professor of biosensors at the University of Twente from 1983 and 2003. He is the inventor of the ion-sensitive field-effect transistor (ISFET) sensor. Bergveld's work has focused on electrical engineering and biomedical technology.
+
+Career
+Bergveld was born in Oosterwolde, Friesland on 26 January 1940. In 1960 he started studying electrical engineering at the Eindhoven University of Technology, He had preferred to study biomedical engineering, but that program was not available at the time. Between 1964 and 1965 he completed the master's degree at the Philips Natuurkundig Laboratorium. In the latter half of the 1960s Bergveld started working as a scientific employee at the Technische Hogeschool Twente (which later became the University of Twente). 
+Intrigued by the challenge of discovering and measuring the origin of electronic activity in the human brain Bergveld began developing a new technique. In 1970, he completed the development of the ion-sensitive field-effect transistor (ISFET) sensor. It was based on his earlier research on the MOSFET (metal–oxide–semiconductor field-effect transistor), which he realized could be adapted into a biosensor for electrochemical and biological applications. In 1973, he earned his PhD at Twente, with a dissertation that explored the possibilities of ISFET sensors.
+Bergveld worked at the University of Twente from 1965 until he became emeritus status in February 2003. He had been a full professor since 1983. At the university he was one of the driving forces behind the expansion of biomedical technology research and one of the founding fathers of the MESA+ research institute.
+In 1995 Bergveld was awarded the Jacob Kistemaker prize by minister Hans Wijers. He was elected a member of the Royal Netherlands Academy of Arts and Sciences in 1997. In April 2003 Bergveld was made a Knight in the Order of the Netherlands Lion.
+
+Selected publications
+Bergveld, Piet (1970). "Development of an Ion-Sensitive Solid-State Device for Neurophysiological Measurements". IEEE Transactions on Biomedical Engineering. BME-17 (1). Institute of Electrical and Electronics Engineers (IEEE): 70–71. doi:10.1109/tbme.1970.4502688. ISSN 0018-9294. PMID 5441220.
+
+See also
+ISFET (Ion-sensitive field-effect transistor)
+ChemFET (Chemical field-effect transistor)
+BioFET (Biosensor field-effect transistor)
+
+References
+
+External links
+Profile on IEEE Xplore
+
+[[Electrical engineering]] [[Sensor]]

@@ -1,0 +1,953 @@
+Electric machine
+In electrical engineering, an electric machine is a general term for a machine that makes use of electromagnetic forces and their interactions with voltages, currents, and movement, such as motors and generators. They are electromechanical energy converters, converting between electricity and motion. The moving parts in a machine can be rotating (rotating machines) or linear (linear machines). 
+Electric machines, in the form of synchronous and induction generators, produce about 95% of all electric power on Earth (as of early 2020s). In the form of electric motors, they consume approximately 60% of all electric power produced. Electric machines were developed in the mid 19th century and since have become a significant component of electric infrastructure. Developing more efficient electric machine technology is crucial to global conservation, green energy, and alternative energy strategy.
+While transformers are occasionally called "static electric machines", they do not have moving parts and are more accurately described as electrical devices "closely related" to electrical machines.
+
+History
+
+The basis for electric machines date back to the early 19th century, and the research and experiments of Michael Faraday in the relationship of electricity and magnetism. One of the first demonstrations of an electric machine was in 1821, with a free-hanging wire dipped into a pool of mercury, on which a permanent magnet (PM) was placed. When a current was passed through the wire, the wire rotated around the magnet, showing that the current gave rise to a close circular magnetic field around the wire. While primitive compared to modern electric machines, this experiment showed the ability to convert electric energy to motion.
+Improvements to electric machines continued throughout the 19th century, however as this predated the existence of an electric power system, they struggled to gain viability and acceptance. Near the end of the 19th century, when the first electric grids came into existence, electric machines grew into more applications. Of note, the invention of the dynamo by Werner von Siemens in 1867 and invention of the first practical DC motor by Frank Sprague in 1886.
+As electric power systems moved from DC to AC during the war of currents, so did electric machines. While alternators began to replace dynamos, AC motors proved more difficult. It was not until Nikola Tesla's invention of the induction motor that AC motors began to replace DC motors in significant quantities.
+
+Operating principle
+The main operating principles of electric machines take advantage of the relationship between electricity and magnetism, specifically that changes in one can create changes in the other. For example, moving a bar magnet around a wire to induce a voltage across it, or running current through a wire in a magnetic field to generate a force.
+This is largely based on Maxwell's equations and can be analytically and mathematically complex. However, most electric machines are governed by the same 4 principles:
+
+Lorentz force, a force generated due to current flowing in a magnetic field
+Faraday's law of induction, a voltage induced due to movement within a magnetic field
+Kirchhoff's voltage law (KVL), the sum of voltages around a loop is zero
+Newton's laws of motion, an applied force on an object is equal to its mass by its acceleration
+As current flows within a magnetic field, a force is induced that causes movement. With this movement also within the magnetic field, a voltage is induced in the machine. This induced voltage affects the current in the machine, which in turn affects the force and speed, and ultimately the induced voltage again. This feedback tends to drive the machine to an equilibrium so that the electrical energy and mechanical energy are matched (plus losses). With proper orientation of magnetic fields, wires, voltages, and currents, an electric machine can convert electric energy (electricity) to mechanical energy (motion) and vice-versa.
+Electric machines typically separate their moving and non-moving portions and identify them uniquely. In rotating machines, the stationary portion is called the stator, while the rotating portion is the rotor. The stator and rotor may have windings (wire wound around them) to carry the current on the electrical side and/or to help create the magnetic field. The current-carrying winding is called the armature winding while the magnetic field winding is called the field winding. All rotating machines have armature windings, but not all machines have field windings: the magnetic field can be created by a permanent magnet or an electromagnet created by the field winding. The armature winding and field winding (if applicable) can be on either the stator or rotor, depending on the machine design, however they are rarely on the same part.
+
+Characteristics of electric machines
+While electric machines have their differences, they share many traits, and are often grouped by some part of their construction or intended operation. Below are some of the characteristics common to most electric machines.
+
+Motors and generators
+If an electric machine converts mechanical energy into electrical energy, it is referred to as a generator, while machines that convert electricity to motion are called motors.
+Generators that produce alternating current (AC) are called alternators, while direct current (DC) generators are called dynamos. Motors are referred to as pumps when their motion is used to move a fluid, such as water.
+Theoretically, most electric machines can be used as either a generator or a motor, however in practice it is common for machines to be specialized to one or the other.
+
+AC vs DC
+Electric machines can be connected to either an AC or DC electrical system, with the AC being either single phase or three phase. With rare exceptions, such as universal motors, machines cannot switch between electric systems. AC machines are largely either synchronous generators or induction motors.
+A DC machine is somewhat of a misnomer, as all DC machines use alternating voltages and currents to operate. Most DC machines include a commutator, which allows the armature windings within the DC machine to periodically change their connections to the DC electrical system as the machine rotates, effectively alternating the direction of voltages and currents within the machine, but keeping DC voltages and currents on the electrical side.
+
+Brushed vs brushless
+If an electric machine has an electric circuit on its rotor, it needs a means to power the circuit even while the rotor is rotating. One method of doing this is to attach metallic brushes to the stator and have them held under tension against the rotor. These brushes are then energized on the stationary stator side, and transfer electricity to the moving rotor. The part of the rotor that contacts the brushes are called slip rings, and are designed to withstand both the electricity being passed through them and the mechanical wear of continuously spinning against the brushes. The brushes are generally made of carbon, for its strength and conductivity. Brushes wear down and need replacing throughout the life of the machine.
+Another technique to power the electric circuit on the rotor is through electromagnetic induction. As the rotor is already moving, it meets one of the main requirements of induction (varying magnetic field), and can be adapted to have a magnetic field induced into it. This technique is very common for induction motors, but is also used in bushless synchronous machines.
+If the winding on the rotor is a field winding, its purpose it to act as an electromagnet and generate a magnetic field that rotates. This can be replaced with a permanent magnet, removing the need for brushes or slip rings and simplifies the design of the machine. Large permanent magnetics are expensive and do not always allow for a machine to act as both a motor and generator, so PM machines tend to be limited to small power motors.
+
+Speed and torque
+Electric motors convert electricity to motion, and are able to move increasing larger mechanical loads by drawing more electrical energy. This comes at a cost: with the Lorenz Force defining the speed of the machine, if the force has to overcome a larger mechanical load, the speed of the machine slows down. In rotating motors, the forces are viewed as torques, and this behavior is referred to as the speed-torque curve of the machine. Electric motors denote speed in terms of revolutions per minute (RPM).
+The shape of the speed-torque curve depends on the design of the motor. In DC motors, the speed-torque curve is linear, with maximum torque occurring with zero speed (stall torque) and maximum speed occurring at zero torque (no-load speed). In AC motors, the torque-speed curve is a more complex shape, beginning at the starting torque associated with the locked-rotor current at no speed, gradually increasing with speed until peaking at the breakdown torque, and finally rapidly falling to zero at the no-load (max) speed. The exact shape of the curve depends on the AC motor design.
+
+Synchronous vs asynchronous
+In AC electric machines, one magnetic field rotates around the machine due to the electrical system connections, while the other magnetic field rotates due to the rotor's physical motion. If these two magnetic fields rotate at the same speed, the machine is said to be a synchronous machine, and operates at synchronous speed. If the magnetic fields rotate at different speeds the machine is asynchronous, with a speed either above or below synchronous speed. If the rotors field is slower than the stator field, the machine acts as a motor, if it is faster it acts as a generator. Asynchronous machines cannot operate at synchronous speeds. Another common name for asynchronous machines is induction machines.
+DC machines are not classified as either synchronous or asynchronous, as the magnetic fields do not rotate. The magnetic field from the field winding (or PM) is on the stator and is stationary. The armature winding is on the rotor and rotates, but has its polarity reversed by commutation. The DC system also lacks a frequency to compare the speed to.
+
+Common machines
+While there are many different types of electric machines, a few different machine configurations account for the most common electric machines.
+
+Synchronous generator
+
+A synchronous generator is a synchronous machine with a prime mover attached to its rotor, which is driven by a steam or gas turbine. A synchronous generator typically has a three phase armature winding, and generators AC power. The rotor's field winding is typically excited through brushes and slip rings, however brushless machines are possible through either PM or an exciter circuit consisting of AC induction from stator to rotor and a rectifier on the rotor to provide DC power. They range in sizes from a few kilowatts at residential voltages up to 500 MW and greater at voltages above 20,000 V. Synchronous generators are the most common form of traditional generation for the AC power system.
+
+Induction motor
+
+Induction motors are the most common type of motor used, and almost the only motor used in AC applications. Its popularity comes from its simplicity: by leveraging induction between the stator and rotor to generate the field winding's magnetic field, it removes the need for brushes, slip rings, or complex circuits, making it simpler and more rugged. The squirrel cage rotor design is the most common, however traditional wound rotors exist. Induction motors are available in three phase or single phase, although single phase induction motors cannot self-start, and require some type of starting circuit. Induction motors are both common in applications such as compressors for air conditioners and refrigerators, large fans and pumps, and conveyor systems.
+
+Brushed DC motor
+
+Small motors below 100 V are generally a type of brushed DC motor. They can be excited in a number of ways, either through a permanent magnet, a separate field winding circuit, or a field winding connected to the armature circuit. In all cases, the excitation circuit or magnets are on the stator, and the armature on the rotor with a commutator to connect to the electric circuits through brushes. Typical applications of brushed DC motors include small servo motors, small fans, and most battery power motors.
+
+Brushless DC motor
+
+A brushless DC Motor (BLDC) is a machine that replaces the brushes and commutators of a traditional, brushed DC motor with electronics to control the motor. The construction of a BLDC can be very similar to a permanent magnet synchronous machine, or it can be an adapted asynchronous machine. Smaller motors can also used unique stator and rotor arrangements, for example an outrunner configuration (with the rotor surrounding the stator) or an axial configuration (flat rotor and stator and in parallel in the same axis). In all cases, the motor is controlled by a set of electronics which energize different armature windings at different times, causing the PM on the rotor to rotate to a location or speed set by the electronics. Common BLDC motor applications include computer peripherals, such as disk drives and fans, and battery powered hand-held tools, such as drills and circular saws.
+
+Other electromagnetic machines
+Other electromagnetic machines include the Amplidyne, Synchro, Metadyne, Eddy current clutch, Eddy current brake, Eddy current dynamometer, Hysteresis dynamometer, Rotary converter, and Ward Leonard set. A rotary converter is a combination of machines that act as a mechanical rectifier, inverter or frequency converter. The Ward Leonard set is a combination of machines used to provide speed control. Other machine combinations include the Kraemer and Scherbius systems.
+
+Electromagnetic-rotor machines
+Electromagnetic-rotor machines are machines having some kind of electric current in the rotor which creates a magnetic field which interacts with the stator windings. The rotor current can be the internal current in a permanent magnet (PM machine), a current supplied to the rotor through brushes (Brushed machine) or a current set up in closed rotor windings by a varying magnetic field (Induction machine).
+
+Permanent magnet machines
+PM machines have permanent magnets in the rotor which set up a magnetic field. The magnetomotive force in a PM (caused by orbiting electrons with aligned spin) is generally much higher than what is possible in a copper coil. The copper coil can, however, be filled with a ferromagnetic material, which gives the coil much lower magnetic reluctance. Still the magnetic field created by modern PMs (Neodymium magnets) is stronger, which means that PM machines have a better torque/volume and torque/weight ratio than machines with rotor coils under continuous operation. This may change with introduction of superconductors in rotor.
+Since the permanent magnets in a PM machine already introduce considerable magnetic reluctance, then the reluctance in the air gap and coils are less important. This gives considerable freedom when designing PM machines.
+It is usually possible to overload electric machines for a short time until the current in the coils heats parts of the machine to a temperature which cause damage. PM machines can less tolerate such overload, because too high current in the coils can create a magnetic field strong enough to demagnetise the magnets.
+
+Reluctance machines
+Reluctance machines have no windings on the rotor, only a ferromagnetic material shaped so that "electromagnets" in stator can "grab" the teeth in rotor and advance it a little. The electromagnets are then turned off, while another set of electromagnets is turned on to move rotor further. Another name is step motor, and it is suited for low speed and accurate position control. Reluctance machines can be supplied with permanent magnets in the stator to improve performance. The "electromagnet" is then "turned off" by sending a negative current in the coil. When the current is positive the magnet and the current cooperate to create a stronger magnetic field which will improve the reluctance machine's maximum torque without increasing the currents maximum absolute value.
+
+Polyphase AC machines
+The armature of polyphase electric machines includes multiple windings powered by the alternating currents offset one from another by equal phasor angles. The most popular are the 3 phase machines, where the windings are (electrically) 120° apart.
+The 3-phase machines have major advantages of the single-phase ones:
+
+steady state torque is constant, leading to less vibration and longer service life (the instantaneous torque of a single-phase motor pulsates with the cycle)
+power is constant (the power consumption of the single-phase motor varies over the cycle);
+smaller size (and thus lower cost) for the same power;
+the transmission over 3 wires need only 3/4 of the metal for the wires that would be required for a two-wire single-phase transmission line for the same power;
+better power factor.
+
+Electrostatic machines
+In electrostatic machines, torque is created by attraction or repulsion of electric charge in rotor and stator.
+Electrostatic generators generate electricity by building up electric charge. Early types were friction machines, later ones were influence machines that worked by electrostatic induction. The Van de Graaff generator is an electrostatic generator still used in research today.
+
+Homopolar machines
+Homopolar machines are true DC machines where current is supplied to a spinning wheel through brushes. The wheel is inserted in a magnetic field, and torque is created as the current travels from the edge to the centre of the wheel through the magnetic field.
+
+Control and protection
+While electric machines can be directly connected to electrical and mechanical systems, this is not without drawbacks. While the feedback of electric machines will balance electrical and mechanical energy, it will not protect the machine from overloads on either side. Other applications of machines also benefit from constant speed or power, which require control beyond the normal operation of a machine.
+
+Generator control
+As generators are used to create electrical systems, they are often controlled to keep the electrical system stable. To match the electrical demand, generators use a device called a governor to match the mechanical energy with the electrical load, typically by regulating the fuel source. As Synchronous generators create an electrical frequency based on their speed, they also include droop-speed control to keep their speed within an acceptable range for the electrical system. Generators can have switches or circuit breakers on their electrical side to connect and disconnect them, and can be controlled locally and/or remotely.
+
+Motor control
+Motors can be controlled with a simple manually operated switch or a complex electromagnetic system. One common means of controlling motors is with an electrical contactor whose coil is energized through a separate circuit. The circuit can be feed from the same power supply as the motor, but isolated through a transformer, separating the motors load current from the control current. Other devices like interlocks, latches, and time-delay switches can be combined in a ladder-logic arrangement to design different motor control schemes. Modern design can replace the electromechanical control logic with programmable logic controllers or variable frequency drives to offer more fine control of the motor, as well as remote access.
+
+Protection and monitoring
+Electric machine protection can be divided into the two parts of the machine: electrical protection and mechanical protection.
+On the electrical side, overcurrent protection is the most common and basic means of preventing the machine's windings and circuits from being damaged or destroyed. Complex machines with multiple windings and/or phases can also have differential protection, to ensure there is no fault within the machine. Machines can also include thermal protection (temperature of the windings), undervoltage, and phase-sequence detection, depending on the application. Protection can be simple with fuses and overload relays or more complex with circuit breakers and digital relays performing digital signal processing and protective functions.
+On the mechanical side, thermal protection monitors if the mechanical load is causing to much heat from friction. The bearings of the rotor can also be monitored indirectly, as damage and wear to them tend to cause increased noise and vibration in the machine. To monitor rotation speed, a tachometer can be used to measure the speed of the shaft.
+
+Example: Linear DC machine
+Most electrical machines are complex to analyze, however a simple Linear DC machine can be used to see how the operating principles relate. The electric circuit is made up of a battery 
+  
+    
+      
+        
+          V
+          
+            B
+          
+        
+      
+    
+    {\displaystyle V_{B}}
+  
+, a resistor 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, a switch 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+, and two wires. The wires extend out and lie in a constant magnetic field 
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}}
+  
+ and have a small bar of length 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+ laying across them that is able to move freely.
+
+In the design shown, as all the vectors are all orthogonal to each other, the direction of the vectors are simplified to either left or right (for velocity and forces) or up and down (for current). The table below shows the 4 operating equations simplified.
+
+Machine starting
+With the switch open, there is no closed electric circuit, and the battery supplies no current. With no current flowing within the magnetic field, no force is generated, the bar does not move, and no voltage is induced across it.
+The machine can be started by closing switch 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+, which forms a closed electric circuit. From equation (3) the current supplied can be determined, however as the bar is not moving yet the induced voltage 
+  
+    
+      
+        
+          
+            e
+          
+          
+            i
+            n
+            d
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {e}_{ind}=0}
+  
+ and the starting current is determined only by the series resistance 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+.
+
+  
+    
+      
+        i
+        =
+        
+          
+            
+              
+                V
+                
+                  B
+                
+              
+              −
+              
+                
+                  e
+                
+                
+                  i
+                  n
+                  d
+                
+              
+            
+            R
+          
+        
+        ⟶
+        
+          
+            i
+          
+          
+            s
+            t
+            a
+            r
+            t
+          
+        
+        =
+        
+          
+            
+              V
+              
+                B
+              
+            
+            R
+          
+        
+      
+    
+    {\displaystyle i={V_{B}-{e}_{ind} \over R}\longrightarrow {i}_{start}={V_{B} \over R}}
+  
+
+With current now flowing through the bar and within the magnetic field 
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}}
+  
+, a force is induced, and the bar begins moving. With the magnetic field oriented into the page, and current flowing from top to bottom through the bar, the right-hand rule shows that the force generated is to the right.
+As the bar starts moving in the magnetic field, a voltage is induced across the bar from (2). With the motion of the bar to the right and the magnetic field into the page, the magnitude of 
+  
+    
+      
+        
+          
+            e
+          
+          
+            i
+            n
+            d
+          
+        
+      
+    
+    {\displaystyle {e}_{ind}}
+  
+ is positive. With 
+  
+    
+      
+        
+          
+            e
+          
+          
+            i
+            n
+            d
+          
+        
+        >
+        0
+      
+    
+    {\displaystyle {e}_{ind}>0}
+  
+, the current flowing will be reduced, which in turn reduces the induced force and reduces the acceleration of the bar. While the acceleration decreases, the speed still increases, which increases the magnitude of 
+  
+    
+      
+        
+          
+            e
+          
+          
+            i
+            n
+            d
+          
+        
+      
+    
+    {\displaystyle {e}_{ind}}
+  
+. This feedback continues until the induced voltage rises to the full battery voltage, 
+  
+    
+      
+        
+          
+            e
+          
+          
+            i
+            n
+            d
+          
+        
+        =
+        
+          V
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {e}_{ind}=V_{B}}
+  
+, resulting in no current flow, which results in no induced force, and no acceleration. The bar settles into its steady-state speed equal to
+
+  
+    
+      
+        
+          
+            e
+          
+          
+            i
+            n
+            d
+          
+        
+        =
+        
+          V
+          
+            B
+          
+        
+        =
+        
+          
+            v
+          
+          
+            s
+            s
+          
+        
+        B
+        l
+        ⟶
+        
+          
+            v
+          
+          
+            s
+            s
+          
+        
+        =
+        
+          
+            
+              V
+              
+                B
+              
+            
+            
+              B
+              l
+            
+          
+        
+      
+    
+    {\displaystyle {e}_{ind}=V_{B}={v}_{ss}Bl\longrightarrow {v}_{ss}={V_{B} \over Bl}}
+  
+
+This is referred to as the No-Load speed. The bar will continue to move at this speed until it is disturbed, and as long as the wires and magnetic field extend out far enough. It also assumes that there is no friction and the bar has no mass.
+
+Motor action
+Assuming the bar has a mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+, when the switch is closed and current begins to flow through the bar in the magnetic field, a force will be induced. However, 
+  
+    
+      
+        
+          F
+          
+            i
+            n
+            d
+          
+        
+      
+    
+    {\displaystyle F_{ind}}
+  
+ will now be opposed by the force from the weight of 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ from gravity 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+. Defining this as 
+  
+    
+      
+        
+          F
+          
+            l
+            o
+            a
+            d
+          
+        
+      
+    
+    {\displaystyle F_{load}}
+  
+ the net force on the bar then becomes
+
+  
+    
+      
+        
+          F
+          
+            n
+            e
+            t
+          
+        
+        =
+        
+          F
+          
+            i
+            n
+            d
+          
+        
+        −
+        
+          F
+          
+            l
+            o
+            a
+            d
+          
+        
+        =
+        
+          F
+          
+            i
+            n
+            d
+          
+        
+        −
+        m
+        g
+      
+    
+    {\displaystyle F_{net}=F_{ind}-F_{load}=F_{ind}-mg}
+  
+
+As the net force is less than the induced force at No-Load, the bar will experience less acceleration, resulting in the induced voltage lower than the battery voltage. This results in a current draw, which ultimately increasing the induced force. This continues until the induced force is equal to the load force, resulting in no net force and no acceleration. Unlike the ideal case at no-load, the circuit now draws some current to produce enough force to offset the load force. The motor speed also settles at a speed lower than the no-load stead-state speed. If a mass 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ were placed in front of the bar, the electric machine would draw additional current to move both masses at a constant, lower speed. As the motor adjusts to reach a net force of zero, the ultimate induced force the machine produces is
+
+  
+    
+      
+        
+          F
+          
+            i
+            n
+            d
+          
+        
+        =
+        
+          F
+          
+            l
+            o
+            a
+            d
+          
+        
+        =
+        g
+        (
+        m
+        +
+        M
+        )
+      
+    
+    {\displaystyle F_{ind}=F_{load}=g(m+M)}
+  
+
+This demonstrates that the speed and force in this linear DC machine are inversely related: as one goes up the other goes down. Acting as a motor, this means that the machine moves larger loads at lower speeds.
+
+Generator action
+If the switch is closed, the electric machine will draw enough current to move the mass on the bar at a constant speed, which is below the no-load, steady-state speed. If instead of opposing motion, a force is applied in the same direction of the moving bar, the net force becomes
+
+  
+    
+      
+        
+          F
+          
+            n
+            e
+            t
+          
+        
+        =
+        
+          F
+          
+            i
+            n
+            d
+          
+        
+        +
+        
+          F
+          
+            a
+            p
+            p
+          
+        
+      
+    
+    {\displaystyle F_{net}=F_{ind}+F_{app}}
+  
+
+As the net force is now greater than the induced force, the bar will begin accelerating and the speed will increase. As the speed increases in the magnetic field, the induced voltage across the bar will increase. With the induced voltage near the battery voltage, the applied force causes it to rise above the battery voltage, resulting in the current reversing direction and flowing into the battery.
+
+  
+    
+      
+        i
+        =
+        
+          
+            
+              
+                V
+                
+                  B
+                
+              
+              −
+              
+                
+                  e
+                
+                
+                  i
+                  n
+                  d
+                
+              
+            
+            R
+          
+        
+        ⟶
+        −
+        i
+        =
+        
+          
+            
+              
+                
+                  e
+                
+                
+                  i
+                  n
+                  d
+                
+              
+              −
+              
+                V
+                
+                  B
+                
+              
+            
+            R
+          
+        
+      
+    
+    {\displaystyle i={V_{B}-{e}_{ind} \over R}\longrightarrow -i={{e}_{ind}-V_{B} \over R}}
+  
+
+When the current changes directions, the induced force changes direction and begins to oppose the applied force. This slows the bar down, lowering the induced voltage and current drawn. This continues until the induced force is equal to the applied force, but in the opposite direction, with the bar moving at a constant speed, now above the steady-state speed.
+With the current flowing in the opposite direction, the electric machine charges the battery with the power from the force applied to the bar and acts as a generator. This shows an unintuitive aspect of most electric machines: a machine that can act as both a motor and generator does not change the direction of its motion. In this linear DC machine, the motion is always to the right, and the machine acts as a motor or generator depends on the direction of the load or applied force.
+
+Power conversion and losses
+Power is defined as the change in work per unit time 
+  
+    
+      
+        P
+        =
+        
+          
+            
+              d
+              W
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle P={dW \over dt}}
+  
+. An electric machine converts electrical power to mechanical power (as a motor) or mechanical power to electrical power (as a generator). Mechanically, if a constant force 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ is applied to an object across a distance 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+, the work done is defined as 
+  
+    
+      
+        F
+        ⋅
+        x
+      
+    
+    {\displaystyle F\cdot x}
+  
+, and thus the power as 
+  
+    
+      
+        F
+        ⋅
+        v
+      
+    
+    {\displaystyle F\cdot v}
+  
+. Electrically, power is defined as voltage across an element multiplied by its current 
+  
+    
+      
+        V
+        ⋅
+        I
+      
+    
+    {\displaystyle V\cdot I}
+  
+. Given the definitions of voltage being change in work per unit charge 
+  
+    
+      
+        
+          
+            
+              d
+              W
+            
+            
+              d
+              Q
+            
+          
+        
+      
+    
+    {\displaystyle {dW \over dQ}}
+  
+ and current as change of charge per unit time 
+  
+    
+      
+        
+          
+            
+              d
+              Q
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {dQ \over dt}}
+  
+, it is apparent that electrical power is still the change in work per unit time.
+These equations are summarized in the table below.
+
+For this linear DC machine, the power converted is the conversion between electrical power on the DC circuit and the mechanical power acting on the bar. This takes the form of
+
+  
+    
+      
+        
+          P
+          
+            c
+            o
+            n
+            v
+          
+        
+        =
+        
+          e
+          
+            i
+            n
+            d
+          
+        
+        ⋅
+        i
+        =
+        
+          F
+          
+            i
+            n
+            d
+          
+        
+        ⋅
+        v
+      
+    
+    {\displaystyle P_{conv}=e_{ind}\cdot i=F_{ind}\cdot v}
+  
+
+A real electric machine also converts power to losses, generally in the form of heat. While this is not desirable behavior, it is the nature of electric machines and all thermodynamic systems.
+Electrically, the resistance in the circuit dissipates some power as heat, taking the form
+
+  
+    
+      
+        
+          P
+          
+            l
+            o
+            s
+            s
+            ,
+            e
+            l
+            e
+            c
+          
+        
+        =
+        
+          i
+          
+            2
+          
+        
+        R
+      
+    
+    {\displaystyle P_{loss,elec}=i^{2}R}
+  
+
+Mechanically, some power is lost due to the friction between the moving bar and the rails, taking the form
+
+  
+    
+      
+        
+          P
+          
+            l
+            o
+            s
+            s
+            ,
+            m
+            e
+            c
+            h
+          
+        
+        =
+        
+          F
+          
+            f
+          
+        
+        v
+        =
+        (
+        μ
+        
+          F
+          
+            N
+          
+        
+        )
+        v
+        =
+        (
+        μ
+        g
+        [
+        m
+        +
+        M
+        ]
+        )
+        v
+      
+    
+    {\displaystyle P_{loss,mech}=F_{f}v=(\mu F_{N})v=(\mu g[m+M])v}
+  
+
+The total power produced by the machine is the sum of the converted power and the losses. When operating as a motor, the battery provides the total power and when operating as a generator the applied force provides the total power.
+These power equations are shown in the table.
+
+As seen above, the total power has to supply not only the converted power, but also the losses, both electrical and mechanical. As a motor, the current supplied by the battery provides the total power. As a generator, the total power is supplied by the applied force.
+
+References
+
+Sources
+
+[[Alternator]] [[Electrical engineering]]

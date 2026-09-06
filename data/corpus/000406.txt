@@ -1,0 +1,34 @@
+Electric discharge
+In electromagnetism, an  electric discharge is the release and transmission of electricity in an applied electric field through a medium such as a gas (i.e., an outgoing flow of electric current through a non-metal medium).
+
+Applications
+The properties and effects of electric discharges are useful over a wide range of magnitudes. Tiny pulses of current are used to detect ionizing radiation in a Geiger–Müller tube. A low steady current can illustrate the gas spectrum in a gas-filled tube. A neon lamp is an example of a gas-discharge lamp, useful both for illumination and as a voltage regulator. A flashtube generates a short pulse of intense light useful for photography by sending a heavy current through a gas arc discharge. Corona discharges are used in photocopiers.
+Electric discharges can convey substantial energy to the electrodes at the ends of the discharge. A spark gap is used in internal combustion engines to ignite the fuel/air mixture on every power stroke. Spark gaps are also used to switch heavy currents in a Marx generator and to protect electrical apparatus. In electric discharge machining, multiple tiny electric arcs erode a conductive workpiece to a finished shape. Arc welding is used to assemble heavy steel structures, where the base metal is heated to melting by the arc's heat. An electric arc furnace sustains arc currents of tens of thousands of amperes and is used for steelmaking and the production of alloys and other products.
+
+Examples
+Examples of electric discharge phenomena include:
+
+Brush discharge
+Dielectric barrier discharge
+Corona discharge
+Electric glow discharge
+Electric arc
+Electrostatic discharge
+Electric discharge in gases
+Leader (spark)
+Partial discharge
+Streamer discharge
+Vacuum arc
+Townsend discharge
+St. Elmo's fire
+Lightning
+Electric organ
+
+See also
+Debye sheath
+Electrical breakdown
+Electric discharge in gases
+Lichtenberg figure
+Space charge
+
+References

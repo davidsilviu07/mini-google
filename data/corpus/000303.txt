@@ -1,0 +1,565 @@
+DRE-i with enhanced privacy
+Direct Recording Electronic with Integrity and Enforced Privacy (DRE-ip) is an End-to-End (E2E) verifiable e-voting system without involving any tallying authorities, proposed by Siamak Shahandashti and Feng Hao in 2016. It improves a previous DRE-i system by using a real-time computation strategy and providing enhanced privacy. A touch-screen based prototype of the system was trialed in the Gateshead Civic Centre polling station on 2 May 2019 during the 2019 United Kingdom local elections with positive voter feedback. A proposal that includes DRE-ip as a solution for large-scale elections was ranked 3rd place in the 2016 Economist Cybersecurity Challenge jointly organized by The Economist and Kaspersky Lab. A browser-based prototype of the system was used in a Durga Puja online voting trial among residents of New Town, Kolkata, India, in October 2022.
+
+Protocol
+The DRE-ip protocol is applicable to both onsite polling station voting and remote Internet voting implementations. In the specification below, it is described for polling station voting. The protocol consists of three stages: setup, voting and tallying.
+
+Setup
+Let 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ and 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  
+ be two large primes, where 
+  
+    
+      
+        q
+        
+        
+          |
+        
+        
+        p
+        −
+        1
+      
+    
+    {\textstyle q\,|\,p-1}
+  
+. 
+  
+    
+      
+        
+          G
+          
+            q
+          
+        
+      
+    
+    {\displaystyle G_{q}}
+  
+ is a subgroup of 
+  
+    
+      
+        
+          Z
+          
+            p
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle Z_{p}^{*}}
+  
+ of prime order 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  
+. Let 
+  
+    
+      
+        
+          g
+          
+            1
+          
+        
+      
+    
+    {\displaystyle g_{1}}
+  
+ and 
+  
+    
+      
+        
+          g
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g_{2}}
+  
+ be two random generators of 
+  
+    
+      
+        
+          G
+          
+            q
+          
+        
+      
+    
+    {\displaystyle G_{q}}
+  
+, whose discrete logarithm relationship is unknown. This can be realized by choosing a non-identity element in 
+  
+    
+      
+        
+          G
+          
+            q
+          
+        
+      
+    
+    {\displaystyle G_{q}}
+  
+ as 
+  
+    
+      
+        
+          g
+          
+            1
+          
+        
+      
+    
+    {\displaystyle g_{1}}
+  
+ and computing 
+  
+    
+      
+        
+          g
+          
+            2
+          
+        
+      
+    
+    {\displaystyle g_{2}}
+  
+ based on applying a one-way hash function with the inclusion of election specific information such as the date, election title and questions as the input. All modulo operations are performed with respect to the modulus 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+. Alternatively, the protocol can be implemented using an elliptic curve, while the protocol specification remains unchanged.
+
+Voting
+For simplicity, the voting process is described for a single-candidate (Yes/No) election held in a polling station using a touch-screen DRE machine. There are standard ways to extend a single candidate election to support multiple candidates, e.g., providing a Yes/No selection for each of the candidates or using different encoded values for different candidates as described by Baudron et al.
+After being authenticated at a polling station, a voter obtains an authentication credential, which can be a random passcode or a smartcard. The authentication credential allows the voter to log onto a DRE machine in a private voting booth and cast a vote, but the machine does not know the voter's real identity.
+A voter casts a vote on a DRE machine in two steps. First, he is presented with "Yes" and "No" options for the displayed candidate on the screen. Once the voter makes a choice on the touch screen, the DRE prints the first part of the receipt, containing 
+  
+    
+      
+        i
+        ,
+        
+          R
+          
+            i
+          
+        
+        =
+        
+          g
+          
+            2
+          
+          
+            
+              r
+              
+                i
+              
+            
+          
+        
+        ,
+        
+          Z
+          
+            i
+          
+        
+        =
+        
+          g
+          
+            1
+          
+          
+            
+              r
+              
+                i
+              
+            
+          
+        
+        
+          g
+          
+            1
+          
+          
+            
+              v
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle i,R_{i}=g_{2}^{r_{i}},Z_{i}=g_{1}^{r_{i}}g_{1}^{v_{i}}}
+  
+ where 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+ is a unique ballot index number, 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle r_{i}}
+  
+ is a number chosen uniformly at random from 
+  
+    
+      
+        [
+        1
+        ,
+        q
+        −
+        1
+        ]
+      
+    
+    {\displaystyle [1,q-1]}
+  
+, and 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  
+ is either 1 or 0 (corresponding to "Yes" and "No" respectively). The cipher text also comes with a zero knowledge proof to prove that 
+  
+    
+      
+        
+          R
+          
+            i
+          
+        
+      
+    
+    {\displaystyle R_{i}}
+  
+ and 
+  
+    
+      
+        
+          Z
+          
+            i
+          
+        
+      
+    
+    {\displaystyle Z_{i}}
+  
+ are well-formed. This zero knowledge proof can be realized by using a technique due to Ronald Cramer, Ivan Damgård and Berry Schoenmakers (also called the CDS technique). The interactive CDS technique can be made non-interactive by applying Fiat-Shamir heuristics.
+In the second step, the voter has the option to either confirm or cancel the selection. In case of "confirm", the DRE updates the aggregated values 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ and 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  
+ in memory as below, deletes individual values 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle r_{i}}
+  
+ and 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  
+, and marks the ballot as "confirmed" on the receipt.
+
+  
+    
+      
+        t
+        =
+        ∑
+        
+          v
+          
+            i
+          
+        
+        ,
+        s
+        =
+        ∑
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle t=\sum v_{i},s=\sum r_{i}}
+  
+.
+In case of "cancel", the DRE reveals 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle r_{i}}
+  
+ and 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  
+ on the receipt, marks the ballot as "cancelled" and
+prompts the voter to choose again. The voter can
+check if the printed 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  
+ matches his previous
+selection and raise a dispute if it does not. The
+voter can cancel as many ballots as he wishes but
+can only cast one confirmed ballot. The canceling option allows the voter to verify if the data printed on the receipt during the first step corresponds to the correct encryption of the voter's choice, hence ensuring the vote is "cast as intended". This follows the same approach of voter-initiated auditing as proposed by Joshua Benaloh. However, in DRE-ip, voter-initiated auditing is realized without requiring the voter to understand cryptography (the voter merely needs to check whether the printed plaintext 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  
+ is correct).
+After voting is finished, the voter leaves the voting
+booth with one receipt for the confirmed ballot
+and zero or more receipts for the canceled
+ballots. The same data printed on the receipts are also published on a mirrored public election website (also known as a public bulletin board) with a digital signature to prove the data authenticity. To ensure the vote is "recorded as cast", the voter just needs to check if the same receipt has been published on the election website.
+
+Tallying
+Once the election has finished, the
+DRE publishes the final values 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ and 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  
+ on the
+election website, in addition to all the receipts. Anyone will be able to verify the tallying integrity by checking the published audit data, in
+particular, whether the following two equations hold. This ensures that all votes are "tallied as recorded", which together with the earlier assurance on "cast as intended" and "recorded as cast" guarantees that the entire voting process is "end-to-end verifiable".
+An "end-to-end verifiable" voting system is also said to be "software independent", a phrase coined by Ron Rivest. The DRE-ip system differs from other E2E verifiable voting systems in that it does not require tallying authorities, hence the election management is much simpler.
+
+  
+    
+      
+        ∏
+        
+          R
+          
+            i
+          
+        
+        =
+        
+          g
+          
+            2
+          
+          
+            s
+          
+        
+      
+    
+    {\displaystyle \prod R_{i}=g_{2}^{s}}
+  
+ and 
+  
+    
+      
+        ∏
+        
+          Z
+          
+            i
+          
+        
+        =
+        
+          g
+          
+            1
+          
+          
+            s
+          
+        
+        
+          g
+          
+            1
+          
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \prod Z_{i}=g_{1}^{s}g_{1}^{t}}
+  
+.
+
+Real-world trial
+
+A touch-screen based prototype of DRE-ip had been implemented and trialed in a polling station in Gateshead on 2 May 2019 during the 2019 United Kingdom local elections. During the trial, voters first voted as normal using paper ballots. Upon exiting the polling station, they were invited to participate in a voluntary trial of using a DRE-ip e-voting system for a dummy election. On average, it took each voter only 33 seconds to cast a vote on the DRE-ip system.
+As part of the trial, voters were asked to compare their voting experiences of using paper ballots and the DRE-ip e-voting system, and indicate which system they would prefer. Among the participating voters, 11 chose "strongly prefer paper", 9 chose "prefer paper", 16 chose "neutral", 23 chose "prefer e-voting", and 32 chose "strongly prefer e-voting".
+A browser-based DRE-ip prototype was used in an online voting trial as part of the 2022 Durga Puja festival celebration, organized by the New Town Kolkata Development Authority (NKDA) together with researchers from the University of Warwick. In this trial, residents of New Town, Kolkata, were invited to use mobile phones to vote for their favourite pujas (festival decorations) in an end-to-end verifiable manner. 543 people participated in this trial. The voter feedback indicated that participants generally found the E2E online voting system easy to use. 
+A variant of DRE-ip with support for revote was adopted in an online voting system to elect the student assembly members in the UNITA elections in March 2025 .
+
+References
+
+[[Absentee ballot]] [[Certification of voting machines]] [[Chad (paper)]] [[DRE voting machine]] [[Election Systems & Software]] [[Electronic voting]] [[Electronic voting machine]] [[Hart InterCivic]] [[Help America Vote Act]] [[Independent Testing Authority]] [[Independent verification systems]]

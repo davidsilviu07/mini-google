@@ -1,0 +1,52 @@
+Electrogram
+An electrogram (EGM) is a recording of electrical activity of organs such as the brain and heart, measured by monitoring changes in electric potential. Historically, it also referred to an instrument to measure atmospheric electrical potential.
+
+Brain
+
+Electroencephalography (EEG)
+
+An electroencephalogram (EEG) is an electrical recording of the activity of the brain taken from the scalp.
+An EEG can be used to diagnose seizures, sleep disorders, and  for monitoring of level of anesthesia during surgery.
+
+Electrocorticography (ECoG or iEEG)
+
+An electrocorticogram is an electrical recording of the brain measured intracranially, that is, from within the brain.
+
+Eye
+
+Electrooculography (EOG)
+
+An electrooculogram (EOG) is an electrical recording of the potential between the cornea and the retina, and does not change with visual stimuli.
+An EOG can measure movements of the eyes and can help in diagnosis of nystagmus.
+
+Electroretinography (ERG)
+
+An electroretinogram (ERG) is an electrical recording of the electrical activity of the retina.
+
+Heart
+
+Electrocardiogram (ECG)
+
+An electrocardiogram (ECG or EKG) is an electrical recording of the activity of the heart.
+The typical meaning of an "ECG" is the 12-lead ECG that uses 10 wires or electrodes to record the signal across the chest.
+Interpretation of an ECG is the basis of a number of cardiac diseases including myocardial infarction (heart attack) and arrhythmias such as atrial fibrillation.
+
+Cardiac electrogram
+When electrical recordings are made from the skin, it is considered to be an ECG as described above.
+However, electrical recordings made from within the heart such as with an artificial cardiac pacemaker or during an electrophysiology study, the signals recorded are considered an "electrogram" instead of an ECG.
+These signals are not interpreted in the same manner as an ECG.
+
+Other muscles
+
+An electromyogram (EMG) is an electrical recording of the activity of a muscle or muscle group.
+An EMG study can be combined with a nerve conduction study to diagnose neuromuscular diseases such as peripheral neuropathy and amyotrophic lateral sclerosis.
+
+See also
+Radiology
+
+References
+
+Further reading
+Reilly, Richard B.; Lee, T. Clive (19 November 2010). "Electrograms (ECG, EEG, EMG, EOG)". Technology and Health Care. 18 (6): 443–458. doi:10.3233/THC-2010-0604. ISSN 1878-7401. PMID 21099006.
+
+[[Action potential]] [[Electrocorticography]] [[Electrode]] [[Electroencephalography]] [[Electroretinography]] [[Heart]] [[Nerve conduction study]] [[Seizure]] [[Sleep disorder]]

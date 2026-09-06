@@ -1,0 +1,24 @@
+List of EDA companies
+A list of notable electronic design automation (EDA) companies.
+
+Existing companies
+
+Software companies
+
+FPGA companies
+
+Electronics distribution companies
+
+Development communities
+
+Defunct companies
+
+See also
+List of items in the category Electronic Design Automation companies
+Comparison of EDA software
+Cadence Design Systems: Acquisitions and mergers
+Synopsys: Acquisitions, mergers, spinoffs
+
+References
+
+[[Altium]] [[Altium Designer]] [[Ansys]] [[Autotrax]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Calma]] [[Daisy Systems]] [[DesignSpark PCB]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electronic design automation]] [[GEDA]] [[Gateway Design Automation]] [[KiCad]] [[Magma Design Automation]] [[Mentor Graphics]] [[Micro-Cap]] [[NI Multisim]] [[NI Ultiboard]] [[OrCAD]] [[P-CAD]] [[Pcb-rnd]] [[Platform-based design]] [[Pulsonix]] [[Specctra]] [[Static timing analysis]] [[Synopsys]] [[Technology CAD]] [[TopoR]] [[Upverter]] [[Zuken]]

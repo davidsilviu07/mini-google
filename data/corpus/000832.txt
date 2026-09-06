@@ -1,0 +1,144 @@
+Pituitary gland
+The pituitary gland or hypophysis cerebri is an endocrine gland in vertebrates. In humans, the pituitary gland is located at the base of the brain, protruding off the bottom of the hypothalamus. The pituitary gland and the hypothalamus control much of the body's endocrine system. It is seated in part of the sella turcica, a depression in the sphenoid bone, known as the hypophyseal fossa. The human pituitary gland is oval shaped, about 1 cm in diameter, 0.5–1 gram (0.018–0.035 oz) in weight on average, and about the size of a kidney bean.
+There are two main lobes of the pituitary, an anterior lobe, and a posterior lobe joined and separated by a small intermediate lobe. The anterior lobe (adenohypophysis) is the glandular part that produces and secretes several hormones. The posterior lobe (neurohypophysis) secretes neurohypophysial hormones produced in the hypothalamus. Both lobes have different developmental origins and they are both controlled by the hypothalamus.
+Hormones secreted from the pituitary gland help to control growth, blood pressure, energy management, all functions of the sex organs, thyroid gland, metabolism, as well as some aspects of pregnancy, childbirth, breastfeeding, water/salt concentration at the kidneys, temperature regulation, and pain relief.
+
+Structure
+In humans, the pituitary gland rests upon the hypophyseal fossa of the sphenoid bone, in the center of the middle cranial fossa. It sits in a protective bony enclosure called the sella turcica, covered by a fold of dura mater known as the  diaphragma sellae.
+The pituitary gland is composed of the anterior pituitary, the posterior pituitary, and an intermediate lobe that joins them. The intermediate lobe is avascular and almost absent in humans, but  in many other animals, it is distinct. The intermediate lobe in rats and mice have been extensively studied for the development of the pituitary and its functions. In all animals, the fleshy, glandular anterior pituitary is distinct from the neural composition of the posterior pituitary, which is an extension of the hypothalamus.
+The height of the pituitary gland ranges from 5.3 to 7.0 mm. The volume of the pituitary gland ranges from 200 to 440 mm3. Its most common shape, found in 46% of people is flat, it is convex in 31.2% and concave in 22.8%.
+
+Anterior
+
+The anterior pituitary lobe (adenohypophysis) arises from an evagination of the oral ectoderm (Rathke's pouch). This contrasts with the posterior pituitary, which originates from neuroectoderm.
+Endocrine cells of the anterior pituitary are controlled by regulatory hormones released by parvocellular neurosecretory cells in the hypothalamic capillaries leading to infundibular blood vessels, which in turn lead to a second capillary bed in the anterior pituitary. This vascular relationship constitutes the hypophyseal portal system. Diffusing out of the second capillary bed, the hypothalamic releasing hormones then bind to anterior pituitary endocrine cells, upregulating or downregulating their release of hormones.
+The anterior lobe of the pituitary can be divided into the pars tuberalis (pars infundibularis) and pars distalis (pars glandularis) that constitutes ~80% of the gland. The pars intermedia (the intermediate lobe) lies between the pars distalis and the pars tuberalis, and is rudimentary in the human, although in other species it is more developed. It develops from a depression in the dorsal wall of the pharynx (stomal part) known as Rathke's pouch.
+The anterior pituitary contains several different types of cells that synthesize and secrete hormones. Usually there is one type of cell for each major hormone formed in the anterior pituitary. At least five different cell types can be differentiated using various stains.
+
+Posterior
+
+The posterior pituitary consists of the posterior lobe and the pituitary stalk (infundibulum) that connects it to the hypothalamus. It develops as an extension of the hypothalamus, from the floor of the third ventricle. The posterior pituitary hormones are synthesized by cell bodies in the hypothalamus. The magnocellular neurosecretory cells, of the supraoptic and paraventricular nuclei located in the hypothalamus, project axons down the infundibulum to terminals in the posterior pituitary. This simple arrangement differs sharply from that of the adjacent anterior pituitary, which does not develop from the hypothalamus.
+The release of pituitary hormones by both the anterior and posterior lobes is under the control of the hypothalamus, albeit in different ways.
+
+Function
+
+The anterior pituitary regulates several physiological processes by secreting hormones. This includes stress (by secreting ACTH), growth (by secreting GH), reproduction (by secreting FSH and LH), metabolism rate (by secreting TSH) and lactation (by secreting prolactin). The intermediate lobe synthesizes and secretes melanocyte-stimulating hormone. The posterior pituitary (or neurohypophysis) is a lobe of the gland that is functionally connected to the hypothalamus by the median eminence via a small tube called the pituitary stalk (also called the infundibular stalk or the infundibulum). It regulates hydroelectrolytic stability (by secreting ADH), uterine contraction during labor and human attachment (by secreting oxytocin).
+
+Anterior
+The anterior pituitary synthesizes and secretes hormones. All releasing hormones (-RH) referred to can also be referred to as releasing factors (-RF).
+Somatotropes:
+
+Growth hormone (GH), also known as somatotropin, is released under the influence of hypothalamic growth hormone-releasing hormone (GHRH), and is inhibited by hypothalamic somatostatin.
+Corticotropes:
+
+Cleaved from the precursor proopiomelanocortin protein, and include adrenocorticotropic hormone (ACTH), and beta-endorphin, and melanocyte-stimulating hormone are released.
+Thyrotropes:
+
+Thyroid-stimulating hormone (TSH) is released under the influence of hypothalamic thyrotropin-releasing hormone (TRH) and is inhibited by somatostatin.
+Gonadotropes:
+
+Luteinizing hormone (LH). stimulated by Gonadotropin-releasing hormone (GnRH)
+Follicle-stimulating hormone (FSH), also stimulated by Gonadotropin-releasing Hormone (GnRH), and also by Activin
+Lactotropes:
+
+Prolactin (PRL), whose release is inconsistently stimulated by hypothalamic TRH, oxytocin, vasopressin, vasoactive intestinal peptide, angiotensin II, neuropeptide Y, galanin, substance P, bombesin-like peptides (gastrin-releasing peptide, neuromedin B and C), and neurotensin, and inhibited by hypothalamic dopamine.
+These hormones are released from the anterior pituitary under the influence of the hypothalamus. Hypothalamic hormones are secreted to the anterior lobe by way of a special capillary system, called the hypothalamic-hypophysial portal system.
+There is also a non-endocrine cell population called folliculostellate cells.
+
+Posterior
+The posterior pituitary stores and secretes (but does not synthesize) the following important endocrine hormones:
+Magnocellular neurons:
+
+Antidiuretic hormone (ADH, also known as vasopressin and arginine vasopressin AVP), the majority of which is released from the supraoptic nucleus in the hypothalamus.
+Oxytocin, most of which is released from the paraventricular nucleus in the hypothalamus. Oxytocin is one of the few hormones to create a positive feedback loop. For example, uterine contractions stimulate the release of oxytocin from the posterior pituitary, which, in turn, increases uterine contractions. This positive feedback loop continues throughout labour.
+
+Hormones
+Hormones secreted from the pituitary gland help control the following body processes:
+
+Growth (GH)
+Blood pressure
+Some aspects of pregnancy and childbirth including stimulation of uterine contractions
+Breast milk production
+Sex organ functions in both sexes
+Thyroid gland function
+Metabolic conversion of food into energy
+Water and osmolarity regulation in the body
+Water balance via the control of reabsorption of water by the kidneys
+Temperature regulation
+Pain relief
+
+Development
+
+The development of the pituitary gland is a complex process that occurs early in the organogenesis stage of embryonic development. It begins as a thickening of cells 
+in the embryonic ectoderm that form a neurogenic cranial placode, the hypophyseal placode or adenohypophyseal placode, that in the fourth week of gestational age, gives rise to Rathke's pouch. Rathke's pouch is the ectodermal outpocketing from the roof of the developing mouth, and gives rise to the anterior pituitary.
+A downward extension from the neuroectoderm as the infundibulum, forms the posterior pituitary.
+Differentiation and migration takes place in weeks 5 and 6. Rathke's pouch grows towards the developing brain. The upper part of the pouch eventually constricts and detaches from the oral cavity, and cells in Rathke's pouch differentiate to form three parts of the adenohypophysis: the pars distalis, pars intermedia, and pars tuberalis.
+In weeks 4 to 8 the posterior pituitary is formed. The infundibulum from the diencephalon elongates downward, forming a stalk that connects with Rathke's pouch. This stalk will develop into the posterior pituitary where specialized cells from the hypothalamus, known as pituicytes, migrate to help store and release hormones such as oxytocin and vasopressin.
+From week 12 to week 16, the anterior pituitary starts to produce hormones, notably growth hormone and around the 12th to 16th week of gestation, the anterior pituitary begins producing hormones like growth hormone (GH), and adrenocorticotropic hormone (ACTH), essential for fetal development.
+By the end of the first trimester the pituitary gland is completely formed remaining connected to the hypothalamus by the pituitary stalk (infundibulum), allowing the integration of signals from the brain and regulation of various endocrine functions.
+This dual-origin structure and function are what make the pituitary gland a unique and critical component of the endocrine system, acting as a bridge between the nervous and endocrine systems.
+Pituitary stem cells can differentiate into different types of hormone-producing cells, with a great number specialising as gonadotropes.
+
+Clinical significance
+
+Some of the diseases involving the pituitary gland are:
+
+Central diabetes insipidus caused by a deficiency of vasopressin
+Gigantism and acromegaly caused by an excess of growth hormone in childhood and adult, respectively
+Hypothyroidism caused by a deficiency of thyroid-stimulating hormone
+Hyperpituitarism, the increased (hyper) secretion of one or more of the hormones normally produced by the pituitary gland
+Hypopituitarism, the decreased (hypo) secretion of one or more of the hormones normally produced by the pituitary gland
+Pituitary adenomas, mostly benign tumors of the pituitary gland
+All of the functions of the pituitary gland can be adversely affected by an over- or under-production of associated hormones.
+The pituitary gland is important for mediating the stress response, via the hypothalamic–pituitary–adrenal axis (HPA axis). Critically, pituitary gland growth during adolescence can be altered by early life stress such as childhood maltreatment or maternal dysphoric (depressive) behavior.
+It has been demonstrated that, after controlling for age, sex, and BMI, larger quantities of DHEA and DHEA-S tended to be linked to larger pituitary volume. Additionally, a correlation between pituitary gland volume and social anxiety subscale scores was identified which provided a basis for exploring mediation. Again controlling for age, sex, and BMI, DHEA and DHEA-S have been found to be predictive of larger pituitary gland volume, which was also associated with increased ratings of social anxiety. This research provides evidence that pituitary gland volume mediates the link between higher DHEA(S) levels (associated with relatively early adrenarche) and traits associated with social anxiety. Children who experience early adrenarcheal development tend to have larger pituitary gland volume compared to children with later adrenarcheal development.
+
+History
+
+Etymology
+
+Pituitary gland
+The Greek physician Galen referred to the pituitary gland by only using the (Ancient Greek) name ἀδήν, gland. He described the pituitary gland as part of a series of secretory organs for the excretion of nasal mucus. Anatomist Andreas Vesalius translated ἀδήν with glans, in quam pituita destillat, "gland in which slime (pituita) drips". Besides this 'descriptive' name, Vesalius used glandula pituitaria, from which the English name pituitary gland is ultimately derived.
+The expression glandula pituitaria is still used as official synonym beside hypophysis in the official Latin nomenclature Terminologia Anatomica. In the seventeenth century the supposed function of the pituitary gland to produce nasal mucus was debunked. The expression glandula pituitaria and its English equivalent pituitary gland can only be justified from a historical point of view. The inclusion of this synonym is merely justified by noting that the main term hypophysis is a much less popular term.
+
+Hypophysis
+
+Note: hypophysial (or hypophyseal) means "related to the hypophysis (pituitary gland)".
+The German anatomist Samuel Thomas von Sömmerring coined the name hypophysis. This name consists of ὑπό ('under') and φύειν ('to grow'). In later Greek ὑπόφυσις is used differently by Greek physicians as outgrowth. Sömmering also used the equivalent expression appendix cerebri, with appendix as appendage. In various languages, Hirnanhang in German and hersenaanhangsel in Dutch, the terms are derived from appendix cerebri.
+
+Other animals
+The pituitary gland is found in all vertebrates, but its structure varies among different groups.
+The division of the pituitary described above is typical of mammals, and is also true, to varying degrees, of all tetrapods. However, only in mammals does the posterior pituitary have a compact shape. In lungfish, it is a relatively flat sheet of tissue lying above the anterior pituitary, but in amphibians, reptiles, and birds, it becomes increasingly well developed. The intermediate lobe is, in general, not well developed in any species and is entirely absent in birds.
+The structure of the pituitary in fish, apart from the lungfish, is generally different from that in other animals. In general, the intermediate lobe tends to be well developed, and may equal the remainder of the anterior pituitary in size. The posterior lobe typically forms a sheet of tissue at the base of the pituitary stalk, and in most cases sends irregular finger-like projection into the tissue of the anterior pituitary, which lies directly beneath it. The anterior pituitary is typically divided into two regions, a more anterior rostral portion and a posterior proximal portion, but the boundary between the two is often not clearly marked. In elasmobranchs, there is an additional, ventral lobe beneath the anterior pituitary proper.
+The arrangement in lampreys, which are among the most primitive of all fish, may indicate how the pituitary originally evolved in ancestral vertebrates. Here, the posterior pituitary is a simple flat sheet of tissue at the base of the brain, and there is no pituitary stalk. Rathke's pouch remains open to the outside, close to the nasal openings. Closely associated with the pouch are three distinct clusters of glandular tissue, corresponding to the intermediate lobe, and the rostral and proximal portions of the anterior pituitary. These various parts are separated by meningial membranes, suggesting that the pituitary of other vertebrates may have formed from the fusion of a pair of separate, but associated, glands.
+Most armadillos also possess a neural secretory gland very similar in form to the posterior pituitary, but located in the tail and associated with the spinal cord. This may have a function in osmoregulation.
+There is a structure analogous to the pituitary in the octopus brain.
+
+Intermediate lobe
+Although rudimentary in humans (and often considered part of the anterior pituitary), the intermediate lobe located between the anterior and posterior pituitary is important to many animals. For instance, in fish, it is believed to control physiological color change. In adult humans, it is just a thin layer of cells between the anterior and posterior pituitary. The intermediate lobe produces melanocyte-stimulating hormone (MSH), although this function is often (imprecisely) attributed to the anterior pituitary.
+The intermediate lobe is, in general, not well developed in tetrapods, and is entirely absent in birds.
+
+Additional images
+
+See also
+Head and neck anatomy
+Chromophobe cell
+Melanotroph
+Chromophil
+Acidophil cell
+Basophil cell
+Oxyphil cell (parathyroid)
+Neuroendocrine cell
+
+References
+
+External links
+
+hier-382 at NeuroNames
+Histology image: 14201loa – Histology Learning System at Boston University
+The Pituitary Gland, from the UMM Endocrinology Health Guide (2011 archive)
+Oklahoma State, Endocrine System
+The Pituitary Foundation
+The Pituitary Network Association -- pituitary.org
+
+[[Emotion]] [[Heart]] [[Human eye]] [[Meninges]] [[Skull]] [[Spinal cord]]

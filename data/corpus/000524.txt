@@ -1,0 +1,21 @@
+Foundations and Trends in Electronic Design Automation
+Foundations and Trends in Electronic Design Automation is a journal published by Now Publishers. It publishes survey and tutorial articles on all aspects of electronic design automation. The editor-in-chief is Radu Marculescu (Carnegie Mellon University).
+
+Abstracting and indexing
+The journal is abstracted and indexed in:
+
+Inspec
+EI-Compendex
+Scopus
+CSA databases
+ACM Digital Library
+
+See also
+Foundations and Trends
+
+References
+
+External links
+Official website
+
+[[Association for Computing Machinery]] [[Electronic design automation]] [[Engineering]]

@@ -1,0 +1,12 @@
+Platform-based design
+Platform-based design is a design approach emphasizing systematic reuse, for developing complex products based upon platforms and compatible hardware and software virtual component, intended to reduce development risks, costs and time to market.
+A platform is a library of components that can be assembled to generate a design at that level of abstraction. The platform-based design starts at the highest level of abstraction and carries out the design as a sequence of refinement steps at various levels of abstractions.
+
+See also
+Electronic design automation
+Electronic system-level design and verification
+Functional design
+
+References
+
+[[Agile software development]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computer engineering]] [[Design closure]] [[Design for manufacturability]] [[Electronic design automation]] [[Engineering]] [[Enterprise architecture]] [[Form factor (design)]]

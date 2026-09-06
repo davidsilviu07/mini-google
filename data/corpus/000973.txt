@@ -1,0 +1,85 @@
+TurboCAD
+TurboCAD is a CAD software application for 2D and 3D design and drafting which runs on MacOS and Microsoft Windows operating systems.
+
+Windows versions
+TurboCAD Pro Basic and Platinum editions contain general drafting tools, as well as tools for 3D architectural and mechanical design. Both editions can create ACIS Solids or TC Surface objects, as well as Surface Meshes. The Basic edition contains a limited set of architectural and mechanical tools, whereas Platinum contains all the tools. For less demanding users, a less expensive TurboCAD Deluxe 2D/3D version is available. Its 3D tools are TC Surface tools, and it has a limited number of architectural and mechanical tools. For users needing only 2D functionality, there is the much less expensive TurboCAD Designer. With the exception of TurboCAD Designer, the other TurboCAD releases support both 2D drafting and 3D modeling tools.
+
+Mac versions
+The Mac versions of the software are built on a separate codebase and are not directly comparable with the Windows versions. TurboCAD Mac Pro contains both 2D and 3D tools, while the standard version is for 2D drafting only.
+IMSI contracted and licensed development and distribution rights from Tim Olson of CADSoft Solutions Inc (CSI) to create TurboCAD Mac.  Olson previously led Lockheed's custom aircraft design and analysis CAD development for the F-22 and F-35 and leveraged that experience into a precise, user friendly curve, surface, and solid modeling CAD system based on ACIS for IMSI Design.
+CSI's IP was later acquired by IMSI Design with Olson serving as VP Development for IMSI Design.
+IMSI Design released a High Sierra-compatible version of TurboCAD v10 in February 2018.
+
+TurboCAD history
+
+Early days
+TurboCAD was originally developed in South Africa by Hendrik Vermooten and Hein Oosthuizen, starting in 1984. Initial hardware support was for a specific device configuration: Hercules monochrome graphics cards, HP7475 plotters with keyboard for data entry.  The first version of TurboCAD fit on a single 360kb floppy disk so that it could run on the original IBM PC. The source code also fit on a single floppy disk along with the 30kb required by the "development environment": Turbo Pascal 2.0.
+TurboCAD was released around the same time as Generic CADD in the United States. Both TurboCAD and Generic CADD's marketing objectives were the same – create a viable, low-cost competitor to AutoCAD. But because Generic CADD launched in the U.S. before TurboCAD, it received much more positive press about its low price, (approximately $600 originally), and quickly achieved a large and loyal customer base.  The release of Generic CADD in the PC market was, at that time, the biggest ‘CAD event’ since Autodesk had reinvented CAD pricing with its initial release in 1981.
+South Africans Philip Copeman and Michael Cartwright worked on redesigning the product. Roy Abrams and Philip Copeman introduced it to the United Kingdom markets as  TurboCAD in late 1986. This release was made under the brand Pink Software, with other stake holders; John Glennie, Digby Prior, and Janine Copeman. Support was added for more video cards (EGA, Olivetti, etc.), input devices (Summagraphics digitizer, and later, the first Microsoft Mouse). The cost was £99.  TurboCAD was a DOS product with limited device support, whereas Generic CADD was strong in this area. The turning point for the product came after Martin Sacks, the first US distributor, was able to get Digby Prior, a ton of plotters and printers, and a driver writing utility in the same room in Los Angeles. Sacks also created the first CAD symbols included with the product. Initially, in order to be able to support dot matrix printers, FPlot was sold as an add-on to TurboCAD. Later, TurboCAD included native printer drivers for a variety of dot matrix, bubble jet, and laser printers. During this period, Rob Berry began working on the product as a Technical Writer.
+
+Moving to the US
+TurboCAD was first sold in the United States by Milan Systems of America in late 1986, marketed as a stand-alone title for $99 and a bundle with the IMSI (International Microcomputer Software, Inc) mouse for $149. Both companies shared distribution responsibilities for the bundle.
+In 1990, IMSI released its self-developed version of TurboCAD, version 2 for DOS.  IMSI had licensed the source code from the original developers, Pink Software, and programmer Kurt Diesch fixed bugs and added output support, as well as increased functionality to compete with other CAD programs under $500 – Generic CADD, Drafix and Design CAD 2D. Later Diesch ported code from the original Turbo Pascal to the later object oriented version that would eventually morph into Borland Delphi. This resulted in a major improvement to the DOS user interface.
+In the United States, TurboCAD was initially marketed through high-tech, direct sales publications such as Computer Shopper and InfoWorld magazines.  Computer Shopper proved to be the consistently profitable publication in which to advertise and monthly full-page ads were run in this publication for the first two and a half years from TurboCAD's introduction in the U.S Computer Shopper ads not only established a loyal end user base, but they also helped establish a loyal distribution network.
+
+Windows history and sales distribution
+With the release of TurboCAD v2 DOS and v1 Windows in 1993, IMSI decided to begin using direct mail campaigns as a means of cost effectively increasing its user base and over the next two years became the primary advertising technique.  Revenues for direct mail sales of TurboCAD grew to over $20 million annually in 1993, with successful prospect direct mail campaigns being sent out on a nearly monthly basis in the U.S., Canada, UK and Australia.  In 1993, IMSI released the first Macintosh versions of TurboCAD – Standard retailed for $195, while Professional retailed for $495 and offered 3D, wireframe functionality.  This technology was purchased from Santiago Montufar's company, Pegasus Software.
+In 1993, IMSI began to outsource the development of TurboCAD.  After a trip to Russia by Martin Sacks, IMSI hired 3 Russian programmers who began work on TurboCAD Windows v2.  Included in these 3 original hires were Victor Bazarov, who later came to work in San Rafael for IMSI and Alex Presniak who went on to start SoftDev on behalf of IMSI.
+In 1994, Michael Cartwright moved from South Africa to join IMSI in California and, along with Peter Zingg, led the TurboCAD for Windows v3 rewrite, a major architectural shift for the product. Together those two were instrumental in IMSI's early offshore development success. During the v3 rewrite, the code was ported from Delphi to C++ and the UI was reformed to be "Office Standard" compliant. IMSI made the strategic decision to release v3 in both 16 and 32 bit versions giving users the best of both worlds during the rocky transition of the market from Windows 3.1 to Windows 95. Since then, Alex Presniak and many of the  same Russian developers (Sergey Nazarov, TurboCAD team leader; Leonid Robin, SDK development) continued to work on the TurboCAD code.
+By late 1994, the success of the direct mailings peaked with an established user base of over a quarter of a million of TurboCAD owners.  From that point on response rates and ROIs (returns on investment) for direct mail began to decline due to over-saturation and increasing printing and postage costs.  As such, IMSI decided to reestablish its presence in the reseller market.
+TurboCAD was distributed through software distributors like Ingram, TechData and Merisel, and sold in retail locations like MicroCenter, Fry's Electronics, CompUSA and Software Etc. It was also marketed to schools through an educational reseller.
+From 2009 on, there has been a shift out of traditional 'brick and mortar' resellers of TurboCAD, to more online resellers such as Amazon, Apple, CAD & Graphics, and Purch, as well as educational and corporate resellers such as JourneyEd, Lifeboat, SHI and Softmart.   TurboCAD however continues to be sold in traditional resellers such as Fry's Electronics, Micro Center, Office Depot, and Office Max.
+
+More recent history
+In 2006, IMSI/Design, LLC was spun out of IMSI, which had just been renamed 'Broadcaster, Inc', as part of a management buy-out of the TurboCAD product line, several other IMSI products and the IMSI name. The spin-out was led by Royal Farros, Bob Mayer and Greyhawk Capital Management  However, the same Russian development team continued to work on the TurboCAD code.
+In 2016, IMSI/Design, LLC established another team in Lahore, Pakistan to help and support the development team in SPB, Russia; now the development, quality assurance and support departments play productive roles in TurboCAD releases.
+
+International sales and localization
+TurboCAD was first sold internationally by IMSI in the United Kingdom in late 1986.  In 1992, IMSI took over Pink Software's London office and successfully re-launched the product in the UK marketplace.  Localization into a variety of languages has occurred since then:
+1993: first localized version of TurboCAD in both Windows and DOS in German
+1994: French version was created
+1995: Japanese was launched in partnership with Sumitomo Metal Industries
+2001: first Chinese version was created for the Taiwanese market by Noah International in 2001
+2001–2002: TurboCAD was localized into Spanish, Czech, Polish and Italian
+2010: TurboCAD 17 was localized into Russian
+
+3D CAD product history
+TurboCAD gained 3D functionality in at least 1990 and a fuller implementation with v5 when ‘Model Space’, ‘Work Plane’, ‘Camera’, and 3D Draggers appeared.  Version 6 saw the integration of the ACIS solid modeling kernel and the LightWorks photorealistic rendering engine.
+In 1999, SoftDev created a VBA-based plug-in known as AnimationLab, which is now up to version 4.  This plug-in module allows users to create scenarios using the Key Frames Editor, assign a soundtrack for each actor, calculate the sound scene taking into account distance to the actors, speed, and overall environment.
+In collaboration with SoftDev, a Beam Analysis tool (2001) and 2½D CAM plug-in (2002) were developed.  3rd party plug-ins have also been created including a surface modeling and civil engineering tools developed by Jerry Simington (2003, 2016), a Google Maps plug-in developed by SoftDev (2015), and a parametric furniture (cabinets, tables, chairs) generator developed by Spinar Software (2005).
+From 2003 through 2005 significant enhancements were made to the TurboCAD Professional product.  Specifically, Spatial's Deformable Modeling engine was enabled in version 9.5, while D-Cubed's 2D Constraint Manager was added in version 10.5.  In June 2005, IMSI re-entered the Macintosh market with the launch of TurboCAD and TurboCAD 3D.  These products were private-label licenses from CADSoft Solutions.
+In 2006, the ability to unlock additional functionality through special serial number and activation key pairs was introduced with TurboCAD v12.  Collections of architectural and mechanical features were ‘packaged’ together and sold successfully to TurboCAD Professional owners.   Architectural features included architectural object types (windows, doors, stairs and rails) based on Autodesk's ADT product, meaning that while TurboCAD could now read an ADT (DWG) file with these architectural object types, AutoCAD itself could not.
+TurboCAD 14 was released in 2007 including Terrain Modeling functionality.
+TurboCAD 15 was released in March 2008.
+TurboCAD 16 was released in July 2009.
+TurboCAD 17 was released in March 2010.
+TurboCAD 18 was released in March 2011 and included a partial implementation of the Redway RedSDK drawing engine.
+TurboCAD 19 was released in March 2012 and included 64-bit support for TurboCAD Professional.
+TurboCAD 20 was released in March 2013, and included the introduction of Surface Mesh (SMESH) tools, as well as 64-bit support for TurboCAD Deluxe and Designer.
+TurboCAD 21 was released in March 2014.
+TurboCAD 22 was released in March 2015 and was re-branded as TurboCAD 2015. The LightWorks rendering module was removed from the program and is now only available as a purchased plug-in.  Point cloud viewing and editing functionality was also introduced into this version
+TurboCAD 2016 was released in February 2016, and included advanced 3D Blending, 3D Law tools and Point Cloud support.                   
+TurboCAD 2017 was released in March 2017, and included CAD interoperability, rendering, the improved functionality to both mechanical and architectural areas of design.
+TurboCAD 2018 was released in May 2018, and included new ribbon interface, shortcuts, thick profile abilities, and quick pull tool for surfaces.
+
+TurboCAD 2019 was released in 2019, and came in Designer (2D), Deluxe (2D/3D), Professional (Advanced), and Platinum (Premium) versions with MSRP range from US$60 to US$1600.
+TurboCAD 2020 was released in 2020, and came in Designer (2D), Deluxe (2D/3D), Professional (Advanced), and Platinum (Premium) versions with MSRP range from US$60 to US$1600.
+
+Version feature levels
+Designer – 2D
+Deluxe – 2D/3D
+Professional – AutoCAD-like interface
+Platinum – Symbols, Scripting, and SDK
+
+See also
+Comparison of CAD editors for CAE
+CAD
+DWF
+DXF
+
+References
+
+External links
+TurboCAD official site
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

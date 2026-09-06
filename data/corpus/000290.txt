@@ -1,0 +1,28 @@
+Correctness (computer science)
+In theoretical computer science, an algorithm is correct with respect to a specification if it behaves as specified. Best explored is functional correctness, which refers to the input–output behavior of the algorithm: for each input, it produces an output satisfying the specification.
+Within the latter notion, partial correctness, requiring that if an answer is returned, it will be correct, is distinguished from total correctness, which additionally requires that an answer is eventually returned, i.e., the algorithm terminates. Correspondingly, to prove a program's total correctness, it is sufficient to prove its partial correctness and its termination.  The latter kind of proof (termination proof) can never be fully automated, since the halting problem is undecidable.
+
+For example, successively searching through the positive integers (1, 2, 3, …) to see if we can find an odd perfect number is quite easy to write and is a partially correct program that would find an odd perfect number, if such a number exists (see box). However, to say this program is totally correct (i.e., that it will find such a number and terminate) would be to assert that an odd perfect number actually exists, which is currently not known in number theory.
+A proof would have to be a mathematical proof, assuming both the algorithm and specification are given formally. In particular, it is not expected to be a correctness assertion for a given program implementing the algorithm on a given machine. That would involve such considerations as limitations on computer memory.
+A deep result in proof theory, the Curry–Howard correspondence, states that a proof of functional correctness in constructive logic corresponds to a certain program in the lambda calculus. Converting a proof in this way is called program extraction.
+Hoare logic is a specific formal system for reasoning rigorously about the correctness of computer programs. It uses axiomatic techniques to define programming language semantics and argue about the correctness of programs through assertions known as Hoare triples.
+Software testing is any activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results. Although crucial to software quality and widely deployed by programmers and testers, software testing still remains an art due to a limited understanding of the principles of software. The difficulty in software testing stems from the complexity of software: we can not completely test a program with moderate complexity. Testing is more than just debugging. The purpose of testing can be quality assurance, verification and validation, or reliability estimation. Testing can be used as a generic metric as well. Correctness testing and reliability testing are two major areas of testing. Software testing is a trade-off between budget, time, and quality.
+
+See also
+Formal verification
+Design by contract
+Program analysis
+Model checking
+Compiler correctness
+Program derivation
+
+Notes
+
+References
+"Human Language Technology. Challenges for Computer Science and Linguistics." Google Books. N.p., n.d. Web. 10 April 2017.
+"Security in Computing and Communications." Google Books. N.p., n.d. Web. 10 April 2017.
+"The Halting Problem of Alan Turing - A Most Merry and Illustrated Explanation." The Halting Problem of Alan Turing - A Most Merry and Illustrated Explanation. N.p., n.d. Web. 10 April 2017.
+Turner, Raymond, and Nicola Angius. "The Philosophy of Computer Science." Stanford Encyclopedia of Philosophy. Stanford University, 20 August 2013. Web. 10 April 2017.
+Dijkstra, E. W. "Program Correctness". U of Texas at Austin, Departments of Mathematics and Computer Sciences, Automatic Theorem Proving Project, 1970. Web.
+
+[[Algorithm]] [[Algorithmic efficiency]] [[Communications of the ACM]] [[Computer programming]] [[Formal verification]] [[Usability]]

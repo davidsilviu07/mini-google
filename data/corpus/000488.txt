@@ -1,0 +1,19 @@
+Event-related optical signal
+Event-related optical signal (EROS) is a neuroimaging technique that uses infrared light through optical fibers to measure changes in optical properties of active areas of the cerebral cortex. The fast optical signal (EROS) measures changes in infrared light scattering that occur with neural activity. Whereas techniques such as diffuse optical imaging (DOI) and near-infrared spectroscopy (NIRS) measure optical absorption of hemoglobin, and thus are based on cerebral blood flow, EROS takes advantage of the scattering properties of the neurons themselves, and thus provide a much more direct measure of cellular activity.
+
+Characteristics
+EROS can pinpoint activity in the brain within millimeters and milliseconds, providing good spatial and temporal resolution at the same time. Currently, its biggest limitation is the inability to detect activity more than a few centimeters deep, which thus limits this fast optical imaging to the cerebral cortex.
+EROS can be measured using photon delay or as an intensity signal. EROS can also be measured concurrently with other neuroimaging techniques, such as fMRI, fNIRS, or EEG.
+
+History
+EROS is a relatively new and inexpensive technique that is non-invasive to the test subject. It was developed at the University of Illinois at Urbana–Champaign in the Cognitive Neuroimaging Laboratory of Drs. Gabriele Gratton and Monica Fabiani. EROS was first demonstrated in the visual cortex in 1995, and later in the motor cortex that same year.
+
+See also
+Optical imaging
+
+References
+
+External links
+Cognitive Neuroimaging Laboratory at the University of Illinois at Urbana-Champaign
+
+[[Cerebral cortex]] [[Near-infrared spectroscopy]]

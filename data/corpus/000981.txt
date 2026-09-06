@@ -1,0 +1,74 @@
+Valentina (software)
+Valentina (Ukrainian: Валентина) is an open source parametric pattern drafting computer-aided design software tool for the garment industry.
+
+History
+The program was named after mother of the founder Roman Telezhynskyi, a cutter by profession, who gave him the idea for the project.
+The main idea of the seawing patterns making software package is in combining new technologies with old methods of designing of clothing patterns. The main feature is the work with parametric patterns and measurements tables.
+The project was started in 2013 by Roman Telezhynskyi (Ukraine) and Susan Spencer (USA). On October 2013, Valentina 0.2.0, the first public release, was rolled out.
+After release of Valentina 0.5.0 on 9 May 2017, Spencer forked Valentina into Seamly2D. Telezhynskyi decided to continue development of original project themself and on 1 October 2018 released the next version – Valentina 0.6.0, followed by few minor releases same year and ceased development since then.
+In 2020–2021, during the COVID-19 pandemic in Ukraine and countrywide lockdown, the development of project revamped and continued during Russian invasion of Ukraine since 2022.
+On 21 July 2025, Roman Telezhynskyi released Valentina 1.0.0, bringing UI redesign, additional file formats support and other changes. Since this release, binary builds provided via paid subscription, were old releases binary archived and available for free. Some Linux distributions continue to provide binary packages via official repositories, also users could compile binary from freely available sources itself.
+On 21 June 2026, Valentina 1.1.0 was released as the first release of the next 1.1.x development branch with a set of new tools for curves, pattern's history, etc. Staring from this release support for Windows older than Windows 10 was dropped.
+
+Features
+Valentina main window UI consists of main window with 3 workbenches:
+
+Draw – to draw pattern pieces;
+Detail – to combine pieces in details;
+Layout – to organize parts for printing.
+Toolbars and tool widgets placed around main window and could be reorganized.
+Pattern messages widget provides warnings and errors notifications.
+Variables Table widget allows creating and managing measurements variables used in parametric drawing.
+Additional workbenches available as separate windows:
+
+Label template editor – to create labels;
+Watermark editor – to create watermarks;
+Tape – to create measurements tables;
+Puzzle – to create puzzle patterns.
+
+File formats
+.vit /  .vst (Valentina individual and multisize measurements tables, XML-based)
+.vlt (Valentina puzzle)
+.m (Valentina watermarks)
+SVG font (stroke fonts, editable with Inkscape)
+
+Export
+PLT (HP-GL)
+DXF AAMA/ASTM (for export to Clo3D)
+CSV
+SVG
+PDF (for export patterns)
+
+Facts
+During COVID-19 pandemic in Ukraine, students of Khmelnytskyi National University designed simple paperless technology for sewing by the use of portable projectors to project calibrated to scale screen of CAD software window with designed sewing pattern directly onto fabric cutting workbench.
+
+See also
+
+Machine embroidery
+Inkscape § Ink/Stitch
+
+Publications
+Головніна, М.В.; Михайлець, В.М. Технологія крою та шиття. Київ: Техніка, 1998.
+Болгов, В. Сучасний одяг та взуття від "А" до "Я" : довідник. Київ: Медіа центр "Bolgov", 2004.
+Лазур, К.Р.; Олійник, Т.М. Швейне виробництво та матеріалознавство : словник. Львів : Новий Світ – 2000, 2012.
+Сафонова, Г. Ф. (2014). A comparative analysis оf clothes design methods for further automation. Eastern-European Journal of Enterprise Technologies (in Ukrainian), 6 (4 (72)): 9-15. doi:10.15587/1729-4061.2014.29714. "Comparison aided by fuzzy logic showed that CAD of clothes by anthropocentric methods of a product base design is the most suitable for small enterprises, particularly those engaged in custom tailoring."
+Chapman, Amy (16 October 2014). Drafting Patterns with Software. Clothhabit.
+Zalkind, V. (2014). Designing of clothes by means of information technologies : monography (in Ukrainian). Kharkiv: Technology Center PC. doi:10.15587/978-966-97466-0-3
+Практикум з комп'ютерного проектування одягу : навч. посіб- ник / О. В. Захаркевич, С. Г. Кулешова, О. М. Домбровська. – Хмельницький : ХНУ, 2016. – 311 с. ISBN 978-966-330-251-5
+Kuhuk, T. V.; Ielina, T. V. (2018). Parametrization of templates of knitwear producers in the mid-program AUTOCAD. Технології та дизайн (in Ukrainian). 3 (28): 1-10. ISSN 2304-2605. "Among special clothing CAD parametric modelling feature available in the next programs: Valentina, Закройщик, RedCafe, Optitex, Ассоль, etc. Actually, popularity rose for the Valentina – special parametric 2D CAD for sewing pattern design, built with Qt5 library. This is freely available software, that is an absolute pros for small enterprises. This CAD allows creating parametric drawings. I.e., its possible to create a drawing once and then, by changing markings in a separate file, get patterns for an item in different size. There is no need to change model itself. Program recreates it automatically."
+Telezhynskyi, Roman (26 April 2022). Англійсько-українська швейна термінологія (in Ukrainian) = English-Ukrainian sewing terminology. Smart pattern.
+Telezhynskyi, Roman (29 August 2022). «Валентина» 0.7. Короткий посiбник (in Ukrainian) = «Valentina» 0.7. Quick guide. Smart pattern.
+Telezhynskyi, Roman (12 September 2022). «Valentina» 0.7. Quick guide (in English). Smart pattern.
+Zasornova, Iryna; Zasornov, Alexander; Mazniev, Ievgen; Sarana, Oleksandr (2023). Analytical review of information for testing the open parametric system of automated projection «Valentina». Вісник ХНУ. Технічні науки (in Ukrainian). 317 (1): 280-288. doi:10.31891/2307-5732-2023-317-1-280-288. ISSN 2307-5732. "The article analyzes proprietary systems, such as Lectra systems (France), Gerber Garment Technology (USA), Investronika (Spain), Assyst GmbH (Germany), Wild Ginger Software (USA) and open PatternViewer (USA), Valentina (Ukraine) automated design systems for sewing production."
+Розмірник (2023). Таблиці розмірів однострою ЗСУ та деякі інші : брошура. Чтиво. URI: https://chtyvo.org.ua/authors/viiskova_sprava/Tablytsi_rozmiriv_odnostroiu_ZSU_ta_deiaki_inshi/
+«SMART FASHION: гід у світі цифрової моди» : монографія / О.В. Захаркевич, Ю. В Кошевко, С.Г. Кулешова, Г.С. Швець. – Хмельницький : ХНУ, 2023. ISBN 978-966-330-429-8
+
+References
+
+External links
+
+Valentina Project's channel on YouTube
+https://sewing-patterns.trueelena.org – sample patterns made with Valentina
+https://git.trueelena.org/patterns – sample patterns repository (.val)
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[GNU General Public License]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,0 +1,106 @@
+Self-publishing
+Self-publishing is an author-driven publication of any media without the involvement of a third-party publisher. Since the advent of the internet, self-publishing usually depends on digital platforms and print-on-demand technology, ranging from physical books to eBooks. Examples include magazines, print-on-demand books, music albums, pamphlets, brochures, video games, video content, artwork, zines, and web fiction. Self-publishing, therefore, emerges as an alternative to traditional publishing, with implications for production, cost and revenue, distribution, and public perception.
+
+Types
+In self-publishing authors publish their own work. While it is possible for an author to single-handedly carry out the whole process independently, many authors engage with professionals for specific services as needed (such as editors or cover designers). A growing number of companies offer a one-stop shop where an author can source a whole range of services required to self-publish a book (sometimes called "Assisted Self-publishing Providers" or "Self-publishing Service Providers").
+Other forms of publishing include
+
+hybrid publishing, (where the publisher and author collaborate and share costs and risks. In return, the author may be required to surrender some control and/or rights in return for the publisher's financial and other contribution) OR
+vanity publishing, (where the author pays for the cost of all services, but also signs a restrictive contract which usually involves surrendering significant rights).
+
+Web fiction
+Authors may also self-publish through web fiction. A common type is the web serial. Unlike most modern novels, web fiction novels are frequently published in parts over time. The format has gained popularity, particularly in China, where revenues from online literature exceeds US$2.5 billion. South Korea also has a significant web fiction market. Online literature in China plays a more prominent role than in the United States and the rest of the world. Most books are available online, where the most popular novels find millions of readers. They cost an average of 2 CNY, or roughly a tenth of the average price of a printed book. Platforms like Shanda Literature Ltd. claim to publish thousands of Chinese literary works daily while Joara, South Korea's largest web novel platform, reports 1.1 million members, 140,000 writers, an average of 2,400 serials per day and 420,000 works.
+
+History
+
+Early examples
+Self-publishing has a long history. John Locke, Jane Austen, Emily Dickinson, Nathaniel Hawthorne, Martin Luther, Marcel Proust, Derek Walcott, and Walt Whitman are some successful examples.
+In music publishing, François Couperin self-published some of his keyboard music in the 18th century, and  Joseph Haydn self-published his oratorio The Creation in 1800.
+
+In 1759, British satirist Laurence Sterne self-published the first two volumes of Tristram Shandy.  Later, authors like Jane Austen and Walt Whitman found success through self-publishing throughout the 19th century.  In the early 20th century, Ezra Pound sold A Lume Spento for six pence each while Franklin Hiram King's self-published Farmers of Forty Centuries was subsequently published commercially. Virginia Woolf chose to self-publish her final novel Between the Acts on her Hogarth Press, in effect starting her own press. Irma S. Rombauer, the author of The Joy of Cooking paid a local printing company to print 3000 copies; the Bobbs-Merrill Company acquired the rights, and since then the book has sold over 20 million copies.
+
+Stigma
+Traditional book publishers are selective in what they publish, and they reject most of the manuscripts submitted to them. After selection, they then assign an editor to polish the work even further, a proof-reader to check for errors, and a book designer to produce the cover.  It can be challenging for a self-publishing author to produce a book to traditional professional standards.
+Before the advent of the internet and POD (Print on Demand), most self-publishing authors had to resort to a vanity press, which was costly and acted as a barrier to publication.  Now, ebooks can be published at virtually no cost, which allows for books of varying qualities to be published. 
+Studies on self-publishing have highlighted concerns about quality control, as the lack of traditional editorial oversight can result in a wide range of content quality. A 2014 survey by Digital Book World found that traditionally published books tend to earn higher critical reviews compared to self-published titles, though some self-published authors achieve commercial success.
+Also, some self-published authors are now taking a professional approach, using services like critique groups, beta readers, professional editors and designers to polish their work to a professional standard equivalent to traditional publishing. Such authors are achieving success equivalent to traditionally published writers, lending respectability to self-publishing.
+Self-publishing is also common among editors of academic journals. The study showed that a quarter of them publish 10% of their own articles in the same journals they edit (which is problematic for ethical reasons).
+Despite the growing popularity and success of self-publishing, some stigma remains. The lack of gatekeepers, such as agents and editors, can raise concerns about quality-control. This may result in prejudice against self-published works from readers and reviewers. However, many self-published authors invest in professional editing and other services to achieve comparable production standards.
+The rise of AI technologies has also created concerns about the lack of quality control in the self-publishing industry. A startup, Spines, plans to publish 8,000 AI-generated books in 2025, sparking fears about originality and content standards. Writers argue that AI-driven publishing lacks genuine care for books, potentially leading to a decline in quality.
+
+Technological changes
+
+Rapid advances in technology have been a major driving force behind to growth of self-publishing. Print-On-Demand (or POD) technology, which became available in the mid-1990s, makes it possible for a book to be printed after an order has been placed, so there are no costs for storing inventory.  Further, the Internet provides access to global distribution channels via online retailers, so a self-published book can be instantly available to book buyers worldwide. Advances in e-book readers and tablet computers have improved readability, making ebooks more popular.
+Amazon's introduction of the Kindle and its self-publishing platform, Kindle Direct Publishing or KDP, in 2007 has been described as a tipping point in self-publishing, which "opened the floodgates" for self-publishing authors.
+
+The Espresso Book Machine (a POD device) was first demonstrated at the New York Public Library in 2007. This machine prints, collates, covers, and binds a single book. It is in libraries and bookstores throughout the world, and it can make copies of out-of-print editions. Small bookstores sometimes use it to compete with large bookstore chains. It works by taking two pdf files, one for the text and one for the cover, and then prints an entire paperback book in a matter of minutes, which then drops down a chute.
+The Library Journal and Biblioboard worked together to create a self-publishing platform called Self-e in which authors submitted books online which were made available to readers. These books are reviewed by Library Journal, and the best ones are published nationwide; authors do not make money this way but it serves as a marketing tool.
+The development of artificial intelligence has significant implications within self-publishing. Proponents believe that AI's ability to streamline tasks that are less accessible when going through traditional publishers make it a positive change in the literary environment. However, critics argue that using AI to co-write books has led to mass publications of low quality literature and legal questions about who these books belong to. Notable legal debates have already become relevant. In September 2023, Game of Thrones writers accused OpenAI of violating copyright law by using their writing to optimize ChatGPT's ability to generate realistic-sounding responses.
+
+Production and control
+Self-publishing provides authors with autonomy over both the production process and content and are not required to make changes based on feedback or market changes. Authors also determine pricing and can change it at any point in time. In traditional publishing, these aspects are subject to negotiations and collaboration.
+Self-publishing also offers an expedited timeline where authors can release their work within a few weeks after their work is finished by bypassing extra time spent on looking for an agent, publisher, and editor.
+While self-publishing offers greater control and speed, it places production responsibility on the author, which includes editing, cover design, formatting, and marketing. These tasks may be time-consuming and require specialized skills to complete, which may necessitate hiring freelancers. Traditional publishers typically cover these services as part of their contract with the author.
+
+Cost and revenue
+Self-publishing's financial aspect differs from traditional models. In self-publishing, authors are responsible for all associated costs, which may include editing, cover design, formatting, and marketing. Self-published authors receive a four to five times a larger payout per sale with royalties sometimes as high as 70% when compared to working with traditional publishers. However, total earnings depend on sales volume, which can be influenced by discoverability. Traditional publishers often provide an advance that is later covered by author's earnings as their work sells. Self-published authors do not receive an advance. The financial success of self-published authors depends on the author's marketing efforts, which often require a substantial investment.
+
+Distribution and reach
+Self-published authors often face challenges in achieving wide distribution, particularly in physical bookstores and libraries. Traditional publishers have established relationships with bookstores and libraries, often because of distribution networks and contracts that may be difficult for a self-publisher to replicate. Self-published authors often have more success when utilizing online retailers and print-on-demand services, which allows them to reach readers but at a limited physical presence.
+
+Publishing platforms
+
+Apple
+Apple is a significant platform for ebooks via its Apple Books Store (formally iBookstore). Authors can distribute their ebooks to iPhone, handheld computer, and the iPad. Apple typically pays authors a 70 percent royalty rate.
+
+Barnes & Noble
+Barnes & Noble pays a royalty rate of 70% for ebooks. Printed book rates vary based on cost of materials.
+
+Books on Demand
+Books on Demand (BoD) originally was founded as Libri GmbH in 1997 and is recognized as the "original" in self-publishing.
+
+Draft2Digital, LLC
+Draft2Digital is a distribution aggregator that allows authors to publish ebooks and paperbacks to all major online retailers. In 2022, Draft2Digital acquired Smashwords.
+
+IngramSpark
+IngramSpark lets authors publish digital, hardback and paperback editions of their books. It distributes books to most online bookstores. Bricks-and-mortar stores can also order books from IngramSpark at wholesale prices for sale in their own venues.
+
+Kindle Direct Publishing
+
+Kindle Direct Publishing or KDP is Amazon's e-book publishing unit (see main article).
+
+Kobo
+Kobo is a Canadian company which sells e-books, audiobooks, e-readers and tablet computers which originated as a cloud e-reading service.
+
+Lulu
+Lulu is an online print-on-demand, self-publishing and distribution platform.
+
+PublishDrive Inc.
+PublishDrive is a distribution aggregator that allows authors and publishers to distribute ebooks, audiobooks, and print-on-demand books to all major retailers globally. PublishDrive also offers formatting, sales reporting, and marketing tools and an AI-powered Publishing Assistant that helps with metadata optimization.
+
+Reedsy
+Reedsy is a publishing marketplace for authors to work with professional editors, designers and marketers.
+
+Scribd
+Scribd is an open publishing platform which features a digital library, an e-book and audiobook subscription service.
+
+Smashwords
+Smashwords is a California-based company founded by Mark Coker which allows authors and independent publishers to upload their manuscripts electronically to the Smashwords service, which then converts them into multiple e-book formats which can be read on various devices. Smashwords was acquired by Draft2Digital, LLC in 2022.
+
+Self-published bestsellers
+While most self-published books do not make much money, there are self-published authors who have achieved success, particularly in the early years of online self-publishing. The number of authors who had sold more than one million e-books on Amazon from 2011 to 2016 was 40, according to one estimate.
+
+Matthew Reilly's self-published Contest in 1996, the first of his action-thriller novels.
+Minnesota social worker Amanda Hocking uploaded several books in 2010 and sold a few dozen copies. She published several more manuscripts and within a few months was making enough money to quit her daytime job. She later won a deal with Macmillan publishers and went to being a millionaire in a year. She sold her series to St. Martin's Press in 2011 for two million dollars.
+Swedish author Carl-Johan Forssen Ehrlin wrote a book in 2010 which helped get children to go to sleep; his The Rabbit Who Wants to Fall Asleep title featured amateurish illustrations with "clunky prose" and a monotonous storyline, but parents bought it for the catchy subtitle of "A new way of getting children to sleep". He released it on CreateSpace and it became a bestseller.
+The science fiction novel The Martian, by Andy Weir, was originally released as chapters on his personal blog, and then self-published as an eBook in 2011. The rights were purchased by Crown Publishing which re-released it in 2014; the novel went on to become a bestseller and then a major motion picture starring Matt Damon.
+Fifty Shades of Grey by E. L. James was originally published online as Twilight fanfiction before the author decided to self-publish it as an e-book and print on demand.
+The breakout hit Wool by Hugh Howey was self-published originally and garnered more than a million dollars in royalty monies and has generated over 5000 Amazon reviews.
+Blogger Alan Sepinwall's self-published book The Revolution Was Televised became an instant hit, winning a prominent review within two weeks of publication by critic Michiko Kakutani in The New York Times. Sepinwall hired an editor and spent roughly $2,500 on services to get his book ready for publication.
+Victoria Knowles's self-published book The PA (2014) reached the number one spot in the iTunes chart for paid books.
+
+See also
+
+References
+
+[[Amazon Kindle]] [[Apple Books]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Desktop publishing]] [[E-reader]] [[Google Play Books]] [[IPad]] [[ITunes]] [[Kindle Store]] [[Kobo Inc.]] [[Offset printing]] [[PocketBook International]] [[Print on demand]] [[Smashwords]] [[Sony Reader]]

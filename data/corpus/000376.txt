@@ -1,0 +1,17 @@
+EEGLAB
+EEGLAB is a MATLAB toolbox distributed under the free BSD license for processing data from electroencephalography (EEG), magnetoencephalography (MEG), and other electrophysiological signals. Along with all the basic processing tools, EEGLAB implements independent component analysis (ICA), time/frequency analysis, artifact rejection, and several modes of data visualization. EEGLAB allows users to import their electrophysiological data in about 20 binary file formats, preprocess the data, visualize activity in single trials, and perform ICA. Artifactual ICA components may be subtracted from the data. Alternatively, ICA components representing brain activity may be further processed and analyzed. EEGLAB also allows users to group data from several subjects, and to cluster their independent components.
+
+History
+In 1997, a set of data processing functions was first released on the Internet by Scott Makeig in the Computational Neurobiology Laboratory directed by Terry Sejnowski at the Salk Institute, under the name "the ICA/EEG toolbox". In 2000, Arnaud Delorme designed a graphical user interface on top of these functions along with some of his artifact removal functions, and released the first version of the "EEGLAB software for artifact removal". In 2003, Delorme and Makeig joined efforts to release the first stable and fully documented version of EEGLAB. In 2004, EEGLAB was awarded funding by the NIH for continued development of research software.
+
+See also
+
+Other open-source toolboxes for neurophysiological signals processing include:
+
+MNE-Python (Python)
+Neurophysiological Biomarker Toolbox (MatLab)
+NeuroKit (Python)
+
+References
+
+[[Amplitude integrated electroencephalography]] [[Bereitschaftspotential]] [[Brainstem auditory evoked potential]] [[Delta wave]] [[Difference due to memory]] [[Early left anterior negativity]] [[Electrocorticography]] [[Electroencephalography]] [[Gamma wave]] [[K-complex]] [[Late positive component]] [[Mismatch negativity]] [[Mu wave]] [[N100]] [[N170]] [[N200 (neuroscience)]] [[N2pc]] [[N400 (neuroscience)]] [[Neural oscillation]] [[Neurophysiological Biomarker Toolbox]] [[P200]] [[P3a]] [[P3b]] [[P50 (neuroscience)]] [[P600 (neuroscience)]] [[Sensorimotor rhythm]] [[Sleep spindle]] [[Somatosensory evoked potential]]

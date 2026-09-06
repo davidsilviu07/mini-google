@@ -1,0 +1,26 @@
+Design flow
+Design flows, often known as RTL to GDSII, are the explicit combination of electronic design automation tools to accomplish the design of an integrated circuit.  They start with a textual description of the proposed chip operation, written in a register transfer level (RTL) language such as Verilog.  These are converted to a netlist by a logic synthesis tool, and the resulting gates are then placed, and routed. The result is an image of the chip to be fabricated, typically in the GDSII format. 
+
+History
+In the early days of chips, up until the mid 1970s, each step in a design flow was done by hand.  Engineers drew logic diagrams to express the chip function, decided where to place each gate on the chip, and drew wires to interconnect the gates.  As chips became larger at a rate determined by Moore's law, manual design became impractically slow and error prone.  This first led to stand-alone tools such as synthesis, placement, and routing, each of which tackled part of the problem.  However interactions between the tools, and the importance of new effects such as interconnect delay and design for manufacturability, led to the need to integrate these tools in order to achieve design closure.
+The RTL to GDSII flow underwent significant changes from 1980 through 2005. The continued scaling of CMOS technologies significantly changed the objectives of the various design steps. The lack of good predictors for delay has led to significant changes in recent design flows. New scaling challenges such as leakage power,
+variability, and reliability will continue to require significant changes to the design closure process in the future.  Many factors describe what drove the design flow from a set of separate design steps to a fully integrated approach, and what further changes are coming to address the latest challenges. In his keynote at the 40th Design Automation Conference (2003) entitled The Tides of EDA, Alberto Sangiovanni-Vincentelli distinguished three periods of EDA:
+
+The Age of Invention, roughly 1960s - early 1980s: During the invention era, routing, placement, static timing analysis and logic synthesis were invented.
+The Age of Implementation, from the 1980s to roughly 2000: In this period, these steps were drastically improved by designing sophisticated data structures and advanced algorithms. This allowed the tools in each of these design steps to keep pace with the rapidly increasing design sizes.
+The Age of Integration, from 2000 on: As chips increased in size, due to the lack of good predictive cost functions, it became impossible to execute a design flow by a set of discrete steps, no matter how efficiently  each of the steps was implemented.  This led to the age of integration where most of the design steps are performed in an integrated environment, driven by a set of incremental cost analyzers.
+See the OpenROAD Project for a publicly available instance of a modern design flow.
+There are differences between the steps and methods of the design flow for analog and digital integrated circuits. Nonetheless, a typical VLSI design flow consists of various steps like design conceptualization, chip optimization, logical/physical implementation, and design validation and verification.
+
+See also
+Floorplan (microelectronics), creates the physical infrastructure into which the design is placed and routed
+Placement (EDA), an essential step in Electronic Design Automation (EDA)
+Routing (EDA), a crucial step in the design of integrated circuits
+Power optimization (EDA), the use of EDA tools to optimize (reduce) the power consumption of a digital design, while preserving its functionality
+Post-silicon validation, the final step in the EDA design flow
+
+References
+
+Electronic Design Automation For Integrated Circuits Handbook, by Lavagno, Martin, and Scheffer, ISBN 0-8493-3096-3 – A survey of the field, from which this summary was derived, with permission.
+
+[[Agile software development]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Design closure]] [[Design for manufacturability]] [[Electronic design automation]] [[Engineering]] [[Enterprise architecture]] [[Form factor (design)]] [[GDSII]] [[Integrated circuit]] [[OpenROAD Project]] [[Platform-based design]] [[Static timing analysis]]

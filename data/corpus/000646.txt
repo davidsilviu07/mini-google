@@ -1,0 +1,136 @@
+Kobo eReader
+The Kobo eReader is an e-reader produced by Toronto-based Kobo Inc (a subsidiary of Rakuten). Kobo Inc. originated in December 2009 through a Indigo Books and Music spinoff of their short-lived e-book marketplace, Shortcovers. The original e-reader model was released in May 2010 and was marketed as a minimalist alternative to the more expensive e-book readers available at the time. Like most e-readers, the Kobo uses an electronic ink screen. "Kobo" is an anagram of "book".
+In November 2011, Rakuten and Kobo Inc. announced a definitive agreement under which Rakuten would acquire 100% of Kobo's shares for US$315 million in cash. The acquisition closed in January 2012 following approval by Canadian regulatory authorities. The Arc tablet series, released between 2011 and 2013, was based on LCD technology instead.
+
+History
+Kobo began as Shortcovers, a digital reading application operated by the Canadian bookstore chain Indigo Books and Music and formally spun off as the independent company Kobo Inc. in December 2009, with Indigo retaining approximately 58% ownership and investors including Borders Group, Cheung Kong Holdings, and REDgroup Retail taking minority stakes. The company raised CA$16 million in initial financing at the time of the spin-off. 
+In November 2011, Rakuten announced a definitive agreement to acquire 100% of Kobo's outstanding shares for US$315 million in cash, describing the deal as a step toward expanding its global e-commerce business into downloadable media. Kobo's headquarters, management team, and employees were to remain in Toronto upon closing. The acquisition closed in January 2012 following approval by Canadian regulatory authorities.
+
+E-ink devices
+
+Current
+
+Common attributes
+All Kobo e-readers share a unique pagination system which gives users the option to either count and reference pages separately within each chapter, or in the book as a whole. Up until an update in January 2022, Kobo readers required connection to the Internet during the initial setup phase and did not work until they were connected to Kobo's servers; however, they now support "sideload mode", which allows the reader to be used without registering it to a Kobo account. Kobo e-readers support viewing KEPUB (Kobo's proprietary ebook format based on the EPUB format), EPUB, Adobe PDF, plain text, HTML, and unprotected Mobipocket (MOBI, PRC) e-books. Some also support other formats, such as ZIM, unofficially.
+
+Kobo Elipsa 2E
+The Kobo Elipsa 2E was released on 19 April 2023. It has a 10.3-inch E-Ink display at 1404 x 1872 pixels with a density of 227 ppi, 32 GB of storage, 2 GHz CPU, WiFi 802.11 ac/b/g/n, Bluetooth, USB-C, and an updated stylus.
+
+Kobo Clara BW
+The Kobo Clara BW was released in April 2024. It is one of the first Kobo devices marketed as repairable, and the first with a Carta 1300 display. Its accessory covers are compatible with the Kobo Clara Colour.
+In April 2025, Kobo quietly released a mid-cycle hardware revision of the Clara BW, designated model P365, representing the first time Kobo had upgraded the battery capacity partway through a device's release cycle. The P365 features a larger battery of 1,900 mAh, compared to 1,500 mAh in the original N365 model. The P365 is manufactured by Top Victory Electronics rather than Netronix, which had produced all previous Kobo devices. The revised model was initially distributed primarily in European and other international markets rather than in Canada and the United States.
+
+Kobo Clara Colour
+The Kobo Clara Colour was released on 30 April 2024. It is also marketed as repairable, with a 6-inch E-Ink Kaleido 3 color display. Its accessory covers are compatible with the Kobo Clara BW. 
+A white version of the device with the same technical specifications was released on 23 September 2025 after popular demand.
+
+Kobo Libra Colour
+The Kobo Libra Colour was released on 30 April 2024. It is marketed as repairable, with a 7-inch E-Ink Kaleido 3 color display and support for the Kobo Stylus 2 in all applications.
+
+Discontinued
+
+Kobo eReader
+Kobo Inc. announced its first e-reader on 24 March 2010, at the CTIA show. The device was officially released on 1 May 2010. It had expandable memory, holding an additional 4 GB via an SD slot and limited wireless connectivity via Bluetooth to select Blackberry wireless devices. It was available in black or white and came preloaded with 100 public domain books. It was manufactured by Netronix Inc., a Taiwan based company with factories in Taiwan and China.
+The pricing strategy of the original Kobo, at US$149, was to rival the Amazon Kindle, which was US$110 more expensive. However, in June 2010, just after the Kobo was released, Amazon dropped the price of the Kindle to US$189. Its pricing strategy in Australia was similarly aggressive where it was available for A$199, again A$100 less than the Kindle. Borders Australia said that they hoped to sell high volumes of the Kobo to drive up sales at their e-content store.
+The original Kobo received a mediocre review from CNET. The review said that, while the Kobo was compact, lightweight and affordable, the lack of Wi-Fi or 3G made it outdated, especially when there were similarly priced eReaders available with those features.
+In December 2010, the original Kobo's feature set was updated with a firmware update to more closely match the Wifi model.
+
+Kobo Wi-Fi
+A new model with Wi-Fi capability was released on 15 October 2010. It included an improved processor, screen, and new colour choices (porcelain/metallic silver, porcelain/pearlized lilac, and onyx). The SD expansion had been improved to claim a capacity for up to 10,000 books with a 32 GB SD card. Other improvements included a longer battery life and a built-in dictionary.
+Like the original model, the Wi-Fi model came pre-loaded with 100 public domain books.
+
+Kobo Touch
+
+The Kobo Touch was released in June 2011. It introduced an infrared 6-inch touchscreen interface. Other improvements compared to the Kobo Wi-Fi included an E Ink Pearl screen, a faster processor capable of PDF panning, 802.11n capability, and reduced size and weight.
+
+Kobo Glo
+
+The Kobo Glo was an e-reader released on 6 September 2012. It was a front-lit, touch-based E Ink reader. The Kobo Glo supported most ebook standards, including EPUB. It had a 6-inch touchscreen, 1024 × 768 resolution, 213 ppi, 6.53 oz, 2 GB of storage, and supported microSD.
+
+Kobo Mini
+
+The Kobo Mini was smaller, at 5-inch, and lighter than standard ebook readers. It was released on 6 September 2012. It had 2 GB internal storage and Wi-Fi. The 5" E Ink Vizplex screen had a resolution of 800 x 600 with 200 ppi.
+
+Kobo Aura HD
+
+The Aura HD was a limited-edition device released on 25 April 2013. It had a 6.8-inch E Ink display, with a high resolution of 1440 × 1080 with 265 ppi. It was 8.47 oz and had a microSD expansion slot. Other improvements compared to the Kobo Touch included a built-in "ComfortLight" LED light, a faster processor (1 GHz), twice the onboard storage (4 GB), and twice the battery life (estimated at two months).
+
+Kobo Aura
+
+The Kobo Aura is the baseline e-reader with a 6-inch E Ink ClarityScreen display with 1024 × 768 resolution, 16-level grey scale, and a built-in LED front-light. It has 4 GB storage, weighs 173 g (6.1 oz), has two months of battery life, a Freescale i.MX507 1 GHz processor, and a microSD expansion slot. It was released in September 2013.
+
+Kobo Aura H2O
+The Aura H2O, released on 1 October 2014, was the second commercial waterproof e-reader. It had an upgraded version of the Aura HD's 6.8-inch E Ink Carta display with a resolution of 1440 × 1080 with 265 ppi. While its screen was improved over the Aura HD, it contained the same processor, on-board storage, and software as the Aura HD, and had dust/waterproofing – certified to be immersed for up to 30 minutes in up to 1 meter of water with its port cover closed.
+
+Kobo Glo HD
+The Kobo Glo HD, released on 1 May 2015, is an e-reader with an E Ink Carta screen and is the successor to 2012's Glo. It has 4gb of storage. It has a 6-inch screen in a resolution of 1448 × 1072, or 300 ppi, matching the resolution of the Kindle Voyage.
+
+Kobo Touch 2.0
+The Kobo Touch 2.0 was released on 8 September 2015, as an entry-level e-reader with an E Ink Pearl 6-inch display with a resolution of 800×600 and 167 ppi. The exterior is similar in appearance to the Kobo Glo HD and it has a 1 GHz Freescale i.MX6 Solo Lite Processor and 4 GB of internal storage.
+
+Kobo Aura One
+The Kobo Aura One was released on 6 September 2016, and it is the first e-reader with a 7.8-inch E Ink Carta HD waterproof touchscreen display with a 300 ppi screen. The Aura One weighs 252 grams and measures 195 by 138.5 by 6.9 mm. It has Wi-Fi, 8 GB internal storage, and 512 MB RAM.  The Aura One is lit by nine white LEDs and eight RGB LEDs around the frame. The additional RGB LEDs allow the device to have a night reading mode that limits the blue light that comes from white LEDs. The Aura One was the first Kobo eReader with built-in OverDrive support.
+
+Kobo Aura Edition 2
+The Kobo Aura Edition 2 was released with the Kobo Aura One in September 2016 as "a refreshed version of a beloved classic". It has a 6-inch E Ink Carta display with a resolution of 1024 × 768 at 212 ppi. The exterior styling is similar to the Kobo Aura One. Unlike the original Kobo Aura, there is no MicroSD slot. The specifications are otherwise similar to the original Kobo Aura.
+
+Kobo Aura H2O Edition 2
+The Kobo Aura H2O Edition 2 was released in May 2017. It has a 6.8-inch E Ink HD Carta waterproof IPX8 display at 265 ppi. Its LED light, called the "ComfortLight PRO", can automatically reduce blue-light exposure during the night to lower the screen's effect on sleep.
+
+Kobo Clara HD
+The Clara HD was released on 5 June 2018. It has a 6-inch, 300 ppi screen.
+
+Kobo Forma
+The Kobo Forma was released in November 2018. It has an 8-inch, 300 ppi E-Ink display that can be held by right- and left-handed people, and it can be flipped horizontally. It has physical page up and page down buttons to flip pages.
+
+Kobo Libra H2O
+Kobo Libra H2O was released on 15 September 2019.
+The Libra features a 7-inch E Ink Carta HD display with a resolution of 1,680 x 1,264 and 300 ppi.
+
+Kobo Nia
+The Kobo Nia was released on 21 July 2020. It has a 6-inch E-Ink display at 1024 x 758 pixels, with a density of 212 ppi.
+
+Kobo Libra 2
+The Libra 2 was released in October 2021. 
+The Kobo Sage and Kobo Libra 2 are the first Kobo ereaders to come with Bluetooth support; thus, audiobooks can be played from the e-reader with the use of an external Bluetooth speaker. The Kobo Libra 2 is upgraded with USB-C over the previous standard, Micro-USB. The Libra 2 features a 7-inch E-ink Carta 1200 display with 1680 x 1264 resolution and 300 ppi. It has 32 GB of storage.
+
+Kobo Clara 2E
+The Clara 2E was released in September 2022. It has a 6-inch E-Ink display with 1448 x 1072 resolution and 300 ppi, and the exterior is made with 85% recycled plastics.
+
+Chronological overview
+
+Market share
+
+Global
+
+Canada
+The Kobo e-reading platform was, as of January 2012, the best-selling in Canada. Research firm Ipsos-Reid estimating that Kobo e-readers represented 46% of the Canadian market.
+
+France
+As of spring 2012, Kobo had 50% of the market share in France.
+
+Other countries
+In August 2013, Kobo was the second largest ebook retailer in Japan; further, Forbes estimated it at 3% of the market share in the United States.
+
+Selected subsidiaries
+In October 2012, Kobo Inc. acquired the digital publishing platform Aquafadas to increase the content available on its e-reader devices.
+
+Software
+The firmware updates from Kobo are unencrypted and a wide variety of patches can be applied to them to alter the built-in functionality.
+A few open source applications can be installed on Kobo eReaders. This includes KoReader. It also includes font options such as OpenDyslexic.
+
+See also
+Comparison of e-book readers
+Comparison of tablet computers
+Amazon Kindle
+Barnes & Noble Nook
+Sony Reader
+Calibre – open source software to manage a digital library with support of conversion between common e-book formats
+
+References
+
+External links
+
+Official website
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[HTML]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

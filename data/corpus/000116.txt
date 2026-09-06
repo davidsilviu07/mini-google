@@ -1,0 +1,219 @@
+Beat (acoustics)
+In acoustics, a beat is an interference pattern between two sounds of slightly different frequencies, perceived as a periodic variation in volume, the rate of which is the difference of the two frequencies.
+With tuning instruments that can produce sustained tones, beats can be readily recognized. Tuning two tones to a unison will present a peculiar effect: when the two tones are close in pitch but not identical, the difference in frequency generates the beating. The volume varies as in a tremolo while the sounds alternately interfere constructively and destructively. As the two tones gradually approach unison, the beating slows down and may become so slow as to be imperceptible. As the two tones get further apart, their beat frequency begins approaching the range of human pitch perception, the beating starts to sound like a note, and a combination tone is produced.
+
+Mathematics and physics of beat tones
+
+This phenomenon is best known in acoustics or music, though it can be found in any linear system:
+
+According to the law of superposition, two tones sounding simultaneously are superimposed in a very simple way: one adds their amplitudes.
+If a graph is drawn to show the function corresponding to the total sound of two strings, it can be seen that maxima and minima are no longer constant (as when a pure note is played), but change over time: when the two waves are nearly 180 degrees out of phase the maxima of one wave cancel the minima of the other, whereas when they are nearly in phase their maxima sum up, raising the perceived volume.
+It can be proven (with the help of a sum-to-product trigonometric identity) that the sum of two unit-amplitude sine waves can be expressed as a carrier wave of frequency ⁠f1 + f2/2⁠ whose amplitude is modulated by an envelope wave of frequency ⁠f1 − f2/2⁠:
+
+  
+    
+      
+        
+          cos
+          ⁡
+          (
+          2
+          π
+          
+            f
+            
+              1
+            
+          
+          t
+          )
+          +
+          cos
+          ⁡
+          (
+          2
+          π
+          
+            f
+            
+              2
+            
+          
+          t
+          )
+        
+      
+      =
+      
+        2
+        
+        
+          
+            
+              
+                cos
+                ⁡
+                
+                  (
+                  
+                    2
+                    π
+                    
+                      
+                        
+                          
+                            f
+                            
+                              1
+                            
+                          
+                          +
+                          
+                            f
+                            
+                              2
+                            
+                          
+                        
+                        2
+                      
+                    
+                    t
+                  
+                  )
+                
+              
+              ⏟
+            
+          
+          
+            carrier
+          
+        
+        
+        
+          
+            
+              
+                cos
+                ⁡
+                
+                  (
+                  
+                    2
+                    π
+                    
+                      
+                        
+                          
+                            f
+                            
+                              1
+                            
+                          
+                          −
+                          
+                            f
+                            
+                              2
+                            
+                          
+                        
+                        2
+                      
+                    
+                    t
+                  
+                  )
+                
+              
+              ⏟
+            
+          
+          
+            envelope
+          
+        
+      
+    
+    {\displaystyle \cos(2\pi f_{1}t)+\cos(2\pi f_{2}t)}={2\;\underbrace {\cos \left(2\pi {\frac {f_{1}+f_{2}}{2}}t\right)} _{\text{carrier}}\;\underbrace {\cos \left(2\pi {\frac {f_{1}-f_{2}}{2}}t\right)} _{\text{envelope}}}
+  
+
+Since every other burst in the modulation pattern is inverted, each peak is replaced by a trough and vice versa. The envelope is perceived to have twice the frequency of the modulating cosine, which means the audible beat frequency (if it is in the audible range) is:
+
+  
+    
+      
+        
+          f
+          
+            beat
+          
+        
+        =
+        
+          f
+          
+            1
+          
+        
+        −
+        
+          f
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle f_{\text{beat}}=f_{1}-f_{2}\,.}
+  
+
+Monaural beats
+"Monaural beats are when there is only one tone that pulses on and off in a specific pattern. With only one tone (as opposed to two tones with binaural beats), your brain has a much easier time adjusting and there is no need to balance separate tones. 
+Monaural beats are combined into one sound before they actually reach the human ear, as opposed to formulated in part by the brain itself, which occurs with a binaural beat.
+
+This means that monaural beats can be used effectively via either headphones or speakers. It also means that those without two ears can listen to and receive the benefits." - Ebonie Allard
+
+Binaural beats
+
+A binaural beat is an auditory illusion that can occur when two sine waves of different frequencies are presented to a listener dichotically (one in each ear).
+For example, if a 530 Hz pure tone is presented to a subject's right ear, while a 520 Hz pure tone is presented to the subject's left ear, the listener will hear beating at a rate of 10 Hz, just as if the two tones were presented monaurally, but the beating will also have an element of lateral motion.
+Binaural-beat perception originates in the inferior colliculus of the midbrain and the superior olivary complex of the brainstem, where auditory signals from each ear are integrated and precipitate electrical impulses along neural pathways through the reticular formation up the midbrain to the thalamus, auditory cortex, and other cortical regions.
+According to a 2023 systematic review, studies have investigated some of the claimed positive effects in the areas of cognitive processing. Affective states like anxiety, mood, pain perception, meditation, relaxation, mind wandering, and creativity were studied, but it was determined that the techniques were not comparable and the results were inconclusive. Out of fourteen studies reviewed, five reported results in line with the brainwave entrainment hypothesis, eight studies reported contradictory, and one had mixed results. The authors recommend standardization in study approaches for future studies so results may be more effectively compared.
+
+Uses
+Musicians commonly use interference beats objectively to check tuning at the unison, perfect fifth, or other simple harmonic intervals. Piano and organ tuners use a method involving counting beats, aiming at a particular number for a specific interval.
+Many pipe organs contain "céleste" stops that intentionally produce beating by having two sets of pipes which are slightly out of tune with each other, producing an undulating effect.
+The composer Alvin Lucier has written many pieces that feature interference beats as their main focus. Italian composer Giacinto Scelsi, whose style is grounded on microtonal oscillations of unisons, extensively explored the textural effects of interference beats, particularly in his late works such as the violin solos Xnoybis (1964) and L'âme ailée / L'âme ouverte (1973), which feature them prominently (Scelsi treated and notated each string of the instrument as a separate part to make his violin solos effectively quartets of one-strings, where different strings of the violin may be simultaneously playing the same note with microtonal shifts, so that the interference patterns are generated). Composer Phill Niblock's music is entirely based on beating caused by microtonal differences. Computer engineer Toso Pankovski invented a method based on auditory interference beating to screen participants in online auditory studies for headphones and dichotic context (whether the stereo channels are mixed or completely separated).
+Amateur radio enthusiasts use the terms "zero-beating" or "zero-beat" for precisely tuning to a desired carrier wave frequency by manually reducing the number of interference beats, fundamentally the same tuning process used by musicians.
+
+Sample
+
+See also
+
+Autonomous sensory meridian response (ASMR)
+Consonance and dissonance
+Gamelan tuning
+Heterodyne
+Moiré pattern, a form of spatial interference that generates new frequencies.
+Music and sleep
+Voix céleste
+
+References
+
+Further reading
+Thaut, Michael H. (2005). Rhythm, music, and the brain: scientific foundations and clinical applications (1st in paperback ed.). New York: Routledge. ISBN 978-0-415-97370-0.
+Berger, Jonathan; Turow, Gabe, eds. (2011). Music, science, and the rhythmic brain: cultural and clinical implications. Routledge. ISBN 978-0-415-89059-5.
+
+External links
+ Learning materials related to Beat (acoustics) at Wikiversity
+Javascript applet, MIT
+Acoustics and Vibration Animations, D.A. Russell, Pennsylvania State University
+A Java applet showing the formation of beats due to the interference of two waves of slightly different frequencies
+Lissajous Curves: Interactive simulation of graphical representations of musical intervals, beats, interference, vibrating strings
+The Feynman Lectures on Physics Vol. I Ch. 48: Beats
+
+[[Action potential]] [[Brainstem]] [[Brainwave entrainment]]

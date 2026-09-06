@@ -1,0 +1,58 @@
+Juvenile myoclonic epilepsy
+Juvenile myoclonic epilepsy (JME), also known as Janz syndrome or impulsive petit mal, is a form of hereditary, idiopathic generalized epilepsy, representing 5–10% of all epilepsy cases. Typically it first presents between the ages of 12 and 18 with myoclonic seizures (brief, involuntary, single or multiple episodes of muscle contractions caused by abnormal excessive or synchronous neuronal activity in the brain). These events typically occur after awakening from sleep, during the evening or when sleep-deprived. JME is also characterized by generalized tonic–clonic seizures, and a minority of patients have absence seizures. It was first described by Théodore Herpin in 1857. Understanding of the genetics of JME has been rapidly evolving since the 1990s, and over 20 chromosomal loci and multiple genes have been identified. Given the genetic and clinical heterogeneity of JME some authors have suggested that it should be thought of as a spectrum disorder.
+
+Epidemiology
+The prevalence of JME is approximately 0.1–0.2 per 1,000, constituting approximately 5–10% of all epilepsies. Some studies suggest that JME is slightly more common in females than males. The onset of symptoms ranges between the ages of 8 and 36 years, peaking between 12 and 18 years with a mean (average) of 15 years. Approximately 15% of children with childhood absence epilepsy and juvenile absence epilepsy subsequently develop JME. In most cases, myoclonic jerks precede the first generalized tonic–clonic seizure by a mean of 3.3 years. A long-term population-based study suggested that 25 years after seizure onset, 17% of people with JME had all seizure types resolved, and 13% only experienced myoclonus despite having discontinued medication, meaning that approximately a third no longer had troublesome seizures. JME may be associated with an elevated prevalence of psychiatric disorders, including anxiety, mood disorders, and personality disorders.
+
+Signs and symptoms
+There are three principal seizure types which may occur in JME: myoclonus, generalized tonic–clonic seizures and absence seizures.  Approximately one-third of patients have all three seizure types. The majority of patients (58.2%) have frequent myoclonic jerks, with some sources stating that all patients with JME have myoclonic seizures. Generalized tonic–clonic seizures are less common but still reported in 85–90%. Absence seizures are believed to be least common, with an estimated prevalence between 10% and 40%. Seizures associated with JME tend to take place 30 minutes to an hour after waking up in the morning. Common triggers for JME seizures include lack of sleep, alcohol consumption, emotional stress, anxiety, and fatigue. A notable portion (30%–40%) of JME patients exhibit photosensitivity, whereby flashing lights from sources like sunlight, TV screens, and computers can provoke seizures. Individuals with photosensitivity tend to experience seizures at an earlier stage. Myoclonic status epilepticus may occur as a complication but is uncommon.
+Patients typically present to medical providers following their first generalized tonic–clonic seizure, by which time they have often had myoclonus for several years. The first generalized tonic–clonic seizure usually occurs in the context of a particular provoking factor, such as sleep deprivation, stress or alcohol consumption. Other potential provoking factors include "praxis induction" which is the precipitation of seizures or epileptiform discharges in the context of a complex cognitive tasks. Patients with JME tend to perform worse on neuropsychological assessments in multiple cognitive domains and are also more likely to have psychiatric comorbidities such as depression and anxiety when compared to control populations. The majority of patients with JME report satisfaction with their health, work, friendships and social life.
+
+Cause
+JME is believed to be caused most often by multiple interacting genes rather than by a single genetic cause. Over twenty genetic loci have been implicated in the pathogenesis of JME. A minority of cases are caused by single genes inherited in an autosomal dominant fashion.
+The majority of identified genes associated with JME encode for ion channel subunits. More recently, variants in intestinal cell kinase, which is encoded by a gene at chromosomal locus 6p12, were found to be associated with JME. This gene is involved in mitosis, cell-cycle exit and radial neuroblast migration, as well as apoptosis. EFHC1 has similar functions and is also associated with JME. These findings may explain subtle structural and functional brain abnormalities seen in patients with JME.
+JME is distinct from other forms of genetic generalized epilepsy due to the prominence of myoclonus. There is evidence that patients with JME have hyperexcitable motor cortexes, most pronounced in the morning and after sleep deprivation. In addition, there is evidence that patients with JME have hyperexcitable and hyperconnected cortical networks that are involved in ictogenesis.
+
+Genetics
+
+CACNB4
+CACNB4 is a gene that encodes the calcium channel β4 subunit protein. It has been associated with JME though it is not strictly considered a putative JME gene because its mutation did not segregate in affected family members, it was found in only one member of a JME family from Germany, and the finding has not been replicated.
+β subunits are important regulators of calcium channel current amplitude, voltage dependence, and they also regulate channel trafficking. In mice, a naturally occurring null mutation leads to the "lethargic" phenotype. This is characterized by ataxia and lethargic behavior at early stages of development followed within days by the onset of focal motor seizures and episodes of behavioral immobility correlated with patterns of cortical spike and wave discharges on electroencephalography (EEG) A premature-termination mutation, R482X, was identified in a patient with JME while an additional missense mutation C104F was identified in a German family with generalized epilepsy and praxis-induced seizures.
+The R482X mutation causes increased current amplitudes and an accelerated fast time constant of inactivation. Whether these modest functional differences may be in charge of JME remains to be established.
+
+GABRA1
+GABRA1 is a gene that encodes for an α subunit of the GABAA receptor protein, which encodes one of the major inhibitory neurotransmitter receptors. There is one known mutation in this gene that is associated with JME, A322D, located in the third segment of the protein. This missense mutation results in channels with reduced peak GABA-evoked currents. Furthermore, the presence of such mutation alters the composition and reduces the expression of wild-type GABAA receptors.
+
+GABRD
+GABRD encodes the δ subunit of the GABA receptor, which is an important constituent of the GABAA receptor mediating tonic inhibition in neurons (extrasynaptic GABA receptors, i.e. receptors located outside the synapse). Among the mutations that have been reported in this in this gene, one (R220H) has been identified in a small family with JME.  This mutation affects GABAergic transmission by altering the surface expression of the receptor as well as reducing the channel opening duration.
+
+Myoclonin1/EFHC1
+Myoclonin1/EFHC1 encodes for a protein involved in cell division, neuroblast migration and synapse/dendrite formation. EFHC1 is expressed in many tissues, including the brain, where it is localized to the soma and dendrites of neurons, particularly the hippocampal CA1 region, pyramidal neurons in the cerebral cortex, and Purkinje cells in the cerebellum.
+There are four JME-causing mutations discovered (D210N, R221H, F229L and D253Y). The mutations do not seem to alter the ability of the protein to colocalize with centrosomes and mitotic spindles but induce mitotic spindle defects. Moreover, the mutations impact radial and tangential migration during brain development. As such a theory has been put forward that JME may be the result of a brain developmental disorder.
+
+Other loci
+Three SNP alleles in BRD2, Cx-36 and ME2 and microdeletions in 15q13.3, 15q11.2 and 16p.13.11 also contribute risk to JME.
+
+Diagnosis
+Diagnosis is typically made based on patient history. Physical examination is usually normal. Misdiagnosis can occur if myoclonic seizures mistaken for muscle twitches or feelings of anxiety/nervousness.
+The primary diagnosis for JME is a good knowledge of patient history and the neurologist's familiarity with the myoclonic jerks, which are the hallmark of the syndrome. Additionally, an EEG will indicate a characteristic pattern of waves and spikes associated with the syndrome such as generalized 4–6 Hz polyspike and slow wave discharges.  These discharges may be evoked by photic stimulation (blinking lights) or hyperventilation.
+Both magnetic resonance imaging (MRI) and computer tomography (CT) scans generally appear normal in JME patients. However a number of quantitative MRI studies have reported focal or regional abnormalities of the subcortical and cortical grey matter, particularly the thalamus and frontal cortex, in JME patients. Positron emission tomography (PET) reports in some patients may indicate local deviations in many transmitter systems.
+
+Management
+The most effective anti-epileptic medication for JME is valproic acid (Depakote). Due to valproic acid's high incidence of fetal malformations, women of child-bearing age may be started on alternative medications such as lamotrigine or levetiracetam. Carbamazepine may aggravate generalized genetic epilepsies and its use should be avoided in JME.  Treatment is generally lifelong but follow-up of a subgroup of patients found that they were seizure-free and off anti-epileptic drugs. Patients should be warned to avoid sleep deprivation.
+
+History
+The first citation of JME was made in 1857 when Théodore Herpin described a 13-year-old boy with myoclonic jerks, which progressed to tonic–clonic seizures three months later. In 1957, Janz and Christian published a journal article describing several patients with JME. The name Juvenile Myoclonic Epilepsy was proposed in 1975 and adopted by the International League Against Epilepsy.
+
+Culture
+Stand-up comedian Maisie Adam has JME and discussed it in her award-winning show "Vague".
+The 2018 documentary film Separating The Strains dealt with the use of CBD oil to treat symptoms of JME. 
+Currently, no scientific evidence exists to support use of CBD oil to treat symptoms of JME.
+
+See also
+Progressive myoclonus epilepsies
+Spinal muscular atrophy with progressive myoclonic epilepsy
+
+References
+
+[[Absence seizure]] [[Cerebellum]] [[Cerebral cortex]] [[Electroencephalography]] [[Generalized tonic–clonic seizure]] [[Hippocampus]] [[International League Against Epilepsy]] [[Medical specialty]] [[Neurology]] [[Positron emission tomography]] [[Status epilepticus]]

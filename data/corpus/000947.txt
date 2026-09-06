@@ -1,0 +1,37 @@
+Style sheet (web development)
+A web style sheet is a form of separation of content and presentation for web design in which the markup (i.e., HTML or XHTML) of a webpage contains the page's semantic content and structure, but does not define its visual layout (style). Instead, the style is defined in an external style sheet file using a style sheet language such as CSS or XSLT. This design approach is identified as a "separation" because it largely supersedes the antecedent methodology in which a page's markup defined both style and structure.
+The philosophy underlying this methodology is a specific case of separation of concerns.
+
+Benefits
+Separation of style and content has advantages, but has only become practical after improvements in popular web browsers' CSS implementations.
+
+Speed
+Overall, users experience of a site utilising style sheets will generally be quicker than sites that do not use the technology.  ‘Overall’ as the first page will probably load more slowly – because the style sheet AND the content will need to be transferred.  Subsequent pages will load faster because no style information will need to be downloaded – the CSS file will already be in the browser’s cache.
+
+Maintainability
+Holding all the presentation styles in one file can reduce the maintenance time and reduces the chance of error, thereby improving presentation consistency. For example, the font color associated with a type of text element may be specified — and therefore easily modified — throughout an entire website simply by changing one short string of characters in a single file. The alternative approach, using styles embedded in each individual page, would require a cumbersome, time consuming, and error-prone edit of every file.
+
+Accessibility
+Sites that use CSS with either XHTML or HTML are easier to tweak so that they appear similar in different browsers (Chrome, Internet Explorer, Mozilla Firefox, Opera, Safari, etc.).
+Sites using CSS "degrade gracefully" in browsers unable to display graphical content, such as Lynx, or those so very old that they cannot use CSS.  Browsers ignore CSS that they do not understand, such as CSS 3 statements. This enables a wide variety of user agents to be able to access the content of a site even if they cannot render the style sheet or are not designed with graphical capability in mind. For example, a browser using a refreshable braille display for output could disregard layout information entirely, and the user would still have access to all page content.
+
+Customization
+
+If a page's layout information is stored externally, a user can decide to disable the layout information entirely, leaving the site's bare content still in a readable form. Site authors may also offer multiple style sheets, which can be used to completely change the appearance of the site without altering any of its content.
+Most modern web browsers also allow the user to define their own style sheet, which can include rules that override the author's layout rules. This allows users, for example, to bold every hyperlink on every page they visit. Browser extensions like Stylish and Stylus have been created to facilitate management of such user style sheets.
+
+Consistency
+Because the semantic file contains only the meanings an author intends to convey, the styling of the various elements of the document's content is very consistent. For example, headings, emphasized text, lists and mathematical expressions all receive consistently applied style properties from the external style sheet. Authors need not concern themselves with the style properties at the time of composition. These presentational details can be deferred until the moment of presentation.
+
+Portability
+The deferment of presentational details until the time of presentation means that a document can be easily re-purposed for an entirely different presentation medium with merely the application of a new style sheet already prepared for the new medium and consistent with elemental or structural vocabulary of the semantic document. A carefully authored document for a web page can easily be printed to a hard-bound volume complete with headers and footers, page numbers and a generated table of contents simply by applying a new style sheet.
+
+See also
+Separation of concerns
+
+References
+
+External links
+CSS Zen Garden: A site which challenges designers to create new page layouts without touching the XHTML source. Includes dozens of layouts. CSS source can be viewed for every layout.
+
+[[HTML]]

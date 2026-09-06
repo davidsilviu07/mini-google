@@ -1,0 +1,2055 @@
+Glossary of aerospace engineering
+This glossary of aerospace engineering terms pertains specifically to aerospace engineering, its sub-disciplines, and related fields including aviation and aeronautics. For a broad overview of engineering, see glossary of engineering.
+
+A
+Above ground level – In aviation, atmospheric sciences and broadcasting, a height above ground level (AGL) is a height measured with respect to the underlying ground surface. This is as opposed to altitude/elevation above mean sea level (AMSL), or (in broadcast engineering) height above average terrain (HAAT). In other words, these expressions (AGL, AMSL, HAAT) indicate where the "zero level" or "reference altitude" is located.
+Absolute humidity – describes the water content of air and is expressed in either grams per cubic meter or grams per kilogram.
+Absolute value – In mathematics, the absolute value or modulus |x| of a real number x is the non-negative value of x without regard to its sign. Namely, |x| = x for a positive x, |x| = −x for a negative x (in which case −x is positive), and |0| = 0. For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3. The absolute value of a number may be thought of as its distance from zero.
+Acceleration – In physics, acceleration is the rate of change of velocity of an object with respect to time. An object's acceleration is the net result of any and all forces acting on the object, as described by Newton's second law. The SI unit for acceleration is metre per second squared (m s−2). Accelerations are vector quantities (they have magnitude and direction) and add according to the parallelogram law. As a vector, the calculated net force is equal to the product of the object's mass (a scalar quantity) and its acceleration.
+Acquisition of signal – A pass, in spaceflight and satellite communications, is the period in which a satellite or other spacecraft is above the local horizon and available for radio communication with a particular ground station, satellite receiver, or relay satellite (or, in some cases, for visual sighting). The beginning of a pass is termed acquisition of signal; the end of a pass is termed loss of signal. The point at which a spacecraft comes closest to a ground observer is the time of closest approach.
+Action – In physics, action is an attribute of the dynamics of a physical system from which the equations of motion of the system can be derived. It is a mathematical functional which takes the trajectory, also called path or history, of the system as its argument and has a real number as its result. Generally, the action takes different values for different paths. Action has the dimensions of [energy]⋅[time] or [momentum]⋅[length], and its SI unit is joule-second.
+ADF – Automatic direction finder
+Advanced Space Vision System – The Advanced Space Vision System (also known as the Space Vision System or by its acronym SVS) is a computer vision system designed primarily for International Space Station (ISS) assembly. The system uses regular 2D cameras in the Space Shuttle bay, on the Canadarm, or on the ISS along with cooperative targets to calculate the 3D position of an object.
+Aeroacoustics – is a branch of acoustics that studies noise generation via either turbulent fluid motion or aerodynamic forces interacting with surfaces. Noise generation can also be associated with periodically varying flows.  A notable example of this phenomenon is the Aeolian tones produced by wind blowing over fixed objects.
+Aerobraking – is a spaceflight maneuver that reduces the high point of an elliptical orbit (apoapsis) by flying the vehicle through the atmosphere at the low point of the orbit (periapsis). The resulting drag slows the spacecraft. Aerobraking is used when a spacecraft requires a low orbit after arriving at a body with an atmosphere, and it requires less fuel than does the direct use of a rocket engine.
+Aerocapture – is an orbital transfer maneuver used to reduce the velocity of a spacecraft from a hyperbolic trajectory to an elliptical orbit around the targeted celestial body.
+Aerodynamics – is the study of the motion of air, particularly with respect to its interaction with a solid object, such as an airplane wing. Aerodynamics is a sub-field of gas dynamics, which in turn is a sub-field of fluid dynamics. Many aspects and principles of aerodynamics theory are common to these three fields.
+Aeroelasticity – is the branch of physics and engineering that studies the interactions between the inertial, elastic, and aerodynamic forces that occur when an elastic body is exposed to a fluid flow. Although historical studies have been focused on aeronautical applications, recent research has found applications in fields such as energy harvesting and understanding snoring. The study of aeroelasticity may be broadly classified into two fields: static aeroelasticity, which deals with the static or steady response of an elastic body to a fluid flow; and dynamic aeroelasticity, which deals with the body's dynamic (typically vibrational) response. Aeroelasticity draws on the study of fluid mechanics, solid mechanics, structural dynamics and dynamical systems. The synthesis of aeroelasticity with thermodynamics is known as aerothermoelasticity, and its synthesis with control theory is known as aeroservoelasticity.
+Aeronautics – is the science or art involved with the study, design, and manufacturing of air flight capable machines, and the techniques of operating aircraft and rockets within the atmosphere.
+Aerospace architecture – is broadly defined to encompass architectural design of non-habitable and habitable structures and living and working environments in aerospace-related facilities, habitats, and vehicles. These environments include, but are not limited to: science platform aircraft and aircraft-deployable systems; space vehicles, space stations, habitats and lunar and planetary surface construction bases; and Earth-based control, experiment, launch, logistics, payload, simulation and test facilities. Earth analogs to space applications may include Antarctic, desert, high altitude, underground, undersea environments and closed ecological systems.
+Aerospace bearing – Aerospace bearings are the bearings installed in aircraft and aerospace systems including commercial, private, military, or space applications.
+Aerospace engineering – is the primary field of engineering concerned with the development of aircraft and spacecraft. It has two major and overlapping branches: Aeronautical engineering and Astronautical Engineering.  Avionics engineering is similar, but deals with the electronics side of aerospace engineering.
+Aerospace materials – are materials, frequently metal alloys, that have either been developed for, or have come to prominence through, their use for aerospace purposes. These uses often require exceptional performance, strength or heat resistance, even at the cost of considerable expense in their production or machining. Others are chosen for their long-term reliability in this safety-conscious field, particularly for their resistance to fatigue.
+Aerospike engine – is a type of rocket engine that maintains its aerodynamic efficiency across a wide range of altitudes. It belongs to the class of altitude compensating nozzle engines. A vehicle with an aerospike engine uses 25–30% less fuel at low altitudes, where most missions have the greatest need for thrust.
+Aerostat – is a lighter than air aircraft that gains its lift through the use of a buoyant gas. Aerostats include unpowered balloons and powered airships.
+Aerostructure – is a component of an aircraft's airframe. This may include all or part of the fuselage, wings, or flight control surfaces.
+Aft-crossing trajectory – is an alternate flight path for a rocket. The rocket's rotation (induced by the deployment from the aircraft) is slowed by a small parachute attached to its tail, then ignited once the carrier aircraft has passed it.  It is ignited before it is pointing fully vertically, however it will turn to do so, and accelerates to pass behind the carrier aircraft.
+AGL – Above ground level
+Aileron – is a hinged flight control surface usually forming part of the trailing edge of each wing of a fixed-wing aircraft. Ailerons are used in pairs to control the aircraft in roll (or movement around the aircraft's longitudinal axis), which normally results in a change in flight path due to the tilting of the lift vector.  Movement around this axis is called 'rolling' or 'banking'.
+Air-augmented rocket –
+Aircraft – is a machine that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or by using the dynamic lift of an airfoil, or in a few cases the downward thrust from jet engines.  Common examples of aircraft include airplanes, helicopters, airships (including blimps), gliders, and hot air balloons.
+Aircraft flight control systems – A conventional fixed-wing aircraft flight control system consists of flight control surfaces, the respective cockpit controls, connecting linkages, and the necessary operating mechanisms to control an aircraft's direction in flight. Aircraft engine controls are also considered as flight controls as they change speed.
+Aircraft flight mechanics –
+Airfoil – An airfoil (American English) or aerofoil (British English) is the cross-sectional shape of a wing, blade (of a propeller, rotor, or turbine), or sail (as seen in cross-section).
+Airlock – is a device which permits the passage of people and objects between a pressure vessel and its surroundings while minimizing the change of pressure in the vessel and loss of air from it.  The lock consists of a small chamber with two airtight doors in series which do not open simultaneously.
+Airship – An airship or dirigible balloon is a type of aerostat or lighter-than-air aircraft that can navigate through the air under its own power. Aerostats gain their lift from large gas bags filled with a lifting gas that is less dense than the surrounding air.
+Albedo – is the measure of the diffuse reflection of solar radiation out of the total solar radiation received by an astronomical body (e.g. a planet like Earth). It is dimensionless and measured on a scale from 0 (corresponding to a black body that absorbs all incident radiation) to 1 (corresponding to a body that reflects all incident radiation).
+Anemometer – is a device used for measuring wind speed, and is also a common weather station instrument. The term is derived from the Greek word anemos, which means wind, and is used to describe any wind speed instrument used in meteorology.
+Angle of attack – In fluid dynamics, angle of attack (AOA, or 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+) is the angle between a reference line on a body (often the chord line of an airfoil) and the vector representing the relative motion between the body and the fluid through which it is moving. Angle of attack is the angle between the body's reference line and the oncoming flow.
+Angular momentum – In physics, angular momentum (rarely, moment of momentum or rotational momentum) is the rotational equivalent of linear momentum. It is an important quantity in physics because it is a conserved quantity—the total angular momentum of a system remains constant unless acted on by an external torque.
+Angular velocity – In physics, the angular velocity of a particle is the rate at which it rotates around a chosen center point: that is, the time rate of change of its angular displacement relative to the origin (i.e. in layman's terms: how quickly an object goes around something over a period of time – e.g. how fast the earth orbits the sun). It is measured in angle per unit time, radians per second in SI units, and is usually represented by the symbol omega (ω, sometimes Ω). By convention, positive angular velocity indicates counter-clockwise rotation, while negative is clockwise.
+Anticyclone – An anticyclone (that is, opposite to a cyclone) is a weather phenomenon defined by the United States National Weather Service's glossary as "a large-scale circulation of winds around a central region of high atmospheric pressure, clockwise in the Northern Hemisphere, counterclockwise in the Southern Hemisphere".
+Antimatter rocket – is a proposed class of rockets that use antimatter as their power source. There are several designs that attempt to accomplish this goal. The advantage to this class of rocket is that a large fraction of the rest mass of a matter/antimatter mixture may be converted to energy, allowing antimatter rockets to have a far higher energy density and specific impulse than any other proposed class of rocket.
+Apsis – is an extreme point in the orbit of an object. The word comes via Latin from Greek and is cognate with apse. For elliptic orbits about a larger body, there are two apsides, named with the prefixes peri- (from  περί (peri) 'near') and ap-/apo- (from  ἀπ(ό) (ap(ó)) 'away from') added to a reference to the body being orbited.
+Arcjet rocket – or arcjet thruster is a form of electrically powered spacecraft propulsion, in which an electrical discharge (arc) is created in a flow of propellant (typically hydrazine or ammonia).  This imparts additional energy to the propellant, so that one can extract more work out of each kilogram of propellant, at the expense of increased power consumption and (usually) higher cost.  Also, the thrust levels available from typically used arcjet engines are very low compared with chemical engines.
+Areal velocity – In classical mechanics, areal velocity (also called sector velocity or sectorial velocity) is the rate at which area is swept out by a particle as it moves along a curve.
+Argument of periapsis – (also called argument of perifocus or argument of pericenter), symbolized as ω, is one of the orbital elements of an orbiting body.  Parametrically, ω is the angle from the body's ascending node to its periapsis, measured in the direction of motion.
+ARP4761 –
+Aspect ratio (aeronautics) – In aeronautics, the aspect ratio of a wing is the ratio of its span to its mean chord. It is equal to the square of the wingspan divided by the wing area. Thus, a long, narrow wing has a high aspect ratio, whereas a short, wide wing has a low aspect ratio. Aspect ratio and other features of the planform are often used to predict the aerodynamic efficiency of a wing because the lift-to-drag ratio increases with aspect ratio, improving fuel economy in aircraft.
+Asteroid – Asteroids are minor planets, especially of the inner Solar System. Larger asteroids have also been called planetoids. These terms have historically been applied to any astronomical object orbiting the Sun that did not resemble a planet-like disc and was not observed to have characteristics of an active comet such as a tail. As minor planets in the outer Solar System were discovered they were typically found to have volatile-rich surfaces similar to comets. As a result, they were often distinguished from objects found in the main asteroid belt.
+Astrodynamics – Orbital mechanics or astrodynamics is the application of ballistics and celestial mechanics to the practical problems concerning the motion of rockets and other spacecraft.
+Atmospheric entry – is the movement of an object from outer space into and through the gases of an atmosphere of a planet, dwarf planet or natural satellite. There are two main types of atmospheric entry: uncontrolled entry, such as the entry of astronomical objects, space debris or bolides; and controlled entry (or reentry) of a spacecraft capable of being navigated or following a predetermined course. Technologies and procedures allowing the controlled atmospheric entry, descent and landing of spacecraft are collectively termed as EDL.
+Attitude control – is controlling the orientation of an object with respect to an inertial frame of reference or another entity like the celestial sphere, certain fields, and nearby objects, etc. Controlling vehicle attitude requires sensors to measure vehicle orientation, actuators to apply the torques needed to re-orient the vehicle to a desired attitude, and algorithms to command the actuators based on (1) sensor measurements of the current attitude and (2) specification of a desired attitude. The integrated field that studies the combination of sensors, actuators and algorithms is called "Guidance, Navigation and Control" (GNC).
+Automatic direction finder – (ADF) is a marine or aircraft radio-navigation instrument that automatically and continuously displays the relative bearing from the ship or aircraft to a suitable radio station.
+Avionics – are the electronic systems used on aircraft, artificial satellites, and spacecraft. Avionic systems include communications, navigation, the display and management of multiple systems, and the hundreds of systems that are fitted to aircraft to perform individual functions.
+Axial stress – a normal stress parallel to the axis of cylindrical symmetry.
+
+B
+Balloon – In aeronautics, a balloon is an unpowered aerostat, which remains aloft or floats due to its buoyancy. A balloon may be free, moving with the wind, or tethered to a fixed point. It is distinct from an airship, which is a powered aerostat that can propel itself through the air in a controlled manner.
+Ballute – (a portmanteau of balloon and parachute) is a parachute-like braking device optimized for use at high altitudes and supersonic velocities. Invented by Goodyear in 1958, the original ballute was a cone-shaped balloon with a toroidal burble fence fitted around its widest point. A burble fence is an inflated structure intended to ensure flow separation.
+This stabilizes the ballute as it decelerates through different flow regimes (from supersonic to subsonic).
+
+Beam-powered propulsion – also known as directed energy propulsion, is a class of aircraft or spacecraft propulsion that uses energy beamed to the spacecraft from a remote power plant to provide energy. The beam is typically either a microwave or a laser beam and it is either pulsed or continuous.  A continuous beam lends itself to thermal rockets, photonic thrusters and light sails, whereas a pulsed beam lends itself to ablative thrusters and pulse detonation engines.
+Bearing – In navigation, bearing is the horizontal angle between the direction of an object and another object, or between it and that of true north. Absolute bearing refers to the angle between the magnetic North (magnetic bearing) or true North (true bearing) and an object. For example, an object to the East would have an absolute bearing of 90 degrees. Relative bearing refers to the angle between the craft's forward direction, and the location of another object. For example, an object relative bearing of 0 degrees would be dead ahead; an object relative bearing 180 degrees would be behind. Bearings can be measured in mils or degrees.
+Bernoulli's principle – In fluid dynamics, Bernoulli's principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy.
+Bi-elliptic transfer – is an orbital maneuver that moves a spacecraft from one orbit to another and may, in certain situations, require less delta-v than a Hohmann transfer maneuver. The bi-elliptic transfer consists of two half-elliptic orbits. From the initial orbit, a first burn expends delta-v to boost the spacecraft into the first transfer orbit with an apoapsis at some point 
+  
+    
+      
+        
+          r
+          
+            b
+          
+        
+      
+    
+    {\displaystyle r_{b}}
+  
+ away from the central body. At this point a second burn sends the spacecraft into the second elliptical orbit with periapsis at the radius of the final desired orbit, where a third burn is performed, injecting the spacecraft into the desired orbit.
+Big dumb booster – (BDB), is a general class of launch vehicle based on the premise that it is cheaper to operate large rockets of simple design than it is to operate smaller, more complex ones regardless of the lower payload efficiency.
+Bleed air – produced by gas turbine engines is compressed air that is taken from the compressor stage of those engines, which is upstream of the fuel-burning sections.
+Booster – A booster rocket (or engine) is either the first stage of a multistage launch vehicle, or else a shorter-burning rocket used in parallel with longer-burning sustainer rockets to augment the space vehicle's takeoff thrust and payload capability.
+Boundary layer – In physics and fluid mechanics, a boundary layer is an important concept and refers to the layer of fluid in the immediate vicinity of a bounding surface where the effects of viscosity are significant. In the Earth's atmosphere, the atmospheric boundary layer is the air layer near the ground affected by diurnal heat, moisture or momentum transfer to or from the surface.  On an aircraft wing the boundary layer is the part of the flow close to the wing, where viscous forces distort the surrounding non-viscous flow.
+Buoyancy – In physics, buoyancy or upthrust, is an upward force exerted by a fluid that opposes the weight of an immersed object. In a column of fluid, pressure increases with depth as a result of the weight of the overlying fluid. Thus the pressure at the bottom of a column of fluid is greater than at the top of the column. Similarly, the pressure at the bottom of an object submerged in a fluid is greater than at the top of the object. This pressure difference results in a net upwards force on the object. The magnitude of that force exerted is proportional to that pressure difference, and (as explained by Archimedes' principle) is equivalent to the weight of the fluid that would otherwise occupy the volume of the object, i.e. the displaced fluid.
+
+C
+Cabin pressurization – is a process in which conditioned air is pumped into the cabin of an aircraft or spacecraft, in order to create a safe and comfortable environment for passengers and crew flying at high altitudes. For aircraft, this air is usually bled off from the gas turbine engines at the compressor stage, and for spacecraft, it is carried in high-pressure, often cryogenic tanks. The air is cooled, humidified, and mixed with recirculated air if necessary, before it is distributed to the cabin by one or more environmental control systems. The cabin pressure is regulated by the outflow valve.
+Cable lacing – is a method for tying wiring harnesses and cable looms, traditionally used in telecommunication, naval, and aerospace applications.  This old cable management technique, taught to generations of linemen, is still used in some modern applications since it does not create obstructions along the length of the cable, avoiding the handling problems of cables groomed by plastic or hook-and-loop cable ties.
+Camber – the asymmetric curves on the top and bottom, or front and back, of an aerofoil
+Canard – is an aeronautical arrangement wherein a small forewing or foreplane is placed forward of the main wing of a fixed-wing aircraft.  The term "canard" may be used to describe the aircraft itself, the wing configuration or the foreplane.
+Centennial challenges –
+Center of gravity – A body's center of gravity is the point around which the resultant torque due to gravity forces vanishes. Where a gravity field can be considered to be uniform, the mass-center and the center-of-gravity will be the same. However, for satellites in orbit around a planet, in the absence of other torques being applied to a satellite, the slight variation (gradient) in gravitational field between closer-to (stronger) and further-from (weaker) the planet can lead to a torque that will tend to align the satellite such that its long axis is vertical. In such a case, it is important to make the distinction between the center-of-gravity and the mass-center. Any horizontal offset between the two will result in an applied torque.
+Center of mass – In physics, the center of mass of a distribution of mass in space is the unique point where the weighted relative position of the distributed mass sums to zero, or the point where if a force is applied it moves in the direction of the force without rotating. The distribution of mass is balanced around the center of mass and the average of the weighted position coordinates of the distributed mass defines its coordinates.
+Center of pressure – is the point where the total sum of a pressure field acts on a body, causing a force to act through that point.
+Centrifugal compressor – Centrifugal compressors, sometimes called radial compressors, are a sub-class of dynamic axisymmetric work-absorbing turbomachinery. They achieve a pressure rise by adding kinetic energy/velocity to a continuous flow of fluid through the rotor or impeller. This kinetic energy is then converted to an increase in potential energy/static pressure by slowing the flow through a diffuser. The pressure rise in the impeller is in most cases almost equal to the rise in the diffuser.
+Chord – is the imaginary straight line joining the leading and trailing edges of an aerofoil.  The chord length is the distance between the trailing edge and the point on the leading edge where the chord intersects the leading edge.
+Clean configuration – is the flight configuration of a fixed-wing aircraft when its external equipment is retracted to minimize drag and thus maximize airspeed for a given power setting.
+Cockpit – or flight deck, is the area, usually near the front of an aircraft or spacecraft, from which a pilot controls the aircraft.
+Collimated beam – A collimated beam of light or other electromagnetic radiation has parallel rays, and therefore will spread minimally as it propagates. A perfectly collimated light beam, with no divergence, would not disperse with distance. Such a beam cannot be created, due to diffraction.
+Comet – is an icy, small Solar System body that, when passing close to the Sun, warms and begins to release gases, a process called outgassing. This produces a visible atmosphere or coma, and sometimes also a tail.
+Compressibility – In thermodynamics and fluid mechanics, compressibility (also known as the coefficient of compressibility or isothermal compressibility) is a measure of the relative volume change of a fluid or solid as a response to a pressure (or mean stress) change. In its simple form, the compressibility 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  
+ may be expressed as
+
+  
+    
+      
+        β
+        =
+        −
+        
+          
+            1
+            V
+          
+        
+        
+          
+            
+              ∂
+              V
+            
+            
+              ∂
+              p
+            
+          
+        
+      
+    
+    {\displaystyle \beta =-{\frac {1}{V}}{\frac {\partial V}{\partial p}}}
+  
+, where V is volume and p is pressure. The choice to define compressibility as the opposite of the fraction makes compressibility positive in the (usual) case that an increase in pressure induces a reduction in volume.  t is also known as reciprocal of bulk modulus(k) of elasticity of a fluid.
+Compression – In mechanics, compression is the application of balanced inward ("pushing") forces to different points on a material or structure, that is, forces with no net sum or torque directed so as to reduce its size in one or more directions. It is contrasted with tension or traction, the application of balanced outward ("pulling") forces; and with shearing forces, directed so as to displace layers of the material parallel to each other.  The compressive strength of materials and structures is an important engineering consideration.
+Compressor map – is a diagram showing significant performance parameters for a rotating compressor, and how they vary with changing ambient conditions of pressure and temperature.
+Computational fluid dynamics – (CFD), is a branch of fluid mechanics that uses numerical analysis and data structures to analyze and solve problems that involve fluid flows.  Computers are used to perform the calculations required to simulate the free-stream flow of the fluid, and the interaction of the fluid (liquids and gases) with surfaces defined by boundary conditions. With high-speed supercomputers, better solutions can be achieved, and are often required to solve the largest and most complex problems.
+Conservation of momentum – The total momentum of objects involved in a collision remains constant regardless of friction and permanent deformation that may occur during the collision. The law of conservation of momentum can be used to analyse the interactions between objects, even in the presence of friction and other non-conservative forces. Conservation of momentum is a consequence of Newton's laws of motion.
+Constant speed drive – (CSD), is a type of transmission that takes an input shaft rotating at a wide range of speeds, delivering this power to an output shaft that rotates at a constant speed, despite the varying input. They are used to drive mechanisms, typically electrical generators, that require a constant input speed.  The term is most commonly applied to hydraulic transmissions found on the accessory drives of gas turbine engines, such as aircraft jet engines. On modern aircraft, the CSD is often combined with a generator into a single unit known as an integrated drive generator (IDG).
+Control engineering – or control systems engineering, is an engineering discipline that applies automatic control theory to design systems with desired behaviors in control environments. The discipline of controls overlaps and is usually taught along with electrical engineering at many institutions around the world.
+Controllability –
+Crew Exploration Vehicle –
+Critical mach – In aerodynamics, the critical Mach number (Mcr or M* ) of an aircraft is the lowest Mach number at which the airflow over some point of the aircraft reaches the speed of sound, but does not exceed it. At the lower critical Mach number, airflow around the entire aircraft is subsonic.  At the upper critical Mach number, airflow around the entire aircraft is supersonic.
+Cylinder stress – In mechanics, a cylinder stress is a stress distribution with rotational symmetry; that is, which remains unchanged if the stressed object is rotated about some fixed axis.
+
+D
+Damage tolerance – is a property of a structure relating to its ability to sustain defects safely until repair can be effected. The approach to engineering design to account for damage tolerance is based on the assumption that flaws can exist in any structure and such flaws propagate with usage.
+Decalage – Decalage on a fixed-wing aircraft is the angle difference between the upper and lower wings of a biplane, i.e. the acute angle contained between the chords of the wings in question.  Decalage is said to be positive when the upper wing has a higher angle of incidence than the lower wing, and negative when the lower wing's incidence is greater than that of the upper wing. Positive decalage results in greater lift from the upper wing than the lower wing, the difference increasing with the amount of decalage.
+De Laval nozzle – (or convergent-divergent nozzle, CD nozzle or con-di nozzle), is a tube that is pinched in the middle, making a carefully balanced, asymmetric hourglass shape. It is used to accelerate a hot, pressurized gas passing through it to a higher supersonic speed in the axial (thrust) direction, by converting the heat energy of the flow into kinetic energy. Because of this, the nozzle is widely used in some types of steam turbines and rocket engine nozzles. It also sees use in supersonic jet engines.
+Dead reckoning – In navigation, dead reckoning is the process of calculating one's current position by using a previously determined position, or fix, and advancing that position based upon known or estimated speeds over elapsed time and course.
+Deflection – is the degree to which a structural element is displaced under a load. It may refer to an angle or a distance.
+Deformation (engineering) – In materials science, deformation refers to any changes in the shape or size of an object due to an applied force (the deformation energy, in this case, is transferred through work) or a change in temperature (the deformation energy, in this case, is transferred through heat).
+Deformation (mechanics) – in continuum mechanics is the transformation of a body from a reference configuration to a current configuration. A configuration is a set containing the positions of all particles of the body.  A deformation may be caused by external loads, body forces (such as gravity or electromagnetic forces), or changes in temperature, moisture content, or chemical reactions, etc.
+Delta-v – (literally "change in velocity"), symbolised as ∆v and pronounced delta-vee, as used in spacecraft flight dynamics, is a measure of the impulse that is needed to perform a maneuver such as launch from, or landing on a planet or moon, or in-space orbital maneuver. It is a scalar that has the units of speed. As used in this context, it is not the same as the physical change in velocity of the vehicle.
+Delta-v budget – is an estimate of the total delta-v required for a space mission. It is calculated as the sum of the delta-v required for the propulsive maneuvers during the mission, and as input to the Tsiolkovsky rocket equation, determines how much propellant is required for a vehicle of given mass and propulsion system.
+Delta wing – is a wing shaped in the form of a triangle. It is named for its similarity in shape to the Greek uppercase letter delta (Δ).  Although long studied, it did not find significant applications until the jet age, when it proved suitable for high-speed subsonic and supersonic flight.
+Density –
+Departure resistance – is a quality of an aircraft which enables it to remain in controlled flight and resist entering potentially dangerous less-controlled maneuvers such as spin.
+Derivative – The derivative of a function of a real variable measures the sensitivity to change of the function value (output value) with respect to a change in its argument (input value). Derivatives are a fundamental tool of calculus.  For example, the derivative of the position of a moving object with respect to time is the object's velocity: this measures how quickly the position of the object changes when time advances.
+Digital Datcom – The United States Air Force Stability and Control Digital DATCOM is a computer program that implements the methods contained in the USAF Stability and Control DATCOM to calculate the static stability, control and dynamic derivative characteristics of fixed-wing aircraft.  Digital DATCOM requires an input file containing a geometric description of an aircraft, and outputs its corresponding dimensionless stability derivatives according to the specified flight conditions.  The values obtained can be used to calculate meaningful aspects of flight dynamics.
+Dihedral – Dihedral angle is the upward angle from horizontal of the wings or tailplane of a fixed-wing aircraft.  "Anhedral angle" is the name given to negative dihedral angle, that is, when there is a downward angle from horizontal of the wings or tailplane of a fixed-wing aircraft.
+Disk loading – In fluid dynamics, disk loading or disc loading is the average pressure change across an actuator disk, such as an airscrew. Airscrews with a relatively low disk loading are typically called rotors, including helicopter main rotors and tail rotors; propellers typically have a higher disk loading.
+Displacement (vector) –
+Distance measuring equipment – (DME), is a radio navigation technology that measures the slant range (distance) between an aircraft and a ground station by timing the propagation delay of radio signals in the frequency band between 960 and 1215 megahertz (MHz).  Line-of-visibility between the aircraft and ground station is required.  An interrogator (airborne) initiates an exchange by transmitting a pulse pair, on an assigned 'channel', to the transponder ground station.  The channel assignment specifies the carrier frequency and the spacing between the pulses.  After a known delay, the transponder replies by transmitting a pulse pair on a frequency that is offset from the interrogation frequency by 63 MHz and having specified separation.
+DME – distance measuring equipment.
+DO-178B –
+DO-254 –
+Drag (physics) – In fluid dynamics, drag (sometimes called air resistance, a type of friction, or fluid resistance, another type of friction or fluid friction) is a force acting opposite to the relative motion of any object moving with respect to a surrounding fluid. This can exist between two fluid layers (or surfaces) or a fluid and a solid surface. Unlike other resistive forces, such as dry friction, which are nearly independent of velocity, drag forces depend on velocity.  Drag force is proportional to the velocity for a laminar flow and the squared velocity for a turbulent flow. Even though the ultimate cause of a drag is viscous friction, the turbulent drag is independent of viscosity.  Drag forces always decrease fluid velocity relative to the solid object in the fluid's path.
+Drag coefficient – In fluid dynamics, the drag coefficient (commonly denoted as: 
+  
+    
+      
+        
+          
+            C
+            
+              
+                d
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle \scriptstyle C_{\mathrm {d} }\,}
+  
+, 
+  
+    
+      
+        
+          
+            C
+            
+              
+                x
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle \scriptstyle C_{\mathrm {x} }\,}
+  
+ or 
+  
+    
+      
+        
+          
+            C
+            
+              
+                w
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle \scriptstyle C_{\mathrm {w} }\,}
+  
+) is a dimensionless quantity that is used to quantify the drag or resistance of an object in a fluid environment, such as air or water. It is used in the drag equation in which a lower drag coefficient indicates the object will have less aerodynamic or hydrodynamic drag. The drag coefficient is always associated with a particular surface area.
+Drag equation – In fluid dynamics, the drag equation is a formula used to calculate the force of drag experienced by an object due to movement through a fully enclosing fluid. The equation is:
+
+  
+    
+      
+        
+          F
+          
+            D
+          
+        
+        
+        =
+        
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+        ρ
+        
+        
+          u
+          
+            2
+          
+        
+        
+        
+          C
+          
+            D
+          
+        
+        
+        A
+      
+    
+    {\displaystyle F_{D}\,=\,{\tfrac {1}{2}}\,\rho \,u^{2}\,C_{D}\,A}
+  
+
+  
+    
+      
+        
+          F
+          
+            D
+          
+        
+      
+    
+    {\displaystyle F_{D}}
+  
+ is the drag force, which is by definition the force component in the direction of the flow velocity,
+
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ is the mass density of the fluid,
+
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ is the flow velocity relative to the object,
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ is the reference area, and
+
+  
+    
+      
+        
+          C
+          
+            D
+          
+        
+      
+    
+    {\displaystyle C_{D}}
+  
+ is the drag coefficient – a dimensionless coefficient related to the object's geometry and taking into account both skin friction and form drag. In general, 
+  
+    
+      
+        
+          C
+          
+            D
+          
+        
+      
+    
+    {\displaystyle C_{D}}
+  
+ depends on the Reynolds number.
+Drop test – is a method of testing the in-flight characteristics of prototype or experimental aircraft and spacecraft by raising the test vehicle to a specific altitude and then releasing it.  Test flights involving powered aircraft, particularly rocket-powered aircraft, may be referred to as drop launches due to the launch of the aircraft's rockets after release from its carrier aircraft.
+Dual mode propulsion rocket – Dual mode propulsion systems combine the high efficiency of bipropellant rockets with the reliability and simplicity of monopropellant rockets. It is based upon the use of two rocket fuels, liquid hydrogen and more dense hydrocarbon fuels, like RP, which are all burned with liquid oxygen.
+Ductility – is a measure of a material's ability to undergo significant plastic deformation before rupture, which may be expressed as percent elongation or percent area reduction from a tensile test.
+
+E
+Earth's atmosphere – The atmosphere of Earth is the layer of gases, commonly known as air, that surrounds the planet Earth and is retained by Earth's gravity. The atmosphere of Earth protects life on Earth by creating pressure allowing for liquid water to exist on the Earth's surface, absorbing ultraviolet solar radiation, warming the surface through heat retention (greenhouse effect), and reducing temperature extremes between day and night (the diurnal temperature variation).
+Eccentric anomaly – In orbital mechanics, the eccentric anomaly is an angular parameter that defines the position of a body that is moving along an elliptic Kepler orbit. The eccentric anomaly is one of three angular parameters ("anomalies") that define a position along an orbit, the other two being the true anomaly and the mean anomaly.
+Eccentricity vector – In celestial mechanics, the eccentricity vector of a Kepler orbit is the dimensionless vector with direction pointing from apoapsis to periapsis and with magnitude equal to the orbit's scalar eccentricity. For Kepler orbits the eccentricity vector is a constant of motion. Its main use is in the analysis of almost circular orbits, as perturbing (non-Keplerian) forces on an actual orbit will cause the osculating eccentricity vector to change continuously. For the eccentricity and argument of periapsis parameters, eccentricity zero (circular orbit) corresponds to a singularity. The magnitude of the eccentricity vector represents the eccentricity of the orbit. Note that the velocity and position vectors need to be relative to the inertial frame of the central body.
+Eigenvector slew – In aerospace engineering, especially those areas dealing with spacecraft, the eigenvector slew is a method to calculate a steering correction (called a slew) by rotating the spacecraft around one fixed axis, or a gimbal.  This corresponds in general to the fastest and most efficient way to reach the desired target orientation as there is only one acceleration phase and one braking phase for the angular rate. If this fixed axis is not a principal axis a time varying torque must be applied to force the spacecraft to rotate as desired, though. Also the gyroscopic effect of momentum wheels must be compensated for.
+Electrostatic ion thruster – is a form of electric propulsion used for spacecraft propulsion. It creates thrust by accelerating ions using electricity.
+Elevator – is a flight control surface, usually at the rear of an aircraft, which control the aircraft's pitch, and therefore the angle of attack and the lift of the wing. The elevators are usually hinged to the tailplane or horizontal stabilizer.
+Elliptic partial differential equation –
+Empennage – The empennage ( or ), also known as the tail or tail assembly, is a structure at the rear of an aircraft that provides stability during flight, in a way similar to the feathers on an arrow. The term derives from the French language verb empenner which means "to feather an arrow". Most aircraft feature an empennage incorporating vertical and horizontal stabilising surfaces which stabilise the flight dynamics of yaw and pitch, as well as housing control surfaces.
+Enstrophy – In fluid dynamics, the enstrophy E can be interpreted as another type of potential density; or, more concretely, the quantity directly related to the kinetic energy in the flow model that corresponds to dissipation effects in the fluid. It is particularly useful in the study of turbulent flows, and is often identified in the study of thrusters as well as the field of combustion theory.
+Given a domain 
+  
+    
+      
+        Ω
+        ⊆
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \Omega \subseteq \mathbb {R} ^{n}}
+  
+ and a once-weakly differentiable vector field 
+  
+    
+      
+        u
+        ∈
+        
+          H
+          
+            1
+          
+        
+        (
+        
+          
+            R
+          
+          
+            n
+          
+        
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle u\in H^{1}(\mathbb {R} ^{n})^{n}}
+  
+ which represents a fluid flow, such as a solution to the Navier-Stokes equations, its enstrophy is given by:
+
+  
+    
+      
+        
+          
+            E
+          
+        
+        (
+        u
+        )
+        :=
+        
+          ∫
+          
+            Ω
+          
+        
+        
+          |
+        
+        ∇
+        
+          u
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle {\mathcal {E}}(u):=\int _{\Omega }|\nabla \mathbf {u} |^{2}\,dx}
+  
+
+Where 
+  
+    
+      
+        
+          |
+        
+        ∇
+        
+          u
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            i
+            ,
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            |
+            
+              
+                ∂
+                
+                  i
+                
+              
+              
+                u
+                
+                  j
+                
+              
+            
+            |
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle |\nabla \mathbf {u} |^{2}=\sum _{i,j=1}^{n}\left|\partial _{i}u^{j}\right|^{2}}
+  
+. This is quantity is the same as the squared seminorm 
+  
+    
+      
+        
+          |
+        
+        
+          u
+        
+        
+          
+            |
+          
+          
+            
+              H
+              
+                1
+              
+            
+            (
+            Ω
+            
+              )
+              
+                n
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle |\mathbf {u} |_{H^{1}(\Omega )^{n}}^{2}}
+  
+of the solution in the Sobolev space ::::
+  
+    
+      
+        
+          H
+          
+            1
+          
+        
+        (
+        Ω
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle H^{1}(\Omega )^{n}}
+  
+.
+In the case that the flow is incompressible, or equivalently that 
+  
+    
+      
+        ∇
+        ⋅
+        
+          u
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {u} =0}
+  
+, the enstrophy can be described as the integral of the square of the vorticity 
+  
+    
+      
+        
+          ω
+        
+      
+    
+    {\displaystyle \mathbf {\omega } }
+  
+,
+
+  
+    
+      
+        
+          
+            E
+          
+        
+        (
+        
+          ω
+        
+        )
+        ≡
+        
+          ∫
+          
+            Ω
+          
+        
+        
+          |
+        
+        
+          ω
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle {\mathcal {E}}({\boldsymbol {\omega }})\equiv \int _{\Omega }|{\boldsymbol {\omega }}|^{2}\,dx}
+  
+
+or, in terms of the flow velocity,
+
+  
+    
+      
+        
+          
+            E
+          
+        
+        (
+        
+          u
+        
+        )
+        ≡
+        
+          ∫
+          
+            S
+          
+        
+        
+          |
+        
+        ∇
+        ×
+        
+          u
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        
+        d
+        S
+        
+        .
+      
+    
+    {\displaystyle {\mathcal {E}}(\mathbf {u} )\equiv \int _{S}|\nabla \times \mathbf {u} |^{2}\,dS\,.}
+  
+
+In the context of the incompressible Navier-Stokes equations, enstrophy appears in the following useful result
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        
+          (
+          
+            
+              
+                1
+                2
+              
+            
+            
+              ∫
+              
+                Ω
+              
+            
+            
+              |
+            
+            
+              u
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+          
+          )
+        
+        =
+        −
+        ν
+        
+          
+            E
+          
+        
+        (
+        
+          u
+        
+        )
+      
+    
+    {\displaystyle {\frac {d}{dt}}\left({\frac {1}{2}}\int _{\Omega }|\mathbf {u} |^{2}\right)=-\nu {\mathcal {E}}(\mathbf {u} )}
+  
+
+The quantity in parentheses on the left is the energy in the flow, so the result says that energy declines proportional to the kinematic viscosity 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+ times the enstrophy.
+Equations of motion – In physics, equations of motion are equations that describe the behavior of a physical system in terms of its motion as a function of time. More specifically, the equations of motion describe the behavior of a physical system as a set of mathematical functions in terms of dynamic variables. These variables are usually spatial coordinates and time, but may include momentum components. The most general choice are generalized coordinates which can be any convenient variables characteristic of the physical system. The functions are defined in a Euclidean space in classical mechanics, but are replaced by curved spaces in relativity. If the dynamics of a system is known, the equations are the solutions for the differential equations describing the motion of the dynamics.
+ESA – European Space Agency
+ET – (Space Shuttle) external tank
+Euler angles – are three angles introduced by Leonhard Euler to describe the orientation of a rigid body with respect to a fixed coordinate system.  They can also represent the orientation of a mobile frame of reference in physics or the orientation of a general basis in 3-dimensional linear algebra. Alternative forms were later introduced by Peter Guthrie Tait and George H. Bryan intended for use in aeronautics and engineering.
+European Space Agency –
+Expander cycle (rocket) – is a power cycle of a bipropellant rocket engine. In this cycle, the fuel is used to cool the engine's combustion chamber, picking up heat and changing phase. The now heated and gaseous fuel then powers the turbine that drives the engine's fuel and oxidizer pumps before being injected into the combustion chamber and burned for thrust.
+
+F
+Fatigue – In materials science, fatigue is the weakening of a material caused by repeatedly applied loads. It is the progressive and localized structural damage that occurs when a material is subjected to cyclic loading. The nominal maximum stress values that cause such damage may be much less than the strength of the material typically quoted as the ultimate tensile stress limit, or the yield stress limit.
+Field-emission electric propulsion – (FEEP), is an advanced electrostatic space propulsion concept, a form of ion thruster, that uses a liquid metal as a propellant – usually either caesium, indium, or mercury.
+Fixed-wing aircraft – is a heavier-than-air flying machine, such as an airplane, which is capable of flight using wings that generate lift caused by the aircraft's forward airspeed and the shape of the wings. Fixed-wing aircraft are distinct from rotary-wing aircraft (in which the wings form a rotor mounted on a spinning shaft or "mast"), and ornithopters (in which the wings flap in a manner similar to that of a bird). The wings of a fixed-wing aircraft are not necessarily rigid; kites, hang gliders, variable-sweep wing aircraft and airplanes that use wing morphing are all examples of fixed-wing aircraft.
+Flange –
+Flap – is a high-lift device used to reduce the stalling speed of an aircraft wing at a given weight. Flaps are usually mounted on the wing trailing edges of a fixed-wing aircraft. Flaps are used to reduce the take-off distance and the landing distance. Flaps also cause an increase in drag so they are retracted when not needed.
+Flight control surfaces – are aerodynamic devices allowing a pilot to adjust and control the aircraft's flight attitude.
+Flight control system (aircraft) – A conventional fixed-wing aircraft flight control system consists of flight control surfaces, the respective cockpit controls, connecting linkages, and the necessary operating mechanisms to control an aircraft's direction in flight. Aircraft engine controls are also considered as flight controls as they change speed.
+Flight control system (helicopter) – A helicopter pilot manipulates the helicopter flight controls to achieve and maintain controlled aerodynamic flight. Changes to the aircraft flight control system transmit mechanically to the rotor, producing aerodynamic effects on the rotor blades that make the helicopter move in a deliberate way. To tilt forward and back (pitch) or sideways (roll) requires that the controls alter the angle of attack of the main rotor blades cyclically during rotation, creating differing amounts of lift (force) at different points in the cycle. To increase or decrease overall lift requires that the controls alter the angle of attack for all blades collectively by equal amounts at the same time, resulting in ascent, descent, acceleration and deceleration.
+Flight dynamics – is the study of the performance, stability, and control of vehicles flying through the air or in outer space. It is concerned with how forces acting on the vehicle determine its velocity and attitude with respect to time.  For a fixed-wing aircraft, its changing orientation with respect to the local air flow is represented by two critical angles, the angle of attack of the wing ("alpha") and the angle of attack of the vertical tail, known as the sideslip angle ("beta"). A sideslip angle will arise if an aircraft yaws about its centre of gravity and if the aircraft sideslips bodily, i.e. the centre of gravity moves sideways. These angles are important because they are the principal source of changes in the aerodynamic forces and moments applied to the aircraft.  Spacecraft flight dynamics involve three main forces: propulsive (rocket engine), gravitational, and atmospheric resistance. Propulsive force and atmospheric resistance have significantly less influence over a given spacecraft compared to gravitational forces.
+Flight management system – A flight management system (FMS) is a fundamental component of a modern airliner's avionics. An FMS is a specialized computer system that automates a wide variety of in-flight tasks, reducing the workload on the flight crew to the point that modern civilian aircraft no longer carry flight engineers or navigators. A primary function is in-flight management of the flight plan. Using various sensors (such as GPS and INS often backed up by radio navigation) to determine the aircraft's position, the FMS can guide the aircraft along the flight plan. From the cockpit, the FMS is normally controlled through a Control Display Unit (CDU) which incorporates a small screen and keyboard or touchscreen. The FMS sends the flight plan for display to the Electronic Flight Instrument System (EFIS), Navigation Display (ND), or Multifunction Display (MFD). The FMS can be summarised as being a dual system consisting of the Flight Management Computer (FMC), CDU and a cross talk bus.
+Floatstick – is a device to measure fuel levels in modern large aircraft. It consists of a closed tube rising from the bottom of the fuel tank.  Surrounding the tube is a ring-shaped float, and inside it is a graduated rod indicating fuel capacity.  The float and the top of the rod contain magnets.  The rod is withdrawn from the bottom of the wing until the magnets stick, the distance it is withdrawn indicating the level of the fuel.  When not in use, the stick is secured within the tube.
+Flutter- In terms of aeroelasticity, flutter is a dynamic oscillation that occurs when an elastic object experiences a cyclical and unsteady response due to the interaction among aerodynamic forces, inertial forces, as well as elastic forces, all occurring simultaneously with one another and resulting in unevenly distributed forces. When the elastic structure is subjected to a fluid (such as air) flowing at speeds greater than a critical speed (the flutter speed), the force of the flowing fluid on the elastic structure will be greater than the damping that exists to dissipate energy from the elastic structure. The resulting effect is that small cyclical displacements of the elastic structure become larger in size and will ultimately produce fast structural failure (due to flutter). Flutter typically occurs in fixed wing aircraft via a combination of bending mode and torsional mode coupling of the aircraft's wings or control surfaces, but there are similar instances of flutter occurring within the fan blades of a gas turbine machine (whirl flutter), within propellers (whirl flutter), and within cables used in suspension bridges. The prevention of flutter throughout an aircraft's envelop of operation is an important requirement for aircraft certification and is typically validated by a combination of analytical modelling, ground vibration testing, and actual in-flight flutter testing.
+Fluid – In physics, a fluid is a liquid, gas, or other material that continuously deforms (flows) under an applied shear stress, or external force. They have zero shear modulus, or, in simpler terms, are substances which cannot resist any shear force applied to them.
+Fluid dynamics – In physics and engineering, fluid dynamics  is a subdiscipline of fluid mechanics that describes the flow of fluids—liquids and gases.  It has several subdisciplines, including aerodynamics (the study of air and other gases in motion) and hydrodynamics (the study of liquids in motion).  Fluid dynamics has a wide range of applications, including calculating forces and moments on aircraft, determining the mass flow rate of petroleum through pipelines, predicting weather patterns, and understanding nebulae in interstellar space.
+Fluid mechanics – is the branch of physics concerned with the mechanics of fluids (liquids, gases, and plasmas) and the forces on them.  It has applications in a wide range of disciplines, including mechanical, civil, chemical and biomedical engineering, geophysics, oceanography, meteorology, astrophysics, and biology.  It can be divided into fluid statics, the study of fluids at rest; and fluid dynamics, the study of the effect of forces on fluid motion.
+Fluid statics – or hydrostatics, is the branch of fluid mechanics that studies the condition of the equilibrium of a floating body and submerged body "fluids at hydrostatic equilibrium and the pressure in a fluid, or exerted by a fluid, on an immersed body".
+FMS – Flight management system.
+Force – In physics, a force is any influence that, when unopposed, will change the motion of an object. A force can cause an object with mass to change its velocity (which includes to begin moving from a state of rest), i.e., to accelerate. Force can also be described intuitively as a push or a pull. A force has both magnitude and direction, making it a vector quantity.  It is measured in the SI unit of newton (N). Force is represented by the symbol F (formerly P).
+Freefall – In Newtonian physics, free fall is any motion of a body where gravity is the only force acting upon it.  In the context of general relativity, where gravitation is reduced to a space-time curvature, a body in free fall has no force acting on it.  An object in the technical sense of the term "free fall" may not necessarily be falling down in the usual sense of the term. An object moving upwards might not normally be considered to be falling, but if it is subject to only the force of gravity, it is said to be in free fall.  The Moon is thus in free fall around the Earth, though its orbital speed keeps it in very far orbit from the Earth's surface.  In a roughly uniform gravitational field, in the absence of any other forces, gravitation acts on each part of the body roughly equally.  When there is no normal force exerted between a body (e.g. an astronaut in orbit) and its surrounding objects, it will result in the sensation of weightlessness, a condition that also occurs when the gravitational field is weak (such as when far away from any source of gravity).
+Fuselage – In aeronautics, the fuselage (; from the French fuselé "spindle-shaped") is an aircraft's main body section. It holds crew, passengers, or cargo. In single-engine aircraft, it will usually contain an engine, as well, although in some amphibious aircraft the single engine is mounted on a pylon attached to the fuselage, which in turn is used as a floating hull. The fuselage also serves to position the control and stabilization surfaces in specific relationships to lifting surfaces, which is required for aircraft stability and maneuverability.
+Future Air Navigation System – (FANS), is an avionics system which provides direct data link communication between the pilot and the air traffic controller. The communications include air traffic control clearances, pilot requests and position reporting.
+Flying wing – is a tailless fixed-wing aircraft that has no definite fuselage, with its crew, payload, fuel, and equipment housed inside the main wing structure. A flying wing may have various small protuberances such as pods, nacelles, blisters, booms, or vertical stabilizers.
+
+G
+Galaxy – is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter. The word is derived from the Greek galaxias (γαλαξίας), literally "milky", a reference to the Milky Way. Galaxies range in size from dwarfs with just a few hundred million (108) stars to giants with one hundred trillion (1014) stars, each orbiting its galaxy's center of mass.  Galaxies are categorized according to their visual morphology as elliptical, spiral, or irregular.
+Gas-generator cycle (rocket) – is a power cycle of a pumped liquid bipropellant rocket engine. Part of the unburned propellant is burned in a gas generator (or preburner) and the resulting hot gas is used to power the propellant pumps before being exhausted overboard, and lost. Because of this loss, this type of engine is termed open cycle.
+Geostationary orbit – also referred to as a geosynchronous equatorial orbit (GEO), is a circular geosynchronous orbit 35,786 kilometres (22,236 miles) in altitude above Earth's equator (42,164 kilometers in radius from Earth's center) and following the direction of Earth's rotation.  An object in such an orbit has an orbital period equal to the Earth's rotational period, one sidereal day, and so to ground observers it appears motionless, in a fixed position in the sky.
+Geosynchronous orbit –  (sometimes abbreviated GSO) is an Earth-centered orbit with an orbital period that matches Earth's rotation on its axis, 23 hours, 56 minutes, and 4 seconds (one sidereal day). The synchronization of rotation and orbital period means that, for an observer on Earth's surface, an object in geosynchronous orbit returns to exactly the same position in the sky after a period of one sidereal day. Over the course of a day, the object's position in the sky may remain still or trace out a path, typically in a figure-8 form, whose precise characteristics depend on the orbit's inclination and eccentricity. A circular geosynchronous orbit has a constant altitude of 35,786 km (22,236 mi), and all geosynchronous orbits share that semi-major axis.  A special case of geosynchronous orbit is the geostationary orbit, which is a circular geosynchronous orbit in Earth's equatorial plane. A satellite in a geostationary orbit remains in the same position in the sky to observers on the surface.
+Glide ratio – As the aircraft fuselage and control surfaces will also add drag and possibly some lift, it is fair to consider the lift-to-drag ratio (or L/D ratio) of the aircraft as a whole. As it turns out, the glide ratio, which is the ratio of an (unpowered) aircraft's forward motion to its descent, is (when flown at constant speed) numerically equal to the aircraft's L/D. This is especially of interest in the design and operation of high performance sailplanes, which can have glide ratios almost 60 to 1 (60 units of distance forward for each unit of descent) in the best cases, but with 30:1 being considered good performance for general recreational use. Achieving a glider's best L/D in practice requires precise control of airspeed and smooth and restrained operation of the controls to reduce drag from deflected control surfaces. In zero wind conditions, L/D will equal distance traveled divided by altitude lost. Achieving the maximum distance for altitude lost in wind conditions requires further modification of the best airspeed, as does alternating cruising and thermaling.  To achieve high speed across country, glider pilots anticipating strong thermals often load their gliders (sailplanes) with water ballast: the increased wing loading means optimum glide ratio at greater airspeed, but at the cost of climbing more slowly in thermals.  The maximum L/D is not dependent on weight or wing loading, but with greater wing loading the maximum L/D occurs at a faster airspeed.  Also, the faster airspeed means the aircraft will fly at greater Reynolds number and this will usually bring about a lower zero-lift drag coefficient.
+Glider – is a fixed-wing aircraft that is supported in flight by the dynamic reaction of the air against its lifting surfaces, and whose free flight does not depend on an engine. Most gliders do not have an engine, although motor-gliders have small engines for extending their flight when necessary by sustaining the altitude (normally a sailplane relies on rising air to maintain altitude) with some being powerful enough to take off self-launch.
+Global Positioning System – (GPS), originally Navstar GPS, is a satellite-based radionavigation system owned by the United States government and operated by the United States Space Force. It is one of the global navigation satellite systems (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites. Obstacles such as mountains and buildings can block the relatively weak GPS signals.
+Goddard problem – In rocketry, the Goddard problem is to optimize the peak altitude of a rocket, ascending vertically, and taking into account atmospheric drag and the gravitational field. This was first posed by Robert H. Goddard in his 1919 publication, "A Method of Reaching Extreme Altitudes".
+GPS – Global Positioning System
+Gravitational constant – The gravitational constant (also known as the universal gravitational constant, the Newtonian constant of gravitation, or the Cavendish gravitational constant), denoted by the letter G, is an empirical physical constant involved in the calculation of gravitational effects in Sir Isaac Newton's law of universal gravitation and in Albert Einstein's general theory of relativity.  In Newton's law, it is the proportionality constant connecting the gravitational force between two bodies with the product of their masses and the inverse square of their distance. In the Einstein field equations, it quantifies the relation between the geometry of spacetime and the energy–momentum tensor (also referred to as the stress–energy tensor).  The measured value of the constant is known with some certainty to four significant digits. In SI units, its value is approximately 6.674×10−11 m3⋅kg−1⋅s−2.  The modern notation of Newton's law involving G was introduced in the 1890s by C. V. Boys. The first implicit measurement with an accuracy within about 1% is attributed to Henry Cavendish in a 1798 experiment.
+Gravitational slingshot – In orbital mechanics and aerospace engineering, a gravitational slingshot, gravity assist maneuver, or swing-by is the use of the relative movement (e.g. orbit around the Sun) and gravity of a planet or other astronomical object to alter the path and speed of a spacecraft, typically to save propellant and reduce expense.  Gravity assistance can be used to accelerate a spacecraft, that is, to increase or decrease its speed or redirect its path. The "assist" is provided by the motion of the gravitating body as it pulls on the spacecraft.
+Gravity – (from Latin  gravitas 'weight'), or gravitation, is a natural phenomenon by which all things with mass or energy—including planets, stars, galaxies, and even light—are attracted to (or gravitate toward) one another.  On Earth, gravity gives weight to physical objects, and the Moon's gravity causes the tides of the oceans. The gravitational attraction of the original gaseous matter present in the Universe caused it to begin coalescing and forming stars and caused the stars to group together into galaxies, so gravity is responsible for many of the large-scale structures in the Universe. Gravity has an infinite range, although its effects become weaker as objects get further away.
+
+H
+Hall effect thruster – In spacecraft propulsion, a Hall-effect thruster (HET) is a type of ion thruster in which the propellant is accelerated by an electric field. Hall-effect thrusters (based on the discovery by Edwin Hall) are sometimes referred to as Hall thrusters or Hall-current thrusters. Hall-effect thrusters use a magnetic field to limit the electrons' axial motion and then use them to ionize propellant, efficiently accelerate the ions to produce thrust, and neutralize the ions in the plume. The Hall-effect thruster is classed as a moderate specific impulse (1,600 s) space propulsion technology and has benefited from considerable theoretical and experimental research since the 1960s.
+Heat shield – A heat shield is designed to protect an object from overheating by dissipating, reflecting, absorbing heat, or simply gradually burn and fall away from the aircraft, pulling the excess heat with it. The term is most often used in reference to exhaust heat management and to systems for dissipation of heat due to friction.
+Helicopter – is a type of rotorcraft in which lift and thrust are supplied by horizontally-spinning rotors. This allows the helicopter to take off and land vertically, to hover, and to fly forward, backward and laterally. These attributes allow helicopters to be used in congested or isolated areas where fixed-wing aircraft and many forms of VTOL (Vertical TakeOff and Landing) aircraft cannot perform.
+High-hypersonic –
+Hohmann transfer orbit – In orbital mechanics, the Hohmann transfer orbit () is an elliptical orbit used to transfer between two circular orbits of different radii around a central body in the same plane. The Hohmann transfer often uses the lowest possible amount of propellant in traveling between these orbits, but bi-elliptic transfers can use less in some cases.
+Hybrid rocket – A hybrid-propellant rocket is a rocket with a rocket motor that uses rocket propellants in two different phases: one solid and the other either gas or liquid. The hybrid rocket concept can be traced back to at least the 1930s.
+Hydrodynamics – In physics and engineering, fluid dynamics  is a subdiscipline of fluid mechanics that describes the flow of fluids—liquids and gases.  It has several subdisciplines, including aerodynamics (the study of air and other gases in motion) and hydrodynamics (the study of liquids in motion).  Fluid dynamics has a wide range of applications, including calculating forces and moments on aircraft, determining the mass flow rate of petroleum through pipelines, predicting weather patterns, understanding nebulae in interstellar space and modelling fission weapon detonation.
+Hydrostatics – Fluid statics or hydrostatics is the branch of fluid mechanics that studies the condition of the equilibrium of a floating body and submerged body "fluids at hydrostatic equilibrium and the pressure in a fluid, or exerted by a fluid, on an immersed body".  It encompasses the study of the conditions under which fluids are at rest in stable equilibrium as opposed to fluid dynamics, the study of fluids in motion. Hydrostatics is a subcategory of fluid statics, which is the study of all fluids, both compressible or incompressible, at rest.
+Hyperbolic partial differential equation – In mathematics, a hyperbolic partial differential equation of order 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ is a partial differential equation (PDE) that, roughly speaking, has a well-posed initial value problem for the first 
+  
+    
+      
+        n
+        −
+        1
+      
+    
+    {\displaystyle n-1}
+  
+ derivatives. More precisely, the Cauchy problem can be locally solved for arbitrary initial data along any non-characteristic hypersurface.  Many of the equations of mechanics are hyperbolic, and so the study of hyperbolic equations is of substantial contemporary interest. The model hyperbolic equation is the wave equation.  In one spatial dimension, this is
+
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          c
+          
+            2
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial ^{2}u}{\partial t^{2}}}=c^{2}{\frac {\partial ^{2}u}{\partial x^{2}}}}
+  
+
+The equation has the property that, if u and its first time derivative are arbitrarily specified initial data on the line t = 0 (with sufficient smoothness properties), then there exists a solution for all time t.
+Hypersonic speed – In aerodynamics, a hypersonic speed is one that greatly exceeds the speed of sound, often stated as starting at speeds of Mach 5 and above.  The precise Mach number at which a craft can be said to be flying at hypersonic speed varies, since individual physical changes in the airflow (like molecular dissociation and ionization) occur at different speeds; these effects collectively become important around Mach 5–10. The hypersonic regime can also be alternatively defined as speeds where specific heat capacity changes with the temperature of the flow as kinetic energy of the moving object is converted into heat.
+Hypoxia – is a condition  in which the body or a region of the body is deprived of adequate oxygen supply at the tissue level. Hypoxia may be classified as either generalized, affecting the whole body, or local, affecting a region of the body. Although hypoxia is often a pathological condition, variations in arterial oxygen concentrations can be part of the normal physiology, for example, during hypoventilation training or strenuous physical exercise.
+
+I
+Impulse – Specific impulse (usually abbreviated Isp) is a measure of how efficiently a rocket uses propellant or a jet engine uses fuel. For engines whose reaction mass is only the fuel they carry, specific impulse is exactly proportional to exhaust gas velocity.
+Indicated airspeed – (IAS), is the airspeed read directly from the airspeed indicator (ASI) on an aircraft, driven by the pitot-static system. It uses the difference between total pressure and static pressure, provided by the system, to either mechanically or electronically measure dynamic pressure. The dynamic pressure includes terms for both density and airspeed. Since the airspeed indicator cannot know the density, it is by design calibrated to assume the sea level standard atmospheric density when calculating airspeed. Since the actual density will vary considerably from this assumed value as the aircraft changes altitude, IAS varies considerably from true airspeed (TAS), the relative velocity between the aircraft and the surrounding air mass. Calibrated airspeed (CAS) is the IAS corrected for instrument and position error.  An aircraft's indicated airspeed in knots is typically abbreviated KIAS for "Knots-Indicated Air Speed" (vs. KCAS for calibrated airspeed and KTAS for true airspeed).
+Instrument landing system – In aviation, the instrument landing system (ILS) is a radio navigation system that provides short-range guidance to aircraft to allow them to approach a runway at night or in bad weather. In its original form, it allows an aircraft to approach until it is 200 feet (61 m) over the ground, within a 1⁄2 mile (800 m) of the runway. At that point the runway should be visible to the pilot; if it is not, they perform a missed approach. Bringing the aircraft this close to the runway dramatically improves the weather conditions in which a safe landing can be made. Later versions of the system, or "categories", have further reduced the minimum altitudes.
+Interplanetary Transport Network – (ITN) is a collection of gravitationally determined pathways through the Solar System that require very little energy for an object to follow.  The ITN makes particular use of Lagrange points as locations where trajectories through space can be redirected using little or no energy. These points have the peculiar property of allowing objects to orbit around them, despite lacking an object to orbit. While it would use little energy, transport along the network would take a long time.
+Interplanetary travel – Interplanetary spaceflight or interplanetary travel is the crewed or uncrewed travel between stars and planets, usually within a single planetary system.
+Interstellar travel – refers to the currently theoretical idea of interstellar probes or crewed spacecraft moving between stars or planetary systems in a galaxy. Interstellar travel would be much more difficult than interplanetary spaceflight. Whereas the distances between the planets in the Solar System are less than 30 astronomical units (AU), the distances between stars are typically hundreds of thousands of AU, and usually expressed in light-years. Because of the vastness of those distances, practical interstellar travel based on known physics would need to occur at a high percentage of the speed of light; even so, travel times would be long, at least decades and perhaps millennia or longer.
+Ion thruster – An ion thruster, ion drive, or ion engine is a form of electric propulsion used for spacecraft propulsion. It creates thrust by accelerating ions using electricity.
+ISRO – The Indian Space Research Organisation (ISRO ) or (IAST : Bhāratīya Antrikṣ Anusandhān Saṅgaṭhan) is the national space agency of India, headquartered in Bengaluru. It operates under the Department of Space (DOS) which is directly overseen by the Prime Minister of India, while Chairman of ISRO acts as executive of DOS as well. ISRO is the primary agency in India to perform tasks related to space based applications, space exploration and development of related technologies. It is one of six government space agencies in the world which possess full launch capabilities, deploy cryogenic engines, launch extraterrestrial missions and operate large fleets of artificial satellites.
+
+J
+Jet engine – is a type of reaction engine discharging a fast-moving jet that generates thrust by jet propulsion.
+
+K
+Keel effect – In aeronautics, the keel effect (also known as the pendulum effect or pendulum stability) is the result of the sideforce-generating surfaces being above (or below) the center of mass (which coincides with the center of gravity) in an aircraft. Along with dihedral, sweepback, and weight distribution, keel effect is one of the four main design considerations in aircraft lateral stability.
+Kepler's laws of planetary motion – In astronomy, Kepler's laws of planetary motion, published by Johannes Kepler between 1609 and 1619, describe the orbits of planets around the Sun. The laws modified the heliocentric theory of Nicolaus Copernicus, replacing its circular orbits and epicycles with elliptical trajectories, and explaining how planetary velocities vary. The three laws state that:
+The orbit of a planet is an ellipse with the Sun at one of the two foci.
+A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.
+The square of a planet's orbital period is proportional to the cube of the length of the semi-major axis of its orbit.
+The elliptical orbits of planets were indicated by calculations of the orbit of Mars. From this, Kepler inferred that other bodies in the Solar System, including those farther away from the Sun, also have elliptical orbits. The second law helps to establish that when a planet is closer to the Sun, it travels faster. The third law expresses that the farther a planet is from the Sun, the slower its orbital speed, and vice versa.
+Isaac Newton showed in 1687 that relationships like Kepler's would apply in the Solar System as a consequence of his own laws of motion and law of universal gravitation.
+Kessler syndrome – (also called the Kessler effect, collisional cascading, or ablation cascade), proposed by NASA scientist Donald J. Kessler in 1978, is a theoretical scenario in which the density of objects in low Earth orbit (LEO) due to space pollution is high enough that collisions between objects could cause a cascade in which each collision generates space debris that increases the likelihood of further collisions. One implication is that the distribution of debris in orbit could render space activities and the use of satellites in specific orbital ranges difficult for many generations.
+Kinetic energy – In physics, the kinetic energy of an object is the energy that it possesses due to its motion.  It is defined as the work needed to accelerate a body of a given mass from rest to its stated velocity. Having gained this energy during its acceleration, the body maintains this kinetic energy unless its speed changes. The same amount of work is done by the body when decelerating from its current speed to a state of rest.  In classical mechanics, the kinetic energy of a non-rotating object of mass m traveling at a speed v is 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    {\textstyle {\frac {1}{2}}mv^{2}}
+  
+. In relativistic mechanics, this is a good approximation only when v is much less than the speed of light.
+Kite – is a tethered heavier-than-air or lighter-than-air craft with wing surfaces that react against the air to create lift and drag forces. A kite consists of wings, tethers and anchors. Kites often have a bridle and tail to guide the face of the kite so the wind can lift it. Some kite designs don't need a bridle; box kites can have a single attachment point. A kite may have fixed or moving anchors that can balance the kite. One technical definition is that a kite is "a collection of tether-coupled wing sets". The name derives from its resemblance to a hovering bird.
+Kutta condition – is a principle in steady-flow fluid dynamics, especially aerodynamics, that is applicable to solid bodies with sharp corners, such as the trailing edges of airfoils.  It is named for German mathematician and aerodynamicist Martin Kutta.
+Kuethe and Schetzer state the Kutta condition as follows:
+A body with a sharp trailing edge which is moving through a fluid will create about itself a circulation of sufficient strength to hold the rear stagnation point at the trailing edge.
+In fluid flow around a body with a sharp corner, the Kutta condition refers to the flow pattern in which fluid approaches the corner from above and below, meets at the corner, and then flows away from the body. None of the fluid flows around the sharp corner.
+The Kutta condition is significant when using the Kutta–Joukowski theorem to calculate the lift created by an airfoil with a sharp trailing edge. The value of circulation of the flow around the airfoil must be that value that would cause the Kutta condition to exist.
+Kutta–Joukowski theorem – is a fundamental theorem in aerodynamics used for the calculation of lift of an airfoil and any two-dimensional bodies including circular cylinders translating into a uniform fluid at a constant speed large enough so that the flow seen in the body-fixed frame is steady and unseparated. The theorem relates the lift generated by an airfoil to the speed of the airfoil through the fluid, the density of the fluid and the circulation around the airfoil. The circulation is defined as the line integral around a closed-loop enclosing the airfoil of the component of the velocity of the fluid tangent to the loop. It is named after Martin Kutta and Nikolai Zhukovsky (or Joukowski) who first developed its key ideas in the early 20th century. Kutta–Joukowski theorem is an inviscid theory, but it is a good approximation for real viscous flow in typical aerodynamic applications.
+
+L
+Lander – spacecraft designed to soft-land intact or almost undamaged on the surface of a celestial body and eventually take-off from it
+Landing – is the last part of a flight, where an aircraft, or spacecraft returns to the ground. When the flying object returns to water, the process is called alighting, although it is commonly called "landing", "touchdown"a or "splashdown" as well. A normal aircraft flight would include several parts of flight including taxi, takeoff, climb, cruise, descent and landing.
+Landing gear – is the undercarriage of an aircraft or spacecraft and may be used for either takeoff or landing. For aircraft it is generally needed for both.  Also, for aircraft, the landing gear supports the craft when it is not flying, allowing it to take off, land, and taxi without damage. Wheeled landing gear is the most common, with skis or floats needed to operate from snow/ice/water and skids for vertical operation on land. Faster aircraft have retractable undercarriages, which fold away during flight to reduce drag.
+Lagrangian mechanics – Introduced by the Italian-French mathematician and astronomer Joseph-Louis Lagrange in 1788, Lagrangian mechanics is a formulation of classical mechanics and is founded on the stationary action principle.
+Lagrangian mechanics defines a mechanical system to be a pair 
+  
+    
+      
+        (
+        M
+        ,
+        L
+        )
+      
+    
+    {\displaystyle (M,L)}
+  
+ of a configuration space 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ and a smooth function 
+  
+    
+      
+        L
+        =
+        L
+        (
+        q
+        ,
+        v
+        ,
+        t
+        )
+      
+    
+    {\displaystyle L=L(q,v,t)}
+  
+ called Lagrangian. By convention, 
+  
+    
+      
+        L
+        =
+        T
+        −
+        V
+        ,
+      
+    
+    {\displaystyle L=T-V,}
+  
+ where 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ and 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ are the kinetic and potential energy of the system, respectively. Here 
+  
+    
+      
+        q
+        ∈
+        M
+        ,
+      
+    
+    {\displaystyle q\in M,}
+  
+ and 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ is the velocity vector at 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  
+ 
+  
+    
+      
+        (
+        v
+      
+    
+    {\displaystyle (v}
+  
+ is tangential to 
+  
+    
+      
+        M
+        )
+        .
+      
+    
+    {\displaystyle M).}
+  
+ (For those familiar with tangent bundles, 
+  
+    
+      
+        L
+        :
+        T
+        M
+        ×
+        
+          
+            R
+          
+          
+            t
+          
+        
+        →
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle L:TM\times \mathbb {R} _{t}\to \mathbb {R} ,}
+  
+ and 
+  
+    
+      
+        v
+        ∈
+        
+          T
+          
+            q
+          
+        
+        M
+        )
+        .
+      
+    
+    {\displaystyle v\in T_{q}M).}
+  
+
+Given the time instants 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+  
+ and 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle t_{2},}
+  
+ Lagrangian mechanics postulates that a smooth path 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+        :
+        [
+        
+          t
+          
+            1
+          
+        
+        ,
+        
+          t
+          
+            2
+          
+        
+        ]
+        →
+        M
+      
+    
+    {\displaystyle x_{0}:[t_{1},t_{2}]\to M}
+  
+ describes the time evolution of the given system if and only if 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+  
+ is a stationary point of the action functional
+
+  
+    
+      
+        
+          
+            S
+          
+        
+        [
+        x
+        ]
+        
+        
+          
+            
+              
+                =
+              
+              
+                def
+              
+            
+          
+        
+        
+        
+          ∫
+          
+            
+              t
+              
+                1
+              
+            
+          
+          
+            
+              t
+              
+                2
+              
+            
+          
+        
+        L
+        (
+        x
+        (
+        t
+        )
+        ,
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        ,
+        t
+        )
+        
+        d
+        t
+        .
+      
+    
+    {\displaystyle {\cal {S}}[x]\,{\stackrel {\text{def}}{=}}\,\int _{t_{1}}^{t_{2}}L(x(t),{\dot {x}}(t),t)\,dt.}
+  
+
+If 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ is an open subset of 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  
+ and 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle t_{1},}
+  
+ 
+  
+    
+      
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle t_{2}}
+  
+ are finite, then the smooth path 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+  
+ is a stationary point of 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\cal {S}}}
+  
+ if all its directional derivatives at 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+  
+ vanish, i.e., for every smooth 
+  
+    
+      
+        δ
+        :
+        [
+        
+          t
+          
+            1
+          
+        
+        ,
+        
+          t
+          
+            2
+          
+        
+        ]
+        →
+        
+          
+            R
+          
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle \delta :[t_{1},t_{2}]\to \mathbb {R} ^{n},}
+  
+
+  
+    
+      
+        δ
+        
+          
+            S
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                def
+              
+            
+          
+        
+         
+        
+          
+            d
+            
+              d
+              ε
+            
+          
+        
+        
+          
+            
+              |
+            
+          
+          
+            ε
+            =
+            0
+          
+        
+        
+          
+            S
+          
+        
+        
+          [
+          
+            
+              x
+              
+                0
+              
+            
+            +
+            ε
+            δ
+          
+          ]
+        
+        =
+        0.
+      
+    
+    {\displaystyle \delta {\cal {S}}\ {\stackrel {\text{def}}{=}}\ {\frac {d}{d\varepsilon }}{\Biggl |}_{\varepsilon =0}{\cal {S}}\left[x_{0}+\varepsilon \delta \right]=0.}
+  
+
+The function 
+  
+    
+      
+        δ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \delta (t)}
+  
+ on the right-hand side is called perturbation or virtual displacement. The directional derivative 
+  
+    
+      
+        δ
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle \delta {\cal {S}}}
+  
+ on the left is known as variation in physics and Gateaux derivative in mathematics.
+Lagrangian mechanics has been extended to allow for non-conservative forces.
+Lagrangian point – In celestial mechanics, the Lagrange points  (also Lagrangian points, L-points, or libration points) are points near two large orbiting bodies. Normally, the two objects exert an unbalanced gravitational force at a point, altering the orbit of whatever is at that point. At the Lagrange points, the gravitational forces of the two large bodies and the centrifugal force balance each other. This can make Lagrange points an excellent location for satellites, as few orbit corrections are needed to maintain the desired orbit. Small objects placed in orbit at Lagrange points are in equilibrium in at least two directions relative to the center of mass of the large bodies.
+Laser broom – is a proposed ground-based laser beam-powered propulsion system whose purpose is to sweep space debris out of the path of other artificial satellites such as the International Space Station. It would heat one side of an object enough to change its orbit and make it hit the atmosphere sooner. Space researchers have proposed that a laser broom may help mitigate Kessler syndrome, a theoretical runaway cascade of collision events between orbiting objects.  Space-based laser broom systems using a laser mounted on a satellite or space station have also been proposed.
+Laser Camera System – (LCS), is short-range, high precision autosynchronous triangulation scanner. The camera uses a laser to measure the distance between itself and points on a target and is able to create a three-dimensional representation of the area it has scanned.
+Latus rectum – is the chord parallel to the directrix and passing through a focus; its half-length is the semi-latus rectum (ℓ).
+Launch window – In the context of spaceflight, launch period is the collection of days and launch window is the time period on a given day during which a particular rocket must be launched in order to reach its intended target. If the rocket is not launched within a given window, it has to wait for the window on the next day of the period. Launch periods and launch windows are very dependent on both the rocket's capability and the orbit to which it is going.
+Leading edge – The leading edge of an airfoil surface such as a wing is its foremost edge and is therefore the part which first meets the oncoming air.
+Lift –
+Lift coefficient – is a dimensionless coefficient that relates the lift generated by a lifting body to the fluid density around the body, the fluid velocity and an associated reference area. A lifting body is a foil or a complete foil-bearing body such as a fixed-wing aircraft. CL is a function of the angle of the body to the flow, its Reynolds number and its Mach number. The lift coefficient cl refers to the dynamic lift characteristics of a two-dimensional foil section, with the reference area replaced by the foil chord.
+Lightcraft – The Lightcraft is a space- or air-vehicle driven by beam-powered propulsion, the energy source powering the craft being external. It was conceptualized by aerospace engineering professor Leik Myrabo at Rensselaer Polytechnic Institute in 1976, who developed the concept further with working prototypes, funded in the 1980s by the Strategic Defense Initiative organization, and the decade after by the Advanced Concept Division of the US Air Force AFRL, NASA's MFSC and the Lawrence Livermore National Laboratory.
+Lighter than air – A lifting gas or lighter than air gas is a gas that has a lower density than normal atmospheric gases and rises above them as a result. It is required for aerostats to create buoyancy, particularly in lighter-than-air aircraft, which include free balloons, moored balloons, and airships. Only certain lighter than air gases are suitable as lifting gases. Dry air has a density of about 1.29 g/L (gram per liter) at standard conditions for temperature and pressure (STP) and an average molecular mass of 28.97 g/mol, and so lighter than air gases have a density lower than this.
+Liquid air cycle engine – (LACE), is a type of spacecraft propulsion engine that attempts to increase its efficiency by gathering part of its oxidizer from the atmosphere. A liquid air cycle engine uses liquid hydrogen (LH2) fuel to liquefy the air.
+Liquid fuel – Liquid fuels are combustible or energy-generating molecules that can be harnessed to create mechanical energy, usually producing kinetic energy; they also must take the shape of their container. It is the fumes of liquid fuels that are flammable instead of the fluid.  Most liquid fuels in widespread use are derived from fossil fuels; however, there are several types, such as hydrogen fuel (for automotive uses), ethanol, and biodiesel, which are also categorized as a liquid fuel. Many liquid fuels play a primary role in transportation and the economy.  Liquid fuels are contrasted with solid fuels and gaseous fuels.
+Liquid-propellant rocket – or liquid rocket, utilizes a rocket engine that uses liquid propellants. Liquids are desirable because they have a reasonably high density and high specific impulse (Isp). This allows the volume of the propellant tanks to be relatively low. It is also possible to use lightweight centrifugal turbopumps to pump the rocket propellant from the tanks into the combustion chamber, which means that the propellants can be kept under low pressure. This permits the use of low-mass propellant tanks that do not need to resist the high pressures needed to store significant amounts of gases, resulting in a low mass ratio for the rocket.
+Liquid rocket propellant – The highest specific impulse chemical rockets use liquid propellants (liquid-propellant rockets). They can consist of a single chemical (a monopropellant) or a mix of two chemicals, called bipropellants. Bipropellants can further be divided into two categories; hypergolic propellants, which ignite when the fuel and oxidizer make contact, and non-hypergolic propellants which require an ignition source.
+Lithobraking – is a landing technique used by uncrewed space vehicles to safely reach the surface of a celestial body while reducing landing speed by impact with the body's surface.
+Loiter – In aeronautics and aviation, loiter is the phase of flight  consisting of flying over some small region.
+Low Earth orbit – (LEO), is an Earth-centered orbit close to the planet, often specified as an orbital period of 128 minutes or less (making at least 11.25 orbits per day) and an eccentricity less than 0.25. Most of the artificial objects in outer space are in LEO, with an altitude never more than about one-third of the radius of the Earth.
+Lunar Module – The Apollo Lunar Module, or simply Lunar Module (LM ), originally designated the Lunar Excursion Module (LEM), was the Lunar lander spacecraft that was flown between lunar orbit and the Moon's surface during the United States' Apollo program. It was the first crewed spacecraft to operate exclusively in the airless vacuum of space, and remains the only crewed vehicle to land anywhere beyond Earth.
+Lunar space elevator – or lunar spacelift, is a proposed transportation system for moving a mechanical climbing vehicle up and down a ribbon-shaped tethered cable that is set between the surface of the Moon "at the bottom" and a docking port suspended tens of thousands of kilometers above in space at the top.
+
+M
+Mach number – In fluid dynamics, the Mach number is a dimensionless quantity representing the ratio of flow velocity past a boundary to the local speed of sound.
+Magnetic sail – or magsail, is a proposed method of spacecraft propulsion which would use a static magnetic field to deflect charged particles radiated by the Sun as a plasma wind, and thus impart momentum to accelerate the spacecraft.   A magnetic sail could also thrust directly against planetary and solar magnetospheres.
+Magnetoplasmadynamic thruster – A magnetoplasmadynamic (MPD) thruster (MPDT) is a form of electrically powered spacecraft propulsion which uses the Lorentz force (the force on a charged particle by an electromagnetic field) to generate thrust. It is sometimes referred  to as Lorentz Force Accelerator (LFA) or (mostly in Japan) MPD arcjet.
+Mass – is both a property of a physical body and a measure of its resistance to acceleration (rate of change of velocity with respect to time) when a net force is applied. An object's mass also determines the strength of its gravitational attraction to other bodies.  The SI base unit of mass is the kilogram (kg). In physics, mass is not the same as weight, even though mass is often determined by measuring the object's weight using a spring scale, rather than balance scale comparing it directly with known masses. An object on the Moon would weigh less than it does on Earth because of the lower gravity, but it would still have the same mass. This is because weight is a force, while mass is the property that (along with gravity) determines the strength of this force.
+Mass driver – or electromagnetic catapult, is a proposed method of non-rocket spacelaunch which would use a linear motor to accelerate and catapult payloads up to high speeds.  All existing and contemplated mass drivers use coils of wire energized by electricity to make electromagnets. Sequential firing of a row of electromagnets accelerates the payload along a path. After leaving the path, the payload continues to move due to momentum.
+Mechanics of fluids –
+Membrane mirror –
+Metre per second –
+Mini-magnetospheric plasma propulsion –
+Moment of inertia – otherwise known as the mass moment of inertia, angular mass, second moment of mass, or most accurately, rotational inertia, of a rigid body is a quantity that determines the torque needed for a desired angular acceleration about a rotational axis, akin to how mass determines the force needed for a desired acceleration. It depends on the body's mass distribution and the axis chosen, with larger moments requiring more torque to change the body's rate of rotation.
+Momentum – In Newtonian mechanics, linear momentum, translational momentum, or simply momentum is the product of the mass and velocity of an object. It is a vector quantity, possessing a magnitude and a direction. If m is an object's mass and v is its velocity (also a vector quantity), then the object's momentum p is
+
+  
+    
+      
+        
+          p
+        
+        =
+        m
+        
+          v
+        
+        .
+      
+    
+    {\displaystyle \mathbf {p} =m\mathbf {v} .}
+  
+
+In the International System of Units (SI), the unit of measurement of momentum is the kilogram metre per second (kg⋅m/s), which is equivalent to the newton-second.
+Momentum wheel –
+Monopropellant rocket – or monochemical rocket, is a rocket that uses a single chemical as its propellant.
+Motion – In physics, motion is the phenomenon in which an object changes its position. Motion is mathematically described in terms of displacement, distance, velocity, acceleration, speed, and time. The motion of a body is observed by attaching a frame of reference to an observer and measuring the change in position of the body relative to that frame with change in time. The branch of physics describing the motion of objects without reference to its cause is kinematics; the branch studying forces and their effect on motion is dynamics.
+Multistage rocket – or step rocket is a launch vehicle that uses two or more rocket stages, each of which contains its own engines and propellant. A tandem or serial stage is mounted on top of another stage; a parallel stage is attached alongside another stage. The result is effectively two or more rockets stacked on top of or attached next to each other. Two-stage rockets are quite common, but rockets with as many as five separate stages have been successfully launched.
+
+N
+NACA – United States National Advisory Committee for Aeronautics, replaced by NASA in 1958.
+NASA – United States National Aeronautics and Space Administration.
+Navier–Stokes equations – In physics, the Navier–Stokes equations() are certain partial differential equations which describe the motion of viscous fluid substances, named after French engineer and physicist Claude-Louis Navier and Anglo-Irish physicist and mathematician George Gabriel Stokes.  They were developed over several decades of progressively building the theories, from 1822 (Navier) to 1842–1850 (Stokes).
+The Navier–Stokes equations mathematically express conservation of momentum and conservation of mass for Newtonian fluids. They are sometimes accompanied by an equation of state relating pressure, temperature  and density. They arise from applying Isaac Newton's second law to fluid motion, together with the assumption that the stress in the fluid is the sum of a diffusing viscous term (proportional to the gradient of velocity) and a pressure term—hence describing viscous flow. The difference between them and the closely related Euler equations is that Navier–Stokes equations take viscosity into account while the Euler equations model only inviscid flow. As a result, the Navier–Stokes are a parabolic equation and therefore have better analytic properties, at the expense of having less mathematical structure (e.g. they are never completely integrable).
+Newton (unit) – The newton (symbol: N) is the International System of Units (SI) derived unit of force. It is named after Isaac Newton in recognition of his work on classical mechanics, specifically Newton's second law of motion.
+A newton is defined as 1 kg⋅m/s2, which is the force which gives a mass of 1 kilogram an acceleration of 1 metre per second, per second.
+Newton's law of universal gravitation – is usually stated as that every particle attracts every other particle in the universe with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers. The publication of the theory has become known as the "first great unification", as it marked the unification of the previously described phenomena of gravity on Earth with known astronomical behaviors.
+This is a general physical law derived from empirical observations by what Isaac Newton called inductive reasoning. It is a part of classical mechanics and was formulated in Newton's work Philosophiæ Naturalis Principia Mathematica ("the Principia"), first published on 5 July 1687. When Newton presented Book 1 of the unpublished text in April 1686 to the Royal Society, Robert Hooke made a claim that Newton had obtained the inverse square law from him.
+In today's language, the law states that every point mass attracts every other point mass by a force acting along the line intersecting the two points. The force is proportional to the product of the two masses, and inversely proportional to the square of the distance between them.
+The equation for universal gravitation thus takes the form:
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}},}
+  
+
+where F is the gravitational force acting between two objects, m1 and m2 are the masses of the objects, r is the distance between the centers of their masses, and G is the gravitational constant.
+Newton's laws of motion – are three laws of classical mechanics that describe the relationship between the motion of an object and the forces acting on it. These laws can be paraphrased as follows:
+Law 1. A body continues in its state of rest, or in uniform motion in a straight line, unless acted upon by a force.
+Law 2. A body acted upon by a force moves in such a manner that the time rate of change of momentum equals the force.
+Law 3. If two bodies exert forces on each other, these forces are equal in magnitude and opposite in direction.
+The three laws of motion were first stated by Isaac Newton in his Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687. Newton used them to explain and investigate the motion of many physical objects and systems, which laid the foundation for Newtonian mechanics.
+Nose cone design – Given the problem of the aerodynamic design of the nose cone section of any vehicle or body meant to travel through a compressible fluid medium (such as a rocket or aircraft,  missile or bullet), an important problem is the determination of the nose cone geometrical shape for optimum performance. For many applications, such a task requires the definition of a solid of revolution shape that experiences minimal resistance to rapid motion through such a fluid medium.
+Nozzle – is a device designed to control the direction or characteristics of a fluid flow (especially to increase velocity) as it exits (or enters) an enclosed chamber or pipe.   A nozzle is often a pipe or tube of varying cross-sectional area, and it can be used to direct or modify the flow of a fluid (liquid or gas). Nozzles are frequently used to control the rate of flow, speed, direction, mass, shape, and/or the pressure of the stream that emerges from them. In a nozzle, the velocity of fluid increases at the expense of its pressure energy.
+
+O
+Orbit – In physics, an orbit is the gravitationally curved trajectory of an object, such as the trajectory of a planet around a star or a natural satellite around a planet. Normally, orbit refers to a regularly repeating trajectory, although it may also refer to a non-repeating trajectory. To a close approximation, planets and satellites follow elliptic orbits, with the center of mass being orbited at a focal point of the ellipse, as described by Kepler's laws of planetary motion.  For most situations, orbital motion is adequately approximated by Newtonian mechanics, which explains gravity as a force obeying an inverse-square law. However, Albert Einstein's general theory of relativity, which accounts for gravity as due to curvature of spacetime, with orbits following geodesics, provides a more accurate calculation and understanding of the exact mechanics of orbital motion.
+Orbit phasing – In astrodynamics, orbit phasing is the adjustment of the time-position of spacecraft along its orbit, usually described as adjusting the orbiting spacecraft's true anomaly. Orbital phasing is primarily used in scenarios where a spacecraft in a given orbit must be moved to a different location within the same orbit. The change in position within the orbit is usually defined as the phase angle, ϕ, and is the change in true anomaly required between the spacecraft's current position to the final position.
+Orbital eccentricity – In astrodynamics, the orbital eccentricity of an astronomical object is a dimensionless parameter that determines the amount by which its orbit around another body deviates from a perfect circle. A value of 0 is a circular orbit, values between 0 and 1 form an elliptic orbit, 1 is a parabolic escape orbit, and greater than 1 is a hyperbola. The term derives its name from the parameters of conic sections, as every Kepler orbit is a conic section. It is normally used for the isolated two-body problem, but extensions exist for objects following a rosette orbit through the galaxy.
+Orbital elements – are the parameters required to uniquely identify a specific orbit. In celestial mechanics these elements are  considered in two-body systems using a Kepler orbit. There are many different ways to mathematically describe the same orbit, but certain schemes, each consisting of a set of six parameters, are commonly used in astronomy and orbital mechanics.  A real orbit and its elements change over time due to gravitational perturbations by other objects and the effects of general relativity. A Kepler orbit is an idealized, mathematical approximation of the orbit at a particular time.
+Orbital inclination – measures the tilt of an object's orbit around a celestial body.  It is expressed as the angle between a reference plane and the orbital plane or axis of direction of the orbiting object.
+Orbital inclination change – is an orbital maneuver aimed at changing the inclination of an orbiting body's orbit. This maneuver is also known as an orbital plane change as the plane of the orbit is tipped. This maneuver requires a change in the orbital velocity vector (delta v) at the orbital nodes (i.e. the point where the initial and desired orbits intersect, the line of orbital nodes is defined by the intersection of the two orbital planes).
+Orbital maneuver – In spaceflight, an orbital maneuver (otherwise known as a burn) is the use of propulsion systems to change the orbit of a spacecraft.
+Orbital mechanics – or astrodynamics, is the application of ballistics and celestial mechanics to the practical problems concerning the motion of rockets and other spacecraft. The motion of these objects is usually calculated from Newton's laws of motion and law of universal gravitation. Orbital mechanics is a core discipline within space-mission design and control.
+Orbital node – is either of the two points where an orbit intersects a plane of reference to which it is inclined. A non-inclined orbit, which is contained in the reference plane, has no nodes.
+Orbital period – (also revolution period), is the time a given astronomical object takes to complete one orbit around another object, and applies in astronomy usually to planets or asteroids orbiting the Sun, moons orbiting planets, exoplanets orbiting other stars, or binary stars.
+Orbital station-keeping – In astrodynamics, orbital station-keeping is keeping a spacecraft at a fixed distance from another spacecraft. It requires a series of orbital maneuvers made with thruster burns to keep the active craft in the same orbit as its target. For many low Earth orbit satellites, the effects of non-Keplerian forces, i.e. the deviations of the gravitational force of the Earth from that of a homogeneous sphere, gravitational forces from Sun/Moon, solar radiation pressure and air drag, must be counteracted.
+Orbiter Boom Sensor System –  (OBSS), was a 50-foot (15.24 m) boom carried on board NASA's Space Shuttles. The boom was grappled by the Canadarm and served as an extension of the arm, doubling its length to a combined total of 100 feet (30 m).[1] At the far end of the boom was an instrumentation package of cameras and lasers used to scan the leading edges of the wings, the nose cap, and the crew compartment after each lift-off and before each landing. If flight engineers suspected potential damage to other areas, as evidenced in imagery captured during lift-off or the rendezvous pitch maneuver, then additional regions could be scanned.
+Osculating orbit – In astronomy, and in particular in astrodynamics, the osculating orbit of an object in space at a given moment in time is the gravitational Kepler orbit (i.e. an elliptic or other conic one) that it would have around its central body if perturbations were absent. That is, it is the orbit that coincides with the current orbital state vectors (position and velocity).
+
+P
+Parallel axis theorem – also known as Huygens–Steiner theorem, or just as Steiner's theorem, named after Christiaan Huygens and Jakob Steiner, can be used to determine the moment of inertia or the second moment of area of a rigid body about any axis, given the body's moment of inertia about a parallel axis through the object's center of gravity and the perpendicular distance between the axes.
+Parasitic drag – also known as profile drag, is a type of aerodynamic drag that acts on any object when the object is moving through a fluid. Parasitic drag is a combination of form drag and skin friction drag. It affects all objects regardless of whether they are capable of generating lift.  Total drag on an aircraft is made up of parasitic drag and lift-induced drag. Parasitic drag is so named because it is not useful, whereas lift-induced drag is the result of an airfoil generating lift. Parasitic drag comprises all types of drag except lift-induced drag.
+Perpendicular axes theorem – states that the moment of inertia of a planar lamina (i.e. 2-D body) about an axis perpendicular to the plane of the lamina is equal to the sum of the moments of inertia of the lamina about the two axes at right angles to each other, in its own plane intersecting each other at the point where the perpendicular axis passes through it.
+Define perpendicular axes 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+, 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+, and 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  
+ (which meet at origin 
+  
+    
+      
+        O
+      
+    
+    {\displaystyle O}
+  
+) so that the body lies in the 
+  
+    
+      
+        x
+        y
+      
+    
+    {\displaystyle xy}
+  
+ plane, and the 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  
+ axis is perpendicular to the plane of the body.  Let Ix, Iy and Iz be moments of inertia about axis x, y, z respectively. Then the perpendicular axis theorem states that
+
+  
+    
+      
+        
+          I
+          
+            z
+          
+        
+        =
+        
+          I
+          
+            x
+          
+        
+        +
+        
+          I
+          
+            y
+          
+        
+      
+    
+    {\displaystyle I_{z}=I_{x}+I_{y}}
+  
+
+This rule can be applied with the parallel axis theorem and the stretch rule to find polar moments of inertia for a variety of shapes.
+If a planar object (or prism, by the stretch rule) has rotational symmetry such that 
+  
+    
+      
+        
+          I
+          
+            x
+          
+        
+      
+    
+    {\displaystyle I_{x}}
+  
+ and 
+  
+    
+      
+        
+          I
+          
+            y
+          
+        
+      
+    
+    {\displaystyle I_{y}}
+  
+ are equal,
+then the perpendicular axes theorem provides the useful relationship:
+
+  
+    
+      
+        
+          I
+          
+            z
+          
+        
+        =
+        2
+        
+          I
+          
+            x
+          
+        
+        =
+        2
+        
+          I
+          
+            y
+          
+        
+      
+    
+    {\displaystyle I_{z}=2I_{x}=2I_{y}}
+  
+
+Pitch Angle –
+Plasma (physics) – (from Ancient Greek  πλάσμα 'moldable substance') is one of the four fundamental states of matter. It consists of a gas of ions – atoms or molecules which have at least one orbital electron stripped (or an extra electron attached) and, thus, an electric charge.  It is the most abundant form of ordinary matter in the universe, being mostly associated with stars, including the Sun.  It extends to the rarefied intracluster medium and possibly to intergalactic regions.
+Plug nozzle – is a type of nozzle which includes a centerbody or plug around which the working fluid flows.  Plug nozzles have applications in aircraft, rockets, and numerous other fluid flow devices.
+Pogo oscillation –
+Prandtl–Glauert singularity –
+Precession –
+Pressure –
+Pressure altitude –
+Pressure-fed engine –
+Propeller –
+Proper orbital elements –
+Pulsed inductive thruster –
+Pulsed plasma thruster –
+Propulsion –
+
+Q
+
+R
+Radar – system using the reflection from transmitted electromagnetic waves to detect the distance and rough shape of an object, working even in outer space, unlike sonar
+Radio direction finder –
+Railgun –
+Ram accelerator –
+Ramjet –
+Rate of climb –
+RCS (Reaction control system) – set of rocket thrusters used for spacecraft maneuvers over the craft's three rotation axes in outer space
+Reentry –
+Reflection –
+Relativistic rocket –
+Remote Manipulator System –
+Resistojet rocket –
+Reusable launch system –
+Reynolds number –
+RL10 (rocket engine) –
+Rocket –
+Rocket engine –
+Rocket engine nozzle –
+Rocket fuel –
+Rocket launch –
+Rogallo wing – is a flexible type of wing. In 1948, Francis Rogallo, a NASA engineer, and his wife Gertrude Rogallo, invented a self-inflating flexible wing they called the Parawing, also known after them as the "Rogallo Wing" and flexible wing. NASA considered Rogallo's flexible wing as an alternative recovery system for the Mercury and Gemini space capsules, and for possible use in other spacecraft landings, but the idea was dropped from Gemini in 1964 in favor of conventional parachutes.
+Rudder –
+
+S
+SABRE –
+Satellite –
+Saturn (rocket family) –
+Scalar (physics) – A quantity with magnitude but no direction.
+Schlieren –
+Schlieren photography –
+Scramjet –
+Second moment of area –
+Shock wave –
+SI –
+Single point of failure –
+Single-stage-to-orbit – spacecraft able to fly from a celestial body (usually the Earth or the Moon)'s surface to its orbit without using external boosters
+Skyhook (structure) –
+Slew –
+Stream function –
+Streamline –
+Solar panel –
+Solar sail –
+Solar thermal rocket –
+Solid of revolution –
+Solid rocket –
+Sound barrier –
+Space activity suit –
+Space elevator –
+Space fountain –
+Space Shuttle – crewed NASA spacecraft used between 1981 and 2011, consisting of a reusable spaceplane (the Space Shuttle orbiter, capable of airplane-like landing) attached to an expendable external tank (which disintegrated during re-entry) and two recoverable solid rocket boosters (which re-entered the Earth's atmosphere and splash-landed)
+Space Shuttle external tank – external tank attached to the orbiter and the solid rocket boosters in the NASA Space Shuttle program
+Space Shuttle main engine –
+Space Shuttle orbiter – reusable NASA VTHL spaceplane used during the Space Shuttle program (1981–2011)
+Space station – habitable artificial satellite
+Space suit –
+Space technology –
+Space transport –
+Spacecraft –
+Spacecraft design –
+Spacecraft propulsion –
+Spaceplane – vehicle capable of both atmospheric flight according to the laws of aerodynamics (like an aircraft) and spaceflight in outer space (like a spacecraft)
+Special relativity –
+Specific impulse –
+Speed of sound –
+SRB – solid rocket booster
+SSTO – single-stage-to-orbit
+Staged combustion cycle (rocket) –
+Subsonic – inferior to the speed of sound
+Supersonic – superior to the speed of sound
+Surface of revolution –
+Sweep theory –
+
+T
+Tait–Bryan rotations –
+Temperature –
+Terminal velocity – is the maximum velocity (speed) attainable by an object as it falls through a fluid (air is the most common example). It occurs when the sum of the drag force (Fd) and the buoyancy is equal to the downward force of gravity (FG) acting on the object. Since the net force on the object is zero, the object has zero acceleration.
+Test target –
+Tether propulsion –
+Thermal protection system –
+Thermodynamics –
+Thrust –
+Thruster –
+Torricelli's equation –   In physics, Torricelli's equation, or Torricelli's formula, is an equation created by Evangelista Torricelli to find the final velocity of an object moving with a constant acceleration along an axis (for example, the x axis) without having a known time interval.
+The equation itself is:
+
+  
+    
+      
+        
+          v
+          
+            f
+          
+          
+            2
+          
+        
+        =
+        
+          v
+          
+            i
+          
+          
+            2
+          
+        
+        +
+        2
+        a
+        Δ
+        x
+        
+      
+    
+    {\displaystyle v_{f}^{2}=v_{i}^{2}+2a\Delta x\,}
+  
+
+where
+
+  
+    
+      
+        
+          v
+          
+            f
+          
+        
+      
+    
+    {\displaystyle v_{f}}
+  
+ is the object's final velocity along the x axis on which the acceleration is constant.
+
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  
+ is the object's initial velocity along the x axis.
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ is the object's acceleration along the x axis, which is given as a constant.
+
+  
+    
+      
+        Δ
+        x
+        
+      
+    
+    {\displaystyle \Delta x\,}
+  
+ is the object's change in position along the x axis, also called displacement.
+This equation is valid along any axis on which the acceleration is constant.
+Total air temperature – In aviation, stagnation temperature is known as total air temperature and is measured by a temperature probe mounted on the surface of the aircraft. The probe is designed to bring the air to rest relative to the aircraft. As the air is brought to rest, kinetic energy is converted to internal energy. The air is compressed and experiences an adiabatic increase in temperature. Therefore, total air temperature is higher than the static (or ambient) air temperature.  Total air temperature is an essential input to an air data computer in order to enable the computation of static air temperature and hence true airspeed.
+Trajectory – or flight path, is the path that an object with mass in motion follows through space as a function of time. In classical mechanics, a trajectory is defined by Hamiltonian mechanics via canonical coordinates; hence, a complete trajectory is defined by position and momentum, simultaneously.  The mass might be a projectile or a satellite. For example, it can be an orbit — the path of a planet, asteroid, or comet as it travels around a central mass.
+Trailing edge –
+Trans Lunar Injection –
+Transonic –
+Transverse wave –
+Tripropellant rocket –
+Tsiolkovsky rocket equation –
+Turbomachinery –
+Two-stage-to-orbit –
+
+U
+UFO – An unidentified flying object is any perceived aerial phenomenon that cannot be immediately identified or explained. On investigation, most UFOs are identified as known objects or atmospheric phenomena, while a small number remain unexplained.
+
+V
+V-2 rocket – The V-2 (German: Vergeltungswaffe 2, "Retribution Weapon 2"), with the technical name Aggregat 4 (A4), was the world's first long-range guided ballistic missile. The missile, powered by a liquid-propellant rocket engine, was developed during the Second World War in Germany as a "vengeance weapon" and assigned to attack Allied cities as retaliation for the Allied bombings against German cities. The V-2 rocket also became the first artificial object to travel into space by crossing the Kármán line with the vertical launch of MW 18014 on 20 June 1944.
+Variable specific impulse magnetoplasma rocket – (VASIMR), is an electrothermal thruster under development for possible use in spacecraft propulsion. It uses radio waves to ionize and heat an inert propellant, forming a plasma, then a magnetic field to confine and accelerate the expanding plasma, generating thrust. It is a plasma propulsion engine, one of several types of spacecraft electric propulsion systems.
+Velocity – The velocity of an object is the rate of change of its position with respect to a frame of reference, and is a function of time. Velocity is equivalent to a specification of an object's speed and direction of motion (e.g. 60 km/h to the north). Velocity is a fundamental concept in kinematics, the branch of classical mechanics that describes the motion of bodies.
+Velocity is a physical vector quantity; both magnitude and direction are needed to define it. The scalar absolute value (magnitude) of velocity is called speed, being a coherent derived unit whose quantity is measured in the SI (metric system) as metres per second (m/s or m⋅s−1). For example, "5 metres per second" is a scalar, whereas "5 metres per second east" is a vector. If there is a change in speed, direction or both, then the object is said to be undergoing an acceleration.
+Viscometer – (also called viscosimeter) is an instrument used to measure the viscosity of a fluid. For liquids with viscosities which vary with flow conditions, an instrument called a rheometer is used. Thus, a rheometer can be considered as a special type of viscometer. Viscometers only measure under one flow condition.
+Viscosity – The viscosity of a fluid is a measure of its resistance to deformation at a given rate. For liquids, it corresponds to the informal concept of "thickness": for example, syrup has a higher viscosity than water.
+Vortex generator – (VG), is an aerodynamic device, consisting of a small vane usually attached to a lifting surface (or airfoil, such as an aircraft wing) or a rotor blade of a wind turbine. VGs may also be attached to some part of an aerodynamic vehicle such as an aircraft fuselage or a car.  When the airfoil or the body is in motion relative to the air, the VG creates a vortex,  which, by removing some part of the slow-moving boundary layer in contact with the airfoil surface, delays local flow separation and aerodynamic stalling, thereby improving the effectiveness of wings and control surfaces, such as flaps, elevators, ailerons, and rudders.
+
+W
+Wave drag – In aeronautics, wave drag is a component of the aerodynamic drag on aircraft wings and fuselage, propeller blade tips and projectiles moving at transonic and supersonic speeds, due to the presence of shock waves. Wave drag is independent of viscous effects, and tends to present itself as a sudden and dramatic increase in drag as the vehicle increases speed to the Critical Mach number. It is the sudden and dramatic rise of wave drag that leads to the concept of a sound barrier.
+Weight – In science and engineering, the weight of an object is the force acting on the object due to gravity.
+Weight function –  is a mathematical device used when performing a sum, integral, or average to give some elements more "weight" or influence on the result than other elements in the same set. The result of this application of a weight function is a weighted sum or weighted average. Weight functions occur frequently in statistics and analysis, and are closely related to the concept of a measure.  Weight functions can be employed in both discrete and continuous settings. They can be used to construct systems of calculus called "weighted calculus" and "meta-calculus".
+Wind tunnels –  are large tubes with air blowing through them which are used to replicate the interaction between air and an object flying through the air or moving along the ground. Researchers use wind tunnels to learn more about how an aircraft will fly. NASA uses wind tunnels to test scale models of aircraft and spacecraft. Some wind tunnels are large enough to contain full-size versions of vehicles. The wind tunnel moves air around an object, making it seem as if the object is flying.
+Wing – is a type of fin that produces lift while moving through air or some other fluid. Accordingly, wings have streamlined cross-sections that are subject to aerodynamic forces and act as airfoils. A wing's aerodynamic efficiency is expressed as its lift-to-drag ratio. The lift a wing generates at a given speed and angle of attack can be one to two orders of magnitude greater than the total drag on the wing. A high lift-to-drag ratio requires a significantly smaller thrust to propel the wings through the air at sufficient lift.
+Wright Flyer – The Wright Flyer (the Kitty Hawk, also known as Flyer I or 1903 Flyer) made the first sustained flight by a manned heavier-than-air powered and controlled aircraft—an airplane—on 17 December 1903. Invented and flown by Orville and Wilbur Wright, it marked the beginning of the "pioneer era" of aviation.
+Wright Glider – The Wright brothers designed, built and flew a series of three manned gliders in 1900–1902 as they worked towards achieving powered flight. They also made preliminary tests with a kite in 1899. In 1911 Orville conducted tests with a much more sophisticated glider. Neither the kite nor any of the gliders were preserved, but replicas of all have been built.
+
+X
+
+Y
+
+Z
+
+See also
+Aerospace engineering
+List of aviation, aerospace and aeronautical abbreviations
+Engineering
+Glossary of engineering
+National Council of Examiners for Engineering and Surveying (NCEES)
+Fundamentals of Engineering Examination
+Principles and Practice of Engineering Examination (PE exam)
+Graduate Aptitude Test in Engineering (GATE)
+Glossary of areas of mathematics
+Glossary of artificial intelligence
+Glossary of astronomy
+Glossary of biology
+Glossary of chemistry
+Glossary of civil engineering
+Glossary of economics
+Glossary of mechanical engineering
+Glossary of physics
+Glossary of probability and statistics
+Glossary of structural engineering
+
+References
+
+[[Aerospace engineering]] [[Air data computer]] [[Bioinformatics]] [[Biology]] [[Cambridge University Press]] [[Civil engineering]] [[Computer engineering]] [[Computer vision]] [[Control theory]] [[Data structure]] [[Diffraction]] [[Electrical engineering]] [[Electromechanics]] [[Engineering]] [[Fluid dynamics]]

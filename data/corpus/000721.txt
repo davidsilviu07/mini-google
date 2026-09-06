@@ -1,0 +1,68 @@
+Mobile content
+Mobile content is any type of web hypertext and information content and electronic media which is viewed or used on mobile phones, like text, sound, ringtones, graphics, flash, discount offers, mobile games, movies, and GPS navigation. As mobile phone use has grown since the mid-1990s, the usage and significance of the mobile devices in everyday technological life has grown accordingly. Owners of mobile phones can now use their devices to make photo snapshots for upload, twits, mobile calendar appointments, and mostly send and receive text messages (SMSes or instant messages), listen to music, watch videos, take mobile pictures and make videos, use websites to redeem coupons for purchases, view and edit office documents, get driving instructions on mobile maps and so on. The use of mobile content in various areas has grown accordingly.
+Camera phones may not only present but also produce media, for example photographs and videos with a few million pixels, and can act as pocket video cameras.
+Mobile content can also refer to text and multimedia that is online on websites and hosted on mobile facilitated servers, which may either be standard desktop Internet pages, mobile webpages or  specific mobile pages.
+
+Transmission
+
+Mobile text and image content via SMS is one of  the main technologies in mobile phones for communication, and is used to send mobile users and consumers messages, such as ringtones and wallpapers. As a non-internet-based messaging technology, SMS remains an effective way for providers to reach this target market. SMS is easy to use and ubiquitous, reaching a wider audience in some contexts than any other mobile technology such as MMS, bluetooth, mobile e-mail or WAP.
+Although SMS is a technology that has long history since first cellular phones it maybe replaced in use by the likes of Multimedia Messaging Service (MMS) or WAP, but SMS frequently gains new powers. One example is the introduction of applications whereby mobile tickets are sent to consumers via SMS, which contains a WAP-push that contains a link where a barcode is placed. This clearly substitutes MMS, which has a limited users reach and still has some applicability and interoperability problems.
+It is important to keep enhancing phone users' and consumers' confidence in using SMS for mobile content applications. This means that if users and consumers have ordered some new wallpaper or ringtone, as the user expects, it has to work almost properly. Therefore, it is important to choose the right SMS gateway available or as a provider to ensure the quality-of-service along the whole path of the content SMS until it reaches the consumer's mobile.
+Modern phones come with Bluetooth and Near field communication. This allows video to be sent from phone to phone over Bluetooth, which has the advantages that there is no data charge.
+
+Content types
+
+Apps
+Mobile application development, also known as mobile apps, has become a significant mobile content market since the release of the first iPhone from Apple in 2007.  Prior to the release of Apple's phone product, the market for mobile applications (outside of games) had been quite limited.  The bundling of the iPhone with an app store, as well as the iPhone's unique design and user interface, helped bring a large surge in mobile application use.  It also enabled additional competition from other players.  For example, Google's Android platform for mobile content has further increased the amount of app content available to mobile phone subscribers.
+Some examples of mobile apps would be applications to manage travel schedules, buy movie tickets, preview video content, manage RSS news feeds, read digital version of popular newspapers, identify music, look at star constellations, view Wikipedia, and much more. Many television networks have their own app to promote and present their content. iTyphoon is an example of a mobile application used to provide information about typhoons in the Philippines.
+
+Games
+Mobile games are applications that allow people to play a game on a mobile handset. The main categories of mobile games include Puzzle/Strategy, Retro/Arcade, Action/Adventure, Card/Casino, Trivia/Word, Sports/Racing, given in approximate order of their popularity.
+Several studies have shown that the majority of mobile games are bought and played by women. Sixty-five percent of mobile game revenue is driven by female wireless subscribers. They are the biggest driver of revenue for the Puzzle/Strategy category; comprising 72 percent of the total share of revenue, while men made up 28 percent (see Table 2). Women dominate revenue generation for all mobile game categories, with the exception of Action/Adventure mobile games, in which men drive 60 percent of the revenue for that category. It is also said that teens are three times as likely as those over twenty to play cell phone games.
+
+Images
+
+Mobile images are used as the wallpaper to a mobile phone, and are also available as screensavers. On some handsets, images can also be set to display when a particular person calls the users. Sites like adg.ms allow users to download free content, however service operators such as Telus Mobility blocks non Telus website downloads.
+
+Music
+Mobile music is any audio file that is played on a mobile phone. Mobile music is normally formatted as an AAC (Advanced Audio Coding) file or an MP3, and comes in several different formats. Monophonic ringtones were the earliest form of ringtone, and played one tone at a time. This was improved upon with polyphonic ringtones, which played several tones at the same time so a more convincing melody could be created. The next step was to play clips of actual songs, which were dubbed Realtones. These are preferred by record labels as this evolution of the ringtone has allowed them to gain a cut of lucrative ringtone market. In short Realtones generate royalties for record labels (the master recording owners) as well as publishers (the writers), however, when Monophonic or Polyphonic ringtones are sold only publishing or "mechanical" royalties are incurred as no master recording has been exploited. Some companies promote covertones, which are ringtones that are recorded by cover bands to sound like a famous song. Recently Ringback tones have become available, which are played to the person calling the owner of the ringback tone. Voicetones are ringtones that play someone talking or shouting rather than music, and there are various of ringtones of natural and everyday sounds. Realtones are the most popular form of ringtones. As an example, they captures 76.4% of the US ringtone market in the second quarter of 2006, followed by monophonic and polyphonic ringtones at 12% and ringback tones and 11.5% – but monophonic and polyphonic ringtones are falling in popularity while ringback tones are growing. This trend is common around the globe. A recent innovation is the singtone, whereby "the user’s voice is recorded singing to a popular music track and then “tuned-up” automatically to sound good. This can then be downloaded as a ringtone or sent to another user's mobile phone" said the director of Synchro Arts, the developers.
+As well as mobile music there are full track downloads, which are an entire song encoded to play on a mobile phone. These can be purchased and bought over the mobile network, but data charges can make this prohibitive. The other way to get a song onto a mobile phone is by "side loading" it, which normally involves downloading the song onto a computer and then transferring it to the mobile phone via Bluetooth, infra-red or cable connections. It is possible to use a full track as a ringtone. In recent years, websites have sprung that allow users to upload audio files and customize them into ringtones using specialized applications, including Myxer, MobilesRingtones, Bongotones, Ringtoneslab and Zedge.
+Mobile music is becoming an integral part of the music industry as a whole. In 2005, the International Federation of Phonographic Industries (IFPI) said it expects mobile music to generate more revenues that online music before the end of that year. In the first half of 2005, the digital music market grew enough to offset the fall in the traditional music market – without including the sale of ringtones, which still makes up the majority of mobile music sales around the globe.
+
+Video
+Mobile video comes in several forms including 3GPP, MPEG-4, RTSP, and Flash Lite.
+
+Mobishows and cellsodes
+A Mobishow or a cellsode are terms to describe a broadcast quality programme / series which has been produced, directed, edited and encoded for the mobile phone. Mobishows and Cellsodes can range from short video clips such as betting advice or the latest celebrity gossip, through to half-hour drama serials. Examples include The Ashes and Mr Paparazzi Show which both were created for mobile viewing.
+
+Streaming
+
+Radio
+Mobile streaming radio is an application that streams on-demand audio channels or live radio stations to the mobile phone. In the U.S., mSpot was the first company to develop and commercialize streaming radio which went live in March 2005 on Sprint. Today, all major carriers offer some sort streaming radio service featuring programmed stations based on popular genres and live stations which included both music and talk.
+
+TV
+
+Mobile video also comes in the form of streaming TV over the mobile network, which must be a 2.5G or 3G network. This mimics a television station in that the user cannot elect to see what they wish but must watch whatever is on the channel at the time.
+There is also mobile broadcast TV, which operates like a traditional television station and broadcasts the content over a different spectrum. This frees up the mobile network to handle calls and other data usage, and because of the "one-to-many" nature of mobile broadcast TV the video quality is a lot better than that streamed over the mobile networks, which is a "one-to-one" system.
+The problem is that broadcast technologies do not have a natural up link, so for users to interact with the TV stream the service has to be closely integrated to the carriers mobile network. The main technologies for broadcast TV are DVB-H, Digital Multimedia Broadcasting (DMB), and MediaFLO.
+
+Live video
+Live video can also be streamed and shared from a cell phone through applications like Qik and InstaLively. The uploaded video can be shared to friends through emails or social networking sites. Most Live video streaming application works over the cell network or through Wi-Fi. They also require most users to have a dataplan from their cell phone carriers.
+
+International trends
+Since the late 1990s, mobile content has become an increasingly important market worldwide. The South Koreans are the world leaders in Mobile Content and 3-G mobile networks, then the Japanese, followed closely by the Europeans, are heavy users of their mobile phones and have been attaining custom mobile content for their devices for years. In fact, mobile phone use has begun to exceed the use of PCs in some countries. In the United States and Canada, mobile phone use and the accompanying use of mobile content has been slower to gain traction because of political issues and because open networks do not exist in America.
+On current trends, mobile phone content plays an increasing role in the lives of millions across the globe as users depend on their mobile phones to keep in touch not only with their friends but with world news, sports scores, the latest movies and music, and more.
+Mobile content is usually downloaded through WAP sites, but new methods are on the rise. In Italy, 800,000 people are registered users to Passa Parola, an application that allows users to browse a big database for mobile content and directly download it to their handsets. This tool can also be used to recommend content to others, or send content as a gift.
+An increasing number of people are also beginning to use applications like Qik to upload and share their videos from their cell phone to the internet. Mobile phone software like Qik allows user to share their videos to their friends through emails, SMS, and even social networking sites like Twitter and Facebook.
+A 2016 Pew Research report "The Modem News Consumer" said 70 percent of those ages 18–29 preferred getting news from mobile devices rather than desktops, while the number was 53 percent for persons 30 to 49.
+
+References
+
+Further reading
+"The Problem With Free Mobile Content". MocoNews. 2006-04-01.
+"Mobile Content, No Lifeline". Unstrung. 2006-06-27. Big Cat Rescue offers Mobile Content
+"Mary Meeker's Latest Mobile Trend Slides". TechCrunch. 2011-02-10.
+"The Sweet Spot for Mobile Apps". Reuters. 2011-07-28.
+"Why Startups Are Building Mobile Apps First". Forbes. 2011-07-29.
+
+[[Barcode]] [[Channel capacity]] [[Wikipedia]]

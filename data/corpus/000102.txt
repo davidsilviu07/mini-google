@@ -1,0 +1,103 @@
+Autonomic computing
+Autonomic computing (AC) is distributed computing resources with self-managing characteristics, adapting to unpredictable changes while hiding intrinsic complexity to operators and users. Initiated by IBM in 2001, this initiative ultimately aimed to develop computer systems capable of self-management, to overcome the rapidly growing complexity of computing systems management, and to reduce the barrier that complexity poses to further growth.
+
+Description
+The AC system concept is designed to make adaptive decisions, using high-level policies. It will constantly check and optimize its status and automatically adapt itself to changing conditions.  An autonomic computing framework is composed of autonomic components (AC) interacting with each other. An AC can be modeled in terms of two main control schemes (local and global) with sensors (for self-monitoring), effectors (for self-adjustment), knowledge and planner/adapter for exploiting policies based on self- and environment awareness. This architecture is sometimes referred to as Monitor-Analyze-Plan-Execute (MAPE).
+Driven by such vision, a variety of architectural frameworks based on "self-regulating" autonomic components has been recently proposed. A similar trend has recently characterized significant research in the area of multi-agent systems. However, most of these approaches are typically conceived with centralized or cluster-based server architectures in mind and mostly address the need of reducing management costs rather than the need of enabling complex software systems or providing innovative services. Some autonomic systems involve mobile agents interacting via loosely coupled communication mechanisms.
+Autonomy-oriented computation is a paradigm proposed by Jiming Liu in 2001 that uses artificial systems imitating social animals' collective behaviours to solve difficult computational problems. For example, ant colony optimization could be studied in this paradigm.
+
+Problem of growing complexity
+Forecasts suggested that the computing devices in use would grow at 38% per year and the average complexity of each device was increasing. This volume and complexity was managed by highly skilled humans; but the demand for skilled IT personnel was already outstripping supply, with labour costs exceeding equipment costs by a ratio of up to 18:1. Computing systems have brought great benefits of speed and automation but there is now an overwhelming economic need to automate their maintenance.
+In a 2003 IEEE Computer article, Kephart and Chess
+warn that the dream of interconnectivity of computing systems and devices could become the "nightmare of pervasive computing" in which architects are unable to anticipate, design and maintain the complexity of interactions. They state the essence of autonomic computing is system self-management, freeing administrators from low-level task management while delivering better system behavior.
+A general problem of modern distributed computing systems is that their complexity, and in particular the complexity of their management, is becoming a significant limiting factor in their further development. Large companies and institutions are employing large-scale computer networks for communication and computation. The distributed applications running on these computer networks are diverse and deal with multiple tasks, ranging from internal control processes to presenting web content to customer support.
+Additionally, mobile computing is pervading these networks at an increasing speed: employees need to communicate with their companies while they are not in their office. They do so by using laptops, personal digital assistants, or mobile phones with diverse forms of wireless technologies to access their companies' data.
+This creates an enormous complexity in the overall computer network which is hard to control manually by human operators. Manual control is time-consuming, expensive, and error-prone. The manual effort needed to control a growing networked computer-system tends to increase quickly.
+80% of such problems in infrastructure happen at the client specific application and database layer. Most 'autonomic' service providers guarantee only up to the basic plumbing layer (power, hardware, operating system, network and basic database parameters).
+
+Characteristics of autonomic systems
+A possible solution could be to enable modern, networked computing systems to manage themselves without direct human intervention. The Autonomic Computing Initiative (ACI) aims at providing the foundation for autonomic systems. It is inspired by the autonomic nervous system of the human body. This nervous system controls important bodily functions (e.g. respiration, heart rate, and blood pressure) without any conscious intervention.
+In a self-managing autonomic system, the human operator takes on a new role: instead of controlling the system directly, he/she defines general policies and rules that guide the self-management process. For this process, IBM defined the following four types of property referred to as self-star (also called self-*, self-x, or auto-*) properties. 
+
+Self-configuration: Automatic configuration of components;
+Self-healing: Automatic discovery, and correction of faults;
+Self-optimization: Automatic monitoring and control of resources to ensure the optimal functioning with respect to the defined requirements;
+Self-protection: Proactive identification and protection from arbitrary attacks.
+Others such as Poslad and Nami and Sharifi have expanded on the set of self-star as follows:
+
+Self-regulation: A system that operates to maintain some parameter, e.g., Quality of service, within a reset range without external control;
+Self-learning: Systems use machine learning techniques such as unsupervised learning which does not require external control;
+Self-awareness (also called Self-inspection and Self-decision): System must know itself. It must know the extent of its own resources and the resources it links to. A system must be aware of its internal components and external links in order to control and manage them;
+Self-organization: System structure driven by physics-type models without explicit pressure or involvement from outside the system;
+Self-creation (also called Self-assembly, Self-replication): System driven by ecological and social type models without explicit pressure or involvement from outside the system. A system's members are self-motivated and self-driven, generating complexity and order in a creative response to a continuously changing strategic demand;
+Self-management (also called self-governance): A system that manages itself without external intervention. What is being managed can vary dependent on the system and application. Self -management also refers to a set of self-star processes such as autonomic computing rather than a single self-star process;
+Self-description (also called self-explanation or Self-representation): A system explains itself. It is capable of being understood (by humans) without further explanation. 
+IBM has set forth eight conditions that define an autonomic system:
+The system must
+
+know itself in terms of what resources it has access to, what its capabilities and limitations are and how and why it is connected to other systems;
+be able to automatically configure and reconfigure itself depending on the changing computing environment;
+be able to optimize its performance to ensure the most efficient computing process;
+be able to work around encountered problems by either repairing itself or routing functions away from the trouble;
+detect, identify and protect itself against various types of attacks to maintain overall system security and integrity;
+adapt to its environment as it changes, interacting with neighboring systems and establishing communication protocols;
+rely on open standards and cannot exist in a proprietary environment;
+anticipate the demand on its resources while staying transparent to users.
+Even though the purpose and thus the behaviour of autonomic systems vary from system to system, every autonomic system should be able to exhibit a minimum set of properties to achieve its purpose:
+
+Automatic: This essentially means being able to self-control its internal functions and operations. As such, an autonomic system must be self-contained and able to start-up and operate without any manual intervention or external help. Again, the knowledge required to bootstrap the system (Know-how) must be inherent to the system.
+Adaptive: An autonomic system must be able to change its operation (i.e., its configuration, state and functions). This will allow the system to cope with temporal and spatial changes in its operational context either long term (environment customisation/optimisation) or short term (exceptional conditions such as malicious attacks, faults, etc.).
+Aware: An autonomic system must be able to monitor (sense) its operational context as well as its internal state in order to be able to assess if its current operation serves its purpose. Awareness will control adaptation of its operational behaviour in response to context or state changes.
+
+Evolutionary levels
+IBM defined five evolutionary levels, or the autonomic deployment model, for the deployment of autonomic systems:
+
+Level 1 is the basic level that presents the current situation where systems are essentially managed manually.
+Levels 2–4 introduce increasingly automated management functions, while
+level 5 represents the ultimate goal of autonomic, self-managing systems.
+
+Design patterns
+The design complexity of Autonomic Systems can be simplified by utilizing design patterns such as the model–view–controller (MVC) pattern to improve concern separation by encapsulating functional concerns.
+
+Control loops
+A basic concept that will be applied in Autonomic Systems are closed control loops. This well-known concept stems from Process Control Theory. Essentially, a closed control loop in a self-managing system monitors some resource (software or hardware component) and autonomously tries to keep its parameters within a desired range.
+According to IBM, hundreds or even thousands of these control loops are expected to work in a large-scale self-managing computer system.
+
+Conceptual model
+
+A fundamental building block of an autonomic system is the sensing capability (Sensors Si), which enables the system to observe its external operational context. Inherent to an autonomic system is the knowledge of the Purpose (intention) and the Know-how to operate itself (e.g., bootstrapping, configuration knowledge, interpretation of sensory data, etc.) without external intervention. The actual operation of the autonomic system is dictated by the Logic, which is responsible for making the right decisions to serve its Purpose, and influence by the observation of the operational context (based on the sensor input).
+This model highlights the fact that the operation of an autonomic system is purpose-driven. This includes its mission (e.g., the service it is supposed to offer), the policies (e.g., that define the basic behaviour), and the "survival instinct". If seen as a control system this would be encoded as a feedback error function or in a heuristically assisted system as an algorithm combined with set of heuristics bounding its operational space.
+
+See also
+Autonomic networking
+Autonomic nervous system
+Organic computing
+Resilience (network)
+
+References
+
+External links
+International Conference on Autonomic Computing (ICAC 2013)
+Autonomic Computing by Richard Murch published by IBM Press[link removed]
+Autonomic Computing articles and tutorials
+Practical Autonomic Computing – Roadmap to Self Managing Technology
+Autonomic computing blog
+Whitestein Technologies – provider of development and integration environment for autonomic computing software
+Applied Autonomics provides Autonomic Web Services
+Enigmatec Website – providers of autonomic computing software
+Handsfree Networks – providers of autonomic computing software Archived 2013-08-17 at the Wayback Machine
+CASCADAS Project: Component-ware for Autonomic, Situation-aware Communications And Dynamically Adaptable, funded by the European Union
+CASCADAS Autonomic Tool-Kit in Open Source
+ANA Project: Autonomic Network Architecture Research Project, funded by the European Union
+JADE – A framework for developing autonomic administration software
+Barcelona Supercomputing Center – Autonomic Systems and eBusiness Platforms
+SOCRATES: Self-Optimization and Self-Configuration in Wireless Networks
+Dynamically Self Configuring Automotive Systems
+ASSL (Autonomic System Specification Language) : A Framework for Specification, Validation and Generation of Autonomic Systems
+Explanation of Autonomic Computing and its usage for business processes (IBM)- in German
+Autonomic Computing Architecture in the RKBExplorer
+International Journal of Autonomic Computing
+BiSNET/e: A Cognitive Sensor Networking Architecture with Evolutionary Multiobjective Optimization
+Licas: Open source framework for building service-based networks with integrated Autonomic Manager.
+
+[[Computer network]] [[Distributed computing]] [[Laptop]] [[Sensor]]

@@ -1,0 +1,35 @@
+Geometric modeling kernel
+A geometric modeling kernel is a solid modeling software component used in computer-aided design (CAD) packages. Available modelling kernels include:
+
+ACIS is developed and licensed by Spatial Corporation of Dassault Systèmes.
+SMLib is developed by Solid Modeling Solutions.
+Convergence Geometric Modeler is developed by Dassault Systèmes.
+Parasolid is developed and licensed by Siemens.
+Romulus was a predecessor to Parasolid.
+ShapeManager is developed by Autodesk and was forked from ACIS in 2001.
+Granite is developed by Parametric Technology Corporation.
+C3D Modeler is developed by C3D Labs, part of the ASCON Group.
+CGAL is an open-source Computational Geometry Algorithms Library which has support for Boolean operations on Polyhedra; but no sweep, revolve or NURBS.
+Open CASCADE is an open-source modeling kernel.
+sgCore is a freeware proprietary modeling kernel distributed as an SDK.
+K3 kernel is developed by Center GeoS.
+SOLIDS++ is developed by IntegrityWare, Inc.
+APM Engine is developed by RSDC APM.
+KCM is developed and licensed by Kubotek Kosmos
+SvLis Geometric Kernel became opensource and discontinued, for Windows only.
+IRIT modeling environment, for Windows only.
+GTS GNU Triangulated Surface Library, for polygon meshes only and not surfaces.
+Russian Geometric Kernel.
+Geometry Kernel, a multi-platform C++ library with source code accessible for clients, developed and distributed by RDF - Geometry Kernel web site.
+SolveSpace has its own integrated parametric solid geometry kernel with a limited NURBS support.
+
+Kernel market
+The kernel market currently is dominated by Parasolid and ACIS, which were introduced in the late 1980s. The latest kernel to enter the market is KCM. ShapeManager has no presence in the kernel licensing market and in 2001 Autodesk clearly stated they were not going into this business.
+The world's newest geometric modeling kernel is Russian Geometric Kernel owned by the Russian government, and it is not clear if it is going to be commercially available, despite offering unique features over the other kernels on the market.
+
+Kernel developers
+The table below contains a representative list of developers developing their own kernel or licensing the kernel from a third-party.
+
+References
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Fusion]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IPad]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,0 +1,56 @@
+Ballot
+A ballot is a device used to cast votes in an election and may be found as a piece of paper or a small ball used in voting. It was originally a small ball (see blackballing) used to record decisions made by voters in Italy around the 16th century.
+For each election, each voter uses one ballot, and ballots are not shared. In the simplest elections, a ballot may be a scrap of paper on which each voter writes in the name of a candidate, but governmental elections use printed ballots to protect the secrecy of the votes. The voter casts their ballot in a box at a polling station.
+In British English, this is usually called a "ballot paper". The word ballot is used for an election process within an organization (such as a trade union "holding a ballot" of its members).
+
+Etymology
+The word ballot comes from Italian pallotta, meaning a "small ball used in voting" or a "secret vote taken by ballots" in Venice, Italy.
+
+History
+In ancient Greece, citizens used pieces of broken pottery to scratch in the name of the target of the ostracism.
+The first use of paper ballots to conduct an election appears to have been in Rome in 139 BC, following the introduction of the lex Gabinia tabellaria.
+In ancient India, around 920 AD, in Tamil Nadu, palm leaves were used for village assembly elections. The palm leaves with candidate names were put inside a mud pot for counting. This was called Kudavolai system.
+The first use of paper ballots in America was in 1629 within the Massachusetts Bay Colony to select a pastor for the Salem Church. Paper ballots were pieces of paper marked and supplied by voters.
+Before the introduction of the secret ballot, American political parties distributed ballots listing their own candidates for party supporters to deposit in ballot boxes.
+
+The "Australian ballot" was a piece of paper which had the names of all the candidates and all the parties in the district printed on it. It allowed secret voting.
+
+Types of voting systems
+Depending on the type of voting system used in the election, different ballots may be used. Ranked ballots allow voters to rank candidates in order of preference, while ballots for first-past-the-post systems only allow voters to select one candidate for each position. In party-list systems, lists may be open or closed.
+
+Design
+Ballot design can aid or inhibit clarity in an election. Poor designs lead to confusion and potentially chaos if large numbers of voters spoil or mismark a ballot. The "butterfly ballot" used in the Palm Beach County, Florida 2000 U.S. presidential election (a ballot paper that has names down both sides, with a single column of punch holes in the center, which has been likened to a maze) led to widespread allegations of mismarked ballots. The ballot was designed to have a larger print, making it easier for the elderly voters of Palm Beach to read, but instead, it led to the names of candidates being alternately offset, with lines on both sides of each punch hole, creating confusion. The butterfly ballot is credited with tipping the 2000 U.S. presidential election to George W. Bush. 
+
+Methods
+
+In a jurisdiction using an all-paper system, voters choose by marking their preference on the ballot or, as in the case of Israel and France, picking one premarked ballot among many. In most jurisdictions the ballots are preprinted with names of candidates and the text of the referendums. Japan is an exception, requiring voters to write candidate names on the ballot. In the U.S., write-in candidates are allowed in many election systems. Election officials manually count the votes after the polls close and may recount them in the event of a dispute.
+In a jurisdiction using an optical scan voting system, voters choose by filling an oval, by completing an arrow, or (as in South Korea) by stamping a box, on the printed ballot next to their chosen option, similar to many standardized tests. Voters with disabilities may be provided with electronic ballot marking devices.
+Alternatively, voters could pick from one pre-marked ballot among many (similar to the paper ballot systems in Israel and France), which would then be scanned by an optical scanner. Tabulating machines count the ballots either after the polls close or as the voters feed the ballots into the machine, in which case the results are not known until after the polls close. Officials will often manually count any ballots that cannot be read or with a write-in candidate and may recount all ballots in the event of a dispute.
+In a jurisdiction using a punched card system, voters choose by removing or "punching out" a perforated chad from the ballot next to each choice, sometimes with tools as simple as a pin, but usually with a ballot marking device such as the Votomatic. The ballot may be preprinted with candidates and referendums, or may be a generic ballot placed under a printed list of candidates and referendums. Tabulating machines count ballots after the polls close. Officials may manually count the ballots in the event of a dispute. Punched card voting systems are being replaced by other voting systems because of a high rate of inaccuracy related to the incomplete removal of the perforated chad and the inaccessibility to voters with disabilities.
+In a jurisdiction using a mechanical voting system, often called a "voting machine", voters choose by pulling a lever next to their choice. There is a printed list of candidates, parties and referendums next to the levers indicating which lever is assigned to which choice. When the voter pulls a lever, it turns a connected gear in the machine, which turns a counter wheel. Each counter wheel shows a number, which is the number of votes cast using that lever. After the polls close, election officials check the wheels' positions and record the totals. No physical ballot is used in this system, except when the voter chooses to write-in a candidate. Other systems are replacing mechanical voting systems because they are inaccessible to disabled voters, do not have a physical ballot, or are getting old.
+
+In a jurisdiction using an electronic direct record voting system (DRE), voters choose by pushing a button next to a printed list of candidates and referendums, or by touching the candidate or referendums box on a touchscreen interface, or (as in Brazil) by inputting alphanumeric codes that correspond to candidates or positions. As the voter makes a selection, the DRE creates an electronic ballot stored in the memory components of the system. After the polls close, the system counts the votes and reports the totals to the election officials. Many DREs include a communication device to transmit vote totals to a central tabulator. The touchscreen systems are similar to an automated teller machine (ATM).
+Most DRE voting machines in the U.S. now include an auditable paper ballot, a widely accepted best practice for election administration. After voters register their choices on the touchscreen, a paper ballot is created with the choices printed on it. The voter visually verifies that the choices are correct, then inserts the paper ballot into a secure box where ballots are accumulated for use in audits or recounts.
+As of the 2024 US general election, only 1.4 percent of voters use DRE machines without a paper record, including the entire state of Louisiana.
+
+See also
+Ballot box
+Chad (paper)
+Direct democracy
+Electoral fraud
+List of democracy and elections-related topics
+Ostracism
+Sample ballot
+Secret ballot
+Vote counting
+
+References
+
+Further reading
+Smith, Sydney (1839). Ballot . London: Longman, Orme, Brown, Green and Longmans.
+
+External links
+
+"Ballot" . Encyclopædia Britannica (11th ed.). 1911.
+
+[[Absentee ballot]] [[Abstention]] [[Alternative vote plus]] [[Ballot box]] [[Ballot marking device]] [[Binomial voting system]] [[Biometric voter registration]] [[Candidate]] [[Carousel voting]] [[Chad (paper)]] [[Coattail effect]] [[Compulsory voting]] [[Cumulative voting]] [[DRE voting machine]] [[Direct democracy]] [[Donkey vote]] [[Early voting]] [[Election boycott]] [[Election ink]] [[Electoral district]] [[Electoral fraud]] [[Electoral precinct]] [[Electoral system]] [[Electronic voting]] [[Family voting]] [[First-past-the-post voting]] [[General ticket]]

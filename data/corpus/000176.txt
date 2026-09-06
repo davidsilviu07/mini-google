@@ -1,0 +1,73 @@
+Calma
+Calma Company, based in Sunnyvale, California, was, between 1965 and 1988, a vendor of digitizers and minicomputer-based graphics systems targeted at the cartographic and electronic, mechanical and architectural design markets.
+In the electronic area, the company's best known products were GDS (an abbreviation for "Graphic Design System" ), introduced in 1971, and GDS II, introduced in 1978.  By the end of the 1970s, Calma systems were installed in virtually every major semiconductor manufacturing company.
+The external format of the GDS II database, known as GDS II Stream Format, became a de facto standard for the interchange of IC mask information.  The use of this format persisted into the 21st century, long after the demise of the GDS II computer system.
+In the integrated circuit industry jargon of 2008, "GDS II" referred no longer to the computer system, but to the format itself.  Vendors of electronic design automation software often use the phrase "from RTL to GDSII" to imply that their system will take users from a high-level logic design to a completed integrated circuit layout ready for delivery to the mask vendor.
+In the mechanical area, the DDM (for "Design Drafting and Manufacturing") product was introduced in 1977.  It was later extended, under the name "Dimension III", to address the architecture, engineering and construction (AEC) market.  By 1983, these two products together accounted for 60% of Calma's revenue. 
+Dimension III continued to be used as late as the late 1990s.
+
+History
+Calma Company was incorporated in California on November 13, 1963.  Its initial business was as a product distributor, continuing the business of a previously existing partnership of the same name.  The company took its name from its founders, Calvin and Irma  Louise Hefte.
+In 1965 Calma introduced the Calma Digitizer, a device consisting of a table-like surface with constrained cursor, whereby an operator could enter coordinate data from a paper drawing and have it turned into computer readable form.
+In about 1969, the company undertook to develop a minicomputer-based graphics system built around a digitizer.  This effort was spurred by the arrival of Josef Sukonick, a recent MIT math PhD who had become aware of the market potential for such a system for integrated circuit (IC) design through his work at the CAD (computer-aided design) group of Fairchild Semiconductor in Sunnyvale, CA.  The GDS software system was conceived and, in its initial implementation, almost single-handedly built by Dr. Sukonick. The first GDS system was shipped in late 1971 to Intel.
+The growth of sales of GDS paralleled that of the nascent integrated circuit industry.  By August 1976 there were 121 GDS systems installed at 70 companies including many Fortune 500 corporations including Motorola, International Telephone & Telegraph, Fairchild Semiconductor, and others.  Of these, 43 were installed outside the U.S.
+In 1978, Calma, which never had a public stock offering, was acquired by United Telecommunications, Inc., (UTI) of Kansas City, Missouri, for $17 million in stock.  Calma became part of UTI's United Computing Systems (UCS) operating unit.  UTI took a hands-off approach to managing its acquisition, allowing Calma to continue largely unchanged on its growth path.
+In 1978, Calma introduced GDS II (pronounced "G-D-S two"), a modernized replacement for GDS. With its 32-bit database, GDS II met the need for greater capacity and resolution in IC designs. GDS II quickly replaced GDS as the data entry system of choice for many IC design groups.  By late 1980, there were 171 installed GDS II systems.
+In December 1980, the sale of Calma by UTI to General Electric (GE) was announced.  The sale price was $110 million, with an additional $60 million contingent on Calma's profits over the next five years. The acquisition was completed on April 1, 1981. 
+GE had grander designs for Calma than had UTI.  In addition to the hope of maintaining dominance in the IC market, GE aimed for Calma to expand in the architectural, engineering, manufacturing and construction markets – "factory of the future" was a prominent slogan. Due partly to a mass exodus of talent after GE moved its own people into key management positions, partly due to excessive expectations, the changing nature of the market and the inherent difficulty of keeping up with rapidly changing technology, these ambitions went largely unrealized.
+Beginning in 1988, GE sold Calma.  The electronic side of the business was sold to Valid Logic Systems in April 1988.  (Valid in turn was acquired by Cadence Design Systems in 1991).  The remainder of the business (mechanical/architectural) was acquired by Prime Computer in a sale completed in January 1989.  Prime had just completed a hostile take-over of Computervision. Prime basically merged the Calma Mechanical and AEC product lines with Computervision. Computervision, including the Dimension III product, was acquired by Parametric Technology Corporation in 1998.
+
+Business and financial
+The following data on sales, earnings, and employee count are drawn from a number of sources.  Financial data 1973–1977 are from.
+
+At the time of the 1978 acquisition by UTI, the largest shareholder was Calma board chairman Ronald D. Cone.  He held 321,706 of Calma's 635,266 outstanding shares.
+
+Legal
+In February 1977, Computervision (CV) filed suit in federal court over Calma's hiring of a group of 5 employees from CV in San Diego.  (This group developed Calma's DDM product.)  The CV suit against Calma and the five employees alleged breach of competition, breach of non-competition agreements, and interference with contractual relations.  This draining lawsuit was finally settled out of court in October 1979.  In the UTI acquisition of Calma in 1978, 5% of the newly issued stock was held in escrow as a reserve pending the outcome of this litigation.
+
+Buildings
+As early as 1970, Calma occupied a building at 707 Kifer Road in Sunnyvale.  Roughly 10,000 square feet (900 m2), the building consisted of a large warehouse/manufacturing area in the rear, with an office area of about 10 offices in the front.  Somewhat later, an additional building to the rear (on San Gabriel Drive) was leased as a manufacturing/shipping area, bringing total square footage to 35,000.
+In February 1978, the company relocated to a 67,000-square-foot (6,200 m2) single-story building at 527 Lakeside Drive in Sunnyvale, part of the newly developed Oakmead Village industrial park.
+Additional buildings were added as the employee count grew.  In 1979, the R&D department moved to a building at 212 Gibraltar Drive (corner of Borregas Avenue) in the Moffett Park area of Sunnyvale.  Other buildings were added in the area.
+In 1980 a new 210,000 square feet (19,500 m2) manufacturing facility was opened in Milpitas, California. 
+In 1982 a new 109,000-square-foot (10,100 m2) headquarters was opened in Santa Clara, California.
+In 1984 Calma bought a 108,000 square feet (10,000 m2) facility near Dublin, Ireland, that had originally been built for Trilogy Systems.
+
+Products
+
+General description (1978)
+The following is quoted from:
+
+Calma's computer-aided design and drafting systems (also referred to as interactive graphics systems) are comprised of component hardware modules, electronic interfaces, and software programs.  Most of the systems sold are constructed by combining available components to meet the requirements of the customers' specific design or drafting application.  Calma's systems enable customers to automate a wide variety of design and manufacturing processes which have previously been performed manually.
+The primary hardware components of a system are a central processing unit, operator stations and plotter outputs.
+Their GDS I and II software operated on Data General Corporation's Nova and Eclipse line of 16 bit mini Computers.  Sketches or layouts of electronic system were first manually drawn on mylar or paper to scale and were placed on large backlit 48 by 60 inch table digitizers.  Using a moving stylus, these layouts were organized in layers, first placing the smaller common and custom circuits, created in a library, then manually traced their interconnecting circuitry on further layers, the completed layout then stored in computer files.  
+Printed Circuit Boards (PCB's) and Small Scale Integrated Circuits (SSIC) were manually traced buy an operator, usually a draftsman or electronic engineer then plotted on a large pen plotter (In later years to faster Electrostatic Plotters) to be visually inspected to confirm that the physical layout properly matched the schematic.  Once the layout and schematics final edits were manually checked to confirm their accuracy, the multiple layers of the physical circuitry were sent to a film plotter to create masks for fabrication.
+The central processing unit consists of a minicomputer, a computer console and page printer, a magnetic tape transport and a magnetic disk memory unit.
+Other optional peripheral devices such as card readers and paper tape punches are also available.  These components are interfaced with Calma-designed and manufactured controllers, and integrated into a single unit with system software designed and programmed by Calma.
+An operator station consists of a digitizing device, an interactive cathode ray tube (CRT) display unit, coordinate readouts and a keyboard.  The main difference between stations is in the type of digitizing input station used.  The Calma digitizer is a backlit 48 by 60 inch table.  To digitize analog graphical data directly on computer-compatible medium, the operator of the digitizer manually traces graphical data with a moveable stylus.  The graphic tablet has a smaller surface and is operated with an electromechanical graphic pen and were used primary to edit an electronic layout once it was digitized.
+The digitizing input station is linked by system software to the CRT display, which allows an almost instantaneous display of any segment of the source drawing or a graphic element from the library.  The CRT display also has windowing and magnification capability.
+An alphanumeric keyboard is used for entering text, scaling information, dimensions and commands, and an optional functional keyboard is available for entering frequently used functions, symbols and macro commands.
+The output most commonly used in Calma's systems is a graphic plotter.  Calma software supports both on and off-line pen and photo plotting devices.
+Calma's computer-aided design systems are used in a wide variety of applications.  To date systems have been sold principally to electronics firms for use in the design of integrated circuits, printed circuit boards and electrical schematics; to governmental agencies and public utilities for use in cartographic applications; and to manufacturing companies for use in the design of mechanical parts and systems.
+
+Calmagraphics/CGI
+
+GDS
+
+GDS II
+
+For an overview of the GDS II system as it was 1981, see.  Some scanned product documents can be found at  and.
+The original GDS system used Data General mini-computers to digitize and assemble chip designs. The UI consisted of simple one or two letter commands, and a set of colored lights as a response. The operator typed a command, and if the green light came on, it was successful.
+GDSII introduced an actual Command Line Interface (CLI), where the user typed commands that were echoed back to the screen. GDS systems had no text screen at all, just a "green-screen" oscilloscope type display. GDSII introduced a text display, using a regular text terminal in addition to the 'scope screen, and also introduced the first color screens.
+This ushered in the new method of "online design", where the drafting employees actually sat at the screen and drew the chips. In the older GDS systems, an operator took the mylar drawings and digitized them in.
+A typical GDSII system in 1980 would have a 300 MB disk, 1-2 MB of memory, using a 16-bit DG minicomputer and up to 4 screens. This cost over $500,000 in 1980 dollars.
+
+DDM
+DDM (short for "Design, Drafting, Manufacturing") was a 3-dimensional wireframe computer-aided design application.  In the mid-1980s, it was one of the top ten selling CAD packages on the market.  By 2006, DDM continued to be supported by Parametric Technology Corporation [1] as "Dimension III".
+The General Motors Central Foundry Division (GM-CFD) had applied DDM to the design of castings and tooling for automotive components such as engine blocks, cylinder heads and steering knuckles.  DDM was run on Calma's proprietary dual-monitor workstation hardware connected to Data General Nova and later Digital VAX 11/780-series computers.  GM-CFD had DDM installations in Saginaw, MI, Pontiac, MI, Defiance, OH, Bedford, IN, Danville, IL and Massena, NY.
+
+References
+
+Sources
+
+[[Cadence Design Systems]] [[Central processing unit]] [[Computer-aided design]] [[Electronic design automation]] [[GDSII]] [[Integrated circuit]] [[Integrated circuit layout]]

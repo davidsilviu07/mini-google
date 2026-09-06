@@ -1,0 +1,78 @@
+Siemens NX
+NX, formerly known as "Unigraphics", is CAD/CAM/CAE software, which has been owned since 2007 by Siemens Digital Industries Software. In 2000, Unigraphics purchased SDRC I-DEAS and began an effort to integrate aspects of both software packages into a single product which became Unigraphics NX or NX.
+It is used, among other tasks, for:
+
+Design (parametric and direct solid/surface modelling)
+Engineering analysis (static; dynamic; electro-magnetic; thermal, using the finite element method; and fluid, using the finite volume method).
+Manufacturing finished design by using included machining modules.
+NX is a direct competitor to CATIA, SolidWorks, Creo, and Autodesk Inventor.
+
+History
+1972: United Computing, Inc. releases UNIAPT, one of the world's first end-user CAM products.
+1973: The company purchases the Automated Drafting and Machining (ADAM) software code from MCS in 1973. The code became a foundation for a product called UNI-GRAPHICS, later sold commercially as Unigraphics in 1975.
+1976: McDonnell Douglas Corporation buys United Computing.
+1983: UniSolids V1.0 is released, marking the industry's first true interactive Solid Modeling software offering.
+1991: During a period of financial difficulties McDonnell Douglas Automation Company (McAuto) sells its commercial services organization, including the Unigraphics organization and product, to EDS which at that time is owned by GM. Unigraphics becomes GM's corporate CAD system.
+1992: Over 21,000 seats of Unigraphics are being used worldwide.
+1996: Unigraphics V11.0 is released with enhancements in Industrial Design and Modeling including Bridge Surface, Curvature Analysis for Curve and Surfaces, Face Blends, Variable Offset Surface, etc. In the area of Assembly Modeling the new capabilities include Component Filters, Faceted Representations, and Clearance Analysis between multiple Components.  A fully integrated Spreadsheet linked to Feature-Based Modeling is also included..
+2002: First release of the new "Next Generation" version of Unigraphics and I-DEAS,  called NX, beginning the transition to bring the functionality and capabilities of both Unigraphics and I-DEAS together into a single consolidated product.
+2007: Introduction of Synchronous Technology in NX 5.
+2011: Release of NX8 on October 17-2011
+2013: Release of NX9 (x64 only) on October 14-2013
+
+Release history
+
+Key functions
+Computer-aided design (CAD)
+Parametric solid modeling (feature-based and direct modeling)
+Freeform surface modelling, class A surfaces.
+Reverse engineering
+Styling and computer-aided industrial design
+Product and manufacturing information (PMI)
+Reporting and analytics, verification and validation
+Knowledge reuse, including knowledge-based engineering
+Sheet metal design
+Assembly modelling and digital mockup
+Routing for electrical wiring and mechanical piping
+Computer-aided engineering (CAE)
+Stress analysis / finite element method (FEM)
+Kinematics
+Computational fluid dynamics (CFD) and thermal analysis
+Computer-aided manufacturing (CAM)
+Numerical control (NC) programming
+
+Supported operating systems and platforms
+NX runs on Linux, Microsoft Windows and Mac OS (Up to NX12).
+Starting with version 12, support for Windows versions prior to Windows 10 were removed.
+Starting with version 1847, support for macOS was completely removed, and the GUI was removed from the Linux version.
+
+Architecture
+NX uses Parasolid for its geometric modeling kernel and D-Cubed as associative engine for sketcher and assembly constraints as well as using JT (visualization format) for lightweight data and Multi-CAD.
+
+See also
+CATIA
+FreeCAD
+I-DEAS
+Inventor
+PTC Creo
+Solid Edge
+SolidWorks
+List of 3D printing software
+List of computer-aided manufacturing software
+List of aerospace engineering software
+
+Further reading
+Sicking, Paul O.; Allen, George A.; Valenzuela, Wilfredo R. (2024). "The History of Unigraphics, 1974–2001". IEEE Annals of the History of Computing. 46 (4): 70–83. doi:10.1109/MAHC.2024.3457235. ISSN 1058-6180.
+
+References
+
+Gallery
+
+Category:Screenshots of NX (Unigraphics)
+
+External links
+ Media related to NX (Unigraphics) screenshots at Wikimedia Commons
+
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Ansys]] [[Application software]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Fusion]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[General Motors]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,0 +1,184 @@
+OpenROAD Project
+The OpenROAD Project (Open Realization of Autonomous Design) is a major open-source project that aims to provide a fully automated, end-to-end digital integrated circuit design flow (RTL-to-GDSII), thereby eliminating the need for human intervention. The project, led by UC San Diego, aims to democratize hardware design and promote rapid innovation in integrated circuit (IC) design by reducing barriers related to cost, time, and experience.
+OpenROAD was started in 2018 to address the high cost, needed experience, and unpredictability of conventional EDA tools as part of DARPA's IDEA initiative. Its goal is to establish a 24-hour, no-human-in-loop (NHIL) flow that matches the usual quality of design, and produces layouts directly suitable for manufacturing. OpenROAD is released under a permissive BSD license to keep it freely available, despite the inclusion of commercial tools.
+Among OpenROAD's main features are scripting interfaces (Tcl/Python) and a common database (OpenDB), which help designers automate or personalize every phase of the digital design process. Projects using the flow range from Hammer at the University of California, Berkeley, to the FASoC analog/mixed-signal flow to the Zero-ASIC Silicon Compiler. Readymade open ASIC flows include OpenLane and OpenROAD scripts.
+
+History and motivation
+Modern digital integrated circuit design is a complex, multi-stage process that requires specialized, expensive, and proprietary tools along with expertise in tuning their parameters. DARPA's IDEA program under Andreas Olofsson initiated OpenROAD, an autonomous, open-source RTL-to-GDSII flow designed to address the "design cost crisis" by eliminating the need for expert tinkering and licensing, thereby democratizing chip design and enabling smaller companies, research groups, and academic institutions to produce semiconductor layouts.  The aim was to create a no-human-in-loop flow that could take an RTL description and generate a GDSII mask-ready layout in under 24 hours, with performance, power, and area (PPA) equivalent to commercial design processes.
+OpenROAD was led by UC San Diego professor Andrew Kahng.  It is supported by commercial partners Arm, Qualcomm, SkyWater, and others. The first iteration (v1.0, 2020) of a current FinFET technology (GF12LP, ~12 nm) produced a complete, integrated flow producing DRC-clean layouts. Along with an almost complete technology-node enhancement in PPA, Version 2.0 (2021) includes advanced capabilities (RC extraction, chip-package co-design). Hundreds of designs on the open SkyWater 130 nm PDK (complete with a Google MPW shuttle) and experimental runs on Intel 22 nm FinFET in 2021 have helped the community improve the flow over time. Forming the foundation of the OpenLane and ChipIgnite projects, the open-source ecosystem for RISC-V System-on-Chip (SoC) designs has expanded rapidly and is now considered the leading open-source physical design infrastructure for digital integrated circuits. Through university courses and events such as the 7 nm OpenROAD Design Challenge, which aim to increase the user base, the initiative aggressively promotes worker education and training.
+
+Design philosophy and architectural technique
+The keystones of the OpenROAD design philosophy are openness and automation. Its architecture is built on a shared in-memory design database and modular engines, each of which runs a step of the flow. Created by Athena Design Systems and turned open-source for this project, all of the tools share a common OpenDB data model and transmit data over standard LEF/DEF (and its binary variants). For RTL-to-GDS, designers can employ an autonomous OpenROAD flow script (ORFS) pipeline, or, for extra control, they can call certain stages using Tcl/Python commands driven by scripts. OpenROAD is, therefore, not just a reference autonomous flow but also a versatile platform for customized flows or research.
+The OpenROAD design forms a single EDA platform, as all essential RTL-to-GDSII processes are carried out by modules sharing a common database. Its open design lets new methods (machine learning (ML)-based tuning, GPU acceleration, etc.) be quickly incorporated and supports research and teaching, even as it continually optimizes to match industry power-to-performance (PPA) ratios.  The fundamental ideas are:
+
+No-Human-In-Loop (NHIL)
+The instruments are designed to run free from human direction. For example, OpenROAD's AutoTuner, a machine-learning architecture, methodically explores tool settings, thereby reducing the need for expert hand-tuning.
+
+Integrated Data Model
+All tools save the design in an Open Database (OpenDB).  OpenDB is hierarchical (it allows any cell hierarchy), rich in EDA features such as net connections, layout geometry, and timing, and compatible with LEF/DEF. This means that any step can query or modify the chip data without incurring the expense of file I/O. For example, placement results can be transmitted immediately to clock tree synthesis, or in-memory parasitics from routing can be reported back to static timing analysis.
+
+Extensibility and Scripting
+Every OpenROAD component is assessable through a Tcl command, such as clock_tree_synthesis, location, and route, that can embody scripting and extensions. A Python API, package OpenROAD-OpenDbPy, allows the same access from Python. This allows users to integrate OpenROAD into more general tool flows or construct their own design scripts. Designers can use the API to handle chores not native to OpenROAD, such as symmetric placements or customized power grid generation.
+
+Continual Integration and Quality
+OpenROAD utilizes Jenkins on Google Cloud to maintain a rigorous Continuous Integration (CI) pipeline, to catch errors and omissions as soon as possible. New designs, including genuine MPW projects and code analysis tools (like Coverity and code sanitizers), check for mistakes and are often used in regression tests. This focus on automation and testing enables early error identification and stability across a wide range of user designs.
+
+Multi-Node Support
+OpenROAD is technology-agnostic, supporting multiple nodes. Verification on a range of PDKs, including GlobalFoundries (GF) 12 nm, predictive 7 nm (ASAP7), SkyWater 130 nm, and GF 65 nm (CLN65LP), has been confirmed.  Alternatively, when a user supplies LEF/DEF or GDSII libraries for the target technology, and includes the required pin resistances for timing and layer capacities for routing, OpenROAD automatically changes its flow. Consequently, it can be applied to both older processes and complex nodes.
+
+Internal database (OpenDB)
+OpenROAD rests on OpenDB, the shared in-memory design database. First developed by Athena Design Systems and released under a BSD license in 2019, OpenDB aims to support this initiative. It is tightly based on the IEEE LEF/DEF standard, which is now supported by LEF/DEF 5.6 and includes improvements for suitable storage.
+Every OpenROAD tool operates from a single OpenDB instance. For example, floorplanning sets the cells there; placement changes those positions; clock-tree tools add buffers to OpenDB; routing adds wire geometry; and timing analysis obtains parasitics from OpenDB. The netlist and cell library data are placed in OpenDB following logic synthesis. This shared database approach removes the cost of format translation between stages and allows tight integration, that is, incremental changes and debugging.
+OpenDB has as its main qualities:
+
+Complete Physical Netlist Model
+OpenDB can represent the entire physical architecture, including obstacles, wires (routing geometries), pins, instances (with geometric locations), cell master definitions, and netlists. Thanks to its support of N levels of hierarchy, IP blocks and submodules may be stored and referenced.
+
+Properties and Attributes
+OpenDB offers a method for adding custom data to objects using sparse or dense attributes. This lets developers add more data, such as time slabs or congestion scores, to nets or cells without having to rewrite the database entirely.
+
+Binary Format and LEF/DEF I/O
+OpenDB has an in-built LEF/DEF parser, and designs are often entered into OpenDB from LEF/DEF format. OpenDB also supports a proprietary binary save format for speed, enabling it to reload designs far more quickly than textual LEF/DEF formats.  This is crucial for an autonomous process that can iterate quickly.
+
+Quick Queries
+OpenDB is designed to quickly answer queries frequently required by EDA algorithms. With indexed data structures, that is, for searching nets by name, objects by a bounding box, etc., it may store geometry (such as wires and barriers) compactly. Global routers and congestion analyzers, among other tools, utilize these searches to evaluate the layout efficiently.
+
+Signoff Exports
+In addition to reviewing the final design, OpenDB enables you to document it. It can produce DEF as well as even GDSII for layout signoff. OpenROAD generates a GDSII using OpenDB to run outside DRC and Layout versus schematic(LVS) tools on the final layout.
+
+RTL-to-GDSII flow
+Open ROAD follows the usual steps of an ASIC backend. Every stage is carried out using an open tool and interfaces use standard data formats (LEF/DEF, Liberty, SDC). At every stage, OpenROAD provides comprehensive reports and hooks. Users can search for cell density, timing data (via OpenSTA), congestion maps, and other relevant information. Alternatively, execute in headless mode or examine the flow using the OpenROAD App GUI. Because OpenROAD uses common design formats (Verilog, SDC, Liberty, and LEF/DEF) at its inputs and outputs, it can interface with many tools. A run of OpenROAD-flow-scripts may, for example, call write_gds at the end and Yosys (read_verilog, synth) at the beginning. Every phase of the operation can be automated or paused at any moment for inspection and review.
+The usual flow can be considered as follows:
+
+Logic Synthesis
+An RTL description (in Verilog) is first converted into a gate-level netlist using a logic synthesis tool. OpenROAD lacks its own synthesizer and instead utilizes existing tools. Most users use the open-source Yosys. Reading the RTL and a target cell library ( LIBerty.lib files), Yosys produces a flattened Verilog netlist. OpenDB loads the netlist, which includes timing arcs, into memory.
+
+Floorplanning and Macro Placement
+Physical planning begins once the netlist is established, involving the distribution of complex macros, pre-made blocks such as memory arrays, DSPs, and I/O pads, across the chip. Here, OpenROAD provides two complementary approaches:
+
+Floorplanning helps determine the original chip form, macro coordinates, and power ring zones. The result of the following stage is recorded, for instance, as a DEF floor plan.
+
+Standard-Cell Placement
+After the macros have been used, the hundreds to hundreds of thousands of fundamental logic gates, standard cells, are arranged in the remaining area. The analytical placement engine used globally by OpenROAD is RePlAce Under RePlAce's concept of placement, a continuous optimization, each cell is treated as a charged particle. Based on Nesterov's accelerated gradient descent, a nonlinear solution distributes cells to avoid overlaps and shifts them to lower wire lengths. RePlAce dynamically changes sizes and offers a novel function that locally smooths overlapping cell regions to promote convergence. The result is a high-quality placement with good routability and a low half-perimeter wire length (HPWL). RePlAce runs in time-driven mode, guiding placement using congestion estimates from global routing (typically using FastRoute) and slack information from static timing analysis (typically OpenSTA).  After global placement, a legalization step clamps cells to the fixed-row structure. The open database is then loaded with the final cell coordinates.
+
+Clock-Tree Synthesis (CTS)
+After placement, the clock network can be designed, for which OpenROAD uses TritonCTS 2.0. Using the target clock nets and the placed cells, TritonCTS automatically generates a buffered clock tree driving every clock pin. Since it characterizes buffers and wires in real time, no pre-computed library data is needed. Typically, building a balanced binary tree involves combining sinks, adding buffers at branch points, and routing clock lines, with the goal of lowering skew and minimizing insertion latency. TritonCTS automatically seeks a clock network with zero skew and minimum latency, even if users employs Tcl commands to change fundamental parameters (such as max slew and load capacitance). The generated clock pins and buffers are entered into OpenDB. Although TritonCTS provides a basic solution straight out of the box, scripting allows further unique clock-tree upgrades such as H-trees or buffered meshes.
+
+Global Routing
+After placement is finalized, but before detailed routing, a global router finds approximate paths for every net on a coarse grid. For this step, OpenROAD includes the open-source FastRoute
+
+engine from Iowa State University. This uses layer-by-layer net routing that forecasts congestion based on the set layout (cells and macros). It arranges nets based on available resources and treats each metal layer as a grid of rails. Built for speed, so it can run inside placement loops, FastRoute generates a global routing graph, or collection of "routing guides," specifying which tracks and layer nets will be routed. This data helps identify any hotspots for routing congestion. The global routing result is stored in OpenDB for use in placement (congestion feedback) and detailed router guide inputs.
+
+Detailed Routing
+Using the global routes as input, detailed routing allocates exact tracks and vias to link all nets. OpenROAD's detailed router is TritonRoute. The first phases in TritonRoute's multi-stage procedure are pin access, which ties cell pins to routing tracks, and performs track assignment for every net. After this initial routing, it then follows an iterative search and repair process relying on maze routing.  Using variants of the A* or Lee algorithms, in the "search and repair" phase congested wires are split and redirected using additional pins or space. Triton Route enforces design constraints (minimum spacing, width, and via rules) using an integrated DRC engine, even while routing. The aim is to build a DRC-clean layout, where the metal/wire geometry conforms to all design guidelines. OpenDB includes all metal segments and via points, therefore reflecting the whole routed design. Upon completion, TritonRoute generates, via OpenDB, the whole routed geometry in DEF and GDS formats.
+
+Timing Closure and ECO
+Verification of timing correctness proceeds by timing analysis after detailed routing. OpenROAD analyses static timing with OpenSTA, with data usually described in the Standard Parasitic Exchange Format, or SPEF. OpenSTA estimates arrival times and slacks by reading the parasitic delays and post-route netlist. It attempts to guarantee that the final timing conforms to all constraints. If the timing is not closed, then OpenROAD can enter an ECO (Engineering change order) cycle, especially in cases of hold-time violations in the latter phases (after CTS).  In this case, OpenROAD starts an iterative ECO step automatically. This stage involves repeating the CTS/timing procedure, adding buffers along critical nets, and/or resizing cells, until the required hold times are achieved.  Timing is much improved by these iterations; one OpenTitan design required five ECO iterations to fix approximately 1,500 hold violations.  Many processes start with automated ECO; upon scheduled closure, placement refinement or logic optimization can also be applied.
+
+DRC/LVS Signoff
+When routing is complete, and timing is finalized, the design is ready for signoff. Open ROAD exportss the design to open-source or commercial signoff tools rather than use proprietary DRC/LVS rule checkers. For typical rulesets, the exported layout should be DRC-clean, as TritonRoute's built-in DRC engine guarantees that detailed routing follows all layer-specific design requirements. An external LVS tool for LVS (layout-versus-schematic) would be used to doublecheck that the netlist and GDSII match. OpenROAD is mostly concerned with layout development; final verification is expected from normal signoff procedures.
+
+GDSII Export
+Lastly, OpenROAD exports the completed layout from OpenDB to GDSII (mask format). Using the GDS writer of the OpenDB library, a GDSII stream may be generated for tape-out containing every geometry's positioning and routing. Furthermore, if required, DEF and LEF files can be created. Completing the RTL-to-GDSII pipeline generates a full chip layout fit for manufacturing.
+
+Core tools and algorithms
+Every one of the specialist tools used in OpenROAD implements one stage of the flow.  The Openroad initiative now includes all of these tools and has tested them on real silicon devices. OpenROAD can incorporate GPU-accelerated and ML-guided versions suggested by academics as they evolve (DG-RePlAce, for example, uses GPUs for placement).  Important applications include:
+
+OpenSTA
+OpenSTA is a gate-level static time analysis engine. It reads the (usually synthesized) netlist, physical design from LEF/DEF, Liberty timing libraries, SDC constraints, and parasitic SPEF, then performs STA. It outputs errors, delays, and critical paths. Designed to be multi-threaded, OpenSTA has a strong connection with OpenDB. Since it employs industry-standard criteria, it can be used as a replacement for commercial timing verifiers such as PrimeTime. It also drives in-place timing-aware placement. 
+
+RePlAce (Global Placement)
+RePlAce is an open-source global placement tool using analytical (electrostatic) methods.  It models cells as charged particles and then uses Nesterov's accelerated gradient descent to minimize a weighted total of half-perimeter wire length and density penalties. Two major RePlAce innovations that improve the speed and quality of convergence are constraint-oriented local smoothing and adaptive step scaling.  The result is a high-quality placement; RePlAce has improved HPWL in benchmark comparisons over past placers. RePlAce runs in "mixed-size" mode in the OpenROAD flow and is optimized for timing-driven placement, thereby supporting both standard cells and macros.
+
+TritonMacroPlacer
+TritonMacroPlacer is the OpenROAD engine for hard block placement.  It is based on the ParquetFP approach, which manages macro placement as a floorplan concern. TritonMacroPlacer uses simulated annealing, with a primitive of exchanging macros. TritonMacroPlacer lowers wire length while conforming to constraints (such as keep-out zones), therefore respecting a beginning floorplan (from RePlAce or RTL-MP). Placing the macros generates a final DEF. Unlike a flat approach, TritonMacroPlacer was used to automatically insert macros in an RTL-MP, 12 nm design that had been clustered, thereby producing a layout that improved Fmax and reduced wire length.
+
+FastRoute (Global Router)
+A global router attempts to prevent routing congestion by planning approximate routes for each signal such that all routing capacities are satisfied.  The OpenROAD distribution is primarily composed of FastRoute 4.1 (developed at Iowa State University).  FastRoute reads the installed chip (via OpenDB), then quickly generates a global routing plan on a coarse grid, assigning each net to metal layers in an effort to alleviate congestion.  FastRoute also generates congestion projections and/or capacity consumption maps to help with location avoidance during placement.  The resulting FastRoute paths on a grid only instruct the detailed router; FastRoute itself does not undertake detailed DRC-correct routing.
+
+TritonCTS (Clock Tree Synthesizer)
+TritonCTS is an open-source clock-tree builder. TritonCTS 2.0 creates a buffered clock network for any clock domain, building balanced H-trees or hybrid-tree designs automatically.  It utilizes on-the-fly characterization of buffers and wires, allowing it to compute delays without relying on pre-characterized tables. Through recursively grouping sink pins and adding buffers, TritonCTS optimizes for the lowest skew. Users may invoke it using the Tcl command clock_tree_synthesis. Unlike other commercial CTS engines, TritonCTS is entirely open and scriptable. Users can change load or maximum slew values or create custom buffer lists for characterization purposes.
+
+TritonRoute (Detailed Router)
+To finish the physical route, UCSD developed the detailed routing engine TritonRoute.  It creates the final wire segments and vias using the global route guide according to the design rules. Its components include modules for initial maze routing, track assignment (reserving wire tracks for nets), pin access (connecting each cell pin to the routing grid), and iterative repair.  Composed of a Lee/A*-based routing system with rip-up-and-reroute, the repair process repeatedly tears up congested or misrouted nets and reroutes them with adjustments. TritonRoute has a thorough DRC checker to ensure rule compliance. Built for modern large designs, the algorithm supports ISPD-2018/2019 contest formats. It presently offers block-level (standard-cell + macro) routing for systems like GF65 (CLN65LP).
+
+AutoTuner
+AutoTuner is OpenROAD's hyperparameter tuning framework. Using machine learning approaches, AutoTuner maximizes the many flow parameters, including those controlling placement and routing engines. Based on Ray, a distributed execution system, massive batches of tests may be conducted concurrently in the cloud. Once designers provide changeable parameters in a JSON setup, AutoTuner explores the parameter space to improve PPA. AutoTuner, for example, may generate considerable speedups or PPA increases by automatically deciding the ideal engine settings. This ML-based element most shows OpenROAD's commitment to intelligent, non-human design methods.
+
+COPILOT
+COPILOT (Cloud Optimized Physical Implementation Leveraging OpenROAD Technology) is a cloud-enabled orchestrating system, managing distributed computing resources to accelerate OpenROAD. Anticipating failed jobs and focusing computation on complex subproblems (like DRC hotspots) helps to raise throughput. COPILOT has demonstrated significant speedups in practice (e.g., ~10× in detailed routing under specific conditions) by distributing work across multiple servers. Though in research and early release, COPILOT shows OpenROAD's move toward cloud and AI-assisted design.
+
+RTL-MP (RTL Macro-Placer)
+RTL-MP, sometimes known as RTL Macro-Placer, organizes logic based on RTL hierarchy and creates clusters as macroblocks. Virtual connections and cluster weights are defined with dataflow and temporal affinity. Its primary characteristics are that it adds "virtual connections" to record temporal routes, auto-clusters, and macros and solves clustering as a graph-partitioning issue.  Using this technology, OpenROAD can often generate nearly designer-quality layouts and start physical design significantly earlier, often even from RTL.
+
+TritonPart (Partitioner)
+TritonPart is a new partitioning tool under development to break sub-designs into partitions for enhanced hierarchy management. It seeks to enhance placement quality and scalability by breaking down large designs into smaller, more manageable pieces.
+
+Main algorithms
+Some innovative ideas that underpin OpenROAD's success:
+
+Analytic Placement (RePlAce)
+applies an electrostatics model of placement in conjunction with Nesterov's accelerated gradient methods. The density function is transformed to locally smooth overlaps (constraint-oriented smoothing) to enhance convergence and routability. Step sizes are automatically changed to maximize and direct effort where it is most required. This generates solutions with a notably lower wire length (HPWL) than past academic placers on benchmarks. 
+
+Congestion Estimation
+OpenROAD continually computes routing congestion during placement by running Fast Route "on the fly." This congestion-driven placement drives cells away from high-density locations. FastRoute essentially distributes nets to routing tracks in the placement area and calculates a fee for overflowing bins. The placement engine then combines a congestion cost term, akin to a pseudo-net, to guide items to less busy places. 
+
+Clock Tree Balancing
+TritonCTS generates balanced trees, often H-trees, hence minimizing skew. It adds one buffer at a time, top-down, and divides sinks in a top-down manner. Thanks to on-the-fly buffer characterization, it chooses the smallest buffers that meet several objectives. The technique can add extra buffers or shielding to the route to balance path lengths. While the exact methods are exclusive to TritonCTS, the application solves a buffered Steiner tree problem with balancing constraints.
+
+Detailed Routing (Maze + Rip-up/Repair)
+TritonRoute's core search algorithms, A* and Lee, find each net's shortest legal paths and then routinely resolve conflicts. In every iteration, nets are rerouted either individually or in groups; a cost map of the routing grid is updated (greater cost in busy or illegal areas). This repeated repair approach is commonly used in detailed routers. Multithreading enables TritonRoute to manage large chip sizes and maintain close database connectivity, differentiating itself from other academic solutions.
+
+Machine Learning Optimization
+AutoTuner utilizes a large compute cluster and hyperparameter search techniques (random search or Bayesian optimization) to forecast parameter settings which improve PPA (performance, power, and area). It works by evaluating multiple flow runs with different settings using machine learning. Based on hundreds of experiments, in many cases it finds virtually perfect matches. This application of ML dramatically reduces the need for human trial and error.
+
+High-Level Clustering (RTL-MP)
+RTL-MP, high-level clustering, clusters logic using a dataflow affinity metric. It defines "virtual connections" between register clusters using logical hops and signal bit-width. Then, using user-defined constraints (maximum and minimum cluster sizes), a graph clustering problem is resolved. This logically aware clustering method's capacity to detect important temporal structures, even before physical placement, leads to better macro groups. 
+
+System integration and CI pipeline
+The developers of OpenROAD place great emphasis on automation and quality control. The entire effort utilizes a thorough continuous integration (CI) system hosted in the cloud. On the Google Cloud Platform, a Jenkins-based pipeline automatically gathers the codebase, runs unit tests for every tool, and runs regression flows on actual benchmark designs. The test suite is continually expanded with new designs, especially successful OpenMPW/MPW chips, to ensure comprehensive coverage. For instance, OpenROAD's CI covers logic cores to full SoCs, using over 80 tape-out designs from SkyWater shuttles as test cases. On a dashboard, metrics for each run, such as wire length, timing, and resource use, are gathered and monitored, allowing developers to identify early regressions.
+The CI also runs Coverity static analysis scans of the code to identify common bugs and performs dynamic analysis for memory faults. OpenROAD targets NHIL 24-hour flows. Thus, the CI cluster is big enough to complete multi-threaded place-and-route jobs in a sensible time. Google supplies technical support for this infrastructure and cloud credits. The outcome is a reliable codebase that handles production and research. 
+
+Support for multiple technology nodes
+OpenROAD's modular design enables it to manage practically any CMOS technology provided the user supplies the PDK data, normally in LEF or Liberty format. Examples nodes include the SkyWater 130 nm PDK, often used in educational MPWs; GlobalFoundries' 65 nm (CLN65LP) for CPU designs; GF 12 nm (12LP FinFET) for more complex SoCs; and Ascenium's  anticipatory 7 nm ASAP7 PDK. For every node in the database, there is layer capacity, design rules, and time constraints. The FASTRoute global router of OpenROAD utilizes the layer track capacities from DEF and incorporates them into congestion calculations, thereby naturally handling higher-density 7 nm layers. Finally, OpenROAD has been assessed for processes spanning single-digit nanometer (nm) projections to more than 100 nm. Once the suitable PDK is loaded, its output GDSII can fabricated at any foundry.
+
+Applications and use cases
+New users of OpenROAD are still adopting it, as it has consistently demonstrated its ability to create tapeout-ready layouts for industry-standard procedures across various projects. Among its achievements are various working devices (AES+CPU, LDO arrays, etc.), as well as design contest wins. These initiatives also help OpenROAD (e.g., Ascenium's comments on handling large arrays and time hierarchies) by spotting flaws or new needs.
+Several  initiatives and demonstrative ideas have leveraged the OpenROAD flow. Among the engaging use scenarios are:
+
+SkyWater MPW and RISC-V SoCs
+Based on OpenROAD, Google/Efabless shuttle efforts using SkyWater's 130 nm technology make use of an open-source OpenLane flow. Thousands of RISC-V projects, including RI5CY, MEMS controllers, and AES cores, have been taped out using this approach.  Using OpenROAD flow scripts (ORFS), for example, a 16 nm SoC was built with an AES-128 crypto core, an Ibex RISC-V CPU, and sensor interfaces. The CI pipeline combines authentic OpenMPW designs from several shuttles to guarantee continuous compatibility. 
+
+University SoCs (BlackParrot, others)
+OpenROAD has been applied in advanced nodes of academic RISC-V initiatives. The BlackParrot 12 nm open-source processor utilized OpenROAD's RTL-MP for its floorplan, resulting in a high-frequency, small-sized design. The OpenFASoC (Open Analog Mixed-Signal) project at the University of Michigan utilizes OpenROAD to automate the integration of analog IP. These initiatives demonstrate how easily one can control even large academic chips or gates valued in the millions of dollars.
+
+Army and Government Labs
+OpenROAD is a natural fit for defense research interests, as the low volume production of many defense products means development cost must be minimized. Army Research Labs announced a research aiming at Intel 22FFL (22 nm FinFET) using OpenROAD. Part of German government-funded projects, such as the HEP-Alliance trusted-hardware effort, OpenROAD, and ORFS (the VE-HEP SoC on SkyWater), have been utilized to tape out RISC-V and AES chips. Furthermore, the DARPA IDEA community organized an open 7 nm design competition using the ASAP7 PDK, where teams utilized the OpenROAD flow to create RISC-V cores.
+
+Startups (Ascenium)
+OpenROAD is being utilized by semiconductor startups to reduce development expenses. Investigating microarchitectural variations using Bazel and several iterations of OpenROAD-flow-scripts, the Finnish company Ascenium announced the design of an energy-efficient general-purpose processor utilizing OpenROAD on a 7 nm ASAP7 PDK. They observed improvements in tool stability and increased demand for capabilities such as hierarchical timing and automated macro placement. Their experience demonstrates how OpenROAD can help make complex designs more reasonably priced.
+
+Mixed-Signal and Analog Integration
+OpenROAD has been extended to incorporate mixed-signal flows under the DARPA FASoC project. (FASoC stands for Fully-Autonomous SoC Synthesis using Customizable Cell-Based Synthesizable Analog Circuits.)  High-level analog circuits, such as DACs and voltage references, described in this pipeline are converted to Verilog before physical implementation. OpenFASoC then places and routes these analog blocks, just like digital macros would, using OpenROAD. For Google's SkyWater MPW-II, OpenROAD presented an all-digital LDO voltage regulator (D-LDO), for example, by grouping multiple LDO cells symmetrically and producing consistent power-stripe patterns. This automated flow illustrates how OpenROAD's adaptability can be used to integrate analog "schematic entry" (with a JSON specification) into a predominantly digital place and route (P&R) workflow. This demonstrates how OpenROAD, by viewing analog blocks as cell instances (utilizing OpenFASoC), can handle at least some analog layouts.
+
+Contests and Education
+OpenROAD is useful in higher education. Used with other teaching tools, such Tiny Tapeout, it aids in educating chip designers. The 2022 OpenROAD-7 nm Development Contest enabled students worldwide to design RISC-V cores using OpenROAD on ASAP7, thereby fostering an understanding of the design flow. More than 600 students and hobbyists have used OpenROAD in silicon chip design seminars.
+
+Technical difficulties and future orientations
+OpenROAD has accomplished many of its early goals, primarily the creation of an independent, open-source backend capable of tape-out of chips. Its future rests on increasing its commercial adoption, incorporating mixed-signal design, machine learning/artificial intelligence, and algorithm scalability. Research-wise, the project's roadmap includes utilizing artificial intelligence and the cloud to accelerate design further, as well as enhancing clock-tree algorithms, hierarchical timing analysis, and automated macro placement, as requested by users, including Ascenium. Driven by the community, OpenROAD is an open platform that aligns well with the development of these trends and continually pushes the boundaries of automated circuit design.
+
+Algorithmic scalability
+As design features get smaller, more and more elements may be included on one chip, with recent designs containing tens of millions of cells. Maintaining NHIL performance for large-scale designs calls for new algorithms. OpenROAD is examining multi-level and partitioning methods (such as TritonPart) to break down huge designs into smaller clusters. Extreme parallel routing and GPU acceleration, DG-RePlAce, for example, are also under investigation. Effective computer resource management, utilizing COPILOT and cloud scaling, will be crucial for the next generation of designs.
+
+Mixed-signal and Analog Support
+Including analog circuitry in a fully automated process is naturally challenging. OpenFASoC has shown a possible path by considering analog blocks as cell macros, even if actual analog P&R (managing analog-specific optimizations) is still in its infancy. Stronger LVS/analog DRC checks, analog-aware parasitic estimates, and support for many voltage domains, as discussed by OpenFASoC, will be part of future enhancements. Additional analog circuit libraries (such as OpenFASoC) can help enlarge OpenROAD's reach.
+
+AI/ML-Assisted Design
+OpenROAD's AutoTuner can adjusts design parameters using machine learning (ML), thereby optimizing the design process.  Recent research, such as Intel's GenAI paper, highlights the growing trend of incorporating artificial intelligence models into chip design. Such technologies could be integrated into OpenROAD to provide suggestions for automated design decisions or recommendations for optimizations beyond numerical alterations.  Other possibilities include reinforcement learning for placement (as does AlphaChip), using neural networks to predict ideal layouts, and LLM-powered design assistants (such as EDA-Copilot) to help users choose constraints.
+
+Commercial Adoption and Ecosystem Integration
+If OpenROAD is to be adopted by industry, its features must align with those required by businesses, such as multi-corner timing and extensive process rule support. Attempts are being made to integrate IP generation (standard cells, memory) and port it to more PDKs (from foundries like GlobalFoundries or IHP, for example). Under projects like the EU's FOSSi roadmap,  OpenROAD is recognized as the foundation for open hardware innovation. Further success depends on working with PDK developers, expanding foundry support, and perhaps certifying OpenROAD flows for industrial use. 
+
+References
+
+[[Electronic design automation]] [[GDSII]] [[Integrated circuit]] [[Static timing analysis]]

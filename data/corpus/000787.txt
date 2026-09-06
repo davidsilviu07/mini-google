@@ -1,0 +1,55 @@
+Open Packaging Conventions
+The Open Packaging Conventions (OPC) is a container-file technology initially created by Microsoft to store a combination of XML and non-XML files that together form a single entity such as an Open XML Paper Specification (OpenXPS) document. OPC-based file formats combine the advantages of leaving the independent file entities embedded in the document intact and resulting in much smaller files compared to normal use of XML.
+
+Specifications
+The OPC is specified in Part 2 of the Office Open XML standards ISO/IEC 29500:2008 and ECMA-376.
+The ISO/IEC 29500-2:2008 specification and the second edition of ECMA-376 makes a normative reference to PKWARE, Inc.'s .ZIP File Format Specification version 6.2.0 (2004), and supplements it with a normative set of clarifications. Note: The older first edition of ECMA-376 makes an informative (i.e., non-normative) reference to the newer PKWARE Inc's ".ZIP File Format Specification" version 6.2.1 (2005). The ZIP format is not specified by any international standard but has widespread community and developer acceptance.
+Microsoft submitted a draft in 2006 to the Internet Engineering Task Force for a "pack" URI Scheme (pack://) to be used for URI references to OPC-based packages. The draft expired in 2009, the specified syntax is incompatible with the Internet Standard for URI schemes (STD 66, RFC 3986). The scheme is now listed as historical.
+The ISO 19165:1-2018 recommends the use of the Open Packaging Conventions to implement the Geospatial Package defined in the Open Archival Information System.
+
+Usage
+Both the Open XML Paper Specification (XPS) and Office Open XML (OOXML) use Open Packaging Conventions (OPC), which provide a profile of the common ZIP format. In addition to data and document content in XML markup, files in the ZIP package can include other text and binary files in formats such as PNG, BMP, AVI, PDF, RTF, or even an already packaged ODF file. OPC also defines some naming conventions and an indirection method to allow position independence of binary and XML files in the ZIP archive.
+OPC files can be opened using common ZIP utilities. OPC allow indirection, chunking and relative indirection.
+
+File formats using the OPC
+The OPC is the foundation technology for many new file formats:
+
+Programming
+OPC is natively supported in Microsoft .NET Framework 3.0 by the System.IO.Packaging namespace. Open source libraries exist for other languages.
+Since Windows 7, OPC is also natively supported in the Windows API through a set of COM interfaces, collectively referred to as Packaging API.
+Alternatively, ZIP libraries can be used to create and open OPC files, as long as the correct files are included in the ZIP and the conventions followed.
+
+Package, parts, and relationships
+
+In OPC terminology, the term package corresponds to a ZIP archive and the term part corresponds to a file stored within the ZIP. Every part in a package has a unique URI-compliant part name along with a specified content-type expressed in the form of a MIME media type. A part's content-type explicitly defines the type of data stored in the part and reduces duplication and ambiguity issues inherent with file extensions.
+OPC packages can also include relationships that define associations between the package, parts, and external resources. In addition to a hierarchy of directories and parts, OPC packages commonly use relationships to access content through a directed graph of relationship associations. Relationships are composed of four elements:
+
+an identifier (ID)
+an optional source (the package or a part within the package)
+a relationship type (a URI-style expression that defines the type of the relationship)
+a target (a URI to another part within the package or to an external resource)
+OPC packages can store parts that contain any type of data (text, images, XML, binary, whatever). The extension ".rels", however, is reserved for storing relationships metadata within "/_rels" subfolders. The subfolder name "_rels", the file extension ".rels" within such directory, and the filename "[Content_Types].xml" in any folder are the only three reserved names for files stored in an OPC package.
+
+/[Content_Types].xml file
+This file defines the MIME media types for all the parts stored in the package. The "/[Content_Types].xml" file defines default mappings based on file extensions, along with overrides for specific parts with content-types that are different from the file extension defaults. For example, one of these defined MIME types is:
+
+/_rels
+The root level "/_rels" folder stores the relationships for the package as a whole. The "/_rels" folder normally contains a file named ".rels". "/_rels/.rels" is an XML file where the starting package-level relationships are stored. Normally when opening an OPC-based file, applications start by accessing to the "/_rels/.rels" file to read the starting package-level relationships.
+[partname].rels
+Each part may have its own relationships. The _rels folders are where one goes to find the relationships for any given part within the package. To find the relationships for a specific part, one looks in the "_rels" folder that is a sibling of that part: If the part has relationships, the "_rels" folder will contain a file that has one's original part name with a ".rels" appended to it. For example, if the content types part file had any relationships, there would be a file called "[Content_Types].xml.rels" inside the "/_rels" folder.
+All relationships (including the relations associated to the root package) are represented as XML files. If you open a ".rels" file in a text editor, you can view the actual XML markup that defines all the relationships targeted from that part. A typical relationships file contains XML code like this:
+
+which defines two relations for the root package, the first one being considered as the root package (here for an early Microsoft XPS document, before it was standardized as Open XML Paper Specification within the openxmlformats collection), and the other one being used to reference an alternate form (here a thumbnail rendered image of the first page of the document).
+The main parts of the embedded documents are often stored within a folder named "/Document" (which may contain subdirectories itself, if the file contains several related documents each of them with various parts), and the optional metadata parts that are not needed for processing the main parts of the document are stored in a folder named "/Metadata"; however these actual folder names are actually specified within the XML-formatted data in "[partname].rels" relationship files and the OPC specification allows any folder organisation that is convenient for the application and these two folder names are not required.
+
+Chunking
+It encourages documents to be split into small chunks. This is better for reducing the effect of file corruption. And better for data access: for example, all the style information in one XML part, each separate worksheet or table in their own different parts. This allows faster access and less object creation for clients and makes it easier for multiple processes to be working on the same document.
+
+Relative indirection
+In the Open Packaging Conventions, each file that has reference has its own _rels file with the indirection lists. This makes it easier to cut and paste some information with all its associated resources in some cases, provides name scoping to remove the chance of name clashing between files, and so on.
+
+References
+
+External links
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Component-based software engineering]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computer graphics]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EPUB]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,0 +1,61 @@
+Brian Randell
+Brian Randell (born 1936) is a British computer scientist, and emeritus professor at the School of Computing, Newcastle University, United Kingdom. He specialises in research into software fault tolerance and dependability, and is a noted authority on the early pre-1950 history of computing hardware.
+
+Biography
+Randell was employed at English Electric from 1957 to 1964 where he was working on compilers. His work on ALGOL 60 is particularly well known, including the development of the Whetstone compiler for the English Electric KDF9, an early stack machine. In 1964, he joined IBM, where he worked at the Thomas J. Watson Research Center on high performance computer architectures and also on operating system design methodology. In May 1969, he became a professor of computing science at the then named University of Newcastle upon Tyne, where he has worked since then in the area of software fault tolerance and dependability.
+He is a member of the Special Interest Group on Computers, Information and Society (SIGCIS) of the Society for the History of Technology CIS, and a founding member of the Editorial Board of the IEEE Annals of the History of Computing journal. He is a Fellow of the Association for Computing Machinery (2008). He was elected a Fellow of the Learned Society of Wales in 2011.
+He was, until 1969, a member of the International Federation for Information Processing (IFIP) IFIP Working Group 2.1 (WG2.1) on Algorithmic Languages and Calculi, which specified, maintains, and supports the programming languages ALGOL 60 and ALGOL 68. He is also a founding member of IFIP WG2.3 on Programming Methodology, and of IFIP WG10.4 on Dependability and Fault Tolerance.
+He is married (to Liz, a teacher of French) and has four children.
+
+Work
+Brian Randell's main research interests are in the field of computer science, specifically on system dependability and fault tolerance. His interest in the history of computing was started by coming across the then almost unknown work of Percy Ludgate. This was over thirty years ago, when he was preparing an inaugural lecture, and led to his producing the book: "The Origins of Computers". This triggered his further investigation of the Colossus wartime code-breaking machines.
+
+Bletchley Park
+In 1972, Randell wrote to Prime Minister Ted Heath regarding the wartime status of Bletchley Park, and obtained the first-ever admission of the existence of the wartime organisation, let alone its impact. Subsequently, the role of Bletchley Park and its main outstation at Eastcote, in reducing the length of World War II, has been widely acknowledged, as is the pioneering role of the Colossus computer in the history of the development of computing.
+Randell was researching the history of computer science in Britain for a conference on the history of computing held at the Los Alamos National Laboratory, New Mexico on 10–15 June 1976, and got permission to present a paper on wartime development of the COLOSSI  at the Post Office Research Station,  Dollis Hill (in October 1975 the British Government released a series of captioned photographs from the Public Record Office).  The interest in the "revelations" in his paper resulted in a special evening meeting when Randell and Allen Coombs answered further questions. In 1977, Randell published an article The First Electronic Computer in several journals.  
+
+Software engineering
+In the 1960s, Randell was "involved in the original NATO Software Engineering Conferences" in 1968 on Software engineering. At the time he was working at IBM in the secret Project Y and then ACS super-computer projects.
+
+Software fault tolerance
+Starting in the 1970s, Randell "set up the project that initiated research into the possibility of software fault tolerance, and introduced the recovery block concept. Subsequent major developments included the Newcastle Connection, and the prototype distributed Secure System".
+
+Northern Informatics Applications Agency
+In the 1990s, Randell "became involved in a project to improve data networking provisions in the North of England, and to promote their effective use by all sectors of the community. This project resulted in the setting up of NiAA, the Northern Informatics Applications Agency". He wrote: "I served for several years as a member of NiAA's Management Group, until my attempts to delegate this to others bore fruit! NiAA existed, and worked to good effect, for seven years."
+
+Genealogy
+Randell has for many years been one of the leading members of the team of volunteers responsible for GENUKI, the web portal for Genealogy in the United Kingdom and Ireland. He maintains the pages relating to the county of Devon, and has transcribed and made available online many documents of genealogical interest.
+
+Notes
+
+See also
+Analytical engine
+ALGOL
+ALGOL 68
+Colossus computer
+Dependability
+Fault-tolerant system
+Friedrich L. Bauer
+National Programme for IT
+
+Publications
+Randell published several articles and books. A selection:
+
+Randell, Brian; Russell, L. J. (1964). Algol 60 Implementation. London: Academic Press.
+Randell, Brian, ed. (1973). The Origins of Digital Computers: Selected Papers. Springer-Verlag.
+Articles
+
+Randell, Brian (1971). "Ludgate's Analytical Machine of 1909". Computer Journal. 14 (3): 317–326. doi:10.1093/comjnl/14.3.317.
+Randell, Brian (1972). Meltzer, B.; Michie, D. (eds.). "On Alan Turing and the Origins of Digital Computers". Machine Intelligence. 7. Edinburgh University Press: 3–20.
+Randell, Brian (1979). "Software Engineering in 1968". Proceedings of the 4th International Conference on Software Engineering. Munich: 1–10.
+Randell, Brian (1982). "From Analytical Engine to Electronic Digital Computer: The Contributions of Ludgate, Torres and Bush". Annals of the History of Computing. 4 (4): 327–341, October. doi:10.1109/MAHC.1982.10042. S2CID 1737953.
+Randell, Brian (1998). "Memories of the NATO Software Engineering Conferences". IEEE Annals of the History of Computing. 20 (1): 51–54.
+
+References
+
+External links
+Official website, School of Computing Science
+Official website, personal
+History of Computing Bibliography
+
+[[Analytical engine]] [[Association for Computing Machinery]] [[Compiler]] [[Computer architecture]] [[Computer science]] [[Computer scientist]] [[Dependability]] [[Edsger W. Dijkstra]] [[Fault tolerance]]

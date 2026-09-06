@@ -1,0 +1,25 @@
+Multi-agent planning
+In computer science multi-agent planning involves coordinating the resources and activities of multiple agents.
+NASA says, "multiagent planning is concerned with planning by (and for) multiple agents. It can involve agents planning for a common goal, an agent coordinating the plans (plan merging) or planning of others, or agents refining their own plans while negotiating over tasks or resources. The topic also involves how agents can do this in real time while executing plans (distributed continual planning). Multiagent scheduling differs from multiagent planning the same way planning and scheduling differ: in scheduling often the tasks that need to be performed are already decided, and in practice, scheduling tends to focus on algorithms for specific problem domains".
+
+See also
+Automated planning and scheduling
+Distributed artificial intelligence
+Cooperative distributed problem solving and Coordination
+Multi-agent systems and Software agent and Self-organization
+Multi-agent reinforcement learning
+Task Analysis, Environment Modeling, and Simulation (TAEMS or TÆMS)
+
+References
+
+Further reading
+Durfee's (1999) chapter on Distributed Problem Solving and Planning
+desJardins et al. (1999). A Survey of Research in Distributed, Continual Planning.
+de Weerdt, Mathijs; Clement, Brad (2009). "Introduction to Planning in Multiagent Systems" (PDF). Multiagent and Grid Systems. 5 (4): 345–355. doi:10.3233/MGS-2009-0133..
+Shoham, Yoav; Leyton-Brown, Kevin (2009). Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations. New York: Cambridge University Press. ISBN 978-0-521-89943-7. See Chapter 2; downloadable free online.
+Vlassis, Nikos (2008). A Concise Introduction to Multiagent Systems and Distributed Artificial Intelligence. San Rafael, CA: Morgan & Claypool Publishers. ISBN 978-1-59829-526-9.
+
+External links
+Tutorial on planning in multiagent systems
+
+[[Automated planning and scheduling]] [[Automated theorem proving]] [[Cambridge University Press]] [[Computer science]] [[Distributed artificial intelligence]]

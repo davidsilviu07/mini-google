@@ -1,0 +1,28 @@
+Noam Shazeer
+Noam Shazeer (born 1975 or 1976) is an American Software Engineer and entrepreneur known for his contributions to the field of artificial intelligence and deep learning, particularly in the development of transformer models and natural language processing. He lives in Palo Alto, California.
+
+Early life and education
+Shazeer's grandparents emigrated from the Soviet Union to Israel, eventually emigrating to the USA. His father, Dov Shazeer, was a math teacher who became an engineer and his mother was a homemaker.
+Shazeer was born in Philadelphia, attended grade school at Cohen Hillel Academy in Marblehead, Massachusetts, and attended Swampscott High School in Swampscott, Massachusetts. He won a gold medal with perfect score at International Mathematical Olympiad 1994 as a member of the US team.
+He went on to study math and computer science at Duke University in Durham, North Carolina from 1994 to 1998. At Duke he was a recipient of the Angier B. Duke Memorial Scholarship, and, as part of the Duke math team, won prizes in the Putnam Competition. He started studying in a graduate program in Berkeley but soon left to be one of Google's first employees.
+Shazeer is an orthodox Jew. His sister was ordained as a rabbi by Hebrew College. He is a father of three and is married to Yael Shacham Shazeer.
+
+Career
+Noam Shazeer joined Google in 2000. One of his first major achievements was improving the spelling corrector of Google's search engine. In 2017, Shazeer was one of the authors of the seminal paper "Attention Is All You Need", which introduced the transformer architecture.
+At Google, Shazeer and his colleague Daniel de Freitas built a chatbot named Meena. Following the refusal of Google to release the chatbot to the public, Shazeer and Freitas left the company in 2021 to found Character.AI.
+In September 2023, Time Magazine chose Shazeer as one of the 100 most influential people in the AI world.
+In August 2024, it was reported that Shazeer would be returning to Google to co-lead the Gemini AI project. Shazeer was appointed as technical lead on Gemini, along with Jeff Dean and Oriol Vinyals. It was part of a $2.7 billion deal for Google to license Character's technology. Since he owns 30-40% of the company, it is estimated he netted $750 million–$1 billion. In 2026, he was elected a member of the National Academy of Engineering.
+In June 2026, Shazeer announced that he would leave Google to join OpenAI. At the time, he was a vice president of engineering at Google and co-lead of its Gemini artificial intelligence models.
+
+Views
+Shazeer said about artificial general intelligence that he doesn't "particularly care about AGI in the sense of wanting something that can do absolutely everything a person can do”. When asked in 2023 if he is afraid that AGI will destroy the world, he said: "No. Not yet. [...] We’re going to work on it as the technology improves".
+When asked why do large language models work he answered: "My best guess is divine benevolence [...] Nobody really understands what’s going on. This is a very experimental science [...] It’s more like alchemy or whatever chemistry was in the Middle Ages.”
+Shazeer has opined on gender-reassignment surgery for children: "I do not believe that G-d puts people in the wrong bodies. I do not believe that it is okay to sterilize children."
+
+References
+
+External links
+Official website
+Noam Shazeer publications indexed by Google Scholar
+
+[[Alan Turing]] [[Allen Newell]] [[Artificial intelligence]] [[Artificial intelligence in music]] [[Automated planning and scheduling]] [[Automated theorem proving]] [[Claude Shannon]] [[Computer vision]] [[Glossary of artificial intelligence]] [[Mamba (deep learning architecture)]] [[Midjourney]] [[Military applications of artificial intelligence]] [[Model Context Protocol]] [[MuZero]] [[Multilayer perceptron]] [[Mustafa Suleyman]] [[Nathaniel Rochester (computer scientist)]] [[Neural Turing machine]] [[Neural machine translation]] [[Neural network (machine learning)]] [[Neuro-symbolic AI]] [[Normalization (machine learning)]] [[Oasis (Minecraft clone)]] [[OpenAI Five]]

@@ -1,0 +1,23 @@
+Conference proceedings
+In academia and librarianship, conference proceedings are a collection of academic papers published in the context of an academic conference or workshop. Conference proceedings typically contain the contributions made by researchers at the conference. They are the written record of the work that is presented to fellow researchers. In many fields, they are published as supplements to academic journals; in some, they are considered the main dissemination route; in others, they may be considered grey literature. They are usually distributed in printed or electronic volumes, either before the conference opens or after it has closed (as a "post-proceedings").
+
+Authorship and editorship
+Selecting and collecting papers for conferences is organized by one or more persons, who form the editorial team. The quality of the papers is typically ensured by having external people read the papers before they are accepted for the proceedings. The level of quality control varies considerably from conference to conference: some have only a binary accept/reject decision, others go through more thorough feedback and revision cycles (peer reviewing or refereeing). Depending on the level of the conference, this process can take up to a year. The editors decide about the composition of the proceedings, the order of the papers, and produce the preface and possibly other pieces of text. Although most changes in papers occur on the basis of consensus between editors and authors, editors can also single-handedly make changes in papers.
+Since the collection of papers comes from individual researchers, the character of a proceedings is distinctly different from an educational textbook. Each paper is typically quite isolated from the other papers in the proceedings. Mostly, there is no general argument leading from one contribution to the next.
+In some cases, the editors of the proceedings may decide to further develop the proceedings into a textbook. This may even be a goal at the outset of the conference.
+
+Publication
+Conference proceedings are published in-house by the organizing institution of the conference or via an academic publisher. For example, the Lecture Notes in Computer Science series by Springer takes much of its input in the form of proceedings. Conference proceedings can also be published through a dedicated proceedings series as an edited volume where all the inputs come from the conference papers. For another example, the AIJR Proceedings series is published by academic publisher AIJR. Publication of proceedings as edited volume in such series are different from publishing conference paper in the journals; also known as conference issue. Increasingly, proceedings are published in electronic format on the World Wide Web or on a USB stick, CD (more historically), etc.
+In the sciences, the quality of publications in conference proceedings is usually not as high as that of international scientific journals. However, in computer science, papers published in conference proceedings are accorded a higher status than in other fields, due to the fast-moving nature of the field.
+A number of full-fledged academic journals unconnected to particular conferences also use the word "proceedings" as part of their name, for example, Proceedings of the National Academy of Sciences of the United States of America.
+
+Format
+Conference proceedings may be published as a book or book series, in a journal, or otherwise as a serial publication (see examples). In many cases, impact factors are not available, although other journal metrics (such as Google Scholar h-index and Scimago-metrics) might exist. Bibliographic indexing often is done in separate bibliographic databases and citation indexes, e.g., Conference Proceedings Citation Index instead of Science Citation Index.
+
+See also
+
+Serial (publishing)
+
+References
+
+[[Computer science]] [[Electronic publishing]] [[Scientific literature]]

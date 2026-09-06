@@ -1,0 +1,104 @@
+DipTrace
+DipTrace is a proprietary software suite for electronic design automation (EDA) used for electronic schematic capture and printed circuit board layouts.  DipTrace has four applications: schematic editor, PCB editor with built-in shape-based autorouter and 3D preview, component editor (schematic symbol), and pattern editor (PCB footprint).
+
+Features
+
+3D preview
+
+This module includes real-time 3D preview & export feature. It shows the model of the manufactured printed circuit board with all components installed. Rotate board in three axes, zoom in and out in real time, change colors of the board, copper areas, solder mask, silkscreen, and background. 3D preview works on all stages of the design.  Board can be exported to STEP or VRML 2.0 formats for mechanical CAD modeling. More than 7500 3D models of PCB packages are supplied for free. Externally designed 3D models in *.wrl, *.step, *.iges, and *.3ds formats can be uploaded and attached to patterns in Pattern Editor or PCB Layout.
+
+Import / Export
+As of DipTrace version 5, it supports the following file importing and exporting (per software menus).
+Schematic Editor import:
+
+Altium ASCII, DipTrace ASCII, DipTrace XML, Eagle Schematic, KiCad Schematic, OrCAD EDIF Schematic, P-CAD ASCII, P-CAD PDIF, PADS SCH ASCII 2005.
+Schematic Editor export:
+
+DXF, PDF, Bill of Materials (BOM), DipTrace ASCII, DipTrace XML, Eagle Schematic, P-CAD ASCII, SPICE Netlist, Schematic Netlist (Accel, Allegro, KiCad, Mentor, OrCAD, PADS, P-CAD, Protel 2.0, Tango).
+PCB Editor import:
+
+DXF, Gerber, N/C Drill, Altium ASCII, DipTrace ASCII, DipTrace XML, Eagle Board, KiCad Board, OrCAD MIN Interchange, P-CAD ASCII, P-CAD PDIF, PADS PCB ASCII 2005, Sprint-Layout 6.0 Text-IO, Autorouter SES, PCB Netlist (Accel, Allegro, KiCad, Mentor, OrCAD, PADS, P-CAD, Protel 2.0, Tango).
+PCB Editor export:
+
+DXF, PDF, Gerber, Gerber X2, ODB++, IPC-2581C, IPC-D-356A, N/C Drill, Mach 2/3 Drill, OrCAD TAP Drill, Bill of Materials (BOM), Pick and Place, DipTrace ASCII, DipTrace XML, Eagle Board, P-CAD ASCII, PADS PCB ASCII 2005, OrCAD MIN Interchange, Autorouter DSN, 3D Image (STEP, VRML).
+Component Editor import:
+
+DipTrace ASCII, DipTrace XML, Eagle XML (*.lbr), Eagle Script (*.scr), KiCad Library (*.lib), Altium ASCII (*.lia), P-CAD ASCII (*.lia), PADS ASCII (*.p, *.c), BSDL Pinlist (*.bsd, *.bsdl, *.bsm).
+Component Editor export:
+
+DipTrace ASCII, DipTrace XML, Eagle XML (*.lbr).
+Pattern Editor import:
+
+DipTrace ASCII, DipTrace XML, Eagle XML (*.lbr), Eagle Script (*.scr), KiCad Footprints, P-CAD/Altium ASCII (*.lia), PADS ASCII (*.p, *.d).
+Pattern Editor export:
+
+DipTrace ASCII, DipTrace XML, Eagle XML (*.lbr).
+
+Modules
+DipTrace has a launcher application with five buttons that allows a user to quickly start each DipTrace module:
+
+Schematic Editor
+PCB Editor
+Component Editor
+Pattern Editor
+Get Started with Video Guide (link to video and PDF tutorial webpage)
+
+Schematic editor
+
+Advanced circuit design tool with support of multi-sheet and multi-level hierarchical schematics that delivers a number of features for visual and logical pin connections. Cross-module management ensures that principal circuits can be easily converted into a PCB, back-annotated, or imported/exported from/to other EDA software, CAD formats and net-lists. DipTrace Schematic has ERC verification and Spice export for external simulation.
+
+PCB editor
+Engineering tool for board design with smart manual routing, differential pairs, length-matching tools, shape-based autorouter, advanced verification, layer stackup manager, and wide import/export capabilities. Design requirements are defined by net classes, class-to-class rules, and detailed settings by object types for each class or layer. When routing with real-time DRC, the program reports errors on the fly before actually making them. DRC also checks length and phase tolerances for differential pairs and controls signal synchronization for nets and buses (including layer stackup and bonding wire induced signal delays). The board can be previewed in 3D and exported to STEP format for mechanical CAD modeling. Design rule check with in-depth detailing and net connectivity verification procedures are available.
+
+Component editor
+Manage component libraries and create single- or multi-part components by selecting a template and its dimensions, defining visual and electrical pin parameters, setting up a Spice model, and attaching pattern with a 3D model to finalize component creation. BSDL import, bulk pin naming, and pin manager tools for pins and buses. Importing libraries from different EDA formats. More than 140000 components in standard libraries.
+
+Pattern editor
+Draw patterns with various types of shapes, pads, holes, and dimensions. Circle, lines (headers, DIP), square (QFP), matrix (BGA), rectangle (RQFP), and zig-zag standard templates. Creation of pattern is basically selecting a template, entering a couple of vital parameters, drawing the silkscreen, and launching automatic pad renumbering. Custom templates can be created for non-standard patterns. DXF import makes creating complex layouts easier.
+
+Pricing
+
+Note: Non-profit hobbyists can request a free "Lite" upgrade. †
+Note: Unlimited plane layers (power, ground) for all editions, which means 2 signal layers editions can create 4-layer boards. ‡
+
+Free versions
+A version of DipTrace is freely available with all the functionality of the full package except that it is limited to 300 pins and non-commercial use or 500 pins (non-commercial use, contact for free upgrade) and two signal layers. Power and ground plane layers do not count as signal layers, so the free versions can create four-layer boards with full power and ground planes. No board size restrictions.
+
+Version history
+
+Version 5.0
+Released September 12, 2024
+
+Version 4.3
+
+Version 4.2
+
+Version 4.1
+
+Version 4.0
+
+Version 3.3
+
+Version 3.2
+
+Version 3.1
+
+Version 3.0
+
+Community
+Some hobby and educational groups such as the PICAXE forum members have developed libraries specific to the PICAXE range of microcontroller as produced by Revolution Education including many of the frequently used associated integrated circuits. PICAXE related libraries can be found in the net.
+
+See also
+
+Comparison of EDA software
+List of free electronics circuit simulators
+
+References
+
+External links
+Official website multilanguage (English, French, Italian, Turkish, Ukrainian, Russian)
+DipTrace at Seattle Robotics Society meeting
+DipTrace at Nuts and Volts - October 2006
+DipTrace review at CNet
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Gerber format]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[Schematic capture]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

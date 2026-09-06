@@ -1,0 +1,42 @@
+Clinical prediction rule
+A clinical prediction rule or clinical probability assessment specifies how to use medical signs, symptoms, and other findings to estimate the probability of a specific disease or clinical outcome.
+Physicians have difficulty in estimated risks of diseases; frequently erring towards overestimation, perhaps due to cognitive biases such as base rate fallacy in which the risk of an adverse outcome is exaggerated.
+
+Methods
+In a prediction rule study, investigators identify a consecutive group of patients who are suspected of having a specific disease or outcome. The investigators then obtain a standard set of clinical observations on each patient and a test or clinical follow-up to define the true state of the patient. They then use statistical methods to identify the best clinical predictors of the patient's true state. The probability of disease will depend on the patient's key clinical predictors. Published methodological standards specify good practices for developing a clinical prediction rule.
+A survey of methods concluded "the majority of prediction studies in high impact journals do not follow current methodological recommendations, limiting their reliability and applicability", confirming earlier findings from the diabetic literature. The TRIPOD statement is now widely used to improve the quality of reporting of clinical prediction rules, with an extension to provide guidance for clinical prediction rules developed using artificial intelligence methods
+
+Effect on health outcomes
+Few prediction rules have had the consequences of their usage by physicians  quantified.
+When studied, the impact of providing the information alone (for example, providing the calculated probability of disease) has been negative.
+However, when the prediction rule is implemented as part of a critical pathway, so that a hospital or clinic has procedures and policies established for how to manage patients identified as high or low risk of disease, the prediction rule has more impact on clinical outcomes.
+The more intensively the prediction rule is implemented the more benefit will occur.
+
+Examples of prediction rules
+Apache II
+CHADS2 for risk of stroke with atrial fibrillation
+CURB-65
+Model for End-Stage Liver Disease
+Ranson criteria
+Centor criteria
+Pneumonia severity index
+Wells score (disambiguation)
+Orthopaedics
+Abbreviated Injury Scale
+Harris Hip Score
+Injury Severity Score
+Kocher criteria
+Mirel's Score
+NACA score
+Ottawa ankle rules
+Ottawa knee rules
+Pittsburgh knee rules
+Revised Trauma Score
+
+References
+
+External links
+Clinical Prediction Website
+Clinical prediction rules online calculators
+
+[[Amygdalohippocampectomy]] [[Anterior temporal lobectomy]] [[Artificial intelligence]] [[Bilateral cingulotomy]] [[Brain biopsy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral shunt]] [[Cerebrum]] [[Computed tomography of the head]] [[Cordotomy]] [[Corpus callosotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Hypophysectomy]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure monitoring]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[Myelography]] [[National Institutes of Health Stroke Scale]] [[Pallidotomy]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Psychosurgery]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Suboccipital puncture]]

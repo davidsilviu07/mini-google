@@ -1,0 +1,127 @@
+Digital art
+Digital art, or the digital arts, is artistic work that uses digital technology as part of the creative or presentational process. It can also refer to computational art that uses and engages with digital media. Since the 1960s, various names have been used to describe digital art, including computer art, electronic art, multimedia art, and new media art. Digital art includes pieces stored on physical media, such as with digital painting, as well as digital galleries on websites. Digital art also extends to the field of visual computing.
+
+History
+In the early 1960s, John Whitney developed the first computer-generated art using mathematical operations. In 1963, Ivan Sutherland invented the first user interactive computer-graphics interface known as Sketchpad.
+Between 1974 and 1977, Salvador Dalí created two big canvases of Gala Contemplating the Mediterranean Sea which at a distance of 20 meters is transformed into the portrait of Abraham Lincoln (Homage to Rothko) and prints of Lincoln in Dalivision based on a portrait of Abraham Lincoln processed on a computer by Leon Harmon published in "The Recognition of Faces".
+The technique is similar to what later became known as photographic mosaics.
+Andy Warhol created digital art using an Amiga where the computer was publicly introduced at the Lincoln Center in July 1985. An image of Debbie Harry was captured in monochrome from a video camera and digitized into a graphics program called ProPaint. Warhol manipulated the image by adding color using flood fills.
+
+Art made for digital media
+Artwork that is highly computational, presented through digital media, and explicitly engages with digital technologies are categorized as "art made for digital media". This differs from art using digital tools, which incorporate digital technology in the creation process but may exist outside the digital world.
+Digital art historian Christiane Paul writes that it "is highly problematic to classify all art that makes use of digital technologies somewhere in its production and dissemination process as digital art since it makes it almost impossible to arrive at any unifying statement about the art form".
+
+Art that uses digital tools
+
+Digital art can be purely computer-generated (such as fractals and algorithmic art) or taken from other sources, such as a scanned photograph or an image drawn using vector graphics software using a mouse or graphics tablet. Artworks are considered digital paintings when created similarly to non-digital paintings but using software on a computer platform and digitally outputting the resulting image as painted on canvas.
+Despite differing viewpoints on digital technology's impact on the arts, a consensus exists within the digital art community about its significant contribution to expanding the creative domain, i.e., that it has greatly broadened the creative opportunities available to professional and non-professional artists alike.
+
+Art theorists and art historians
+Notable art theorists and historians in this field include:
+Oliver Grau, Jon Ippolito, Christiane Paul, Frank Popper, Jasia Reichardt, Mario Costa, Christine Buci-Glucksmann, Dominique Moulon, Roy Ascott, Catherine Perret, Margot Lovejoy, Edmond Couchot, Tina Rivers Ryan, Fred Forest and Edward A. Shanken.
+
+Digital painting
+Digital painting is either a physical painting made with the use of digital electronics and spray paint robotics within the digital art fine art context or pictorial art imagery made with pixels on a computer screen that mimics artworks from the traditional histories of painting and illustration.
+
+Artificial intelligence art
+Artists have used artificial intelligence to create artwork since at least the 1960s. Since their design in 2014, some artists have created artwork using a generative adversarial network (GAN), which is a machine learning framework that allows two "algorithms" to compete with each other and iterate. It can be used to generate pictures that have visual effects similar to traditional fine art. The essential idea of image generators is that people can use text descriptions to let AI convert their text into visual picture content. Anyone can turn their language into a painting through a picture generator.
+
+Digital art education
+
+Digital art education has become more common with the advancement of digital hardware and software. From hardware such as graphics tablets, styluses, tablets, 3D scanners, virtual reality headsets, and digital cameras; to software such as digital art software, 3D modeling software, 3D rendering,  digital sculpting, 2D graphics software, digital painting, 3D terrain generation, 2D animation software, 3D animation software, raster graphics editors, vector graphics editors, mathematical art software, and video editing software.
+
+Scholarship and archives
+In addition to the creation of original art, research methods that utilize AI have been generated to quantitatively analyze digital art collections. This has been made possible due to the large-scale digitization of artwork in the past few decades. Although the main goal of digitization was to allow for accessibility and exploration of these collections, the use of AI in analyzing them has brought about new research perspectives.
+Two computational methods, close reading and distant viewing, are the typical approaches used to analyze digitized art. Close reading focuses on specific visual aspects of one piece. Some tasks performed by machines in close reading methods include computational artist authentication and analysis of brushstrokes or texture properties. In contrast, through distant viewing methods, the similarity across an entire collection for a specific feature can be statistically visualized. Common tasks relating to this method include automatic classification, object detection, multimodal tasks, knowledge discovery in art history, and computational aesthetics. Whereas distant viewing includes the analysis of large collections, close reading involves one piece of artwork.
+Whilst 2D and 3D digital art is beneficial as it allows the preservation of history that would otherwise have been destroyed by events like natural disasters and war, there is the issue of who should own these 3D scans – i.e., who should own the digital copyrights.
+
+Computer demos
+
+Computer demos are based on computer programs, usually non-interactive. It produces audiovisual presentations. They are a novel form of art, which emerged as a consequence of the home computer revolution in the early 1980s. In the classification of digital art, they can be best described as real-time procedurally generated animated audio-visuals.
+This form of art does not concentrate only on the aesthetics of the final presentation, but also on the complexities and skills involved in creating the presentation.  As such, it can be fully enjoyed only by persons with a relatively high knowledge level of relevant computer technologies. An example is that, as said by Hua Jin and Jie Yang, Using computer-aided design software to present the class content in art design teaching," is not to advocate computer-aided design instead of hand-drawn performance, but to make it serve the profession earlier through a more reasonable course arrangement."
+On the other hand, many of the created pieces of art are primarily aesthetic or amusing, and those can be enjoyed by the general public.
+
+Digital installation art
+
+Digital installation art constitutes a broad field of artistic practices and a variety of forms.
+Some resemble video installations, especially large-scale works involving projections and live video capture. By using projection techniques that enhance an audience's impression of sensory envelopment, many digital installations attempt to create immersive environments.
+While others go even further and attempt to facilitate a complete immersion in virtual realms. This type of installation is generally site-specific, scalable, and without fixed dimensionality, meaning it can be reconfigured to accommodate different presentation spaces.
+Scott Snibbe's "Boundary Functions" is an example of augmented reality digital installation art, which responds to people who enter the installation by drawing lines between people, indicating their personal space. Noah Wardrip-Fruin's "Screen"(2003) utilizes a Cave Automatic Virtual Environment (CAVE) to create an interactive, text-based digital experience that engages the viewer in a multi-sensory interaction.
+
+Internet art and net.art
+
+Internet art is digital art that uses the specific characteristics of the Internet and is exhibited on the Internet. The term "internet art" is included by "net art" for which artists assume that network will be refreshed through history. So the term "post-internet art" is used to exclude artworks outside of the internet media.
+A representative example is Protocols for Achievements, which is a digital photo frame that confronts the aesthetics of kitsch, and inserts individual artistic dynamics within institutional media.
+
+Digital art and blockchain
+
+Blockchain, and more specifically Non-Fungible Tokens(NFTs), have been a common tool for digital arts since the NFTs boom of 2020–2021. By minting digital artworks as NFTs, artists can establish provable ownership. However, the technology received much criticism and has many flaws related to plagiarism and fraud (due to its almost completely unregulated nature).
+Furthermore, auction houses, museums, and galleries around the world have started to integrate NFTs and collaborate with digital artists, exhibiting their artworks (associated with the respective NFTs) both in virtual galleries and real-life screens, monitors, and TVs.
+In March 2024, Sotheby's presented an auction highlighting significant contributions of digital artists over the previous decade, one of many record-breaking auctions of digital artwork by the auction house. These auctions look broadly at the cultural impact of digital art in the 21st century and feature work by artists such as Jennifer & Kevin McCoy, Vera Molnár, Claudia Hart, Jonathan Monaghan, and Sarah Zucker.
+
+Computer-generated visual media
+
+Digital visual art consists of either 2D visual information displayed on an electronic visual display or information mathematically translated into 3D information viewed through perspective projection on an electronic visual display. The simplest form, 2D computer graphics, reflects how one might draw with a pencil or paper. In this case, however, the image is on the computer screen, and the instrument you draw with might be a tablet stylus or a mouse. What is generated on your screen might appear to be drawn with a pencil, pen, or paintbrush. The second kind is 3D computer graphics, where the screen becomes a window into a virtual environment, where you arrange objects to be "photographed" by the computer.
+Typically 2D computer graphics use raster graphics as their primary means of source data representations, whereas 3D computer graphics use vector graphics in the creation of immersive virtual reality installations. A possible third paradigm is to generate art in 2D or 3D entirely through the execution of algorithms coded into computer programs. This can be considered the native art form of the computer, and an introduction to the history of which is available in an interview with computer art pioneer Frieder Nake. Fractal art, Datamoshing, algorithmic art, and real-time generative art are examples.
+
+Computer-generated 3D still imagery
+
+3D graphics are created via the process of designing imagery from geometric shapes, polygons, or NURBS curves to create three-dimensional objects and scenes for use in various media such as film, television, print, rapid prototyping, games/simulations, and special visual effects.
+There are many software programs for doing this. The technology can enable collaboration, lending itself to sharing and augmenting by a creative effort similar to the open source movement and the creative commons in which users can collaborate on a project to create art.
+
+Computer-generated animated imagery
+
+Computer-generated animations are animations created with a computer from digital models created by 3D artists or procedurally generated. The term is usually applied to works created entirely with a computer. Movies make heavy use of computer-generated graphics; they are called computer-generated imagery (CGI) in the film industry. In the 1990s and early 2000s, CGI advanced enough that, for the first time, it was possible to create realistic 3D computer animation, although films had been using extensive computer images since the mid-70s. A number of modern films have been noted for their heavy use of photo-realistic CGI.
+
+Generation process
+Generally, the user can set the input, and the input content includes detailed picture content that the user wants. For example, the content can be a scene's content, characters, weather, character relationships, specific items, etc. It can also include selecting a specific artist style, screen style, image pixel size, brightness, etc. Then picture generators will return several similar pictures generated according to the input (generally, 4 pictures are given now). After receiving the results generated by picture generators, the user can select one picture as a result he wants or let the generator redraw and return to new pictures.
+
+Awards and recognition
+In both 1991 and 1992, Karl Sims won the Golden Nica award at Prix Ars Electronica for his 3D AI animated videos using artificial evolution. In 2009, Eric Millikin won the Pulitzer Prize along with several other awards for his artificial intelligence art that was critical of government corruption in Detroit and resulted in the city's mayor being sent to jail. In 2018 Christie's auction house in New York sold an artificial intelligence work, "Edmond de Bellamy" for US$432,500. It was created by a collective in Paris named "Obvious".
+In 2019, Stephanie Dinkins won the Creative Capital award for her creation of an evolving artificial intelligence based on the "interests and culture(s) of people of color." In 2022, an amateur artist using Midjourney won the first-place $300 prize in a digital art competition at the Colorado State Fair. Also in 2022, Refik Anadol created an artificial intelligence art installation at the Museum of Modern Art in New York, based on the museum's own collection.
+
+List of digital art software
+
+List of 2D digital art repositories
+Repositories for 2D and vector digital art offer pieces for download, either individually or in bulk. Proprietary repositories require a  purchase to license or use any image, while those operating under freemium models like Flaticon, Vecteezy, etc., provide some images for free and others for fee based on tiers.
+
+Subtypes
+
+Related organizations and conferences
+Artfutura
+Artmedia
+Austin Museum of Digital Art
+Computer Arts Society
+EVA Conferences
+Los Angeles Center for Digital Art
+Lumen Prize
+onedotzero
+Rhizome
+V&A Digital Futures
+
+See also
+
+AI art
+Algorithmic art
+Computer art
+Computer graphics
+Electronic art
+Generative art
+Graphic arts
+Graphic art software
+List of 2D graphics software
+New media art
+Theatre of Digital Art
+Vector graphics
+Virtual art
+
+References
+
+External links
+
+ Media related to Digital art at Wikimedia Commons
+Dreher, Thomas. "History of Computer Art"
+Zorich, Diane M. "Transitioning to a Digital World"
+Chitrakala "Digital Art"
+
+[[2D computer graphics]] [[ACM Computing Classification System]] [[Algorithm]] [[Algorithmic efficiency]] [[Analysis of algorithms]] [[Application security]] [[Artificial intelligence]] [[Augmented reality]] [[Automata theory]] [[Automated planning and scheduling]] [[Communication protocol]] [[Computability theory]] [[Computational biology]] [[Computational chemistry]] [[Computational complexity]] [[Computational complexity theory]] [[Computational engineering]] [[Computational geometry]] [[Computational intelligence]] [[Computational mathematics]] [[Computational physics]] [[Computational problem]] [[Computational social science]] [[Computer]] [[Computer accessibility]] [[Computer animation]] [[Computer architecture]] [[Computer data storage]] [[Computer graphics]] [[Computer hardware]] [[Computer network]] [[Computer science]] [[Computer security]] [[Computer vision]] [[Computing]] [[Computing platform]] [[Concurrency (computer science)]] [[Concurrent computing]] [[Control flow]] [[Control theory]] [[Cross-validation (statistics)]] [[Cryptography]] [[Cyber-physical system]] [[Cyberwarfare]] [[Data mining]] [[Database]] [[Decision support system]] [[Dependability]] [[Digital electronics]] [[Digital library]] [[Digital marketing]] [[Discrete mathematics]] [[Distributed artificial intelligence]] [[Distributed computing]] [[Document management system]] [[Domain-specific language]] [[E-commerce]] [[Educational technology]] [[Electronic design automation]] [[Electronic publishing]] [[Electronic voting]] [[Embedded system]] [[Enterprise information system]] [[Enterprise software]] [[Extended reality]] [[Fault tolerance]] [[Form factor (design)]] [[Formal language]] [[Formal methods]] [[Geographic information system]] [[Integrated circuit]] [[Midjourney]] [[Programming tool]]

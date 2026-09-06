@@ -1,0 +1,921 @@
+Yield (metric)
+In integrated circuit reliability engineering, yield is a metric used to quantify the proportion of manufactured chips that meet the required performance specifications despite variations in the semiconductor fabrication process. In modern semiconductor manufacturing, yield has a direct influence on the cost of chip products. As such, it is crucial for circuit designers to accurately estimate yield and to improve it as much as possible during the design phase. This demand has led to two central problems in the field: yield estimation and yield optimization.
+
+Background
+As semiconductor technologies scale down to the nanometer regime, approaching the physical limits of devices, process variations such as doping fluctuations, intra-die mismatches, and threshold voltage variations have become increasingly significant in affecting circuit performance. These variations may cause the fabricated chips to fail to meet nominal design specifications, which is particularly pronounced in analog and mixed-signal CMOS circuits. To quantitatively describe the robustness of a chip under process variations, the concept of yield is introduced, which refers to the proportion of circuits that meet design specifications despite such variations. Therefore, circuit designers need to consider not only improving nominal performance but also optimizing yield.
+
+Formulation
+
+This section presents a formal definition of circuit yield. Let 
+  
+    
+      
+        
+          x
+        
+        =
+        [
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        ⋯
+        ,
+        
+          x
+          
+            
+              d
+              
+                x
+              
+            
+          
+        
+        
+          ]
+          
+            T
+          
+        
+        ∈
+        
+          
+            X
+          
+        
+      
+    
+    {\displaystyle \mathbf {x} =[x_{1},x_{2},\cdots ,x_{d_{x}}]^{T}\in {\mathcal {X}}}
+  
+ denote design parameters (e.g. length and width of a transistor) which are controlled by designer, where 
+  
+    
+      
+        
+          
+            X
+          
+        
+      
+    
+    {\displaystyle {\mathcal {X}}}
+  
+ defines the feasible design space. And the manufacturing process variations are assumed fully captured by the random variables 
+  
+    
+      
+        
+          v
+        
+        =
+        [
+        
+          v
+          
+            1
+          
+        
+        ,
+        
+          v
+          
+            2
+          
+        
+        ,
+        ⋯
+        ,
+        
+          v
+          
+            
+              d
+              
+                v
+              
+            
+          
+        
+        
+          ]
+          
+            T
+          
+        
+        ∈
+        
+          
+            V
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} =[v_{1},v_{2},\cdots ,v_{d_{v}}]^{T}\in {\mathcal {V}}}
+  
+. Without loss of generality, variational parameters (also referred as process parameters) are often modeled as a standard normal distribution: 
+  
+    
+      
+        p
+        (
+        
+          v
+        
+        )
+        =
+        
+          
+            1
+            
+              (
+              2
+              π
+              
+                )
+                
+                  d
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+        exp
+        ⁡
+        
+          (
+          
+            −
+            
+              
+                1
+                2
+              
+            
+            
+              
+                v
+              
+              
+                ⊤
+              
+            
+            
+              v
+            
+          
+          )
+        
+      
+    
+    {\displaystyle p(\mathbf {v} )={\frac {1}{(2\pi )^{d/2}}}\exp \left(-{\frac {1}{2}}\mathbf {v} ^{\top }\mathbf {v} \right)}
+  
+Circuit performance 
+  
+    
+      
+        
+          m
+          
+            k
+          
+        
+      
+    
+    {\displaystyle m_{k}}
+  
+ is determined by both design and variation parameters, and can be modeled as a deterministic function 
+  
+    
+      
+        
+          z
+          
+            k
+          
+        
+        =
+        
+          f
+          
+            k
+          
+        
+        (
+        
+          x
+        
+        ,
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle z_{k}=f_{k}(\mathbf {x} ,\mathbf {v} )}
+  
+. If all performance specifications are satisfied, the circuit is considered qualified. To formalize this, an indicator function is defined to determine whether a given circuit instance meets all required specifications:
+  
+    
+      
+        I
+        (
+        
+          x
+        
+        ,
+        
+          v
+        
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  1
+                
+                
+                  
+                    if 
+                  
+                  
+                    z
+                    
+                      k
+                    
+                  
+                  ≤
+                  
+                    z
+                    
+                      k
+                    
+                    
+                      0
+                    
+                  
+                  
+                     for all 
+                  
+                  k
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    otherwise
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle I(\mathbf {x} ,\mathbf {v} )={\begin{cases}1&{\text{if }}z_{k}\leq z_{k}^{0}{\text{ for all }}k\\0&{\text{otherwise}}\end{cases}}}
+  
+where 
+  
+    
+      
+        
+          z
+          
+            k
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle z_{k}^{0}}
+  
+ is the 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+-th performance specification. For a given design 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {x} }
+  
+, yield is defined as the probability that a manufactured circuit meets all design specifications under process variations, which is mathematically formalized as:
+  
+    
+      
+        g
+        (
+        
+          x
+        
+        )
+        ≜
+        
+          E
+        
+        (
+        I
+        (
+        
+          x
+        
+        ,
+        
+          v
+        
+        )
+        )
+        =
+        
+          ∫
+          
+            
+              V
+            
+          
+        
+        I
+        (
+        
+          x
+        
+        ,
+        
+          v
+        
+        )
+        p
+        (
+        
+          v
+        
+        )
+        d
+        
+          v
+        
+      
+    
+    {\displaystyle g(\mathbf {x} )\triangleq \mathbb {E} (I(\mathbf {x} ,\mathbf {v} ))=\int _{\mathcal {V}}I(\mathbf {x} ,\mathbf {v} )p(\mathbf {v} )d\mathbf {v} }
+  
+In some literature, for convenience, failure rate 
+  
+    
+      
+        
+          P
+          
+            f
+          
+        
+        (
+        
+          x
+        
+        )
+      
+    
+    {\displaystyle P_{f}(\mathbf {x} )}
+  
+ is often used as an equivalent representation of yield, where:
+
+  
+    
+      
+        
+          P
+          
+            f
+          
+        
+        (
+        
+          x
+        
+        )
+        +
+        g
+        (
+        
+          x
+        
+        )
+        =
+        1
+      
+    
+    {\displaystyle P_{f}(\mathbf {x} )+g(\mathbf {x} )=1}
+  
+
+Yield estimation
+The yield estimation problem concerns how to accurately estimate the yield value 
+  
+    
+      
+        g
+        (
+        
+          x
+        
+        )
+      
+    
+    {\displaystyle g(\mathbf {x} )}
+  
+ with minimal simulation cost, especially for high-dimensional circuits. The main challenge lies in the fact that  
+  
+    
+      
+        
+          f
+          
+            k
+          
+        
+        (
+        
+          x
+        
+        ,
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle f_{k}(\mathbf {x} ,\mathbf {v} )}
+  
+ can only be evaluated through time-consuming circuit simulations. As a result, the yield function 
+  
+    
+      
+        g
+        (
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle g(\mathbf {v} )}
+  
+ does not have a closed-form expression and must be estimated using numerical methods.
+
+Currently, the industrial gold standard for yield estimation is the Monte Carlo (MC) method, which approximates the yield as:
+  
+    
+      
+        g
+        (
+        
+          x
+        
+        )
+        ≈
+        
+          
+            1
+            N
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        I
+        (
+        
+          x
+        
+        ,
+        
+          
+            v
+          
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle g(\mathbf {x} )\approx {\frac {1}{N}}\sum _{i=1}^{N}I(\mathbf {x} ,\mathbf {v} _{i})}
+  
+where 
+  
+    
+      
+        {
+        
+          
+            v
+          
+          
+            i
+          
+        
+        
+          }
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle \{\mathbf {v} _{i}\}_{i=1}^{N}}
+  
+ are truly independent and identically distributed samples drawn from the distribution 
+  
+    
+      
+        p
+        (
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle p(\mathbf {v} )}
+  
+. The major drawback of the MC method lies in its inefficiency. In practice, yield targets are often extremely high, leading to a rare-event setting where only a small subset of samples violate the specifications. Consequently, a large number of simulations is required to achieve statistically accurate yield estimates. For example, estimating a failure rate of 
+  
+    
+      
+        
+          10
+          
+            −
+            5
+          
+        
+      
+    
+    {\displaystyle 10^{-5}}
+  
+ requires approximately 
+  
+    
+      
+        
+          10
+          
+            7
+          
+        
+      
+    
+    {\displaystyle 10^{7}}
+  
+ simulations for 10% relative error, which may take several  hours.
+To improve the efficiency of yield estimation, one can either reduce the number of required simulations or lower the cost of each simulation. These two strategies correspond to two major classes of optimization techniques: importance sampling and surrogate modeling, respectively.
+
+Importance sampling enhances efficiency by sampling from a modified probability distribution 
+  
+    
+      
+        q
+        (
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle q(\mathbf {v} )}
+  
+ that increases the frequency of rare fail samples. 
+  
+    
+      
+        g
+        (
+        
+          x
+        
+        )
+        =
+        
+          ∫
+          
+            
+              V
+            
+          
+        
+        I
+        (
+        
+          x
+        
+        ,
+        
+          v
+        
+        )
+        p
+        (
+        
+          v
+        
+        )
+        d
+        
+          v
+        
+        =
+        
+          ∫
+          
+            
+              V
+            
+          
+        
+        I
+        (
+        
+          x
+        
+        ,
+        
+          v
+        
+        )
+        
+          
+            
+              p
+              (
+              
+                v
+              
+              )
+            
+            
+              q
+              (
+              
+                v
+              
+              )
+            
+          
+        
+        q
+        (
+        
+          v
+        
+        )
+        d
+        
+          v
+        
+        ≈
+        
+          
+            1
+            M
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            M
+          
+        
+        I
+        (
+        
+          x
+        
+        ,
+        
+          
+            v
+          
+          
+            i
+          
+          ′
+        
+        )
+        
+          
+            
+              p
+              (
+              
+                
+                  v
+                
+                
+                  i
+                
+                ′
+              
+              )
+            
+            
+              q
+              (
+              
+                
+                  v
+                
+                
+                  i
+                
+                ′
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle g(\mathbf {x} )=\int _{\mathcal {V}}I(\mathbf {x} ,\mathbf {v} )p(\mathbf {v} )d\mathbf {v} =\int _{\mathcal {V}}I(\mathbf {x} ,\mathbf {v} ){\frac {p(\mathbf {v} )}{q(\mathbf {v} )}}q(\mathbf {v} )d\mathbf {v} \approx {\frac {1}{M}}\sum _{i=1}^{M}I(\mathbf {x} ,\mathbf {v} '_{i}){\frac {p(\mathbf {v} '_{i})}{q(\mathbf {v} '_{i})}}}
+  
+where 
+  
+    
+      
+        {
+        
+          
+            v
+          
+          
+            i
+          
+          ′
+        
+        
+          }
+          
+            i
+            =
+            1
+          
+          
+            M
+          
+        
+      
+    
+    {\displaystyle \{\mathbf {v} _{i}'\}_{i=1}^{M}}
+  
+ are independent and identically distributed samples drawn from the distribution 
+  
+    
+      
+        q
+        (
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle q(\mathbf {v} )}
+  
+. By carefully designing the suitable proposal distribution 
+  
+    
+      
+        q
+        (
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle q(\mathbf {v} )}
+  
+, importance sampling can obtain sufficient failure samples with significantly fewer simulations, enabling accurate yield estimation (
+  
+    
+      
+        M
+        ≪
+        N
+      
+    
+    {\displaystyle M\ll N}
+  
+).
+Surrogate modeling employs data-driven machine learning models to approximate the behavior of circuit simulators. Once the surrogate is sufficiently accurate, it can be used as a low-cost substitute for expensive simulations, thereby significantly reducing computational overhead. Common surrogate models include Gaussian Processes (GP), Conditional Normalizing Flows (CNF), low-rank tensor approximations, Bayesian neural networks, and radial basis function networks.
+
+Yield optimization
+Although much research has focused on accurate yield estimation, the ultimate goal for circuit designers is efficient yield optimization. Yield optimization aims to efficiently search for the optimal design parameters that maximize yield, while minimizing the number of expensive simulations.
+  
+    
+      
+        
+          
+            x
+          
+          
+            ∗
+          
+        
+        =
+        arg
+        ⁡
+        
+          max
+          
+            
+              x
+            
+            ∈
+            
+              
+                X
+              
+            
+          
+        
+        g
+        (
+        
+          x
+        
+        )
+      
+    
+    {\displaystyle \mathbf {x} ^{*}=\arg \max _{\mathbf {x} \in {\mathcal {X}}}g(\mathbf {x} )}
+  
+The major challenge in yield optimization is that the yield function 
+  
+    
+      
+        g
+        (
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle g(\mathbf {v} )}
+  
+ has no closed-form expression and the gradient information is unavailable, which makes gradient-based optimization methods inapplicable. Therefore, black-box optimization algorithms are a common choice for yield optimization—Bayesian optimization, in particular, has gained significant attention.
+In Bayesian yield optimization, a GP is used to model the relationship between yield and design parameters. In each optimization iteration, an acquisition function is maximized to determine the next design parameter to evaluate. The yield at this point is then estimated using a yield estimation algorithm, and the GP model is updated accordingly. The optimization continues iteratively until a satisfactory design is identified or the predefined simulation budget is exhausted.
+In addition, some studies have explored alternative black-box optimization algorithms—such as Differential Evolution (DE)—to perform yield optimization.
+
+References
+
+[[Electronic circuit simulation]] [[Integrated circuit]] [[Semiconductor device]] [[Semiconductor device fabrication]]

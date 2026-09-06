@@ -1,0 +1,4463 @@
+Electric dipole moment
+The electric dipole moment is a measure of the separation of positive and negative electrical charges within a system: that is, a measure of the system's overall polarity. The SI unit for electric dipole moment is the coulomb-metre (C⋅m). The debye (D) is a CGS unit of measurement used in atomic physics and chemistry.
+Theoretically, an electric dipole is defined by the first-order term of the multipole expansion; it consists of two equal and opposite charges that are infinitesimally close together, although real dipoles have separated charge.
+
+Elementary definition
+
+Often in physics, the dimensions of an object can be ignored so it can be treated as a point-like object, i.e. a point particle. Point particles with electric charge are referred to as point charges. Two point charges, one with charge +q and the other one with charge −q separated by a distance d, constitute an electric dipole (a simple case of an electric multipole). For this case, the electric dipole moment has a magnitude 
+  
+    
+      
+        p
+        =
+        q
+        d
+      
+    
+    {\displaystyle p=qd}
+  
+ and is directed from the negative charge to the positive one.
+A stronger mathematical definition is to use vector algebra, since a quantity with magnitude and direction, like the dipole moment of two point charges, can be expressed in vector form 
+  
+    
+      
+        
+          p
+        
+        =
+        q
+        
+          d
+        
+      
+    
+    {\displaystyle \mathbf {p} =q\mathbf {d} }
+  
+ where d is the displacement vector pointing from the negative charge to the positive charge. The electric dipole moment vector p also points from the negative charge to the positive charge. With this definition the dipole direction tends to align itself with an external electric field (and note that the electric flux lines produced by the charges of the dipole itself, which point from positive charge to negative charge, then tend to oppose the flux lines of the external field). Note that this sign convention is used in physics, while the opposite sign convention for the dipole, from the positive charge to the negative charge, is used in chemistry.
+An idealization of this two-charge system is the electrical point dipole consisting of two (infinite) charges only infinitesimally separated, but with a finite p. This quantity is used in the definition of polarization density.
+
+Energy and torque
+
+An object with an electric dipole moment p is subject to a torque τ when placed in an external electric field E. The torque tends to align the dipole with the field. A dipole aligned parallel to an electric field has lower potential energy than a dipole making some non-zero angle with it.  For a spatially uniform electric field across the small region occupied by the dipole, the energy U and the torque 
+  
+    
+      
+        
+          τ
+        
+      
+    
+    {\displaystyle {\boldsymbol {\tau }}}
+  
+ are given by
+
+  
+    
+      
+        U
+        =
+        −
+        
+          p
+        
+        ⋅
+        
+          E
+        
+        ,
+        
+         
+        
+          τ
+        
+        =
+        
+          p
+        
+        ×
+        
+          E
+        
+        .
+      
+    
+    {\displaystyle U=-\mathbf {p} \cdot \mathbf {E} ,\qquad \ {\boldsymbol {\tau }}=\mathbf {p} \times \mathbf {E} .}
+  
+
+The scalar dot "⋅" product and the negative sign shows the potential energy minimizes when the dipole is parallel with the field, maximizes when it is antiparallel, and is zero when it is perpendicular.  The symbol "×" refers to the vector cross product. The E-field vector and the dipole vector define a plane, and the torque is directed normal to that plane with the direction given by the right-hand rule. A dipole in such a uniform field may twist and oscillate, but receives no overall net force with no linear acceleration of the dipole. The dipole twists to align with the external field.
+However, in a non-uniform electric field a dipole may indeed receive a net force since the force on one end of the dipole no longer balances that on the other end.  It can be shown that this net force is generally parallel to the dipole moment.
+
+Expression (general case)
+More generally, for a continuous distribution of charge confined to a volume V, the corresponding expression for the dipole moment is:
+
+  
+    
+      
+        
+          p
+        
+        (
+        
+          r
+        
+        )
+        =
+        
+          ∫
+          
+            V
+          
+        
+        ρ
+        (
+        
+          
+            r
+          
+          ′
+        
+        )
+        
+          (
+          
+            
+              
+                r
+              
+              ′
+            
+            −
+            
+              r
+            
+          
+          )
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+          ′
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {p} (\mathbf {r} )=\int _{V}\rho (\mathbf {r} ')\left(\mathbf {r} '-\mathbf {r} \right)d^{3}\mathbf {r} ',}
+  
+
+where r locates the point of observation and d3r′ denotes an elementary volume in V. For an array of point charges, the charge density becomes a sum of Dirac delta functions:
+
+  
+    
+      
+        ρ
+        (
+        
+          r
+        
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+        
+          q
+          
+            i
+          
+        
+        
+        δ
+        
+          (
+          
+            
+              r
+            
+            −
+            
+              
+                r
+              
+              
+                i
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \rho (\mathbf {r} )=\sum _{i=1}^{N}\,q_{i}\,\delta \left(\mathbf {r} -\mathbf {r} _{i}\right),}
+  
+
+where each ri is a vector from some reference point to the charge qi. Substitution into the above integration formula provides:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  p
+                
+                (
+                
+                  r
+                
+                )
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                
+                  q
+                  
+                    i
+                  
+                
+                
+                  ∫
+                  
+                    V
+                  
+                
+                δ
+                
+                  
+                    (
+                    
+                      
+                        
+                          r
+                        
+                        
+                          0
+                        
+                      
+                      −
+                      
+                        
+                          r
+                        
+                        
+                          i
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                
+                  (
+                  
+                    
+                      
+                        r
+                      
+                      
+                        0
+                      
+                    
+                    −
+                    
+                      r
+                    
+                  
+                  )
+                
+                
+                
+                  d
+                  
+                    3
+                  
+                
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                
+                  q
+                  
+                    i
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        r
+                      
+                      
+                        i
+                      
+                    
+                    −
+                    
+                      r
+                    
+                  
+                  )
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {p} (\mathbf {r} )&=\sum _{i=1}^{N}\,q_{i}\int _{V}\delta {\left(\mathbf {r} _{0}-\mathbf {r} _{i}\right)}\,\left(\mathbf {r} _{0}-\mathbf {r} \right)\,d^{3}\mathbf {r} _{0}\\[1ex]&=\sum _{i=1}^{N}\,q_{i}\left(\mathbf {r} _{i}-\mathbf {r} \right).\end{aligned}}}
+  
+
+This expression is equivalent to the previous expression in the case of charge neutrality and N = 2. For two opposite charges, denoting the location of the positive charge of the pair as r+ and the location of the negative charge as r−:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  p
+                
+                (
+                
+                  r
+                
+                )
+              
+              
+                
+                =
+                
+                  q
+                  
+                    1
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        r
+                      
+                      
+                        1
+                      
+                    
+                    −
+                    
+                      r
+                    
+                  
+                  )
+                
+                +
+                
+                  q
+                  
+                    2
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        r
+                      
+                      
+                        2
+                      
+                    
+                    −
+                    
+                      r
+                    
+                  
+                  )
+                
+                =
+                q
+                
+                  (
+                  
+                    
+                      
+                        r
+                      
+                      
+                        +
+                      
+                    
+                    −
+                    
+                      r
+                    
+                  
+                  )
+                
+                −
+                q
+                
+                  (
+                  
+                    
+                      
+                        r
+                      
+                      
+                        −
+                      
+                    
+                    −
+                    
+                      r
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                q
+                
+                  (
+                  
+                    
+                      
+                        r
+                      
+                      
+                        +
+                      
+                    
+                    −
+                    
+                      
+                        r
+                      
+                      
+                        −
+                      
+                    
+                  
+                  )
+                
+                =
+                q
+                
+                  d
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {p} (\mathbf {r} )&=q_{1}\left(\mathbf {r} _{1}-\mathbf {r} \right)+q_{2}\left(\mathbf {r} _{2}-\mathbf {r} \right)=q\left(\mathbf {r} _{+}-\mathbf {r} \right)-q\left(\mathbf {r} _{-}-\mathbf {r} \right)\\&=q\left(\mathbf {r} _{+}-\mathbf {r} _{-}\right)=q\mathbf {d} ,\end{aligned}}}
+  
+
+showing that the dipole moment vector is directed from the negative charge to the positive charge because the position vector of a point is directed outward from the origin to that point.
+The dipole moment is particularly useful in the context of an overall neutral system of charges, such as a pair of opposite charges or a neutral conductor in a uniform electric field. 
+For such a system, visualized as an array of paired opposite charges, the relation for electric dipole moment is:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  p
+                
+                (
+                
+                  r
+                
+                )
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                
+                  ∫
+                  
+                    V
+                  
+                
+                
+                  q
+                  
+                    i
+                  
+                
+                
+                  [
+                  
+                    δ
+                    
+                      (
+                      
+                        
+                          
+                            r
+                          
+                          
+                            0
+                          
+                        
+                        −
+                        
+                          (
+                          
+                            
+                              
+                                r
+                              
+                              
+                                i
+                              
+                            
+                            +
+                            
+                              
+                                d
+                              
+                              
+                                i
+                              
+                            
+                          
+                          )
+                        
+                      
+                      )
+                    
+                    −
+                    δ
+                    
+                      (
+                      
+                        
+                          
+                            r
+                          
+                          
+                            0
+                          
+                        
+                        −
+                        
+                          
+                            r
+                          
+                          
+                            i
+                          
+                        
+                      
+                      )
+                    
+                  
+                  ]
+                
+                
+                
+                  (
+                  
+                    
+                      
+                        r
+                      
+                      
+                        0
+                      
+                    
+                    −
+                    
+                      r
+                    
+                  
+                  )
+                
+                 
+                
+                  d
+                  
+                    3
+                  
+                
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                
+                  q
+                  
+                    i
+                  
+                
+                
+                
+                  [
+                  
+                    
+                      
+                        r
+                      
+                      
+                        i
+                      
+                    
+                    +
+                    
+                      
+                        d
+                      
+                      
+                        i
+                      
+                    
+                    −
+                    
+                      r
+                    
+                    −
+                    
+                      (
+                      
+                        
+                          
+                            r
+                          
+                          
+                            i
+                          
+                        
+                        −
+                        
+                          r
+                        
+                      
+                      )
+                    
+                  
+                  ]
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                  q
+                  
+                    i
+                  
+                
+                
+                  
+                    d
+                  
+                  
+                    i
+                  
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                  
+                    p
+                  
+                  
+                    i
+                  
+                
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {p} (\mathbf {r} )&=\sum _{i=1}^{N}\,\int _{V}q_{i}\left[\delta \left(\mathbf {r} _{0}-\left(\mathbf {r} _{i}+\mathbf {d} _{i}\right)\right)-\delta \left(\mathbf {r} _{0}-\mathbf {r} _{i}\right)\right]\,\left(\mathbf {r} _{0}-\mathbf {r} \right)\ d^{3}\mathbf {r} _{0}\\&=\sum _{i=1}^{N}\,q_{i}\,\left[\mathbf {r} _{i}+\mathbf {d} _{i}-\mathbf {r} -\left(\mathbf {r} _{i}-\mathbf {r} \right)\right]\\&=\sum _{i=1}^{N}q_{i}\mathbf {d} _{i}=\sum _{i=1}^{N}\mathbf {p} _{i}\,,\end{aligned}}}
+  
+
+where r is the point of observation and di = r'i − ri, ri being the position of the negative charge in the dipole i, and r'i the position of the positive charge.
+This is the vector sum of the individual dipole moments of the neutral charge pairs. (Because of overall charge neutrality, the dipole moment is independent of the observer's position r.) Thus, the value of p is independent of the choice of reference point, provided the overall charge of the system is zero.
+When discussing the dipole moment of a non-neutral system, such as the dipole moment of the proton, a dependence on the choice of reference point arises.  In such cases it is conventional to choose the reference point to be the center of mass of the system, not some arbitrary origin.  This choice is not only a matter of convention: the notion of dipole moment is essentially derived from the mechanical notion of torque, and as in mechanics, it is computationally and theoretically useful to choose the center of mass as the observation point.  For a charged molecule the center of charge should be the reference point instead of the center of mass. For neutral systems the reference point is not important, and the dipole moment is an intrinsic property of the system.
+
+Potential and field of an electric dipole
+
+An ideal dipole consists of two opposite charges with infinitesimal separation. We compute the potential and field of such an ideal dipole starting with two opposite charges at separation d > 0, and taking the limit as d → 0.
+Two closely spaced opposite charges ±q have a potential of the form:
+
+  
+    
+      
+        V
+        (
+        
+          r
+        
+        )
+         
+        =
+         
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                q
+                
+                  |
+                  
+                    
+                      r
+                    
+                    −
+                    
+                      
+                        r
+                      
+                      
+                        +
+                      
+                    
+                  
+                  |
+                
+              
+            
+            −
+            
+              
+                q
+                
+                  |
+                  
+                    
+                      r
+                    
+                    −
+                    
+                      
+                        r
+                      
+                      
+                        −
+                      
+                    
+                  
+                  |
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle V(\mathbf {r} )\ =\ {\frac {1}{4\pi \varepsilon _{0}}}\left({\frac {q}{\left|\mathbf {r} -\mathbf {r} _{+}\right|}}-{\frac {q}{\left|\mathbf {r} -\mathbf {r} _{-}\right|}}\right),}
+  
+
+corresponding to the charge density
+
+  
+    
+      
+        ρ
+        (
+        
+          r
+        
+        )
+         
+        =
+         
+        −
+        
+          ε
+          
+            0
+          
+        
+        
+          ∇
+          
+            2
+          
+        
+        V
+         
+        =
+         
+        q
+        δ
+        
+          (
+          
+            
+              r
+            
+            −
+            
+              
+                r
+              
+              
+                +
+              
+            
+          
+          )
+        
+        −
+        q
+        δ
+        
+          (
+          
+            
+              r
+            
+            −
+            
+              
+                r
+              
+              
+                −
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \rho (\mathbf {r} )\ =\ -\varepsilon _{0}\nabla ^{2}V\ =\ q\delta \left(\mathbf {r} -\mathbf {r} _{+}\right)-q\delta \left(\mathbf {r} -\mathbf {r} _{-}\right)}
+  
+
+by Coulomb's law,
+where the charge separation is:
+
+  
+    
+      
+        
+          d
+        
+        =
+        
+          
+            r
+          
+          
+            +
+          
+        
+        −
+        
+          
+            r
+          
+          
+            −
+          
+        
+        
+        ,
+        
+        d
+        =
+        
+          |
+        
+        
+          d
+        
+        
+          |
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {d} =\mathbf {r} _{+}-\mathbf {r} _{-}\,,\quad d=|\mathbf {d} |\,.}
+  
+
+Let R denote the position vector relative to the midpoint 
+  
+    
+      
+        
+          
+            
+              
+                
+                  r
+                
+                
+                  +
+                
+              
+              +
+              
+                
+                  r
+                
+                
+                  −
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathbf {r} _{+}+\mathbf {r} _{-}}{2}}}
+  
+, and 
+  
+    
+      
+        
+          
+            
+              
+                R
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {R} }}}
+  
+ the corresponding unit vector:
+
+  
+    
+      
+        
+          R
+        
+        =
+        
+          r
+        
+        −
+        
+          
+            
+              
+                
+                  r
+                
+                
+                  +
+                
+              
+              +
+              
+                
+                  r
+                
+                
+                  −
+                
+              
+            
+            2
+          
+        
+        ,
+        
+        
+          
+            
+              
+                R
+              
+              ^
+            
+          
+        
+        =
+        
+          
+            
+              R
+            
+            
+              
+                |
+              
+              
+                R
+              
+              
+                |
+              
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {R} =\mathbf {r} -{\frac {\mathbf {r} _{+}+\mathbf {r} _{-}}{2}},\quad {\hat {\mathbf {R} }}={\frac {\mathbf {R} }{|\mathbf {R} |}}\,.}
+  
+
+Taylor expansion in 
+  
+    
+      
+        
+          
+            
+              d
+              R
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {d}{R}}}
+  
+ (see Multipole expansion and Quadrupole § Electric quadrupole) expresses this potential as a series.
+
+  
+    
+      
+        
+          
+            
+              
+                V
+                (
+                
+                  R
+                
+                )
+              
+              
+                
+                =
+                 
+                
+                  
+                    1
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      q
+                      
+                        d
+                      
+                      ⋅
+                      
+                        
+                          
+                            
+                              R
+                            
+                            ^
+                          
+                        
+                      
+                    
+                    
+                      R
+                      
+                        2
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    O
+                  
+                
+                
+                  
+                    (
+                    
+                      
+                        
+                          d
+                          
+                            3
+                          
+                        
+                        
+                          R
+                          
+                            3
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                ≈
+                 
+                
+                  
+                    1
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        p
+                      
+                      ⋅
+                      
+                        
+                          
+                            
+                              R
+                            
+                            ^
+                          
+                        
+                      
+                    
+                    
+                      
+                        |
+                      
+                      
+                        R
+                      
+                      
+                        
+                          |
+                        
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                =
+                
+                  
+                    1
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        p
+                      
+                      ⋅
+                      
+                        R
+                      
+                    
+                    
+                      
+                        |
+                      
+                      
+                        R
+                      
+                      
+                        
+                          |
+                        
+                        
+                          3
+                        
+                      
+                    
+                  
+                
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}V(\mathbf {R} )&=\ {\frac {1}{4\pi \varepsilon _{0}}}{\frac {q\mathbf {d} \cdot {\hat {\mathbf {R} }}}{R^{2}}}+{\mathcal {O}}{\left({\frac {d^{3}}{R^{3}}}\right)}\\[1ex]&\approx \ {\frac {1}{4\pi \varepsilon _{0}}}{\frac {\mathbf {p} \cdot {\hat {\mathbf {R} }}}{|\mathbf {R} |^{2}}}={\frac {1}{4\pi \varepsilon _{0}}}{\frac {\mathbf {p} \cdot \mathbf {R} }{|\mathbf {R} |^{3}}}\,,\end{aligned}}}
+  
+
+where higher order terms in the series are vanishing at large distances, R, compared to d. Here, the electric dipole moment p is, as above:
+
+  
+    
+      
+        
+          p
+        
+        =
+        q
+        
+          d
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {p} =q\mathbf {d} \,.}
+  
+
+The result for the dipole potential also can be expressed as:
+
+  
+    
+      
+        V
+        (
+        
+          R
+        
+        )
+        ≈
+        −
+        
+          p
+        
+        ⋅
+        
+          ∇
+        
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+              R
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle V(\mathbf {R} )\approx -\mathbf {p} \cdot \mathbf {\nabla } {\frac {1}{4\pi \varepsilon _{0}R}}\,,}
+  
+
+which relates the dipole potential to that of a point charge. A key point is that the potential of the dipole falls off faster with distance R than that of the point charge.
+The electric field of the dipole is the negative gradient of the potential, leading to:
+
+  
+    
+      
+        
+          E
+        
+        
+          
+            (
+            
+              R
+            
+            )
+          
+        
+        =
+        
+          
+            
+              3
+              
+                (
+                
+                  
+                    p
+                  
+                  ⋅
+                  
+                    
+                      
+                        
+                          R
+                        
+                        ^
+                      
+                    
+                  
+                
+                )
+              
+              
+                
+                  
+                    
+                      R
+                    
+                    ^
+                  
+                
+              
+              −
+              
+                p
+              
+            
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+              
+                R
+                
+                  3
+                
+              
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {E} {\left(\mathbf {R} \right)}={\frac {3\left(\mathbf {p} \cdot {\hat {\mathbf {R} }}\right){\hat {\mathbf {R} }}-\mathbf {p} }{4\pi \varepsilon _{0}R^{3}}}\,.}
+  
+
+Thus, although two closely spaced opposite charges are not quite an ideal electric dipole (because their potential at short distances is not that of a dipole), at distances much larger than their separation, their dipole moment p appears directly in their potential and field.
+As the two charges are brought closer together (d is made smaller), the dipole term in the multipole expansion based on the ratio d/R becomes the only significant term at ever closer distances R, and in the limit of infinitesimal separation the dipole term in this expansion is all that matters. As d is made infinitesimal, thus, the dipole charge must be made to increase to hold p constant. This limiting process results in a "point dipole".
+
+Dipole moment density and polarization density
+The dipole moment of an array of charges, 
+
+  
+    
+      
+        
+          p
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+          q
+          
+            i
+          
+        
+        
+          
+            d
+          
+          
+            i
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {p} =\sum _{i=1}^{N}q_{i}\mathbf {d} _{i}\,,}
+  
+
+determines the degree of polarity of the array, but for a neutral array it is simply a vector property of the array with no information about the array's absolute location. The dipole moment density of the array p(r) contains both the location of the array and its dipole moment. When it comes time to calculate the electric field in some region containing the array, Maxwell's equations are solved, and the information about the charge array is contained in the polarization density P(r) of Maxwell's equations. Depending upon how fine-grained an assessment of the electric field is required, more or less information about the charge array will have to be expressed by P(r). As explained below, sometimes it is sufficiently accurate to take P(r) = p(r). Sometimes a more detailed description is needed (for example, supplementing the dipole moment density with an additional quadrupole density) and sometimes even more elaborate versions of P(r) are necessary.
+It now is explored just in what way the polarization density P(r) that enters Maxwell's equations is related to the dipole moment p of an overall neutral array of charges, and also to the dipole moment density p(r) (which describes not only the dipole moment, but also the array location). Only static situations are considered in what follows, so P(r) has no time dependence, and there is no displacement current. First is some discussion of the polarization density P(r). That discussion is followed with several particular examples.
+A formulation of Maxwell's equations based upon division of charges and currents into "free" and "bound" charges and currents leads to introduction of the D- and P-fields:
+
+  
+    
+      
+        
+          D
+        
+        =
+        
+          ε
+          
+            0
+          
+        
+        
+          E
+        
+        +
+        
+          P
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {D} =\varepsilon _{0}\mathbf {E} +\mathbf {P} \,,}
+  
+
+where P is called the polarization density. In this formulation, the divergence of this equation yields:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          D
+        
+        =
+        
+          ρ
+          
+            f
+          
+        
+        =
+        
+          ε
+          
+            0
+          
+        
+        ∇
+        ⋅
+        
+          E
+        
+        +
+        ∇
+        ⋅
+        
+          P
+        
+        
+        ,
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {D} =\rho _{\text{f}}=\varepsilon _{0}\nabla \cdot \mathbf {E} +\nabla \cdot \mathbf {P} \,,}
+  
+
+and as the divergence term in E is the total charge, and ρf is "free charge", we are left with the relation:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          P
+        
+        =
+        −
+        
+          ρ
+          
+            b
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {P} =-\rho _{\text{b}}\,,}
+  
+
+with ρb as the bound charge, by which is meant the difference between the total and the free charge densities.
+As an aside, in the absence of magnetic effects, Maxwell's equations specify that
+
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        
+          0
+        
+        
+        ,
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} ={\boldsymbol {0}}\,,}
+  
+
+which implies
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          
+            
+              D
+            
+            −
+            
+              P
+            
+          
+          )
+        
+        =
+        
+          0
+        
+        
+        ,
+      
+    
+    {\displaystyle \nabla \times \left(\mathbf {D} -\mathbf {P} \right)={\boldsymbol {0}}\,,}
+  
+
+Applying Helmholtz decomposition:
+
+  
+    
+      
+        
+          D
+        
+        −
+        
+          P
+        
+        =
+        −
+        ∇
+        Φ
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {D} -\mathbf {P} =-\nabla \Phi \,,}
+  
+
+for some scalar potential φ, and:
+
+  
+    
+      
+        ∇
+        ⋅
+        (
+        
+          D
+        
+        −
+        
+          P
+        
+        )
+        =
+        
+          ε
+          
+            0
+          
+        
+        ∇
+        ⋅
+        
+          E
+        
+        =
+        
+          ρ
+          
+            f
+          
+        
+        +
+        
+          ρ
+          
+            b
+          
+        
+        =
+        −
+        
+          ∇
+          
+            2
+          
+        
+        Φ
+        
+        .
+      
+    
+    {\displaystyle \nabla \cdot (\mathbf {D} -\mathbf {P} )=\varepsilon _{0}\nabla \cdot \mathbf {E} =\rho _{\text{f}}+\rho _{\text{b}}=-\nabla ^{2}\Phi \,.}
+  
+
+Suppose the charges are divided into free and bound, and the potential is divided into
+
+  
+    
+      
+        Φ
+        =
+        
+          Φ
+          
+            f
+          
+        
+        +
+        
+          Φ
+          
+            b
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \Phi =\Phi _{\text{f}}+\Phi _{\text{b}}\,.}
+  
+
+Satisfaction of the boundary conditions upon φ may be divided arbitrarily between φf and φb because only the sum φ must satisfy these conditions.  It follows that P is simply proportional to the electric field due to the charges selected as bound, with boundary conditions that prove convenient. In particular, when no free charge is present, one possible choice is P = ε0 E.
+Next is discussed how several different dipole moment descriptions of a medium relate to the polarization entering Maxwell's equations.
+
+Medium with charge and dipole densities
+As described next, a model for polarization moment density p(r) results in a polarization
+
+  
+    
+      
+        
+          P
+        
+        (
+        
+          r
+        
+        )
+        =
+        
+          p
+        
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \mathbf {P} (\mathbf {r} )=\mathbf {p} (\mathbf {r} )}
+  
+
+restricted to the same model. For a smoothly varying dipole moment distribution p(r), the corresponding bound charge density is simply
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          p
+        
+        (
+        
+          r
+        
+        )
+        =
+        −
+        
+          ρ
+          
+            b
+          
+        
+        ,
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {p} (\mathbf {r} )=-\rho _{\text{b}},}
+  
+
+as we will establish shortly via integration by parts. However, if p(r) exhibits an abrupt step in dipole moment at a boundary between two regions, ∇·p(r) results in  a surface charge component of bound charge. This surface charge can be treated through a surface integral, or by using discontinuity conditions at the boundary, as illustrated in the various examples below.
+As a first example relating dipole moment to polarization, consider a medium made up of a continuous charge density ρ(r) and a continuous dipole moment distribution p(r). The potential at a position r is:
+
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ∫
+        
+          
+            
+              ρ
+              
+                (
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                )
+              
+            
+            
+              |
+              
+                
+                  r
+                
+                −
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+              |
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+          
+            0
+          
+        
+         
+        +
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ∫
+        
+          
+            
+              
+                p
+              
+              
+                (
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                )
+              
+              ⋅
+              
+                (
+                
+                  
+                    r
+                  
+                  −
+                  
+                    
+                      r
+                    
+                    
+                      0
+                    
+                  
+                
+                )
+              
+            
+            
+              
+                |
+              
+              
+                r
+              
+              −
+              
+                
+                  r
+                
+                
+                  0
+                
+              
+              
+                
+                  |
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )={\frac {1}{4\pi \varepsilon _{0}}}\int {\frac {\rho \left(\mathbf {r} _{0}\right)}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}d^{3}\mathbf {r} _{0}\ +{\frac {1}{4\pi \varepsilon _{0}}}\int {\frac {\mathbf {p} \left(\mathbf {r} _{0}\right)\cdot \left(\mathbf {r} -\mathbf {r} _{0}\right)}{|\mathbf {r} -\mathbf {r} _{0}|^{3}}}d^{3}\mathbf {r} _{0},}
+  
+
+where ρ(r) is the unpaired charge density, and p(r) is the dipole moment density. Using an identity:
+
+  
+    
+      
+        
+          ∇
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+        
+        
+          
+            1
+            
+              |
+              
+                
+                  r
+                
+                −
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+              |
+            
+          
+        
+        =
+        
+          
+            
+              
+                r
+              
+              −
+              
+                
+                  r
+                
+                
+                  0
+                
+              
+            
+            
+              
+                |
+                
+                  
+                    r
+                  
+                  −
+                  
+                    
+                      r
+                    
+                    
+                      0
+                    
+                  
+                
+                |
+              
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nabla _{\mathbf {r} _{0}}{\frac {1}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}={\frac {\mathbf {r} -\mathbf {r} _{0}}{\left|\mathbf {r} -\mathbf {r} _{0}\right|^{3}}}}
+  
+
+the polarization integral can be transformed:
+
+  
+    
+      
+        
+          
+            
+              
+                ∫
+                
+                  
+                    
+                      
+                        p
+                      
+                      
+                        (
+                        
+                          
+                            r
+                          
+                          
+                            0
+                          
+                        
+                        )
+                      
+                      ⋅
+                      (
+                      
+                        r
+                      
+                      −
+                      
+                        
+                          r
+                        
+                        
+                          0
+                        
+                      
+                      )
+                    
+                    
+                      
+                        |
+                        
+                          
+                            r
+                          
+                          −
+                          
+                            
+                              r
+                            
+                            
+                              0
+                            
+                          
+                        
+                        |
+                      
+                      
+                        3
+                      
+                    
+                  
+                
+                
+                  d
+                  
+                    3
+                  
+                
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                =
+                
+
+                
+              
+              
+                
+                ∫
+                
+                  p
+                
+                
+                  (
+                  
+                    
+                      r
+                    
+                    
+                      0
+                    
+                  
+                  )
+                
+                ⋅
+                
+                  ∇
+                  
+                    
+                      
+                        r
+                      
+                      
+                        0
+                      
+                    
+                  
+                
+                
+                  
+                    1
+                    
+                      |
+                      
+                        
+                          r
+                        
+                        −
+                        
+                          
+                            r
+                          
+                          
+                            0
+                          
+                        
+                      
+                      |
+                    
+                  
+                
+                
+                  d
+                  
+                    3
+                  
+                
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                ,
+              
+            
+            
+              
+                =
+                
+
+                
+              
+              
+                
+                ∫
+                
+                  ∇
+                  
+                    
+                      
+                        r
+                      
+                      
+                        0
+                      
+                    
+                  
+                
+                ⋅
+                
+                  
+                    
+                      
+                        p
+                      
+                      
+                        (
+                        
+                          
+                            r
+                          
+                          
+                            0
+                          
+                        
+                        )
+                      
+                    
+                    
+                      |
+                      
+                        
+                          r
+                        
+                        −
+                        
+                          
+                            r
+                          
+                          
+                            0
+                          
+                        
+                      
+                      |
+                    
+                  
+                
+                
+                  d
+                  
+                    3
+                  
+                
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                −
+                ∫
+                
+                  
+                    
+                      
+                        ∇
+                        
+                          
+                            
+                              r
+                            
+                            
+                              0
+                            
+                          
+                        
+                      
+                      ⋅
+                      
+                        p
+                      
+                      
+                        (
+                        
+                          
+                            r
+                          
+                          
+                            0
+                          
+                        
+                        )
+                      
+                    
+                    
+                      |
+                      
+                        
+                          r
+                        
+                        −
+                        
+                          
+                            r
+                          
+                          
+                            0
+                          
+                        
+                      
+                      |
+                    
+                  
+                
+                
+                  d
+                  
+                    3
+                  
+                
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\int {\frac {\mathbf {p} \left(\mathbf {r} _{0}\right)\cdot (\mathbf {r} -\mathbf {r} _{0})}{\left|\mathbf {r} -\mathbf {r} _{0}\right|^{3}}}d^{3}\mathbf {r} _{0}={}&\int \mathbf {p} \left(\mathbf {r} _{0}\right)\cdot \nabla _{\mathbf {r} _{0}}{\frac {1}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}d^{3}\mathbf {r} _{0},\\={}&\int \nabla _{\mathbf {r} _{0}}\cdot {\frac {\mathbf {p} \left(\mathbf {r} _{0}\right)}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}d^{3}\mathbf {r} _{0}-\int {\frac {\nabla _{\mathbf {r} _{0}}\cdot \mathbf {p} \left(\mathbf {r} _{0}\right)}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}d^{3}\mathbf {r} _{0},\end{aligned}}}
+  
+
+where the vector identity 
+  
+    
+      
+        ∇
+        ⋅
+        (
+        
+          A
+        
+        
+          B
+        
+        )
+        =
+        (
+        ∇
+        ⋅
+        
+          A
+        
+        )
+        
+          B
+        
+        +
+        
+          A
+        
+        ⋅
+        (
+        ∇
+        
+          B
+        
+        )
+        
+        ⟹
+        
+        
+          A
+        
+        ⋅
+        (
+        ∇
+        
+          B
+        
+        )
+        =
+        ∇
+        ⋅
+        (
+        
+          A
+        
+        
+          B
+        
+        )
+        −
+        (
+        ∇
+        ⋅
+        
+          A
+        
+        )
+        
+          B
+        
+      
+    
+    {\displaystyle \nabla \cdot (\mathbf {A} {B})=(\nabla \cdot \mathbf {A} ){B}+\mathbf {A} \cdot (\nabla {B})\implies \mathbf {A} \cdot (\nabla {B})=\nabla \cdot (\mathbf {A} {B})-(\nabla \cdot \mathbf {A} ){B}}
+  
+ was used in the last steps. The first term can be transformed to an integral over the surface bounding the volume of integration, and contributes a surface charge density, discussed later.  Putting this result back into the potential, and ignoring the surface charge for now:
+
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ∫
+        
+          
+            
+              ρ
+              
+                
+                  (
+                  
+                    
+                      r
+                    
+                    
+                      0
+                    
+                  
+                  )
+                
+              
+              −
+              
+                ∇
+                
+                  
+                    
+                      r
+                    
+                    
+                      0
+                    
+                  
+                
+              
+              ⋅
+              
+                p
+              
+              
+                
+                  (
+                  
+                    
+                      r
+                    
+                    
+                      0
+                    
+                  
+                  )
+                
+              
+            
+            
+              |
+              
+                
+                  r
+                
+                −
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+              |
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )={\frac {1}{4\pi \varepsilon _{0}}}\int {\frac {\rho {\left(\mathbf {r} _{0}\right)}-\nabla _{\mathbf {r} _{0}}\cdot \mathbf {p} {\left(\mathbf {r} _{0}\right)}}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}d^{3}\mathbf {r} _{0},}
+  
+
+where the volume integration extends only up to the bounding surface, and does not include this surface.
+The potential is determined by the total charge, which the above shows consists of:
+
+  
+    
+      
+        
+          ρ
+          
+            total
+          
+        
+        
+          (
+          
+            
+              r
+            
+            
+              0
+            
+          
+          )
+        
+        =
+        ρ
+        
+          (
+          
+            
+              r
+            
+            
+              0
+            
+          
+          )
+        
+        −
+        
+          ∇
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          p
+        
+        
+          (
+          
+            
+              r
+            
+            
+              0
+            
+          
+          )
+        
+        
+        ,
+      
+    
+    {\displaystyle \rho _{\text{total}}\left(\mathbf {r} _{0}\right)=\rho \left(\mathbf {r} _{0}\right)-\nabla _{\mathbf {r} _{0}}\cdot \mathbf {p} \left(\mathbf {r} _{0}\right)\,,}
+  
+
+showing that:
+
+  
+    
+      
+        −
+        
+          ∇
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          p
+        
+        
+          (
+          
+            
+              r
+            
+            
+              0
+            
+          
+          )
+        
+        =
+        
+          ρ
+          
+            b
+          
+        
+        
+        .
+      
+    
+    {\displaystyle -\nabla _{\mathbf {r} _{0}}\cdot \mathbf {p} \left(\mathbf {r} _{0}\right)=\rho _{\text{b}}\,.}
+  
+
+In short, the dipole moment density p(r) plays the role of the polarization density P for this medium. Notice, p(r) has a non-zero divergence equal to the bound charge density (as modeled in this approximation).
+It may be noted that this approach can be extended to include all the  multipoles: dipole, quadrupole, etc. Using the relation:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          D
+        
+        =
+        
+          ρ
+          
+            f
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {D} =\rho _{\text{f}}\,,}
+  
+
+the polarization density is found to be:
+
+  
+    
+      
+        
+          P
+        
+        (
+        
+          r
+        
+        )
+        =
+        
+          
+            p
+          
+          
+            dip
+          
+        
+        −
+        ∇
+        ⋅
+        
+          
+            p
+          
+          
+            quad
+          
+        
+        +
+        ⋯
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {P} (\mathbf {r} )=\mathbf {p} _{\text{dip}}-\nabla \cdot \mathbf {p} _{\text{quad}}+\cdots \,,}
+  
+
+where the added terms are meant to indicate contributions from higher multipoles. Evidently, inclusion of higher multipoles signifies that the polarization density P no longer is determined by a dipole moment density p alone. For example, in considering scattering from a charge array, different multipoles scatter an electromagnetic wave differently and independently, requiring a representation of the charges that goes beyond the dipole approximation.
+
+Surface charge
+
+Above, discussion was deferred for the first term in the expression for the potential due to the dipoles. Integrating the divergence results in a surface charge. The figure at the right provides an intuitive idea of why a surface charge arises. The figure shows a uniform array of identical dipoles between two surfaces. Internally, the heads and tails of dipoles are adjacent and cancel. At the bounding surfaces, however, no cancellation occurs. Instead, on one surface the dipole heads create a positive surface charge, while at the opposite surface the dipole tails create a negative surface charge. These two opposite surface charges create a net electric field in a direction opposite to the direction of the dipoles.
+This idea is given mathematical form using the potential expression above. Ignoring the free charge, the potential is:
+
+  
+    
+      
+        Φ
+        
+          (
+          
+            r
+          
+          )
+        
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ∫
+        
+          ∇
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          (
+          
+            
+              p
+            
+            
+              (
+              
+                
+                  r
+                
+                
+                  0
+                
+              
+              )
+            
+            
+              
+                1
+                
+                  |
+                  
+                    
+                      r
+                    
+                    −
+                    
+                      
+                        r
+                      
+                      
+                        0
+                      
+                    
+                  
+                  |
+                
+              
+            
+          
+          )
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+          
+            0
+          
+        
+        −
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ∫
+        
+          
+            
+              
+                ∇
+                
+                  
+                    
+                      r
+                    
+                    
+                      0
+                    
+                  
+                
+              
+              ⋅
+              
+                p
+              
+              
+                (
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                )
+              
+            
+            
+              |
+              
+                
+                  r
+                
+                −
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+              |
+            
+          
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+          
+            0
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \Phi \left(\mathbf {r} \right)={\frac {1}{4\pi \varepsilon _{0}}}\int \nabla _{\mathbf {r} _{0}}\cdot \left(\mathbf {p} \left(\mathbf {r} _{0}\right){\frac {1}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}\right)d^{3}\mathbf {r} _{0}-{\frac {1}{4\pi \varepsilon _{0}}}\int {\frac {\nabla _{\mathbf {r} _{0}}\cdot \mathbf {p} \left(\mathbf {r} _{0}\right)}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}d^{3}\mathbf {r} _{0}\,.}
+  
+
+Using the divergence theorem, the divergence term transforms into the surface integral:
+
+  
+    
+      
+        ∫
+        
+          ∇
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+        
+        ⋅
+        
+          (
+          
+            
+              p
+            
+            
+              (
+              
+                
+                  r
+                
+                
+                  0
+                
+              
+              )
+            
+            
+              
+                1
+                
+                  |
+                  
+                    
+                      r
+                    
+                    −
+                    
+                      
+                        r
+                      
+                      
+                        0
+                      
+                    
+                  
+                  |
+                
+              
+            
+          
+          )
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+          
+            0
+          
+        
+        =
+        ∫
+        
+          
+            
+              
+                p
+              
+              
+                (
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                )
+              
+              ⋅
+              d
+              
+                
+                  A
+                
+                
+                  0
+                
+              
+            
+            
+              |
+              
+                
+                  r
+                
+                −
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+              |
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \int \nabla _{\mathbf {r} _{0}}\cdot \left(\mathbf {p} \left(\mathbf {r} _{0}\right){\frac {1}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}\right)d^{3}\mathbf {r} _{0}=\int {\frac {\mathbf {p} \left(\mathbf {r} _{0}\right)\cdot d\mathbf {A} _{0}}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}\,,}
+  
+
+with dA0 an element of surface area of the volume. In the event that p(r) is a constant, only the surface term survives:
+
+  
+    
+      
+        Φ
+        (
+        
+          r
+        
+        )
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        ∫
+        
+          
+            1
+            
+              |
+              
+                
+                  r
+                
+                −
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+              |
+            
+          
+        
+         
+        
+          p
+        
+        ⋅
+        d
+        
+          
+            A
+          
+          
+            0
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \Phi (\mathbf {r} )={\frac {1}{4\pi \varepsilon _{0}}}\int {\frac {1}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}\ \mathbf {p} \cdot d\mathbf {A} _{0}\,,}
+  
+
+with dA0 an elementary area of the surface bounding the charges. In words, the potential due to a constant p inside the surface is equivalent to that of a surface charge
+
+  
+    
+      
+        σ
+        =
+        
+          p
+        
+        ⋅
+        d
+        
+          A
+        
+      
+    
+    {\displaystyle \sigma =\mathbf {p} \cdot d\mathbf {A} }
+  
+
+which is positive for surface elements with a component in the direction of p and negative for surface elements pointed oppositely. (Usually the direction of a surface element is taken to be that of the outward normal to the surface at the location of the element.)
+If the bounding surface is a sphere, and the point of observation is at the center of this sphere, the integration over the surface of the sphere is zero: the positive and negative surface charge contributions to the potential cancel. If the point of observation is off-center, however, a net potential can result (depending upon the situation) because the positive and negative charges are at different distances from the point of observation. The field due to the surface charge is:
+
+  
+    
+      
+        
+          E
+        
+        
+          (
+          
+            r
+          
+          )
+        
+        =
+        −
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        
+          ∇
+          
+            
+              r
+            
+          
+        
+        ∫
+        
+          
+            1
+            
+              |
+              
+                
+                  r
+                
+                −
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+              
+              |
+            
+          
+        
+         
+        
+          p
+        
+        ⋅
+        d
+        
+          
+            A
+          
+          
+            0
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {E} \left(\mathbf {r} \right)=-{\frac {1}{4\pi \varepsilon _{0}}}\nabla _{\mathbf {r} }\int {\frac {1}{\left|\mathbf {r} -\mathbf {r} _{0}\right|}}\ \mathbf {p} \cdot d\mathbf {A} _{0}\,,}
+  
+
+which, at the center of a spherical bounding surface is not zero (the fields of negative and positive charges on opposite sides of the center add because both fields point the same way) but is instead:
+
+  
+    
+      
+        
+          E
+        
+        =
+        −
+        
+          
+            
+              p
+            
+            
+              3
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {E} =-{\frac {\mathbf {p} }{3\varepsilon _{0}}}\,.}
+  
+
+If we suppose the polarization of the dipoles was induced by an external field, the polarization field opposes the applied field and sometimes is called a depolarization field. In the case when the polarization is outside a spherical cavity, the field in the cavity due to the surrounding dipoles is in the same direction as the polarization.
+In particular, if the electric susceptibility is introduced through the approximation:
+
+  
+    
+      
+        
+          p
+        
+        (
+        
+          r
+        
+        )
+        =
+        
+          ε
+          
+            0
+          
+        
+        χ
+        (
+        
+          r
+        
+        )
+        
+          E
+        
+        (
+        
+          r
+        
+        )
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {p} (\mathbf {r} )=\varepsilon _{0}\chi (\mathbf {r} )\mathbf {E} (\mathbf {r} )\,,}
+  
+
+where E, in this case and in the following, represent the external field which induces the polarization.
+Then:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          p
+        
+        (
+        
+          r
+        
+        )
+        =
+        ∇
+        ⋅
+        
+          (
+          
+            χ
+            (
+            
+              r
+            
+            )
+            
+              ε
+              
+                0
+              
+            
+            
+              E
+            
+            (
+            
+              r
+            
+            )
+          
+          )
+        
+        =
+        −
+        
+          ρ
+          
+            b
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {p} (\mathbf {r} )=\nabla \cdot \left(\chi (\mathbf {r} )\varepsilon _{0}\mathbf {E} (\mathbf {r} )\right)=-\rho _{\text{b}}\,.}
+  
+
+Whenever χ(r) is used to model a step discontinuity at the boundary between two regions, the step produces a surface charge layer. For example, integrating along a normal to the bounding surface from a point just interior to one surface to another point just exterior:
+
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              
+                n
+              
+              ^
+            
+          
+        
+        ⋅
+        
+          [
+          
+            χ
+            
+              (
+              
+                
+                  r
+                
+                
+                  +
+                
+              
+              )
+            
+            
+              E
+            
+            
+              (
+              
+                
+                  r
+                
+                
+                  +
+                
+              
+              )
+            
+            −
+            χ
+            
+              (
+              
+                
+                  r
+                
+                
+                  −
+                
+              
+              )
+            
+            
+              E
+            
+            
+              (
+              
+                
+                  r
+                
+                
+                  −
+                
+              
+              )
+            
+          
+          ]
+        
+        =
+        
+          
+            1
+            
+              A
+              
+                n
+              
+            
+          
+        
+        ∫
+        d
+        
+          Ω
+          
+            n
+          
+        
+         
+        
+          ρ
+          
+            b
+          
+        
+        =
+        0
+        
+        ,
+      
+    
+    {\displaystyle \varepsilon _{0}{\hat {\mathbf {n} }}\cdot \left[\chi \left(\mathbf {r} _{+}\right)\mathbf {E} \left(\mathbf {r} _{+}\right)-\chi \left(\mathbf {r} _{-}\right)\mathbf {E} \left(\mathbf {r} _{-}\right)\right]={\frac {1}{A_{\text{n}}}}\int d\Omega _{\text{n}}\ \rho _{\text{b}}=0\,,}
+  
+
+where An, Ωn indicate the area and volume of an elementary region straddling the boundary between the regions, and 
+  
+    
+      
+        
+          
+            
+              
+                n
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {n} }}}
+  
+ a unit normal to the surface. The right side vanishes as the volume shrinks, inasmuch as ρb is finite, indicating a discontinuity in E, and therefore a surface charge. That is, where the modeled medium includes a step in permittivity, the polarization density corresponding to the dipole moment density
+
+  
+    
+      
+        
+          p
+        
+        (
+        
+          r
+        
+        )
+        =
+        
+          ε
+          
+            0
+          
+        
+        χ
+        (
+        
+          r
+        
+        )
+        
+          E
+        
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \mathbf {p} (\mathbf {r} )=\varepsilon _{0}\chi (\mathbf {r} )\mathbf {E} (\mathbf {r} )}
+  
+
+necessarily includes the contribution of a surface charge.
+A physically more realistic modeling of p(r) would have the dipole moment density drop off rapidly, but smoothly to zero at the boundary of the confining region, rather than making a sudden step to zero density. Then the surface charge will not concentrate in an infinitely thin surface, but instead, being the divergence of a smoothly varying dipole moment density, will distribute itself throughout a thin, but finite transition layer.
+
+Dielectric sphere in uniform external electric field
+
+The above general remarks about surface charge are made more concrete by considering the example of a dielectric sphere in a uniform electric field. The sphere is found to adopt a surface charge related to the dipole moment of its interior.
+A uniform external electric field is supposed to point in the z-direction, and spherical polar coordinates are introduced so the potential created by this field is:
+
+  
+    
+      
+        
+          Φ
+          
+            ∞
+          
+        
+        =
+        −
+        
+          E
+          
+            ∞
+          
+        
+        z
+        =
+        −
+        
+          E
+          
+            ∞
+          
+        
+        r
+        cos
+        ⁡
+        θ
+        
+        .
+      
+    
+    {\displaystyle \Phi _{\infty }=-E_{\infty }z=-E_{\infty }r\cos \theta \,.}
+  
+
+The sphere is assumed to be described by a dielectric constant κ, that is,
+
+  
+    
+      
+        
+          D
+        
+        =
+        κ
+        
+          ε
+          
+            0
+          
+        
+        
+          E
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {D} =\kappa \varepsilon _{0}\mathbf {E} \,,}
+  
+
+and inside the sphere the potential satisfies Laplace's equation. Skipping a few details, the solution inside the sphere is:
+
+  
+    
+      
+        
+          Φ
+          
+            <
+          
+        
+        =
+        A
+        r
+        cos
+        ⁡
+        θ
+        
+        ,
+      
+    
+    {\displaystyle \Phi _{<}=Ar\cos \theta \,,}
+  
+
+while outside the sphere:
+
+  
+    
+      
+        
+          Φ
+          
+            >
+          
+        
+        =
+        
+          (
+          
+            B
+            r
+            +
+            
+              
+                C
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        cos
+        ⁡
+        θ
+        
+        .
+      
+    
+    {\displaystyle \Phi _{>}=\left(Br+{\frac {C}{r^{2}}}\right)\cos \theta \,.}
+  
+
+At large distances, φ> → φ∞ so B = −E∞. Continuity of potential and of the radial component of displacement D = κε0E determine the other two constants. Supposing the radius of the sphere is R,
+
+  
+    
+      
+        A
+        =
+        −
+        
+          
+            3
+            
+              κ
+              +
+              2
+            
+          
+        
+        
+          E
+          
+            ∞
+          
+        
+         
+        ;
+         
+        C
+        =
+        
+          
+            
+              κ
+              −
+              1
+            
+            
+              κ
+              +
+              2
+            
+          
+        
+        
+          E
+          
+            ∞
+          
+        
+        
+          R
+          
+            3
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle A=-{\frac {3}{\kappa +2}}E_{\infty }\ ;\ C={\frac {\kappa -1}{\kappa +2}}E_{\infty }R^{3}\,,}
+  
+
+As a consequence, the potential is:
+
+  
+    
+      
+        
+          Φ
+          
+            >
+          
+        
+        =
+        
+          (
+          
+            −
+            r
+            +
+            
+              
+                
+                  κ
+                  −
+                  1
+                
+                
+                  κ
+                  +
+                  2
+                
+              
+            
+            
+              
+                
+                  R
+                  
+                    3
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        
+          E
+          
+            ∞
+          
+        
+        cos
+        ⁡
+        θ
+        
+        ,
+      
+    
+    {\displaystyle \Phi _{>}=\left(-r+{\frac {\kappa -1}{\kappa +2}}{\frac {R^{3}}{r^{2}}}\right)E_{\infty }\cos \theta \,,}
+  
+
+which is the potential due to applied field and, in addition, a dipole in the direction of the applied field (the z-direction) of dipole moment:
+
+  
+    
+      
+        
+          p
+        
+        =
+        4
+        π
+        
+          ε
+          
+            0
+          
+        
+        
+          (
+          
+            
+              
+                
+                  κ
+                  −
+                  1
+                
+                
+                  κ
+                  +
+                  2
+                
+              
+            
+            
+              R
+              
+                3
+              
+            
+          
+          )
+        
+        
+          
+            E
+          
+          
+            ∞
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {p} =4\pi \varepsilon _{0}\left({\frac {\kappa -1}{\kappa +2}}R^{3}\right)\mathbf {E} _{\infty }\,,}
+  
+
+or, per unit volume:
+
+  
+    
+      
+        
+          
+            
+              p
+            
+            V
+          
+        
+        =
+        3
+        
+          ε
+          
+            0
+          
+        
+        
+          (
+          
+            
+              
+                κ
+                −
+                1
+              
+              
+                κ
+                +
+                2
+              
+            
+          
+          )
+        
+        
+          
+            E
+          
+          
+            ∞
+          
+        
+        
+        .
+      
+    
+    {\displaystyle {\frac {\mathbf {p} }{V}}=3\varepsilon _{0}\left({\frac {\kappa -1}{\kappa +2}}\right)\mathbf {E} _{\infty }\,.}
+  
+
+The factor (κ − 1)/(κ + 2) is called the Clausius–Mossotti factor and shows that the induced polarization flips sign if κ < 1. Of course, this cannot happen in this example, but in an example with two different dielectrics κ is replaced by the ratio of the inner to outer region dielectric constants, which can be greater or smaller than one. The potential inside the sphere is:
+
+  
+    
+      
+        
+          Φ
+          
+            <
+          
+        
+        =
+        −
+        
+          
+            3
+            
+              κ
+              +
+              2
+            
+          
+        
+        
+          E
+          
+            ∞
+          
+        
+        r
+        cos
+        ⁡
+        θ
+        
+        ,
+      
+    
+    {\displaystyle \Phi _{<}=-{\frac {3}{\kappa +2}}E_{\infty }r\cos \theta \,,}
+  
+
+leading to the field inside the sphere:
+
+  
+    
+      
+        −
+        ∇
+        
+          Φ
+          
+            <
+          
+        
+        =
+        
+          
+            3
+            
+              κ
+              +
+              2
+            
+          
+        
+        
+          
+            E
+          
+          
+            ∞
+          
+        
+        =
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  κ
+                  −
+                  1
+                
+                
+                  κ
+                  +
+                  2
+                
+              
+            
+          
+          )
+        
+        
+          
+            E
+          
+          
+            ∞
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle -\nabla \Phi _{<}={\frac {3}{\kappa +2}}\mathbf {E} _{\infty }=\left(1-{\frac {\kappa -1}{\kappa +2}}\right)\mathbf {E} _{\infty }\,,}
+  
+
+showing the depolarizing effect of the dipole. Notice that the field inside the sphere is uniform and parallel to the applied field. The dipole moment is uniform throughout the interior of the sphere. The surface charge density on the sphere is the difference between the radial field components:
+
+  
+    
+      
+        σ
+        =
+        3
+        
+          ε
+          
+            0
+          
+        
+        
+          
+            
+              κ
+              −
+              1
+            
+            
+              κ
+              +
+              2
+            
+          
+        
+        
+          E
+          
+            ∞
+          
+        
+        cos
+        ⁡
+        θ
+        =
+        
+          
+            1
+            V
+          
+        
+        
+          p
+        
+        ⋅
+        
+          
+            
+              
+                R
+              
+              ^
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \sigma =3\varepsilon _{0}{\frac {\kappa -1}{\kappa +2}}E_{\infty }\cos \theta ={\frac {1}{V}}\mathbf {p} \cdot {\hat {\mathbf {R} }}\,.}
+  
+
+This linear dielectric example shows that the dielectric constant treatment is equivalent to the uniform dipole moment model and leads to zero charge everywhere except for the surface charge at the boundary of the sphere.
+
+General media
+If observation is confined to regions sufficiently remote from a system of charges, a multipole expansion of the exact polarization density can be made. By truncating this expansion (for example, retaining only the dipole terms, or only the dipole and quadrupole terms, or etc.), the results of the previous section are regained. In particular, truncating the expansion at the dipole term, the result is indistinguishable from the polarization density generated by a uniform dipole moment confined to the charge region. To the accuracy of this dipole approximation, as shown in the previous section, the dipole moment density p(r) (which includes not only p but the location of p) serves as P(r).
+At locations inside the charge array, to connect an array of paired charges to an approximation involving only a dipole moment density p(r) requires additional considerations. The simplest approximation is to replace the charge array with a model of ideal (infinitesimally spaced) dipoles. In particular, as in the example above that uses a constant dipole moment density confined to a finite region, a surface charge and depolarization field results. A more general version of this model (which allows the polarization to vary with position) is the customary approach using electric susceptibility or electrical permittivity.
+A more complex model of the point charge array introduces an effective medium by averaging the microscopic charges; for example, the averaging can arrange that only dipole fields play a role. A related approach is to divide the charges into those nearby the point of observation, and those far enough away to allow a multipole expansion. The nearby charges then give rise to local field effects. In a common model of this type, the distant charges are treated as a homogeneous medium using a dielectric constant, and the nearby charges are treated only in a dipole approximation. The approximation of a medium or an array of charges by only dipoles and their associated dipole moment density is sometimes called the point dipole approximation, the discrete dipole approximation, or simply the dipole approximation.
+
+Electric dipole moments of fundamental particles
+Not to be confused with the magnetic dipole moments of particles, much experimental work is continuing on measuring the electric dipole moments (EDM; or anomalous electric dipole moment) of fundamental and composite particles, namely those of the electron and neutron, respectively. As EDMs violate both the parity (P) and time-reversal (T) symmetries, their values yield a mostly model-independent measure of CP-violation in nature (assuming CPT symmetry is valid). Therefore, values for these EDMs place strong constraints upon the scale of CP-violation that extensions to the Standard Model of particle physics may allow. Current generations of experiments are designed to be sensitive to the supersymmetry range of EDMs, providing complementary experiments to those done at the LHC.
+Indeed, many theories are inconsistent with the current limits and have effectively been ruled out, and established theory permits a much larger value than these limits, leading to the strong CP problem and prompting searches for new particles such as the axion.
+We know at least in the Yukawa sector from neutral kaon oscillations that CP is broken. Experiments have been performed to measure the electric dipole moment of various particles like the electron and the neutron. Many models beyond the Standard Model with additional CP-violating terms generically predict a nonzero electric dipole moment and are hence sensitive to such new physics. Instanton corrections from a nonzero θ term in quantum chromodynamics predict a nonzero electric dipole moment for the neutron and proton, which have not been observed in experiments (where the best bounds come from analysing neutrons). This is the strong CP problem and is a prediction of chiral perturbation theory.
+
+Electric dipole moments of molecules
+
+Dipole moments in molecules are responsible for the behavior of a substance in the presence of external electric fields. The dipoles tend to be aligned to the external field which can be constant or time-dependent. This effect forms the basis of a modern experimental technique called dielectric spectroscopy.
+Dipole moments can be found in common molecules such as water and also in biomolecules such as proteins due to non-uniform distributions of positive and negative charges on the various atoms.
+The physical chemist Peter J. W. Debye was the first scientist to study electric molecular dipoles extensively, and, as a consequence, dipole moments are measured in the non-SI unit named debye in his honor.
+For molecules there are three types of dipoles:
+
+Permanent dipoles
+These occur when two atoms in a molecule have substantially different electronegativity : One atom attracts electrons more than another, becoming more negative, while the other atom becomes more positive. A molecule with a permanent dipole moment is called a polar molecule. See Intermolecular force § Dipole–dipole interactions.
+Instantaneous dipoles
+These occur due to chance when electrons happen to be more concentrated in one place than another in a molecule, creating a temporary dipole. These dipoles are smaller in magnitude than permanent dipoles, but still play a large role in chemistry and biochemistry due to their prevalence. See instantaneous dipole.
+Induced dipoles
+These can occur when one molecule with a permanent dipole repels another molecule's electrons, inducing a dipole moment in that molecule. A molecule is polarized when it carries an induced dipole. See induced-dipole attraction.
+
+Theoretical calculation of molecular electric dipole moments
+It is possible to calculate dipole moments from electronic structure theory, either as a response to constant electric fields or from the density matrix. Such values however are not directly comparable to experiment due to the potential presence of nuclear quantum effects, which can be substantial for even simple systems like the ammonia molecule. Coupled cluster theory (especially CCSD(T)) can give very accurate dipole moments, although it is possible to get reasonable estimates (within about 5%) from density functional theory, especially if hybrid or double hybrid functionals are employed. The dipole moment of a molecule can also be calculated based on the molecular structure using the concept of group contribution methods.
+More generally, an induced dipole of any polarizable charge distribution ρ (remember that a molecule has a charge distribution) is caused by an electric field external to ρ. This field may, for instance, originate from an ion or polar molecule in the vicinity of ρ or may be macroscopic (e.g., a molecule between the plates of a charged capacitor). The size of the induced dipole moment is equal to the product of the strength of the external field and the dipole polarizability of ρ.
+
+Relation to dielectric constant
+By means of the total dipole moment of some material one can compute the dielectric constant which is related to the more intuitive concept of conductivity. If 
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            
+              T
+              o
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\mathcal {M}}_{\rm {Tot}}}
+  
+ is the total dipole moment of the sample, then the dielectric constant is given by
+
+  
+    
+      
+        ε
+        =
+        1
+        +
+        k
+        
+          ⟨
+          
+            
+              
+                M
+              
+            
+            
+              Tot
+            
+            
+              2
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \varepsilon =1+k\left\langle {\mathcal {M}}_{\text{Tot}}^{2}\right\rangle }
+  
+
+where k is a constant and 
+  
+    
+      
+        
+          ⟨
+          
+            
+              
+                M
+              
+            
+            
+              Tot
+            
+            
+              2
+            
+          
+          ⟩
+        
+        =
+        
+          ⟨
+          
+            
+              
+                
+                  M
+                
+              
+              
+                Tot
+              
+            
+            (
+            t
+            =
+            0
+            )
+            
+              
+                
+                  M
+                
+              
+              
+                Tot
+              
+            
+            (
+            t
+            =
+            0
+            )
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left\langle {\mathcal {M}}_{\text{Tot}}^{2}\right\rangle =\left\langle {\mathcal {M}}_{\text{Tot}}(t=0){\mathcal {M}}_{\text{Tot}}(t=0)\right\rangle }
+  
+ is the time correlation function of the total dipole moment. In general the total dipole moment have contributions coming
+from translations and rotations of the molecules in the sample,
+
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            Tot
+          
+        
+        =
+        
+          
+            
+              M
+            
+          
+          
+            Trans
+          
+        
+        +
+        
+          
+            
+              M
+            
+          
+          
+            Rot
+          
+        
+        .
+      
+    
+    {\displaystyle {\mathcal {M}}_{\text{Tot}}={\mathcal {M}}_{\text{Trans}}+{\mathcal {M}}_{\text{Rot}}.}
+  
+
+Therefore, the dielectric constant (and the conductivity) has contributions from both terms. This approach can be generalized to compute the frequency dependent dielectric function.
+
+Experimental determination of electric dipole moment
+Dipole moment values can be obtained from measurement of the dielectric constant. Some typical gas phase values given with the unit debye are:
+
+carbon dioxide: 0
+carbon monoxide: 0.112 D
+ozone: 0.53 D
+phosgene: 1.17 D
+ammonia: 1.42 D
+water vapor: 1.85 D
+hydrogen cyanide: 2.98 D
+cyanamide: 4.27 D
+potassium bromide: 10.41 D
+
+Potassium bromide (KBr) has one of the highest dipole moments because it is an ionic compound that exists as a molecule in the gas phase.
+
+The overall dipole moment of a molecule may be approximated as a vector sum of bond dipole moments. As a vector sum it depends on the relative orientation of the bonds, so that from the dipole moment information can be deduced about the molecular geometry.
+For example, the zero dipole of CO2 implies that the two C=O bond dipole moments cancel so that the molecule must be linear. For H2O the O−H bond moments do not cancel because the molecule is bent. For ozone (O3) which is also a bent molecule, the bond dipole moments are not zero even though the O−O bonds are between similar atoms. This agrees with the Lewis structures for the resonance forms of ozone which show a positive charge on the central oxygen atom.
+
+An example in organic chemistry of the role of geometry in determining dipole moment is the cis and trans isomers of 1,2-dichloroethene. In the cis isomer the two polar C−Cl bonds are on the same side of the C=C double bond and the molecular dipole moment is 1.90 D. In the trans isomer, the dipole moment is zero because the two C−Cl bonds are on opposite sides of the C=C and cancel (and the two bond moments for the much less polar C−H bonds also cancel).
+Another example of the role of molecular geometry is boron trifluoride, which has three polar bonds with a difference in electronegativity greater than the traditionally cited threshold of 1.7 for ionic bonding. However, due to the equilateral triangular distribution of the fluoride ions centered on and in the same plane as the boron cation, the symmetry of the molecule results in its dipole moment being zero.
+
+See also
+
+Notes
+
+References
+
+Further reading
+Melvin Schwartz (1987). "Electrical DIPOLE MOMENT". Principles of Electrodynamics (reprint of 1972 ed.). Courier Dover Publications. p. 49ff. ISBN 978-0-486-65493-5.
+
+External links
+Electric Dipole Moment – from Eric Weisstein's World of Physics
+Electrostatic Dipole Multiphysics Model
+
+[[Dipole]] [[Electric machine]] [[Electric potential]] [[Electrical impedance]] [[Electrical network]] [[Quadrupole]]

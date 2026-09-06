@@ -1,0 +1,18 @@
+Emotiv Systems
+Emotiv Systems is an Australian electronics innovation company developing technologies to evolve human computer interaction incorporating non-conscious cues into the human-computer dialogue to emulate human to human interaction. Developing brain–computer interfaces (BCIs) based on electroencephalography (EEG) technology, Emotiv Systems produced the EPOC near headset, a peripheral targeting the gaming market for Windows, OS X and Linux platforms. The EPOC has 16 electrodes and was originally designed to work as a BCI input device.
+Emotive Systems Pty Ltd was founded in 2003 by technology entrepreneurs Tan Le, Nam Do, Allan Snyder, and Neil Weste.
+Emotiv Research Pty Ltd was founded in 2011 also by Tan Le. Nam Do, Allan Snyder, and Neil Weste are not affiliated with this business. This business has operated in America under the name Emotiv Lifesciences Inc until December 2013 when it became Emotiv Inc. It is not affiliated with Emotiv Systems.
+
+See also
+Electroencephalography
+Neurofeedback
+Comparison of consumer brain–computer interfaces
+
+References
+
+External links
+Tan Le: A headset that reads your thoughts
+Brain control headset for gamers, By Darren Waters, 20 February 2008, BBC News
+Reality Bites -- Emotiv -- Mind Reading Device, By David H. Freedman, 1 December 2008, Inc. Magazine profile
+
+[[Brain–computer interface]] [[Electroencephalography]] [[Neurofeedback]]

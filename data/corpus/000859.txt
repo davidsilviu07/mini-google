@@ -1,0 +1,48 @@
+Pulsonix
+Pulsonix is an electronic design automation (EDA) software suite for schematic capture and PCB design. It is produced by WestDev, which is headquartered in Gloucestershire, England, with additional sales and distribution offices overseas. It was first released in 2001, and runs on Windows.
+
+Development
+The British software house WestDev created electronic design automation (EDA) software Pulsonix in 2001. Some development team members had formerly worked at Racal–Redac on computer-aided design tools. A key aim of the developers was that the software be easy to use, without the need for extensive training that they believed existing EDA products at that time required.
+The software formed part of the €14 million euros EU-funded project "HERMES". The three-year project (2008–11) sought to embed components within a circuit board's inner layers, to minimize use of design space.
+Traditionally, wire leads of components were inserted through holes in a circuit board then soldered in place; more recently, components and chips are surface-mounted flush with the board and heat-set. Although the concept of embedding components directly within layers of a circuit board itself had existed for some time, technical difficulties meant it was experimental, unsuited for use in mass production.
+An increased demand for miniaturization, for products such as smartphones or medical devices that have to be swallowed to explore inside the body, led the EU to create the three-year project to develop embedding for "industrialization" (mass production use). No EDA software was suitable for embedding. The taskforce working on HERMES approached the "most important EDA tool suppliers and convinced them to support [the project]". Pulsonix was one of those contacted, the others being Cadence, Mentor Graphics, and Zuken.
+
+Features
+Pulsonix is a Windows application for schematic capture and PCB layout design. It is produced in three variants, from 1000 pins up to an unlimited component pins version suited to larger designs. All three have autorouter capability. Within a dual monitor setup, schematic and layout design processes can each be assigned to a single screen, with changes synchronized as needed.
+
+Schematic capture
+Schematic capture layout functionality, including:
+
+Hierarchical schematic design
+SPICE mixed-signal circuit simulation
+Netlist export
+Reporting and BOM creation
+Sketch Routing
+
+PCB design
+Push, shove and hug routing
+Manual routing, with support for differential pairs, multi-trace routing, pin-swapping and gate-swapping
+Automatic trace routing
+Apply layout pattern for component placement
+Layer spans
+Via stitching within custom shapes and pads
+Component footprint library management
+Support for Flexi-Rigid Design
+Support for Embedded Components
+STEP support
+Manufacturing files generation with support for Gerber and ODB++ formats
+Import and export among various file formats
+3D visualisation and clash detection
+
+Reception
+Chris Anderson, then Wired editor-in-chief, gave it a generally positive review, at DIY Drones – an online portal for unmanned aerial vehicle ("drones") enthusiasts, in which he praised its user interface plus range of features such as 3D views, and, while noting it is an expensive product, deemed it "the best competitor to the aging Cadsoft Eagle" software.
+Neil Gruending, columnist at long-running electronics magazine Elektor, on board design among the maker subculture, reviewed around seven EDA products on his blog in late 2012. Gruending found Pulsonix's user interface straightforward, singling out how "copper pours work properly" for praise. He considered for range of features and cost, its closest relation was Altium. Contrasting the two products Gruending wrote Pulsonix had comparatively low market share in North America, though he found support from vendors significantly better for Pulsonix there.
+
+See also
+
+References
+
+External links
+Official site
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic circuit simulation]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[List of EDA companies]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

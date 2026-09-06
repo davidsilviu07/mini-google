@@ -1,0 +1,27 @@
+Computer-aided industrial design
+Computer-aided industrial design (CAID) is a subset of computer-aided design (CAD) software that can assist in creating the look-and-feel or industrial design aspects of a product in development.
+CAID programs tend to provide designers with improved freedom of creativity compared to typical CAD tools. However, a typical workflow may follow a simple design methodology as follows:
+
+Creating sketches, using a stylus
+Generating curves directly from the sketch
+Generating surfaces directly from the curves
+The end result is generally a 3D model that represents the main intent the designer had in mind for the physical product. Such models can then be saved in formats for more convenient exchange with others (such as OBJ for virtual viewing in 3D graphics programs) or manufacturing (such as STL to create a real-life model via a rapid prototyping machine). CAID helps the designer focus on the technical aspect of the design methodology rather than the sketching and modelling aspects, contributing to the selection of a better product proposal in less time. When product pre-requisites and parameters have been more completely defined, output from the CAID software can be imported into a CAD program for pre-production testing, adjustment, and generation of technical drawings and manufacturing data such as CNC tool-paths.
+CAID is far more conceptual and less technically focused than CAD. CAID programs tend to offer more tools that allow a designer to freely express themselves with more organic shapes and complex curves, whilst CAD software tends to be more focused on tools for the simple curves and straight lines more suitable for easy manufacturing.
+CAD implementations have evolved dramatically since initial 3D offerings in the 1970s, which were typically limited to producing drawings similar to hand-drafted output. Advances in programming and computer hardware,[21][22] notably solid modelling in the 1980s, have allowed more versatile applications of computers in design activities.
+
+See also
+Industrial design
+Freeform surface modelling
+Class A surfaces
+Production
+Injection molding
+Automobile design
+AliasStudio, ICEM Surf, NX Shape Studio, CATIA Shape Design and Styling, SolidThinking, Rhinoceros,  examples of CAID software
+
+References
+
+External links
+ASIS proceedings on CAID
+ACM Siggraph abstract on CAID
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Agile software development]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Design closure]] [[Design for manufacturability]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[Engineering]] [[Enterprise architecture]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[Form factor (design)]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Platform-based design]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

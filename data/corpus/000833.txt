@@ -1,0 +1,52 @@
+Placement (electronic design automation)
+Placement is an essential step in electronic design automation — the portion of the physical design
+flow that assigns exact locations for various circuit components within the chip's core area. An inferior placement assignment will not only affect the chip's performance but might also make it non-manufacturable by producing excessive wire-length, which is beyond available routing resources. Consequently, a placer must perform the assignment while optimizing a number of objectives to ensure that a circuit meets its performance demands. Together, the placement and routing steps of IC design are known as place and route.
+A placer takes a given synthesized circuit netlist together with a technology library and produces a valid, and ideally optimal, layout of all of the cells in the netlist. The layout is optimized according to the aforementioned objectives and ready for cell resizing and buffering — a step essential for timing and signal integrity satisfaction. Clock tree synthesis and routing follow, completing the physical design process. In many cases, parts of, or the entire, physical design flow are iterated a number of times until design closure is achieved.
+
+Application specifics
+In the case of application-specific integrated circuits, or ASICs, the chip's core layout area comprises a number of fixed height rows, with either some or no space between them. Each row consists of a number of sites which can be occupied by the circuit components. A free site is a site that is not occupied by any component. Circuit components are either standard cells, macro blocks, or I/O pads.  Standard cells have a fixed height equal to a row's height, but have variable widths. The width of a cell is an integral number of sites.
+On the other hand, blocks are typically larger than cells and have variable heights that can stretch a multiple number of rows. Some blocks can have preassigned locations — say from a previous floorplanning process — which limit the placer's task to assigning locations for just the cells. In this case, the blocks are typically referred to by fixed blocks. Alternatively, some or all of the blocks may not have preassigned locations. In this case, they have to be placed with the cells in what is commonly referred to as mixed-mode placement.
+In addition to ASICs, placement remains important in gate array structures such as field-programmable gate arrays (FPGAs). Here, prefabricated transistors are typically arranged into cells, known as configurable logic blocks (CLBs), that are then arranged in rows
+(or “arrays”) separated by routing channels. The placement process then optimally maps the design, specified as a netlist, onto a number of these CLBs. As FPGAs grow significantly in size (i.e. the number of CLBs on a die), it is typical that ASIC placement algorithms are lightly modified for use in FPGAs.
+
+Objectives and constraints
+Placement is formulated as a constrained optimization problem. In particular, the clock cycle of a chip is determined by the delay of its longest path, usually referred to as critical path delay. Given a performance specification (usually, a clock period target in nanoseconds), a placer attempts to ensure that no path exists with delay exceeding the maximum specified delay. This objective may not be satisfiable on all designs: there may exist no placement at all which meets the designer's targeted delay.
+Other key constraints include 
+
+avoiding overlaps between circuit components (the instances in the netlist)
+accounting for pre-placed/fixed macros, such as SRAMs
+There are usually multiple optimization objectives, including: 
+
+Total wire length: the sum of the lengths of all the wires in the design
+Half-perimeter wire length (HPWL): for a set of nets, half of the perimeter of the minimum bounding box that encloses those nets
+Routing congestion: local congestion is the difference between the lengths of wires in a region and the length of routing tracks available in that region; local values can be aggregated in several ways, such as adding up the top 10% greatest values.
+Power: dynamic switching power depends on wire lengths, which in turn depend on component locations.
+Additionally, it is desirable to finish the placement process quickly. This is difficult, given that most placement sub-problems are known to be at least NP-hard.
+Total wirelength is typically the primary objective of most existing placers and serves as a precursor to other optimizations because, e.g., power and delay tend to grow with wire length. Total wire length determines the routing demand and whether it can be satisfied by the routing supply defined by available routing tracks. However, making wires very short sometimes leads to local routing demand exceeding local routing supply. Such situations often require routing detours, which increase wire lengths and signal delays. Therefore, after preliminary optimization of total wirelength, it is also important to handle routing congestion.
+Most wire length metrics, including HPWL, are not differentiable. For this reason, most modern placers do not optimize wire-length directly, but rather construct their objective functions as a differentiable approximation of wire-length. There are many approximations available.
+Power minimization typically notes wires with greater switching activity factors and assigns greater priority to making them shorter. When many "hot" components are placed nearby, a hot spot may arise and lead to harmful temperature gradients. In such cases, components can be spread out.
+
+Typical methods
+Placement is divided into global placement and detailed placement. Global placement introduces dramatic changes by distributing all the instances to appropriate locations in a global scale with minor overlaps allowed. Detailed placement shifts each instance to nearby legal location with very moderate layout change. Placement and overall design quality is most dependent on the global placement performance.
+Early techniques for placement of integrated circuits can be categorized as combinatorial optimization. For IC designs with thousands or tens of thousands of components, simulated annealing methodologies such as TimberWolf exhibits the best results. When IC designs grew to millions of components, placement leveraged hypergraph partitioning using nested-partitioning frameworks such as Capo. Combinatorial methods directly prevent component overlaps but struggle with interconnect optimization at large scale. They are typically stochastic and can produce very different results for the same input when launched multiple times.
+Analytical methods for global placement model interconnect length by a continuous function and minimize this function directly subject to component density constraints. These methods run faster and scale better than combinatorial methods, but do not prevent component overlaps and must be postprocessed by combinatorial methods for detailed placement.
+Quadratic placement is an early analytical method that models interconnect length by a quadratic function and uses high-performance quadratic optimization techniques. When it was developed, it demonstrated competitive quality of results and also stability, unlike combinatorial methods. GORDIAN formulates the wirelength cost as a quadratic function while still spreading cells apart through recursive partitioning. The algorithm models placement density as a linear term into the quadratic cost function and solves the placement problem by pure quadratic programming.  A common enhancement is weighting each net by the inverse of its length on the previous iteration.  Provided the process converges, this minimizes an objective linear in the wirelength. The majority of modern quadratic placers (KraftWerk, FastPlace, SimPL) follow this framework, each with different heuristics on how to determine the linear density force. There exist known analogies between quadratic placement and the classical mechanics problem of finding the minimum energy of a system of springs, or the force-equilibrium. In this case, these placers are known as force-directed placement algorithms.
+Nonlinear placement models wirelength by exponential (nonlinear) functions and density by local piece-wise quadratic functions, in order to achieve better accuracy thus quality improvement. Follow-up academic work includes APlace and NTUplace.
+ePlace is a state-of-the-art global placement algorithm. It spreads instances apart by simulating an electrostatic field, which minimizes quality overhead. It maintains good performance by solving the underlying partial differential equations efficiently using a method based on the fast Fourier transform. RePlAce, a successor to this algorithm, is used by the open source tool OpenROAD to perform its global placement.
+In 2021, Google Brain reported their "AlphaChip" reinforcement learning-based algorithm had improved results compared to classical techniques. However, this result is quite controversial, as the paper does not contain head-to-head comparisons to existing placers, and is difficult to replicate due to proprietary content. At least one initially favorable commentary has been retracted upon further review.
+
+See also
+Electronic design automation
+Design flow (EDA)
+Integrated circuit design
+Floorplan (microelectronics)
+Place and route
+
+References
+
+Further reading/External links
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+ACM Transactions on Design Automation of Electronic Systems (TODAES)
+IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
+
+[[Combinatorial optimization]] [[Computer architecture]] [[Computer hardware]] [[Design closure]] [[Digital electronics]] [[Electronic design automation]] [[Fast Fourier transform]] [[Integrated circuit]] [[Metastability (electronics)]] [[OpenROAD Project]] [[Static timing analysis]]

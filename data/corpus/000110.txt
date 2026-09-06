@@ -1,0 +1,38 @@
+Ballot collecting
+Ballot collecting, also known as ballot harvesting or ballot chasing, is the gathering and submitting of completed absentee or mail-in voter ballots by third-party individuals, volunteers or workers, rather than submission by voters themselves directly to ballot collection sites. It occurs in some areas of the U.S. where voting by mail is common, but some other states have laws restricting it. Proponents of ballot collection promote it as enfranchising those who live in remote areas or lack ready access to transportation, are incapacitated or in hospital or jail. Critics of ballot collection claim high probability for vote misappropriation or fraud.
+
+Policy in the United States
+As of July 2020, 26 states allow specified agents to collect and submit ballots for another voter. Usually such agents are family members or persons in the same household. 13 states neither enable nor prohibit ballot collection as a matter of law. Among those that allow it, 12 have limits on how many ballots an agent may collect.
+Many Republicans, notably 2020 presidential candidate Donald Trump, long criticized "ballot harvesting" and the early voting it enables as rife with fraud and cheating, encouraging their voters to vote only at polling places on election day. After disappointing Republican results in the 2020 and 2022 elections, some Trump-aligned organizations such as Turning Point USA recognized they needed to adopt similar ballot collection methods, which they named "ballot chasing." Turning Point said it would raise money to create "the largest and most impactful ballot chasing operation the movement has ever seen." Kari Lake, who refused to concede her loss in the 2022 Arizona gubernatorial race, said she would launch "the largest ballot chasing operation in our nation's history."
+
+Arizona
+Arizona banned the practice in 2016 except for family members and caregivers. The United States Court of Appeals for the Ninth Circuit stayed the ban in 2016, with Chief Judge Sidney R. Thomas describing the practice as "one of the most popular and effective methods by which minority voters cast their ballots". The United States Supreme Court then stayed the Ninth Circuit ruling that overturned the ban, and a U.S. District Court judge upheld the ban in 2018. In 2020, the Ninth Circuit found that the law violated the Voting Rights Act. The subsequent challenge to Arizona's law was the centerpiece of the 2021 Supreme Court case Brnovich v. Democratic National Committee, which questions if the law violates Section 2 of the Voting Rights Act of 1965. The Supreme Court ruled in a 6–3 decision in July 2021 that neither of Arizona's election policies violated the VRA nor had a racially discriminatory purpose.
+
+California
+California changed its rules before the 2018 midterm elections to allow people other than family members to collect and submit ballots. Last-minute submissions of votes in the election delayed results and some pundits and Republican politicians suggested that it influenced the outcome of several elections.
+While the Los Angeles Times editorial board rejected claims that any elections were affected by the new ballot harvesting law in the 2018 midterms, it did call for the law to be fixed or repealed, saying the law "does open the door to coercion and fraud." Republicans, in turn, are seeking to improve their own use of the practice, according to The Washington Post.
+
+Colorado
+As of July 2020, Colorado imposes a limit of ten ballots on any collector who is not a properly designated official.
+
+Connecticut
+In Connecticut a Democratic Party Primary in Bridgeport, the state's largest city, was rerun after allegations of fraud involving absentee ballots. Several people were arrested and charged.
+
+Georgia
+In 2019 Georgia passed HB 316, which among other items prohibits any other person other than the elector, a relative (spouse, child, parent, grandparent, grandchild, brother, sister, aunt, uncle, niece, nephew, and in-laws) or an individual residing in the same household from returning the ballot. Exceptions are enumerated for disabled electors, those confined to the hospital, and those imprisoned or detained. The Election Integrity Act of 2021 eased the requirements necessary for successful prosecution of ballot harvesters.
+
+Montana
+In 2018, Montana voters approved a limit of six ballots per ballot collector. A state court struck down the law in 2020, saying it disproportionately burdened older, low-income, and Indigenous voters.
+In 2021, the Montana legislature passed a law making it illegal for anyone who receives a monetary benefit to collect ballots. Lawsuits challenging its constitutionality were filed shortly after it was signed into law, and a state court issued a temporary injunction blocking its implementation during the litigation.
+
+North Carolina
+Ballot collecting is not legal in North Carolina for anyone other than a guardian or immediate family member to handle a voter's ballot. Election fraud allegations related to Republican ballot harvesting in North Carolina's 9th congressional district election in 2018 resulted in an investigation by the North Carolina State Board of Elections and a subsequent special election. The 2019 North Carolina's 9th congressional district special election was held as a result.
+
+Texas
+Texas strictly limits collecting ballots, including by restricting eligibility for assistance and limiting assistance only to a voter who requests it and selects the person who will provide it. In 2013, a state bill was passed, making it a misdemeanor to give or receive compensation for collecting mail-in ballots in any election.
+On 13 January 2021, the state of Texas arrested political consultant Rachel Rodriguez for election fraud, illegal voting, unlawfully assisting people voting by mail, and unlawfully possessing an official ballot. Rodriguez had been recorded by hidden camera media group Project Veritas discussing unlawful voter tactics and stating, "I could go to prison for what I just did."
+In July 2022, Texas prosecuted a volunteer deputy registrar for voter fraud in connection with ballot harvesting. The registrar came under scrutiny after it was discovered that about 275 people in a rural town of 2,500 registered to vote using the same mailing address for a 2018 utility board election. She pled guilty to 26 felony counts of voter fraud and was sentenced to probation.
+
+References
+
+[[Absentee ballot]] [[Abstention]] [[Ballot]] [[Ballot box]] [[Binomial voting system]] [[Biometric voter registration]] [[Candidate]] [[Carousel voting]] [[Coattail effect]] [[Compulsory voting]] [[Cumulative voting]] [[Donkey vote]] [[Early voting]] [[Election boycott]] [[Election ink]] [[Electoral district]] [[Electoral fraud]] [[Electoral precinct]] [[Electronic voting]] [[Family voting]] [[First-past-the-post voting]] [[General ticket]]

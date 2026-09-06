@@ -1,0 +1,24 @@
+Computer scientist
+A computer scientist is a scientist who specializes in the academic study of computer science and technology.
+Computer scientists typically work on the theoretical side of computation. Although computer scientists can also focus their work and research on specific areas (such as algorithm and data structure development and design, software engineering, information theory, database theory, theoretical computer science, numerical analysis, programming language theory, compiler, computer graphics, computer vision, robotics, computer architecture, operating system), their foundation is the theoretical study of computing from which these other fields derive.
+A primary goal of computer scientists is to develop or validate models, often mathematical, to describe the properties of computational systems (processors, programs, computers interacting with people, computers interacting with other computers, etc.) with an overall objective of discovering designs that yield useful benefits (faster, smaller, cheaper, more precise, etc.).
+
+Education
+Most computer scientists possess a PhD, M.S., or Bachelor's degree in computer science, in other similar fields like Information and Computer Science (CIS), or closely related disciplines such as mathematics or physics.
+
+Areas of specialization
+Theoretical computer science – including data structures and algorithms, theory of computation, information theory and coding theory, programming language theory, and formal methods
+Computer systems – including computer architecture and computer engineering, computer performance analysis, concurrency, and distributed computing, computer networks, computer security and cryptography, and databases.
+Computer applications – including computer graphics and visualization, human–computer interaction, scientific computing, and artificial intelligence.
+Software engineering – the application of engineering to software development in a systematic method
+
+Employment
+Employment prospects for computer scientists that hold master's or Phds degrees are said to be excellent. Such prospects seem to be attributed, in part, to very rapid growth in computer systems design and related services industry, and the software publishing industry, which are projected to be 19% among the faster growing industries in the U.S. economy by the Bureau of Labor Statistics back in 2012. Recently in 2025, projections were 26% growth. Current 2026 projections for 2024-2034 has fallen to 20% growth.
+Computer scientists are often hired by software publishing firms, scientific research and development organizations, or universities where they develop the theories and computer models that allow new technologies to be developed.
+Computer scientists can follow more practical applications of their knowledge, doing things such as software engineering. They can also be found in the field of information technology consulting, and may be seen as a type of mathematician, given how much of the field depends on mathematics. Computer scientists employed in industry may eventually advance into managerial or project leadership positions.
+
+See also
+
+References
+
+[[Algorithm]] [[Artificial intelligence]] [[Coding theory]] [[Compiler]] [[Computer architecture]] [[Computer engineering]] [[Computer graphics]] [[Computer graphics (computer science)]] [[Computer network]] [[Computer science]] [[Computer security]] [[Computer vision]] [[Concurrency (computer science)]] [[Cryptography]] [[Data structure]] [[Database]] [[Distributed computing]] [[Formal methods]]

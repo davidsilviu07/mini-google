@@ -1,0 +1,73 @@
+Ngspice
+Ngspice is an open-source mixed-level/mixed-signal electronic circuit simulator. It is a successor of the latest stable release of Berkeley SPICE, version 3f.5, which was released in 1993. A small group of maintainers and the user community contribute to the ngspice project by providing new features, enhancements and bug fixes.
+Ngspice is based on three open-source free-software packages: Spice3f5, Xspice and Cider1b1:
+
+SPICE is the origin of most modern electronic circuit simulators, its successors are widely used in the electronics community.
+Xspice is an extension to Spice3 that provides additional C language code models to support analog behavioral modeling and co-simulation of digital components through a fast event-driven algorithm.
+Cider adds a numerical device simulator to ngspice. It couples the circuit-level simulator to the device simulator to provide enhanced simulation accuracy (at the expense of increased simulation time). Critical devices can be described with their technology parameters (numerical models), all others may use the original ngspice compact models. It is the successor to CODECS.
+
+Analysis types
+Ngspice implements three classes of analysis:
+
+Nonlinear DC analyses
+Nonlinear transient analyses
+Linear AC analyses
+Transient analysis includes transient noise simulation. AC analysis includes small-signal noise simulation, pole-zero and transfer function analysis:
+
+Noise analysis
+Small signal noise (AC)
+Transient noise
+Operating point analysis — determines the dc operating point of the circuit with inductors shorted and capacitors opened.
+Operating point sweep analysis — determines the values of output variables while one or two specified independent voltage or current source is stepped over
+Pole-zero analysis (AC)
+Small-Signal distortion analysis and frequency response analysis (AC)
+Sensitivity analysis (DC/AC)
+Transfer function analysis
+Transient analysis
+Periodic steady state analysis
+S-parameter analysis
+Fast event-based digital co-simulation
+
+Device models
+Ngspice implements various circuits elements, like resistors, capacitors, inductors (single or mutual), transmission lines and a growing number of semiconductor devices like diodes, bipolar transistors, MOSFETs (both bulk and SOI), MESFETs, JFETs and HFETs. Verilog-A compact device models are supported.
+
+Netlists
+Ngspice supports parametric netlists (i.e. netlists can contain parameters and expressions). PSPICE compatible parametric macromodels, often released by manufacturers, can be imported as-is into the simulator. Polynomial sources are available. Ngspice provides an internal scripting language to facilitate complex simulation and evaluation control flows. Open source Process design kits (PDKs) are fully supported, HSPICE compatible PDKs as far as possible.
+
+Mixed-signal simulation
+Ngspice makes available mixed-signal simulation, where ngspice is responsible for the analogue part, and the digital part is provided by Verilog, compiled with Verilator or Icarus Verilog, or in case of VHDL compiled with GHDL.  The interface is provided by a dedicated code model (d_cosim), as described in chapters 8.4.25 and  10.3 of the ngspice manual.
+
+Defining new models
+For mixed-signal circuit simulation with new internal code models ngspice allows users to create a user-defined node definition file (UDN) of a new device model interface. The implementation of the node is created and simulated by using C language with macros which is compiled by standard C/C++ compilers.
+New models can be added to the simulator using:
+
+Behavioral modeling: Internal B-, E-, and G-sources, as well as R, C and L devices, offer modeling by mathematical expressions, driven by node voltages, branch currents, parameters and constants.
+The Xspice codemodel interface: This is a C-code interface that helps the modeling process by simplifying the access to simulator's internal structure.
+Verilog-A compact models: OSDI interface for dynamically loading OpenVAF compiled Verilog-A models.
+C language coded models with spice format: As an open-source project, Ngspice allows new models to be linked to the sources and compiled.
+
+Available ngspice variants
+Ngspice has a command line input interface and offers plotting capability. An open source GUI with schematic entry, simulation and plotting is provided by Qucs-S. A GUI focussing on IC development is XSCHEM.
+In addidtion to its standard executable, ngspice may be compiled into a shared library (*.dll or *.so) readily to be integrated into a calling program. Its interface provides access to all simulation parameters, input and output data. tclspice, another shared library version, offers an interface to Tcl/Tk (software) for better integration with software like XCircuits.
+
+Miscellaneous
+Ngspice is licensed under the BSD-3-Clause license. This permissive open source license allows its integration as a simulation engine into several — proprietary or free/libre — EDA tools such as KiCad, EAGLE (program), CoolSPICE, Altium and others.
+
+Ngspice progress has been continuously presented at FOSDEM and FSiC conferences since 2019.
+
+See also
+
+LTspice
+Comparison of EDA Software
+List of free electronics circuit simulators
+
+Notes
+
+References
+
+External links
+Official website
+Ngspice on SourceForge
+ngspice manual
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic circuit simulation]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,0 +1,14 @@
+FieldTrip
+FieldTrip is a MATLAB software toolbox for magnetoencephalography (MEG) and electroencephalography (EEG) analysis. It is developed at the Donders Institute for Brain, Cognition and Behaviour at the Radboud University Nijmegen, together with collaborating institutes. The development of FieldTrip is supported by funding from the BrainGain,  Human Connectome and ChildBrain projects. The FieldTrip software is released as open source under the GNU General Public License.
+The toolbox includes algorithms for simple and advanced analysis of MEG, EEG, and invasive electrophysiological data, such as time-frequency analysis, source reconstruction using dipoles, distributed sources, beamformers, and non-parametric statistical testing. It supports the data formats of major MEG systems (CTF, Neuromag, BTi) and most popular EEG systems, as well as of spike and fNIRS data by external collaborators. FieldTrip contains high-level functions that can be used to construct an analysis protocol in MATLAB. Though it contains some graphical user interface elements (mostly concerned with results visualization), it is mainly targeted towards batch-scripting of the formerly mentioned analysis protocols.
+
+See also
+EEGLAB
+SPM
+
+References
+
+External links
+Official website
+
+[[EEGLAB]] [[Electroencephalography]] [[GNU General Public License]]

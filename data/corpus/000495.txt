@@ -1,0 +1,35 @@
+FINE MEP
+FINE MEP (Mechanical Electrical and Plumbing) is a building information modeling (BIM) computer-aided design (CAD) software tool for building services engineering design, built on the IntelliCAD CAD editor and development platform. It provides full Industry Foundation Classes (IFC) support, according to the 2x3 IFC Standard. FINE BIM structure, enables smart model shaping and high design accuracy, directly applied to the real 3D-building model and its building services (heating, ventilation, and air conditioning (HVAC), water supply, sewerage, electricity). All building elements (walls, openings, roofs, etc.), and components of the mechanical and electrical installations (pipes, heating units, fittings, cables, etc.) can be intelligent objects carrying their own attributes and interacting among each other. MEP design is supported by specific CAD commands (smart location of units/appliances, auto-routing commands for pipes/cables, etc.) and further facilitated through sophisticated recognition and validation algorithms, providing a user-friendly modeling environment.
+All the six FINE MEP software vertical applications, a) FineHVAC for HVAC design, b) FineELEC for Electrical design, c) FineSANI for Sanitary design, d) FineFIRE for Fire Fighting design, e) FineGAS for Gas installation design, and f) FineLIFT for Elevator design, combine design and calculations within a synergistically integrated environment, performing all the required calculations directly from the drawings, and generating automatically all the case study results: Calculation sheets, technical reports, a complete series of final drawings updated with the calculation results (plan views, vertical diagrams, details), bill of materials, budget estimation and others.
+In addition, FINE MEP applications interact in a synergistic way with the other vertical BIM software applications of the 4M Building Design Suite (i.e. IDEA Architectural and STRAD Structural). All the 4M BIM Software "work by running a single spatial database to define intelligent objects for all disciplines, whether architecture, electrical, HVAC, plumbing, elevators, and so on.
+
+See also
+Building information modeling
+Industry Foundation Classes
+Building services engineering
+Mechanical engineering
+Electrical engineering
+Hydraulic engineering
+IntelliCAD
+.dwg
+Comparison of computer-aided design software
+Comparison of CAD, CAM, and CAE file viewers
+American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE)
+
+References
+
+External links
+Official website, 4M BIM Suite website
+4M - The manufacturer's website
+BIM Applications listed on BuildingSmart, the "international home of open bim"
+IntelliCAD success stories by ITC, the IntelliCAD Technology Consortium]
+BIM booklet by Infocomm International
+Institute for BIM in Canada
+Managing BIM Technology in the Building Industry - AECbytes Viewpoint #35: February 12, 2008]
+AECbytes Vendorhub on BIM for MEP
+Article in upFront.eZine by Ralph Grabowski - upFront.eZine news #640: April 6, 2010
+FineHVAC comparison with other MEP software
+FINE MEP on Youtube
+FineHVAC in the Ashrae online bookstore
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electrical engineering]] [[Electronic design automation]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

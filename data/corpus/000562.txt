@@ -1,0 +1,916 @@
+Glossary of architecture
+This page is a glossary of architecture.
+
+A
+
+Abacus
+A flat slab forming the uppermost member or division of the capital of a column.
+
+Accolade
+A sculptural embellishment of an arch.
+
+Aisle
+The subsidiary space alongside the body of a building, separated from it by columns, piers, or posts.
+
+ Anta
+The posts or pillars on either side of a doorway or entrance of a Greek temple – the slightly projecting piers which terminate the side walls (of the naos).
+
+Ante-choir
+The space enclosed in a church between the outer gate or railing of the rood screen and the door of the screen.
+
+Apron
+1.  A raised panel below a window or wall monument or tablet.
+2.  An open portion of a marine terminal immediately adjacent to a vessel berth, used in the direct transfer of cargo between the vessel and the terminal.
+3.  A concrete slab immediately outside a vehicular door or passageway used to limit the wear on asphalt paving due to repetitive turning movements or heavy loads.
+
+Apse
+A vaulted semicircular or polygonal end of a chancel or chapel.  That portion of a church, usually Christian, beyond the "crossing" and opposite the nave.  In some churches, the choir is seated in this space.
+
+Araeostyle
+A style of intercolumniation in which the distance between columns is at least four diameters. The large interval between columns necessitates the use of a wooden architrave.
+
+Araeosystyle
+An architectural term applied to a colonnade, in which the intercolumniation is alternately wide and narrow.
+
+Arcade
+A passage or walkway covered over by a succession of arches or vaults supported by columns.  Blind arcade or arcading: the same applied to the wall surface.
+
+Arch
+A curved structure capable of spanning a space while supporting significant weight.
+
+Architrave
+A formalized lintel, the lowest member of the classical entablature. Also the moulded frame of a door or window (often borrowing the profile of a classical architrave).
+
+Area or basement area
+In Georgian architecture, the small paved yard giving entry, via "area steps", to the basement floor at the front of a terraced house.
+
+Arris
+A sharp edge created when two surfaces converge; this includes the raised edge between two flutes on a column or pilaster, if that edge is sharp.
+
+Arris Rail
+A type of rail, often wooden, with a cross-section resembling an isosceles triangle.
+
+Arrowslit
+A thin vertical aperture in a fortification through which an archer can launch arrows.
+
+Articulation
+The manner or method of jointing parts such that each part is clear and distinct in relation to the others, even though joined.
+
+Ashlar
+Masonry of large blocks cut with even faces and square edges.
+
+Astragal
+A moulding profile composed of a half-round surface surrounded by two flat planes (fillets).
+
+Atlas
+A support sculpted in the form of a man, which may take the place of a column, a pier or a pilaster.
+
+Atrium
+(plural: atria) The inner court of a Roman house; in a multi-story building, a toplit covered court rising through all stories.
+
+Attic
+A small top story within a roof above the uppermost ceiling. The story above the main entablature of a classical façade.
+
+B
+
+Balconet
+A false balcony, or railing at the outer plane of a window.
+
+Ball flower
+An architectural ornament in the form of a ball inserted in the cup of a flower, which came into use in the latter part of the 13th, and was in great vogue in the early part of the 14th century.
+
+Baluster
+A small moulded shaft, square or circular, in stone or wood, sometimes metal, supporting the coping of a parapet or the handrail of a staircase. A series of balusters supporting a handrail or coping is called a balustrade.
+
+Bar-stayed girder
+A structural member of inadequate capacity for its load or span that is augmented by one or two steel bars anchored to each bearing end at or above the centroid of the girder to assume the tension forces.  The bar(s) runs down and below the girder and stand off the girder on one or more struts anchored to the girder at its bottom surface.  The struts are sized to accept the compressive forces imposed without bending. The load limit to this member is the crippling capacity (horizontal failure) of the girder.
+
+Bargeboard
+A board fastened to the projecting gables of a roof.
+
+Barrel vault
+An architectural element formed by the extrusion of a single curve (or pair of curves, in the case of a pointed barrel vault) along a given distance.
+
+Bartizan
+An overhanging, wall-mounted turret projecting from the walls, usually at the corners, of medieval fortifications or churches.
+
+Basement
+Usually the lowest, subordinate storey of building, generally either entirely or partially below ground level; the lowest part of classical elevation, below the piano nobile.
+
+Basilica
+Originally a Roman, large roofed hall erected for transacting business and disposing of legal matters; later the term came to describe an aisled building with a clerestory. Medieval cathedral plans were a development of the basilica plan type.
+
+Batement Lights
+The lights in the upper part of a perpendicular window, abated, or only half the width of those below.
+
+Batter (walls)
+An upwardly receding slope of a wall or column.
+
+Battlement
+A parapet (i.e., a defensive low wall between chest-height and head-height), in which rectangular gaps or indentations occur at intervals to allow for the discharge of arrows or other missiles.
+
+Bays
+The internal compartments of a building, each divided from the other by subtle means such as the boundaries implied by divisions marked in the side walls (columns, pilasters, etc.) or the ceiling (beams, etc.). Also, the external divisions of a building by fenestration (windows).
+
+Bay window
+A window of one or more storeys projecting from the face of a building. Canted: with a straight front and angled sides. Bow window: curved. Oriel: rests on corbels or brackets and starts above ground level; also the bay window at the dais end of a medieval great hall.
+
+Belfry 
+A chamber or stage in a tower where bells are hung. The term is also used to describe the manner in which bricks are laid in a wall so that they interlock.
+
+Belvedere
+A cupola or some other elevated structure designed as a lookout space to enjoy a view.
+
+Bench table
+A stone seat which runs round the walls of large churches, and sometimes round the piers; it very generally is placed in the porches.
+
+Bond
+Brickwork with overlapping bricks. Types of bond include stretcher, English, header, Flemish, garden wall, herringbone, basket, American, and Chinese.
+
+Boss
+1.  A roughly cut stone set in place for later carving.
+2.  An ornamental projection, a carved keystone of a ribbed vault at the intersection of the ogives.
+
+Bossage
+Uncut stone that is laid in place in a building, projecting outward from the building, to later be carved into decorative mouldings, capitals, arms, etc. Bossages are also rustic work, consisting of stones which seem to advance beyond the surface of the building, by reason of indentures, or channels left in the joinings; used chiefly in the corners of buildings, and called rustic quoins. The cavity or indenture may be round, square, chamfered, beveled, diamond-shaped, or enclosed with a cavetto or listel.
+
+Boutant
+A type of support. An arc-boutant, or flying buttress, serves to sustain a vault, and is self-sustained by some strong wall or massive work. A pillar boutant is a large chain or jamb of stone, made to support a wall, terrace, or vault. The word is French, and comes from the verb bouter, "to butt" or "abut".
+
+Bracket (see also corbel)
+A weight-bearing member made of wood, stone, or metal that overhangs a wall.
+
+Bressummer
+(literally "breast-beam") A large, horizontal beam supporting the wall above, especially in a jettied building.
+
+Brise soleil
+Projecting fins or canopies which shade windows from direct sunlight.
+
+Broken pediment
+A style of pediment in which the center is left open (and often ornamented) by stopping the sloping sides short of the pediment's apex. A variant of this in which the sides are curved to resemble esses is called a swan's neck pediment.
+
+Bullseye window
+Either a small oval window, or an early type of window glass.
+
+Bulwark
+A Barricade of beams and soil used in 15th- and 16th-century fortifications designed to mount artillery. On board ships the term refers to the woodwork running round the ship above the level of the deck. Figuratively it means anything serving as a defence. Dutch loanword; Bolwerk
+
+Buttress
+A vertical member projecting from a wall to stabilize it or to resist the lateral thrust of an arch, roof, or vault. A flying buttress transmits the thrust to a heavy abutment by means of an arch or half-arch.
+
+C
+
+Cancellus
+(plural: Cancelli) Barriers which correspond to the modern balustrade or railing, especially the screen dividing the body of a church from the part occupied by the ministers hence chancel. The Romans employed cancelli to partition off portions of the courts of law.
+
+Cant
+An angled (oblique) line or surface, especially one that cuts off a corner.
+
+Cantilever
+An unsupported overhang acting as a lever, like a flagpole sticking out of the side of a wall.
+
+Capital
+The topmost member of a column (or pilaster).
+
+Caryatid
+A sculpted female figure serving as an architectural support taking the place of a column or a pillar supporting an entablature on her head.
+
+Casement window
+A window hung vertically, hinged one side, so that it swings inward or outward.
+
+Cauliculus, or caulicole 
+Stalks (eight in number) with two leaves from which rise the helices or spiral scrolls of the Corinthian capital to support the abacus.
+
+Cavetto
+A moulding in which the negative space makes a quarter-circle.
+
+Cella
+The inner chamber of a temple in classical architecture.
+
+Chalcidicum
+In Roman architecture, the vestibule or portico of a public building opening on to the forum, as in the basilica of Eumachia at Pompeii, and the basilica of Constantine at Rome, where it was placed at one end. See: Lacunar.
+
+Chamfer
+A transitional edge, often 45 degrees, formed by paring down an arris diagonally. Some buildings may be chamfered such that the base is octagonal.
+
+Chancel (also Presbytery) 
+In church architecture, the space around the altar at the east end of a traditional Christian church building, including the choir and sanctuary.
+
+Chandrashala
+The circular or horseshoe arch that decorates many Indian cave temples and shrines.
+
+Chigi
+In Japanese architecture, a V-shaped finial used almost exclusively on Shinto shrines, where they are placed near the ends of the ridgeline(s) of the roof through extension of or attachment to the gable. In most cases, the direction of the cut at the top of a chigi indicates the sex of the kami within.
+
+Chimera
+A fantastic, mythical or grotesque figure used for decorative purposes.
+
+Chimney
+A structure which provides ventilation.
+
+Chresmographion
+A chamber between the pronaos and the cella in Greek temples where oracles were delivered.
+
+Cincture
+A ring, list, or fillet at the top and bottom of a column, which divides the shaft from the capital and base.
+
+Cinquecento
+A style which became prevalent in Italy in the century following 1500, now usually called 16th-century work. It was the result of the revival of classic architecture known as Renaissance, but the change had commenced already a century earlier, in the works of Ghiberti and Donatello in sculpture, and of Brunelleschi and Alberti in architecture.
+
+Cippus
+(plural: cippi) A low, round or rectangular pedestal set up by the Romans for military purposes such as a milestone or a boundary post. The inscriptions on some cippi in the British Museum show that they were occasionally used as funeral memorials.
+
+Circulation
+Describes the flow of people throughout a building.
+
+Cleithral
+A covered Greek temple, in contradistinction to hypaethral, which designates one that is uncovered; the roof of a cleithral temple completely covers it.
+
+Clerestory
+The upper part of the nave of a large church, containing a series of windows.
+
+Clock gable
+A gable or facade with a decorative shape characteristic of traditional Dutch architecture. The top of the gable is shaped like a church bell.
+
+Coffer
+A sunken panel in the shape of a square, rectangle, or octagon that serves as a decorative device, usually in a ceiling or vault. Also called caissons, or lacunar.
+
+Colarin or Hypotrachelium
+(also colarino, collarino, or hypotrachelium) The little frieze of the capital of the Tuscan and Doric column placed between the astragal and the annulets. It was called hypotrachelium by Vitruvius.
+
+Column
+A structural element that transmits, through compression, the weight of the structure above to other structural elements below.
+
+Compass
+In carpentry, architecture, and shipbuilding, a compass is a curved circular form.
+
+Compluvium
+The Latin term for the open space left in the roof of the atrium of a Roman house (domus) for lighting it and the rooms round.
+
+Coping
+The capping or covering of a wall.
+
+Corbel
+A structural piece of stone, wood or metal jutting from a wall to carry a superincumbent weight.
+
+Corbiesteps
+A series of steps along the slopes of a gable. Also called crow-steps. A gable featuring corbiesteps is known as a corbie gable, crow-step gable, or stepped gable.
+
+Corinthian order
+One of the three orders or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple with a base, their vertical shafts fluted with parallel concave grooves topped by a capital decorated with acanthus leaves, that flared from the column to meet an abacus with concave sides at the intersection with the horizontal beam that they carried.
+
+Cornice
+The upper section of an entablature or a projecting shelf along the top of a wall often supported by brackets or corbels.
+
+Course
+A layer of the same unit running horizontally in a wall.
+
+Cresting
+Ornamentation along the ridge of a roof.
+
+Cross Springer
+A block from which the diagonal ribs of a vault spring or start.  The top of the springer is known as the skewback.
+
+Cross-wing
+A wing attached to a main or original house block, its axis at right angles to the original block, and often gabled.
+
+Crypt
+A stone chamber beneath the floor of a church or other building. It typically contains coffins, sarcophagi, or religious relics.
+
+Cryptoporticus
+A concealed or covered passage, generally underground, though lighted and ventilated from the open air. One of the best-known examples is the crypto-porticus under the palaces of the Caesars in Rome. In Hadrian's Villa in Rome they formed the principal private intercommunication between the several buildings.
+
+Cuneus
+A wedge-shaped division of the Roman theatre separated by the scalae or stairways. This shape also occurred in medieval architecture.
+
+Cupola
+A small, most often dome-like, structure on top of a building.
+
+Cyma
+A projecting moulding whose edge forms an S-curve. The two major types of cyma are the cyma recta, in which the upper curve is concave, and the cyma reversa (also known as the ogee), in which the lower curve is concave.
+
+Cyrto-style
+A circular projecting portico with columns.
+
+D
+
+Denticulation
+Finely toothed or notched; having dentils.
+
+Dentil
+One of a series of small rectangular blocks projecting from a moulding or beneath a cornice. A string of dentils is known as dentillation.
+
+Diastyle
+An intercolumniation of three or four diameters.
+
+Diaulos
+Peristyle around the great court of the palaestra, described by Vitruvius, which measured two stadia (1,200 ft.) in length, on the south side this peristyle had two rows of columns, so that in stormy weather the rain might not be driven into the inner part. The word was also used in ancient Greece for a foot race of twice the usual length.
+
+Diazoma
+A horizontal aisle in an ancient Greek theater that separates the lower and upper tiers of  semi-circular seating and intersects with the vertical aisles.
+
+Dikka
+An Islamic architectural term for the tribune raised upon columns, from which the Koran is recited and the prayers intoned by the Imam of the mosque.
+
+Dipteral
+Temples which have a double range of columns in the peristyle, as in the temple of Diana at Ephesus.
+
+Distyle in antis
+Having two columns.
+
+A portico having two columns between two anta
+
+Dodecastyle
+A temple where the portico has twelve columns in front, as in the portico added to the Temple of Demeter at Eleusis, designed by Philo, the architect of the arsenal at the Peiraeus.
+
+Doric order
+One of the three orders or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple without a base, their vertical shafts fluted with parallel concave grooves topped by a smooth capital that flared from the column to meet a square abacus at the intersection with the horizontal beam that they carried.
+
+Dormer
+A structural element of a building that protrudes from the plane of a sloping roof surface. Dormers are used, either in original construction or as later additions, to create usable space in the roof of a building by adding headroom and usually also by enabling addition of windows.
+
+Dosseret, or impost block 
+A cubical block of stone above the capitals in a Byzantine church, used to carry the arches and vault, the springing of which had a superficial area greatly in excess of the column which carried them.
+
+Double-depth plan
+A plan for a structure that is two rooms deep but lacking a central corridor.
+
+Dromos
+An entrance passage or avenue leading to a building, tomb or passageway. Those leading to beehive tombs are enclosed between stone walls and sometimes in-filled between successive uses of the tomb. In ancient Egypt the dromos was a straight, paved avenue flanked by sphinxes.
+
+Dutch gable
+A gable whose sides have a shape made up of one or more curves and has a pediment at the top.
+
+E
+
+Eave return
+An element of Classical Revival architecture in American domestic architecture.
+
+Egg-and-dart
+An ornamental moulding in which an ovolo is inscribed with alternating oval and V-shaped motifs.
+
+Enfilade
+A row of rooms with aligned doorways, creating a linear processional route. Enfilades were common in upper-class Baroque architecture and are used in museum layouts to manage flow.
+
+Engaged column
+A column built into and partially projecting from a wall, particularly notable in Roman architecture.
+
+Engawa
+In Japanese architecture, a section of floor outside the shoji that encircles the structure's rooms, similar to a porch or, when itself enclosed by storm doors or sheet glass, a sunroom.
+
+Entablature
+A superstructure of mouldings and bands which lie horizontally above columns, resting on their capitals.
+
+Entasis
+The application of a convex curve to a surface for aesthetic purposes. Its best-known use is in certain orders of Classical columns that curve slightly as their diameter is decreased from the bottom upward. It also may serve an engineering function regarding strength.
+
+Ephebeum
+(ephebion) A large hall in the ancient Palaestra furnished with seats, the length of which should be a third larger than the width. It served for the exercises of youths of from sixteen to eighteen years of age.
+
+Epinaos
+An open vestibule behind the nave. The term is not found in any classic author, but is a modern coinage, originating in Germany, to differentiate the feature from the opisthodomos, which in the Parthenon was an enclosed chamber.
+
+Estípite
+In  Churrigueresque Baroque architecture, an elaborate pilaster with a tapered base.
+
+Estrade
+The French term for a raised platform or dais. In the Levant, the estrade of a divan is called a Sopha, from which comes our word 'sofa'. In historical gardening, an estrade plant was pruned and trained with the main stem bare in sections, to achieve an appearance often likened to a "wedding cake".   
+
+Eustyle
+Intercolumniation defined by Vitruvius as being of the best proportion, i.e. two and a quarter diameters.
+
+F
+
+Facade
+An exterior side of a building, usually the front.
+
+Fanlight
+A window, semicircular or semi-elliptical in shape, with glazing bars or tracery sets radiating out like an open fan.
+
+Fan Vault
+A conoid architectural element in which a series of equidistant curved ribs projects radially from a central axis, often a vertical wall support such as a column. Fan vaults are particularly connected with the English Gothic style.
+
+Fascia
+1.  A board attached to the lower ends of rafters at the eaves. Along with the soffit, the fascia helps enclose the eave.
+2.  In some Classical orders, one of a series of bands (either fillets or faces) sometimes seen around the architrave.
+
+Feretory
+An enclosure or chapel within which the fereter shrine, or tomb (as in Henry VII's chapel), was placed.
+
+Fillet
+1.  A small band, either raised or sunken and usually square, used to separate mouldings.
+2.  The raised edge between two flutes on a column or pilaster, if that edge is flat.
+
+Finial
+An element marking the top or end of some object — such as a dome, tower, or gable — often formed to be a decorative feature. Small finials may also be used as ornamentation for furniture, poles, and light fixtures.
+
+Flushwork
+The decorative combination on the same flat plane of flint and ashlar stone.  It is characteristic of medieval buildings, most of the survivors churches, in several areas of Southern England, but especially East Anglia. If the stone projects from a flat flint wall, the term is proudwork as the stone stands "proud" rather than being "flush" with the wall.
+
+Flying buttress
+A type of buttress that transmits the thrust to a heavy abutment by means of a half-arch.
+
+Flying rib
+An exposed structural beam over the uppermost part of a building which is not otherwise connected to the building at its highest point. A feature of H frame constructed concrete buildings and some modern skyscrapers.
+
+Foil
+An architectural device based on a symmetrical rendering of leaf shapes, defined by overlapping circles of the same diameter that produce a series of cusps to make a lobe. Typically, the number of cusps can be three (trefoil), four (quatrefoil), five (cinquefoil), or a larger number.
+
+Footprint
+The area on a plane directly beneath a structure, that has the same perimeter as the structure.
+
+Foot-stall
+The lower part of a pier. (A literal translation of "pedestal.")
+
+Formeret
+The French term for the wall-rib carrying the web or filling-in of a vault.
+
+Fractable
+A coping, often ornamental, on a gable that hides the slope of the roof and becomes a parapet.
+
+Fusuma
+An opaque partition consisting of a cloth or paper sheet over a wood framework, commonly seen in traditional Japanese architecture. Fusuma are built to be moved (usually by sliding them along tracks) or removed, allowing rooms to be reorganized and reshaped as desired and, in earlier constructions, allowing the interior of a structure to open directly to the outdoors. Some fusuma are painted, though many now feature printed graphics. Shoji are similar to fusuma but are generally translucent.
+
+G
+
+Gable
+A triangular portion of an end wall between the edges of a sloping roof.
+
+Gablets
+Triangular terminations to buttresses, much in use in the Early English and Decorated periods, after which the buttresses generally terminated in pinnacles. The Early English gablets are generally plain, and very sharp in pitch. In the Decorated period they are often enriched with paneling and crockets. They are sometimes finished with small crosses, but more often with finials.
+
+Gadrooning
+A carved or curved moulding used in architecture and interior design as a decorative motif, often consisting of flutes which are inverted and curved. Popular during the Italian Renaissance.
+
+Galletting (also Garretting) 
+The process in which the gallets or small splinters of stone are inserted in the joints of coarse masonry to protect the mortar joints. They are stuck in while the mortar is wet.
+
+Gambrel
+A symmetrical two-sided roof with two slopes on each side.
+
+Gargoyle
+A carved stone grotesque with a spout designed to convey water from a roof.
+
+Garret
+A habitable attic at the top of a larger building, generally with sloping walls, and with skylights or dormer windows.
+
+Gauged brickwork (also rubbed brickwork) 
+Brickwork constructed of soft bricks rubbed to achieve a fine smooth finish with narrow joints between courses.
+
+Gazebo
+A freestanding pavilion  structure often found in parks, gardens and public areas.
+
+Geison
+(Greek: γεῖσον — often interchangeable with cornice) The part of the entablature that projects outward from the top of the frieze in the Doric order and from the top of the frieze course of the Ionic and Corinthian orders; it forms the outer edge of the roof on the sides of a structure with a sloped roof.
+
+Gorgerin
+On some capitals, a smooth or ornate part placed above the astragalus of a column.
+
+Geodesic dome
+A structure formed of straight wood or metal members between points (or nodes) on a circular sphere (or part thereof) that are "pinned" at each connection point to two or more other members that transfer loads imposed on the structure to the base of the structure. The geometric areas between individual members may support a "skin" if the structure is to be enclosed.  A "regular" geodesic structure have members of equal length but strengths of members may vary depending on location in the geodesic "grid".
+
+Grotto
+An exterior submerged room that is decorated with landscaping or art in which has no exterior exit or entrance. One enters and exits only through the building.
+
+Gutta
+In a Doric entablature, one of a number of small, projecting, drop-like ornaments under the triglyphs between the taenia and the architrave as well as under the mutules.
+
+H
+
+Hip roof
+A type of roof where all sides slope downwards from the ridge to the eaves.
+
+Hood mould
+An external moulded projection from a wall over an opening to throw off rainwater. Also known as a dripstone.
+
+Hyphen
+A structural section connecting the main portion of a building with its projecting "dependencies" or wings.
+
+I
+
+Imperial roof decoration
+A row of small figures along the unions of the roofs of Chinese official buildings.
+
+Intercolumniation
+The interval separating one column from another in a colonnade. Intercolumniation regularly occurs in six forms: pycnostyle, systyle, eustyle, diastyle, araeostyle, and araeosystyle.
+
+Interlaced arches
+A scheme of decoration employed in Romanesque and Gothic architecture, where arches are thrown from alternate piers, interlacing or intersecting one another. In the former case, the first arch mould is carried alternately over and under the second, in the latter the mouldings actually intersect and stop one another.
+
+Ionic order
+One of the three orders or organisational systems of Ancient Greek or classical architecture characterised by columns which stood on the flat pavement of a temple with a base, their vertical shafts fluted with parallel concave grooves topped by a capital with volutes, that flared from the column to meet a rectangular abacus with carved ovolo moulding, at the intersection with the horizontal beam that they carried.
+
+J
+
+Jagati
+A raised surface, platform or terrace upon which an Indian temple is placed.
+
+Jettying
+A building technique used in medieval timber frame buildings in which an upper floor projects beyond the dimensions of the floor below.
+
+K
+
+Kamoi
+In Japanese architecture, the upper rail, made from wood, to which shoji or fusuma are attached.
+
+Katsuogi
+In Japanese architecture, a log used as ornamentation atop the roof. Katsuogi are normally round and are placed in parallel lines perpendicular to the ridge. They are currently only used on Shinto shrines, placed behind chigi and sometimes helping to convey, by their parity, the sex of the kami within.
+
+Keystone
+The architectural piece at the crown of a vault or arch and marks its apex, locking the other pieces into position.
+
+L
+
+Lacunar
+The Latin term for a paneled or coffered ceiling, soffit, or vault adorned with a pattern of recessed panels.
+
+Latticework
+An ornamental, lattice framework consisting of small strips in a criss-crossed pattern.
+
+Lesene
+A type of pilaster that lacks a base or capital.
+
+Light
+The opening(s) in a window between mullions and muntins through which light enters an interior space.   A 6:6 window is a window that has six lights in the upper sash and six in the lower sash.
+
+Lightning rod
+A conductive bar of copper or zinc coated steel mounted on the ridge or a roof or on the parapet of a building connected to a large capacity conductor, usually copper, routed to a ground rod driven into the earth for the purpose of safely directing electrical charges caused by a lightning strike to the ground to avoid damage or fire to the structure.
+
+Lintel
+A horizontal block that spans the space between two supports usually over an opening such as a window or door.
+
+Loculus
+An architectural niche that houses a body, as in a catacomb, hypogeum, mausoleum or other place of entombment.
+
+Loggia
+A gallery formed by a colonnade open on one or more sides. The space is often located on an upper floor of a building overlooking an open court or garden.
+
+Lunette
+A half-moon shaped space, either masonry or void.
+
+M
+
+Mandapa
+In Indian architecture, a pillared outdoor hall or pavilion for public rituals.
+
+Maqsurah (maqsura) 
+In Islamic architecture, the sanctuary or praying-chamber in a mosque, sometimes enclosed with a screen of lattice-work; occasionally, a similar enclosure round a tomb.
+
+Mansard roof
+A curb hip roof in which each face has two slopes, the lower one steeper than the upper; from the French mansarde after the accomplished 17th-century French architect noted for using (not inventing) this style, François Mansart, died 1666.
+
+Marriage stone
+A stone lintel, usually carved, with a marriage date.
+
+Mascaron
+A face, usually human, sometimes frightening or chimeric, used as a decorative element.
+
+Meander
+A decorative border consisting of a repeated linear motif, particularly of intersecting perpendicular lines. Also known as a fret or a key pattern.
+
+Metope
+In a Doric entablature, the space between triglyphs along the frieze. These may be ornamented or plain, and may be square or rectangular.
+
+Mihrab
+In Islamic architecture, a semicircular niche in the wall of a mosque that indicates the direction of prayer.
+
+Minaret
+In Islamic architecture, a tall spire with a conical or onion-shaped crown, on or near a mosque, that is used by the imam to give the prayer call.
+
+Modillion
+An enriched block or horizontal bracket generally found under the cornice and above the bedmould of the Corinthian entablature. It is probably so called because of its arrangement in regulated distances.
+
+Moulding
+A decorative finishing strip.
+
+Monotriglyph
+The interval of the intercolumniation of the Doric column, which is observed by the intervention of one triglyph only between the triglyphs which come over the axes of the columns. This is the usual arrangement, but in the Propylaea at Athens there are two triglyphs over the central intercolumniation, in order to give increased width to the roadway, up which chariots and beasts of sacrifice ascended.
+
+Mullion
+A vertical structural element of stone, wood or metal within a window frame (cp. transom).
+
+Muntin
+A vertical or horizontal piece that divides a pane of glass into two or more panes or lites in a window.
+
+Muqarnas
+A type of decorative corbel used in Islamic architecture that in some circumstances, resembles stalactites.
+
+Mutule 
+A rectangular block under the soffit of the cornice of the Greek Doric temple, which is studded with guttae. It is supposed to represent the piece of timber through which the wooden pegs were driven in order to hold the rafter in position, and it follows the sloping rake of the roof. In the Roman Doric order the mutule was horizontal, with sometimes a crowning fillet, so that it virtually fulfilled the purpose of the modillion in the Corinthian cornice.
+
+N
+
+Narthex
+An enclosed passage between the main entrance and the nave of a church.
+
+Nave
+The main body of a church where the congregants are usually seated. It provides the central approach to the high altar.
+
+Newel
+The central supporting pillar of a spiral staircase. It can also refer to an upright post that supports the handrail of a stair railing and forms the lower, upper or an intermediate terminus of a stair railing usually at a landing.
+
+Niche
+In classical architecture, an exedra or apse that has been reduced in size, retaining the half-dome heading usual for an apse.
+
+O
+
+Oculus
+A circular opening in the center of a dome such as the one in the roof of the Pantheon in Rome or in a wall.
+
+Oillets
+Arrow slits in the walls of medieval fortifications, but more strictly applied to the round hole or circle with which the openings terminate. The same term is applied to the small circles inserted in the tracery-head of the windows of the Decorated and Perpendicular periods, sometimes varied with trefoils and quatrefoils.
+
+Onion dome
+A dome whose shape resembles an onion.
+
+Order
+A term for a standard arrangement of architectural features; most often refers to the three traditional classical orders of Western architecture: the Doric order, Ionic order and Corinthian order, though there are others.  Can also refer to types of mouldings most often found in Romanesque and Gothic arches.
+
+Orthostates
+(Greek: ὀρθοστάτης, standing upright) The Greek term for the lowest course of masonry of the external walls of the naos or cella, consisting of vertical slabs of stone or marble equal in height to two or three of the horizontal courses which constitute the inner part of the wall.
+
+Orthostyle
+(Greek: ὃρθος, straight, and στῦλος, a column) A range of columns placed in a straight row, as for instance those of the portico or flanks of a classic temple.
+
+Ovolo
+A moulding whose edge forms a convex quarter-circle or quarter-ellipse.
+
+P
+
+Panelling
+A millwork wall covering constructed from rigid or semi-rigid components. These are traditionally interlocking wood, but could be plastic or other materials.
+
+Panelling was developed in antiquity to make rooms in stone buildings more comfortable. The panels served to insulate the room from the cold stone. In more modern buildings, such panelling is often installed for decorative purposes. Panelling, such as wainscoting and boiserie in particular, may be extremely ornate and is particularly associated with seventeenth and eighteenth century interior design, Victorian architecture in Britain, and its international contemporaries.
+
+Parapet
+A low wall built up above the level of a roof, to hide the roof or to provide protection against falling, and similar structures associated with balconies, bridges etc.
+
+Parclose screen
+A screen or railing used to enclose a chantry chapel, tomb or manorial chapel, in a church, and for the space thus enclosed.
+
+Parterre
+A garden design made from patterns of mostly low elements such as plant beds and small hedges interwoven with gravel or grass paths, historically meant to be open spaces. Modern parterres are often denser and taller.
+
+Pavilion
+A freestanding structure near the main building or an ending structure on building wings.
+
+Pedestal (also Plinth) 
+The base or support on which a statue, obelisk, or column is mounted. A plinth is a lower terminus of the face trim on a door that is thicker and often wider than the trim which it augments.
+
+Pediment
+(Gr. ἀετός, Lat. fastigium, Fr. ponton) In classic architecture, the triangular-shaped portion of the wall above the cornice which formed the termination of the roof behind it. The projecting mouldings of the cornice which surround it enclose the tympanum, which is sometimes decorated with sculpture.
+
+Pelmet
+A framework placed above a window.
+
+Pendentive
+Three-dimensional spandrels supporting the weight of a dome over a square or rectangular base.
+
+Peripteral
+A temple or other structure surrounded on all sides by columns forming a continuous portico at the distance of one or two intercolumniations from the walls of the naos or cella. Almost all the Greek temples were peripteral, whether Doric, Ionic, or Corinthian.
+
+Peristasis
+(Greek: Περίστασις) A four-sided porch or hall of columns surrounding the cella in an ancient Greek peripteros temple (see also Peristyle). In ecclesial architecture, it is also used of the area between the baluster of a Catholic church and the high altar (what is usually called the sanctuary or chancel).
+
+Peristyle
+A continuous porch of columns surrounding a courtyard or garden (see also Peristasis). In ecclesial architecture, the term cloister is used.
+
+Phiale
+A building or columned arcade around a fountain.
+
+Piano nobile
+The principal floor of a large house, built in the style of renaissance architecture.
+
+Pier
+An upright support for a superstructure, such as an arch or bridge.
+
+Pilaster
+A flat, slightly projecting element that resembles a pillar or pier and is engaged in the face of a wall. Pilasters usually do not serve a structural purpose.
+
+Planceer or Planchier 
+A building element sometimes used in the same sense as a soffit, but more correctly applied to the soffit of the corona in a cornice.
+
+Plate girder
+A steel girder formed from a vertical center web of steel plate with steel angles forming the top and bottom flanges welded, bolted or riveted to the web. Some deep plate girders also may have vertical stiffeners (angles) attached to the web to resist crippling (horizontal failure) of the web.
+
+Plinth
+The base or platform upon which a column, pedestal, statue, monument or structure rests. A plinth is a lower terminus of the face trim on a door that is thicker and often wider than the trim which it augments.
+
+Poppyheads
+Finials or other ornaments which terminate the tops of bench ends, either to pews or stalls. They are sometimes small human heads, sometimes richly carved images, knots of foliage or finials, and sometimes fleurs-de-lis simply cut out of the thickness of the bench end and chamfered. The term is probably derived from the French poupee doll or puppet used also in this sense, or from the flower, from a resemblance in shape.
+
+Portcullis
+A heavy wooden or metallic grid vertically-sliding down and thus blocking the main gateway of a medieval castle or fortification.
+
+Porte-cochère
+An often ornate porch- or portico-like structure at a main or secondary entrance to a building through which vehicles can pass in order for the occupants to alight under cover, protected from the weather.
+
+Portico
+A series of columns or arches in front of a building, generally as a covered walkway.
+
+Prick post
+An old architectural name given sometimes to the queen posts of a roof, and sometimes to the filling in quarters in framing.
+
+Prostyle
+Freestanding columns that are widely spaced apart in a row.  The term is often used as an adjective when referring to a portico which projects from the main structure.
+
+Pseudodipteral
+A temple similar to a dipteral temple, in which the columns surrounding the naos have had walls built between them, so that they become engaged columns, as in the great temple at Agrigentum. In Roman temples, in order to increase the size of the celia, the columns on either side and at the rear became engaged columns, the portico only having isolated columns.
+
+Pteroma
+In Classical architecture, the enclosed space of a portico, peristyle, or stoa, generally behind a screen of columns.
+
+Pycnostyle
+A term given by Vitruvius to the intercolumniation between the columns of a temple, when this was equal to one and a half diameters.
+
+Q
+
+Quadriporticus
+Also known as a quadriportico, a four-sided portico. The closest modern parallel would be a colonnaded quadrangle.
+
+Quirk
+A small recess, often V-shaped, at the edge of a moulding.
+
+Quoin
+The cornerstones of brick or stone walls. Quoins are also common in some brickwork corners that are alternately recessed and expressed.
+
+R
+
+Rake
+The diagonal outside facing edge of a gable, sometimes called a raking cornice or a sloping cornice.  Rake is equivalent to slope which is the ratio of the rise to the run of the roof.
+
+Rear vault
+A vault of the internal hood of a doorway or window to which a splay has been given on the reveal, sometimes the vaulting surface is terminated by a small rib known as the scoinson rib, and a further development is given by angle shafts carrying this rib, known as scoinson shafts.
+
+Ressaut
+A projection in an entablature
+
+Return
+The receding edge of a flat face. On a flat signboard, for example, the return is the edge which makes up the board's depth.
+
+Revolving door
+An entrance door for excluding drafts from an interior of a building. A revolving door typically consists of three or four doors that hang on a center shaft and rotate around a vertical axis within a round enclosure.
+
+Rib vault
+The intersection of two or three barrel vaults.
+
+Ridge board
+A structural member that runs the length of the ridge (high point) on a sloped roof to which the upper ends of rafters are attached.
+
+Roof comb
+The structure that tops a pyramid in monumental Mesoamerican architecture (also common as a decorative embellishment on the ridge of metal roofs of some domestic Gothic-style architecture in America in the 19th century).
+
+Rotunda
+A large and high circular hall or room in a building, usually but not always, surmounted by a dome.
+
+S
+
+Sash
+The horizontal and vertical frame that encloses the glazing of a window.  A sash may be fixed or operable and may be of several different types depending on operation (i.e. casement, single or double hung, awning, hopper or sliding).
+
+Screens passage
+The passage at one end of the Great hall of an English medieval house or castle, and separated from it by the spere.
+
+Scroll
+An ornamental element featuring a sequence of spiraled, circled or heart-shaped motifs. There are, among others, flower scrolls, foliated scrolls, plants scrolls, vines scrolls.
+
+Shiki-i
+In Japanese architecture, the lower rail, made from wood, to which shoji or fusuma are attached.
+
+Shoji
+A translucent partition consisting of a paper sheet over a wood framework, commonly seen in traditional Japanese architecture. Shoji are built to be moved (usually by sliding them along tracks) or removed, allowing rooms to be reorganized and reshaped as desired and, in earlier constructions, allowing the interior of a structure to open directly to the outdoors. Because of their translucence, shoji are notable for diffusing light, air, and sound. Fusuma are similar to shoji but are generally opaque.
+
+Site-specific architecture
+Architecture which is of its time and of its place. It is designed to respond to both its physical context, and the metaphysical context within which it has been conceived and executed
+
+Skeiling
+A straight sloped part of a ceiling, such as on the underside of a pitched roof.
+
+Soffit
+Any architectural element's underside, especially the board connecting the walls of a structure to the fascia or the end of the roof, enclosing the eave.
+
+Sommer or Summer 
+A girder or main "summer beam" of a floor: if supported on two storey posts and open below, also called a "bress" or "breast-summer". Often found at the centerline of the house to support one end of a joist, and to bear the weight of the structure above.
+
+Spandrel
+1.  In a building facade, the space between the top of the window in one story and the sill of the window in the story above.
+2.  The space between two arches or between an arch and a rectangular enclosure.
+
+Spere
+The fixed structure between the great hall and the screens passage in an English medieval timber house.
+
+Spire
+A tapering conical or pyramidal structure on the top of a building.
+
+Splay
+A slant created by cutting a wall around an opening such that the inside of the opening is wider or narrower than the outside.
+
+Springer
+The lowest voussoir on each side of an arch.
+
+Squinch
+A piece of construction used for filling in the upper angles of a square room so as to form a proper base to receive an octagonal or spherical dome.
+
+Squint
+An opening, often arched, through an internal wall of a church providing an oblique view of the altar.
+
+Stoop
+A small staircase ending in a platform and leading to the entrance of an apartment building or other building.
+
+Sunburst
+A design or figure commonly used in architectural ornaments and design patterns, including art nouveau.
+
+Syrian arch
+In American architecture, esp. Richardsonian Romanesque, an archway that begins at the ground, rather than being set upon a supporting pedestal. [Cf. Richardsonian Romanesque: Syrian arch ]
+
+Systyle
+In the classical orders, columns rather thickly set, with an intercolumniation to which two diameters are assigned.
+
+T
+
+Taenia
+In a Doric entablature, a raised fillet separating the architrave from the frieze.
+
+Throating
+A continuous groove underneath a coping or other projecting element, to prevent water from running back onto the wall beneath.
+
+Timber framing
+The method of creating structures using heavy timbers jointed by pegged mortise and tenon joints.
+
+Trabeated arch
+A simple construction method using a lintel, header, or architrave as the horizontal member over a building void supported at its ends by two vertical columns, pillars, or posts.
+
+Tracery
+The stonework elements that support the glass in a Gothic window.
+
+Transom (architectural)
+A window or element, fixed or operable, above a door but within its vertical frame; also horizontal structural element of stone, wood or metal within a window frame (cp. mullion).
+
+Triglyph
+In a Doric entablature, an ornament along the frieze consisting of three vertical recesses.
+
+Truss
+A structural component made of straight wood or metal members, usually in a triangular pattern, with "pinned" connections at the top and bottom chords and which is used to support structural loads, as those on a floor, roof or bridge.
+
+Turret 
+A small tower that projects vertically from the wall of a building such as a medieval castle.
+
+Tympanum
+(Greek τύμπανον, from τύπτειν, to strike) The triangular space enclosed between the horizontal cornice of the entablature and the sloping cornice of the pediment. Though sometimes left plain, it is often decorated.
+
+U
+
+Undercroft
+Traditionally, a cellar or storage room. In modern usage, a ground-level area that is relatively open to the sides, but covered by the building above.
+
+V
+
+Ventilation shaft
+A small, vertical space within a tall building which permits ventilation of the building.
+
+Vierendeel truss
+A rectilinear truss usually fabricated of steel or concrete with horizontal top and bottom chords and vertical web members (no diagonals) in which the loads imposed on it are transferred to the supports through bending forces resisted in its connections.
+
+Volute
+A spiral, scroll-like ornament that forms the basis of the Ionic order.
+
+Voussoir
+A wedge-shaped or tapered stone between the springer and the keystone used to construct an arch.
+
+W
+
+Wing
+1.  A lateral part or projection of a building or structure such as a wing wall.
+2.  A subordinate part of a building possibly not connected to the main building.
+3.  The sides of a stage (theatre).
+
+Widow's walk
+A railed rooftop platform often having an inner cupola/turret frequently found on 19th-century North American coastal houses.
+
+Z
+
+Zaguan
+A passageway of a central passage plan house, or the complex as a whole, in Territorial or Territorial Revival architecture in the American Southwest.
+
+Ziggurat
+A temple tower of the ancient Mesopotamian valley, having the form of a terraced pyramid of successively receding stories.
+
+Zome - A lotus shaped geodesic structure composed of a series of parallelogram shaped panels.
+
+See also
+
+Outline of architecture
+List of classical architecture terms
+Classical order
+List of architectural vaults
+List of structural elements
+Glossary of engineering
+
+Notes
+
+References
+Ching, Francis D.K. (1995). A Visual Dictionary of Architecture. New York: John Wiley and Sons. p. 30. ISBN 0-471-28451-3.
+Deurer (2011). "Glossary of Egyptian Mythology". Retrieved 2019-05-17.
+Table of contents. 1911 Encyclopædia Britannica  – via Wikisource. Page has search box.
+
+[[Engineering]] [[Glossary of Arabic toponyms]] [[Glossary of Hebrew toponyms]] [[Glossary of aerospace engineering]] [[Glossary of agriculture]] [[Glossary of archaeology]] [[Glossary of areas of mathematics]] [[Glossary of artificial intelligence]] [[Glossary of astronomy]] [[Glossary of biology]] [[Glossary of bird terms]] [[Glossary of botanical terms]] [[Glossary of calculus]] [[Glossary of cellular and molecular biology (0–L)]] [[Glossary of cellular and molecular biology (M–Z)]]

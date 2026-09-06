@@ -1,0 +1,17 @@
+Fasegraphy
+Fasegraphy is a method for processing electrocardiograms (ECG) developed by the International Scientific and Educational Center for Information Technologies and Systems of the National Academy of Sciences of Ukraine and the Ministry of Education and Science of Ukraine.
+The main feature of the fasegraphy method is the transition from the scalar ECG-signal z(t) in any of the leads to its mapping on the phase plane with the coordinates z(t), dz/dt, where dz/dt is the rate of change in the heart electrical activity. It fundamentally distinguishes fasegraphy from other similar approaches, based on the mapping of the signal on the plane with the coordinates z(t), z(t-tau), where tau is the time delay.
+Fasegraphy allows expanding the system of ECG diagnostic features, based on the evaluation of the speed characteristics of the process, and thereby increasing the sensitivity and specificity of ECG-diagnostics.
+Fasegraphy allows determining the initial features of changes in the cardiac muscle, even on a single-channel ECG, which are underestimated in traditional ECG diagnostics.
+The method was recommended by the Ministry of Health of Ukraine for conducting screening.
+
+References
+
+Further reading
+Dori G., Denekamp Y., Fishman S., Roisenthal A., Lewis B.S. Evaluation of the phase-plane ECG as technique for detecting acute coronary oc-clusion // International Journal of Cardiology. – 2002. – Issue 84. – P. 161–170.
+Fainzilberg L.S. Heart functional state diagnostic using pattern recognition of phase space ECG-images.– Proc. of the 6th European Congress on Intelligent Techniques and Soft Computing (EUFIT ’98), Germany, 1998, vol. 3, pp. 1878-1882.
+Fainzilberg L.S. ECG Averaging based on Hausdorff Metric // International Journal of Biomagnetism.- 2003. — Vol. 5. — No. 1. — P. 236–237.
+Fainzilberg L.S. Restoration of a Standard Sample of Cyclic Waveforms with the Use of the Hausdorff Metric in a Phase Space // Cybernetics and Systems Analysis. – 2003. – Vol. 39.– Number 3. – P. 338–344.
+Plesnik E., Milenković J., Malgina O., Zajc M., Tasič J. F. Določanje značilk in klasifikacija signalov EKG na osnovi zaznavanja točk R v faznem prostoru // Devetnajsta mednarodna Elektrotehniška in Računalniška Konferenca ERK-2010 (20-22 September 2010, Portorož, Slovenija). – 2010. – Zv. B. – S. 323–326.
+
+[[Electrocardiography]] [[Sensitivity and specificity]]

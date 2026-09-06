@@ -1,0 +1,210 @@
+Seizure
+A seizure is a sudden disruption of brain activity caused by excessive, synchronized neuronal firing that results in changes in behavior. This neurological condition is common, affecting approximately 50 million individuals around the world.
+Depending on the regions of the brain involved, seizures can lead to changes in movement, sensation, behavior, awareness, or consciousness. Symptoms vary widely. Some seizures involve subtle changes, such as brief lapses in attention or awareness (as seen in absence seizures), while others cause generalized convulsions with loss of consciousness (tonic–clonic seizures). Most seizures last less than two minutes and are followed by a postictal period of confusion, fatigue, or other symptoms. Status epilepticus is a medical emergency consisting of a seizure that lasts longer than five minutes, or multiple seizures without full recovery between episodes.
+Seizures are classified as provoked when they are triggered by a known cause such as fever, acute head trauma, or metabolic imbalance. Unprovoked seizures occur when no immediate trigger is identified. Recurrent unprovoked seizures define the neurological condition epilepsy.
+
+Signs and symptoms
+The clinical signs and symptoms associated with a seizure are also referred to as seizure semiology. Seizure semiology varies depending on the brain regions involved and the type of seizure. This may affect movement, sensation, autonomic functions, or cognitive and emotional processing. Motor symptoms can include muscle stiffening (tonic activity), rhythmic jerking (clonic activity), sudden muscle jerks (myoclonus), sudden loss of muscle tone (atonia), eye deviation, or other repetitive involuntary movements (automatisms). Sensory disturbances may involve tingling, visual phenomena, vertigo, hallucinated sounds, among others, while autonomic features can include changes in heart rate, respiration and epigastric sensations. Cognitive or emotional symptoms may manifest as confusion, fear, altered perception, memory phenomena such as feelings of familiarity (déjà vu) and other alterations in cognitive function.
+Some individuals experience an aura associated with their focal seizures, characterized by subjective sensations such as unusual smells, a sudden emotional shift, or feelings of déjà vu.
+Most seizures last less than two minutes and may be followed by a recovery phase known as the postictal state, which may include confusion, fatigue, or other neurologic symptoms. Seizures lasting more than five minutes or occurring in rapid succession without recovery are classified as status epilepticus, a medical emergency that can result in long-term brain injury or death.
+
+Classification
+
+Seizures are classified according to their site of onset in the brain, clinical features, and level of consciousness during the episode. In 2025, the International League Against Epilepsy (ILAE) released an updated classification of seizures that distinguishes four major types: focal, generalized, unknown whether focal or generalized, and unclassified seizures. Seizures are further characterized based on whether consciousness is preserved or impaired, as determined by responsiveness during the event.
+
+Focal seizures
+Focal seizures (previously known as partial seizures) originate within a network limited to one hemisphere of the brain. They may arise from the cerebral cortex or subcortical structures. For a given seizure type, seizure usually starts in the same part of the brain each time. Once initiated, the seizure may remain localized or spread to adjacent areas, and in some cases, may travel to the opposite hemisphere (contralateral spread). Despite this potential for spread, the initial focus remains consistent.
+Focal seizures are subdivided based on whether consciousness is preserved or impaired, a classifier defined by awareness and responsiveness during the event. They are also differentiated by the localization or spread of epileptiform activity. The three major classifications of focal seizures are described below:
+
+Focal preserved consciousness seizure: the person remains aware and responsive.
+Focal impaired consciousness seizure: awareness and/or responsiveness are affected.
+Focal-to-bilateral tonic-clonic seizures: abnormal brain activity spreads from one area to both brain hemispheres; awareness and/or responsiveness are affected.
+Focal seizures can manifest with motor, sensory, autonomic, cognitive, or emotional symptoms, depending on the regions involved. They often present with unilateral symptoms, but bilateral symptoms may also be seen, even when a seizure is not classified as focal-to-bilateral. This is because several structures in the brain have bilateral effects in the body (e.g. primary visual cortex).
+Focal impaired consciousness seizures are the most common type of seizure in individuals older than one year of age, affecting 36% of epilepsy patients overall.
+
+Generalized seizures
+
+Generalized seizures originate at a specific point within, and quickly spread across both hemispheres through interconnected brain networks.
+They can be divided into three broad categories:
+
+Absence seizures: involve brief lapses in awareness
+Generalized tonic–clonic seizures: involve stiffening (tonic phase) followed by rhythmic jerking (clonic phase)
+Other generalized seizures: encompass various motor and non-motor types
+These categories include several subtypes of seizures, each with their own distinctive symptoms and diagnostic criteria.
+Like focal seizures, generalized seizures can present with asymmetric or bilateral symptoms, so thorough evaluation and history-gathering is necessary for diagnosis. One key difference between generalized and focal seizures is the age at onset, which is significantly lower in patients with generalized seizures.
+Generalized tonic–clonic seizures, previously known as grand mal seizures, are associated with the highest morbidity and mortality. They are the primary risk factor for sudden unexpected death in epilepsy (SUDEP).
+
+Unknown (whether focal or generalized) seizures
+When available information is insufficient to determine whether a seizure is focal or generalized, it is classified as unknown. These seizures can be classified by level of consciousness and observable symptoms when possible.
+
+Unclassified seizures
+Seizures are designated as unclassified when they are recognized as epileptic events, but insufficient information is available to assign them to any specific class. This is typically a temporary designation pending further clinical evaluation.
+
+Causes
+
+Seizures can occur for many reasons and are broadly classified based on whether they are provoked (acute symptomatic) or unprovoked. Identifying the underlying cause is critical for guiding treatment and assessing the risk of recurrence.
+
+Provoked seizures
+Provoked seizures are also known as acute symptomatic seizures. They are caused by an identifiable, transient condition affecting brain function. The temporal relationship between the cause and the seizure is important, but no single time frame has been established. Proposed criteria for provoked seizures include symptoms within one week of acute brain injury, following subdural hematoma, during central nervous system infection, or within 24 hours of a severe metabolic imbalance. Common causes of acute symptomatic seizures include:
+
+Metabolic disturbances: such as hypoglycemia (low blood sugar), hyponatremia (low sodium), hypomagnesemia (low magnesium), hypocalcemia (low calcium), or uremia.
+Central nervous system infections: including meningitis, encephalitis, or neurocysticercosis.
+Acute brain injuries: such as stroke, traumatic brain injury, or hemorrhage.
+Substance-related factors: including alcohol withdrawal, drug intoxication, medication withdrawal, or certain toxins.
+Fever: particularly in children, leading to febrile seizures.
+
+Unprovoked seizures
+Unprovoked seizures occur without an immediate precipitating event. These include spontaneous seizures and reflex seizures, which are consistently triggered by specific stimuli (e.g., flashing lights) but arise due to an enduring predisposition, not a transient cause.
+They typically reflect an underlying neurological predisposition and are associated with a higher risk of recurrence. Diagnostic criteria for epilepsy are met when there are either two or more unprovoked seizures occurring more than 24 hours apart, or one unprovoked seizure with a recurrence risk of at least 60% over the next 10 years based on clinical and diagnostic findings.
+Causes and contexts for unprovoked seizures include:
+
+Structural brain abnormalities, such as brain tumors, malformations of cortical development, and chronic lesions from prior brain trauma.
+Genetic epilepsies: mutations affecting neuronal excitability or network function. Examples include Dravet syndrome, Lennox–Gastaut syndrome, and juvenile myoclonic epilepsy.
+Infectious etiologies: sequelae of central nervous system infections, such as neurocysticercosis or viral encephalitis.
+Metabolic disorders: inborn errors of metabolism or mitochondrial diseases affecting neuronal function.
+Immune-mediated epilepsies: such as autoimmune encephalitis.
+Neurodegenerative dementia: such as Alzheimer's disease.
+Unknown etiologies: in some cases, no clear cause is found despite thorough investigation (termed idiopathic seizures).
+
+Mechanism
+Seizures are the result of neuronal activity in the brain that is abnormal, excessive, and synchronized (also referred to as hypersynchronous).  At a cellular level, they are associated with a disruption of the normal balance between excitatory (mainly mediated by the neurotransmitter glutamate) and inhibitory (primarily via the neurotransmitter GABA) neurotransmission.
+Brief seizures, such as absence seizures lasting 5–10 seconds, do not cause observable brain damage. Prolonged and recurrent seizures can lead to brain damage, such as scarring of brain tissue (gliosis), neuronal death brain atrophy and synaptic reorganization. These changes may lead to the development of epilepsy, in a process called epileptogenesis.
+
+Clinical evaluation
+The clinical evaluation after a seizure aims to confirm whether the episode was epileptic, identify its type and underlying cause and rule out conditions that can mimic seizures.
+Because many individuals cannot recall the details of their own seizures, eyewitness accounts are often essential for an accurate diagnosis. When available, video recordings can provide additional information, particularly in distinguishing epileptic seizures from mimics such as psychogenic nonepileptic seizures.
+
+Clinical history
+A detailed seizure history should include information on pre-ictal, ictal and post-ictal stages, as described below:
+Pre-ictal 
+
+Symptoms (auras), such as unusual sensations, déjà vu, or fear
+Triggers such as intense emotions, loud noise, flashing lights, exercise, menstruation, lack of sleep, fever, pregnancy, or stress
+Ictal
+
+Semiology including motor activity, level of consciousness, automatisms, or autonomic signs
+Time of occurrence (during sleep or wakefulness)
+Length of episode (usually lasting minutes)
+Injuries sustained during seizures
+Witness accounts of the events
+Post-ictal
+
+Postictal symptoms (e.g. confusion or drowsiness) that improve over time
+Focal neurologic deficits (Todd's paralysis)
+Obtaining medical history is also important, including the following:
+
+History of neurological or systemic conditions
+Prior treatment history, including medications, responses, and side effects
+History of head trauma
+Family history of seizures or epilepsy
+Developmental history in children
+History of febrile seizures
+Use of medications, alcohol, or illicit substances
+
+Physical examination
+A focused neurological examination can yield additional diagnostic clues, particularly soon after a seizure. Findings may include:
+
+Tongue or oral injuries, such as lateral tongue bites, which strongly suggest a generalized tonic–clonic seizure, though they occur in only about one-third of cases
+Postictal focal neurological signs, such as weakness or asymmetric reflexes
+Urinary or fecal incontinence, which, while not specific, can support the diagnosis of a generalized seizure
+Between seizures, the neurological examination is often normal.
+
+Laboratory tests
+Laboratory testing is often performed in the evaluation of a new-onset seizure, particularly when a provoked cause is suspected. Common investigations include:
+
+Serum glucose: to rule out hypoglycemia
+Electrolytes (sodium, calcium, magnesium): to identify metabolic disturbances
+Renal and hepatic function panels: to assess for organ dysfunction
+Toxicology screening: to detect alcohol, illicit substances, or prescription drug toxicity
+Infection markers (e.g., complete blood count, inflammatory markers): when infection is suspected
+Lactate: elevation in lactate levels within the first two hours after seizure onset is associated with generalized seizure, though this is not a requirement for diagnosis
+Laboratory findings can help identify treatable causes of seizures and guide management decisions.
+
+Electroencephalography (EEG)
+An electroencephalogram (EEG) records electrical activity in the brain and can help support a diagnosis of epilepsy. Interictal EEG (which can be observed between seizure episodes) may reveal epileptiform abnormalities, such as spikes, sharp waves, spike-and-wave discharges and others. An unremarkable EEG does not exclude epilepsy. In certain cases, prolonged video EEG monitoring is used to capture seizures in real time and clarify seizure type, localization, or the diagnosis when psychogenic nonepileptic seizures are suspected.
+EEG monitoring is frequently performed in the inpatient setting within a hospital's epilepsy monitoring unit (EMU), but in some cases, portable EEGs may be used in the outpatient setting for seizure monitoring.
+
+Neuroimaging
+Brain imaging is recommended in most cases of new-onset unprovoked seizures to identify structural abnormalities that may predispose to epilepsy. Imaging techniques include:
+
+Magnetic resonance imaging (MRI): the preferred modality for detecting cortical dysplasia, tumors, mesial temporal sclerosis, and other lesions
+Computed tomography (CT): often used in emergency settings to exclude acute hemorrhage or trauma
+Adult patients with first-time seizures who have a suspected intracranial lesion or red-flag symptoms (e.g. focal deficits, altered mental status, fever, severe headache) should immediately receive a noncontrast head CT.
+When CT findings are normal in patients with a first unprovoked seizure, a follow-up MRI is recommended because it may detect epileptogenic lesions not visible on CT.
+
+Differential diagnosis
+Several conditions can mimic epileptic seizures (known as non-epileptic seizures) and must be considered during differential diagnosis, including:
+
+Syncope (transient loss of consciousness due to cerebral hypoperfusion)
+Psychogenic non-epileptic seizures (PNES)
+Transient ischemic attacks (TIAs)
+Paroxysmal movement disorders
+Migraine aura
+Panic attack
+Narcolepsy with cataplexy
+
+Cincinnati method
+The "Cincinnati method" involves asking the patient repeatedly, immediately after the seizure to read a single sentence shown on a card. It can be used to lateralize the seizure, and is extremely cost-effective to administer. The method was invented in 1988 at the Cincinnati University Hospital in Cincinnati, Ohio.
+
+Management
+Management of seizures depends on the clinical context, including whether the seizure is isolated or part of an ongoing epileptic disorder, and whether it is provoked or unprovoked.
+
+First aid during a seizure
+Basic first aid during a tonic-clonic seizure focuses on ensuring the person's safety and preventing injury:
+
+Protect the person: Gently guide them to the ground if they are standing, and remove sharp or dangerous objects nearby.
+Do not restrain movements: Allow the seizure to occur without attempting to hold the person down.
+Do not place objects in the mouth: This can cause choking or injury (tongue swallowing during a seizure is a myth)
+Turn onto the side: Once convulsions stop, or if vomiting occurs, gently roll the person onto their side into the recovery position to maintain an open airway and prevent aspiration.
+Stay calm and reassure: Stay with the person until they have regained full awareness.
+Time the seizure: If it lasts longer than 5 minutes, call emergency services.
+Emergency services should also be called if a person has multiple consecutive seizures, has trouble breathing or awakening afterward, becomes injured, is submerged in water, has a first-time seizure, has diabetes, or is pregnant.
+
+Emergency medical treatment
+If a convulsive seizure lasts longer than five minutes or if repeated seizures occur without full recovery between events, the situation is classified as status epilepticus, a medical emergency requiring rapid intervention. In emergency care, the first-line therapy for status epilepticus is the administration of a benzodiazepine to terminate the seizure, with most guidelines recommending lorazepam, midazolam or diazepam. Early benzodiazepine treatment is associated with better seizure control and improved outcomes. Even in shorter seizures that do not require use of benzodiazepines, intravenous access is usually established in case of multiple seizure episodes or seizure prolongation.
+If seizures persist despite benzodiazepine administration (second-line therapy), an intravenous antiseizure medication is given. Recommended options include fosphenytoin, valproate or levetiracetam, depending on patient-specific factors and institutional protocols. In cases of refractory status epilepticus (seizures continuing despite first- and second-line treatments), patients typically require intensive care unit management. This involves continuous EEG monitoring and administration of anesthetic agents such as propofol or continuous infusion of midazolam.
+
+Management after a seizure
+If a seizure is provoked by an acute reversible cause, long-term antiseizure medication is generally not required, as recurrence is unlikely unless the underlying condition recurs. After a first unprovoked seizure, if risk factors for epilepsy are identified, such as epileptiform abnormalities on EEG or structural lesions on MRI, management follows that of epilepsy.
+
+Long-term management of epilepsy
+
+Long-term management applies to individuals diagnosed with epilepsy. It is recommended to start with one anti-seizure medication. Another may be added if one is not enough to control the seizure occurrence. Approximately 70% of people can obtain full control with continuous use of medication. The type of medication used is based on the type of seizure.
+Patients with acute repetitive seizures (also known as "seizure clusters") have recurrent seizures within 6–24 hours of the first episode and are at an increased risk of developing status epilepticus. They are often prescribed rescue benzodiazepines in the form of rectal gels or nasal sprays for at-home use during emergencies.
+Anti-seizure medications may be slowly stopped after some time if a person has just experienced one seizure and has not had any more. The decision to stop anti-seizure medications should be discussed between the doctor and patient, weighing the benefits and risks.
+
+ In severe cases where seizures are uncontrolled by at least two anti-seizure medications, brain surgery can be a treatment option. Epilepsy surgery is especially useful for those with focal seizures, where the seizures are coming from a specific part of the brain. The amount of brain removed during the surgery depends on the extent of the brain involved in the seizures. It can range from just removing one lobe of the brain (temporal lobectomy) to disconnecting an entire side of the brain (hemispherectomy). The procedure can be curative, where seizures are eliminated. However, if it is not curative, it can be palliative, reducing the frequency of seizures but not eliminating them.
+Another intervention for refractory epilepsy is vagus nerve stimulation (VNS), which involves insertion of an electrical device that stimulates the left vagus nerve. Its mechanism of action is not fully understood. VNS is contraindicated in patients with cardiac conduction problems, sleep apnea, and should be avoided in patients with programmable shunt valves. The most common side effect associated with VNS is hoarseness, and side effects usually improve over time or with decreased levels of stimulation.
+
+Diet
+A ketogenic diet or modified Atkins diet may help in those who have epilepsy who do not improve following typical treatments, with evidence for its effectiveness growing. The diet leads to an increased elevation of plasma decanoic acid and ketones. However, some research is giving the indication that it is the decanoic acid that is anti-convulsant.
+
+Other
+Helmets may be used to protect the head during a seizure. Some claim that seizure response dogs, a form of service dog, can predict seizures. Evidence for this, however, is poor. Cannabis has also been used for the management of seizures that do not respond to anti-seizure medications in specific epilepsy syndromes. Research on its effectiveness is ongoing, but current research shows that it does reduce seizure frequency.
+
+Prognosis
+The prognosis after a first seizure depends on the underlying cause, seizure type, and patient-specific factors. In general, individuals who experience a single provoked seizure due to an acute and reversible cause (such as hypoglycemia or head trauma) have a low risk of recurrence once the underlying issue is treated. Following a first unprovoked seizure, the risk of more seizures in the next two years is around 40%. Starting anti-seizure medications reduces the recurrence of seizures by 35% within the first two years. The greatest predictors of more seizures are problems either on the EEG or on imaging of the brain. Those with normal EEG and normal physical exam following a first unprovoked seizure had less risk of recurrence in the next two years, with a risk of 25%. In adults, after 6 months of being seizure-free after a first seizure, the risk of a subsequent seizure in the next year is less than 20% regardless of treatment. The prognosis of epilepsy depends on seizure type, cause, and treatment response. About two-thirds of patients achieve seizure control with medication, while surgery or neuromodulation may help those with drug-resistant epilepsy.
+
+Epidemiology
+Seizures are relatively common neurological events, with an estimated lifetime risk of experiencing at least one seizure approaching 8-10% within the general population. In adults, the risk of seizure recurrence within the five years following a new-onset seizure is 35%; the risk rises to 75% in persons who have had a second seizure. In children, the risk of seizure recurrence within the five years following a single unprovoked seizure is about 50%; the risk rises to about 80% after two unprovoked seizures. In the United States in 2011, seizures resulted in an estimated 1.6 million emergency department visits; approximately 400,000 of these visits were for new-onset seizures.
+
+History
+Seizures have been recognized throughout recorded history. Early descriptions date back to ancient Mesopotamia around 2000 BCE, where seizures were often attributed to supernatural causes or demonic possession. Similar beliefs persisted across ancient cultures, including in Egypt, India, and Greece. In the 5th century BCE, the physician Hippocrates challenged supernatural explanations in his treatise On the Sacred Disease, proposing that epilepsy was a disorder of the brain. However, stigma surrounding seizures remained widespread for centuries.
+
+Society and culture
+
+Economics
+Seizures result in direct economic costs of about one billion dollars in the United States. Epilepsy results in economic costs in Europe of around €15.5 billion in 2004. In India, epilepsy is estimated to result in costs of US$1.7 billion or 0.5% of the GDP. They make up about 1% of emergency department visits (2% for emergency departments for children) in the United States.
+
+Research
+Much of recent epilepsy research has been focused on identifying causes for seizures, predicting them, and preventing their onset.
+Some types of seizures occur due to genetic mutations, such as those found in ion channels. Current genetic epilepsy research is aimed at identifying genetic risk factors, understanding mutations, and developing genetic therapies. The development of next-generation sequencing has significantly advanced the understanding of gene-driven epilepsies. Presently, there are experiments using stem cells for the study and management of genetic epilepsy.
+Seizure prediction is a special case of seizure detection in which the developed systems can issue a warning before the clinical onset of the epileptic seizure. Recently, biomarkers have been used for seizure prediction and prevention. These are methods of measuring changes that occur in patients with seizures to differentiate them from people without seizures. One example of biomarkers is the use of microelectrodes, which can be used to monitor abnormal electrical brain activity. Another example is diffusion tensor imaging MRI, which can show differences in structural connectivity in individuals with epilepsy.
+There are ongoing investigations to identify mechanisms to treat seizures, with the most promising recent discoveries involving the mTOR pathway and the cytokine (small signaling protein) IL-1ß. Several other structures and cells are also the topic of study, including cellular membrane proteins, components of the blood-brain barrier, glial cells, and antibodies. For treatment of genetic disorders, a process called transfection involves the use of vectors to deliver pieces of genetic material to areas of the brain involved in seizure onset.
+Computational neuroscience has brought a new perspective on seizures by considering the dynamical aspects.
+
+References
+
+External links
+
+[[Absence seizure]] [[Action potential]] [[Anterior temporal lobectomy]] [[Anticonvulsant]] [[Atonic seizure]] [[Aura (symptom)]] [[Automatism (medicine)]] [[Benign familial neonatal seizures]] [[Benzodiazepine]] [[CACNA1C-related disorders]] [[Cerebrospinal fluid]] [[Citizens United for Research in Epilepsy]] [[Complex partial status epilepticus]] [[Dementia]] [[Dentatorubral–pallidoluysian atrophy]] [[Early myoclonic encephalopathy]] [[Electroencephalography]] [[Encephalopathy]] [[Epilepsia partialis continua]] [[Epilepsy]] [[Epilepsy Action]] [[Epilepsy Action Australia]] [[Epilepsy Foundation]] [[Epilepsy Outlook]] [[Epilepsy Society]] [[Epilepsy and driving]] [[Epilepsy and employment]] [[Epilepsy in animals]] [[Epilepsy in children]] [[Epileptogenesis]] [[Epileptologist]] [[Febrile seizure]] [[Focal seizure]] [[Frontal lobe epilepsy]] [[Gelastic seizure]] [[Generalized epilepsy]] [[Generalized tonic–clonic seizure]] [[Hemispherectomy]] [[International League Against Epilepsy]] [[Intracranial pressure]] [[Issues for people with epilepsy]] [[Juvenile myoclonic epilepsy]] [[KCNH1-related disorders]] [[Lafora disease]] [[Landau–Kleffner syndrome]] [[Lennox–Gastaut syndrome]] [[MERRF syndrome]] [[Mayo Clinic]] [[Medical specialty]] [[Migraine]] [[Myoclonic astatic epilepsy]] [[Myoclonic epilepsy]] [[Neonatal seizure]] [[Neurology]] [[Panayiotopoulos syndrome]] [[Parkinson's disease]] [[Postictal state]] [[Progressive myoclonus epilepsy]] [[Psychogenic non-epileptic seizure]] [[Rolandic epilepsy]] [[Seizure types]] [[Sleep-related hypermotor epilepsy]] [[Spinal cord]] [[Status epilepticus]] [[Stroke]] [[Sudden unexpected death in epilepsy]] [[Syncope (medicine)]]

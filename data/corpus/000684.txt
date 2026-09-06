@@ -1,0 +1,16 @@
+Magnetocardiography
+Magnetocardiography (MCG) is a technique to measure the magnetic fields produced by electrical currents in the heart using extremely sensitive devices such as the superconducting quantum interference device (SQUID). If the magnetic field is measured using a multichannel device, a map of the magnetic field is obtained over the chest; from such a map, using mathematical algorithms that take into account the conductivity structure of the torso, it is possible to locate the source of the activity. For example, sources of abnormal rhythms or arrhythmia may be located using MCG.
+
+History
+The first MCG measurements were made by Baule and McFee using two large coils placed over the chest, connected in opposition to cancel out the relatively large magnetic background. Heart signals were indeed seen, but were very noisy. The next development was by David Cohen, who used a magnetically shielded room to reduce the background, and a smaller coil with better electronics; the heart signals were now less noisy, allowing a magnetic map to be made, verifying the magnetic properties and source of the signal. However, the use of an inherently noisy coil detector discouraged widespread interest in the MCG. The turning point came with the development of the sensitive detector called the SQUID (superconducting quantum interference device) by James Zimmerman. The combination of this detector and Cohen's new shielded room at MIT allowed the MCG signal to be seen as clearly as the conventional electrocardiogram, and the publication of this result by Cohen et al. marked the real beginning of magnetocardiography (as well as biomagnetism generally).
+Magnetocardiography is used in various laboratories and clinics around the world, both for research on the normal human heart, and for clinical diagnosis.
+
+Clinical implementation
+MCG technology has been implemented in hospitals in Germany. The MCG system, CS MAG II of Biomagnetik Park GmbH, was installed at Coburg Hospital in 2013. The CS-MAG III system was installed at the Dietrich Bonhoeffer Hospital, Neubrandenburg, and the Charité Hospital, Berlin, in 2017.
+The first MCG centre in Asia is set up in Hong Kong, adapting the same technology as Hamburg, and set up by the same team.
+
+See also
+
+References
+
+[[Algorithm]] [[Audition]] [[Digestion]] [[Electro-olfactography]] [[Electrocardiography]] [[Electrocochleography]] [[Electrodiagnostic medicine]] [[Electroencephalography]] [[Electrogastrogram]] [[Electrogustometry]] [[Electronystagmography]] [[Electroretinography]] [[Fasegraphy]] [[Heart]] [[Human eye]] [[Magnetogastrography]] [[Magnetomyography]] [[Medical procedure]] [[Medical test]] [[Nerve conduction study]] [[Peripheral nervous system]] [[Stereoelectroencephalography]]

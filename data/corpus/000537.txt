@@ -1,0 +1,53 @@
+Functional specification
+A functional specification (also, functional spec, specs, functional specifications document (FSD), functional requirements specification) in systems engineering and software development is a document that specifies the functions that a system or component must perform (often part of a requirements specification) (ISO/IEC/IEEE 24765-2010).
+The documentation typically describes what is needed by the system user as well as requested properties of inputs and outputs (e.g. of the software system). A functional specification is the more technical response to a matching requirements document, e.g. the product requirements document "PRD". Thus it picks up the results of the requirements analysis stage. On more complex systems multiple levels of functional specifications will typically nest to each other, e.g. on the system level, on the module level and on the level of technical details.
+
+Overview
+A functional specification does not define the inner workings of the proposed system; it does not include the specification of how the system function will be implemented.
+A functional requirement in a functional specification might state as follows:
+
+When the user clicks the OK button, the dialog is closed and the focus is returned to the main window in the state it was in before this dialog was displayed.
+Such a requirement describes an interaction between an external agent (the user) and the software system. When the user provides input to the system by clicking the OK button, the program responds (or should respond) by closing the dialog window containing the OK button.
+
+Functional specification topics
+
+Purpose
+There are many purposes for functional specifications. One of the primary purposes on team projects is to achieve some form of team consensus on what the program is to achieve before making the more time-consuming effort of writing source code and test cases, followed by a period of debugging. Typically, such consensus is reached after one or more reviews by the stakeholders on the project at hand after having negotiated a cost-effective way to achieve the requirements the software needs to fulfill.
+
+To let the developers know what to build.
+To let the testers know what tests to run.
+To let stakeholders know what they are getting.
+
+Process
+In the ordered industrial software engineering life-cycle (waterfall model), functional specification describes what has to be implemented. The next, systems architecture document describes how the functions will be realized using a chosen software environment. In non industrial, prototypical systems development, functional specifications are typically written after or as part of requirements analysis.
+When the team agrees that functional specification consensus is reached, the functional spec is typically declared "complete" or "signed off". After this, typically the software development and testing team write source code and test cases using the functional specification as the reference. While testing is performed, the behavior of the program is compared against the expected behavior as defined in the functional specification.
+
+Methods
+One popular method of writing a functional specification document involves drawing or rendering either simple wire frames or accurate, graphically designed UI screenshots. After this has been completed, and the screen examples are approved by all stakeholders, graphical elements can be numbered and written instructions can be added for each number on the screen example. For example, a login screen can have the username field labeled '1' and password field labeled '2,' and then each number can be declared in writing, for use by software engineers and later for beta testing purposes to ensure that functionality is as intended. The benefit of this method is that countless additional details can be attached to the screen examples.
+
+Examples of functional specifications
+Advanced Microcontroller Bus Architecture
+Extensible Firmware Interface
+Multiboot specification
+Real-time specification for Java
+Single UNIX Specification
+
+Types of software development specifications
+Bit specification (disambiguation)
+Design specification
+Diagnostic design specification
+Product design specification
+Software requirements specification
+
+See also
+Benchmarking
+Software development process
+Specification (technical standard)
+Software verification and validation
+
+References
+
+External links
+Painless Functional Specifications, 4-part series by Joel Spolsky
+
+[[Abstraction (computer science)]] [[Aerospace engineering]] [[Agile software development]] [[Aspect-oriented programming]] [[Backward compatibility]] [[CI/CD]] [[Capability Maturity Model Integration]] [[Compatibility layer]] [[Compatibility mode]] [[Compiler]] [[Component-based software engineering]] [[Computer compatibility]] [[Computer engineering]] [[Computer programming]] [[Computer science]] [[Data model]] [[Data modeling]] [[DevOps]] [[Electrical engineering]] [[Empirical software engineering]] [[Enterprise architecture]] [[Enterprise unified process]] [[Entity–relationship model]] [[Essential systems analysis]] [[Executable UML]] [[Experimental software engineering]] [[Extreme programming]] [[Fault tolerance]] [[Formal methods]] [[Forward compatibility]] [[Function model]] [[Glossary of artificial intelligence]] [[Programming tool]]

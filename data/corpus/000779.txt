@@ -1,0 +1,129 @@
+Offset printing
+Offset printing (offset lithography) is a common printing technique in which the inked image is transferred (or "offset") from a plate to a rubber blanket and then to the printing surface. When used in combination with the lithographic process, which is based on the repulsion of oil and water, the offset technique employs a flat (planographic) image carrier. Ink rollers transfer ink to the image areas of the image carrier, while a water roller applies a water-based film to the non-image areas.
+The modern "web" process feeds a large reel of paper through a large press machine in several parts, typically for several meters, which then prints continuously as the paper is fed through.
+Development of the offset press came in two versions: in 1875 by Robert Barclay of England for printing on tin and in 1904 by Ira Washington Rubel of the United States for printing on paper. Rubel's contemporary in Continental Europe was Kašpar Hermann, the author of the offset machine prototype (1904), holder of a patent for an offset disc machine (two rubber transfer rollers facing each other) – rolling-press. In 1907, he successfully started printing in Germany on his Triumph sheetfed offset press.
+
+History
+Lithography was initially created to be an inexpensive method of reproducing artwork. This printing process was limited to use on flat, porous surfaces because the printing plates were produced from limestone. In fact the word "lithograph", which comes from Greek (λιθογραφία), means "an image from stone" or "written in stone".
+The first rotary offset lithographic printing press was created in England and patented in 1875 by Robert Barclay. This development combined mid-19th century transfer printing technologies and Richard March Hoe's 1843 rotary printing press—a press that used a metal cylinder instead of a flat stone. The offset cylinder was covered with specially treated cardboard that transferred the printed image from the stone to the surface of the metal. Later, the cardboard covering of the offset cylinder was changed to rubber, which is still the most commonly used material.
+As the 19th century closed and photography became popular, many lithographic firms went out of business. Photoengraving, a process that used halftone technology instead of illustration, became the primary aesthetic of the era. Many printers, including Ira Washington Rubel of New Jersey, were using the low-cost lithograph process to produce copies of photographs and books. Rubel discovered in 1901—by forgetting to load a sheet—that printing from the rubber roller, instead of the metal, made the printed page clearer and sharper. After further refinement, the Potter Press Printing Company in New York produced a press in 1903. By 1907 the Rubel offset press was in use in San Francisco.
+The Harris Automatic Press Company also created a similar press around the same time. Charles and Albert Harris modeled their press "on a rotary letter press machine".
+Newspaper publisher Staley T. McBrayer invented the Vanguard web offset press for newspaper printing, which he unveiled in 1954 in Fort Worth, Texas.
+
+Modern offset printing
+One of the important functions in the printing process is prepress production. This stage makes sure that all files are correctly processed in preparation for printing. This includes converting to the proper CMYK color model, finalizing the files, and creating plates for each color of the job to be run on the press.
+Offset lithography is one of the most common ways of creating printed materials. A few of its common applications include: newspapers, magazines, brochures, stationery, and books. Compared to other printing methods, offset printing is best suited for economically producing large volumes of high quality prints in a manner that requires little maintenance. Many modern offset presses use computer-to-plate systems as opposed to the older computer-to-film work flows, which further increases their quality.
+
+There are two types of offset printing: wet offset and waterless offset. Wet offset lithography uses a mix of wetting fluids (dampening solutions) to manage ink adhesion and to protect non-image areas. Waterless offset lithography employs a different method where a plate's non-image areas are protected via a layer of ink-repellent silicone. Waterless offset lithography is newer, invented in the 1960s by 3M. It was later sold and commercialized by Toray.
+Advantages of offset printing compared to other printing methods include:
+
+Consistent high image quality. Offset printing produces sharp and clean images and type more easily than, for example, letterpress printing; this is because the rubber blanket conforms to the texture of the printing surface;
+Quick and easy production of printing plates;
+Longer printing plate life than on direct litho presses because there is no direct contact between the plate and the printing surface. Properly developed plates used with optimized inks and fountain solution may achieve run lengths of more than a million impressions;
+Cost. Offset printing is the cheapest method for producing high quality prints in commercial printing quantities;
+Ability to adjust the amount of ink on the fountain roller with screw keys. Most commonly, a metal blade controls the amount of ink transferred from the ink duct to the fountain roller. By adjusting the screws, the operator alters the gap between the blade and the fountain roller, increasing or decreasing the amount of ink applied to the roller in certain areas. This consequently modifies the density of the color in the respective area of the image. On older machines one adjusts the screws manually, but on modern machines the screw keys are operated electronically by the printer controlling the machine, enabling a much more precise result.
+Disadvantages of offset printing compared to other printing methods include:
+
+Slightly inferior image quality compared to rotogravure or photogravure printing;
+Propensity for anodized aluminum printing plates to become sensitive (due to chemical oxidation) and print in non-image–background areas when developed plates are not cared for properly;
+Time and cost associated with producing plates and printing press setup. As a result, very small quantity printing jobs may now use digital offset machines.
+Every printing technology has its own identifying marks, and offset printing is no exception. In text reproduction, the type edges are sharp and have clear outlines. The paper surrounding the ink dots is usually unprinted. The halftone dots can be hexagonal though there are different screening methods.
+
+Process variations
+Several variations of the printing process exist:
+
+Blanket-to-blanket
+A printing method in which both sides of a sheet of paper are printed simultaneously, with two blanket cylinders per colour; a sheet of paper is passed between them, with each cylinder printing on one side of it.
+Blanket-to-blanket presses are also called perfecting or duplex presses because they print on both sides of the sheet at the same time. There is no impression cylinder because the opposite blanket cylinders act as impression cylinders to each other during print production. This method is most used on offset presses designed for envelope printing. There are also two plate cylinders per colour on the press. Web and sheet-fed offset presses are similar in that many of them can also print on both sides of the paper in one pass, making it easier and faster to print duplex.
+
+Blanket-to-steel
+A printing method similar to a sheet offset press; except that the plate and cylinder pressures are quite precise. Actual squeeze between plate and blanket cylinder is optimal at .005 in (0.13 mm); as is the squeeze or pressure between the blanket cylinder and the substrate. Blanket-to-steel presses are considered one-color presses. In order to print the reverse side, the web is turned over between printing units by means of turning bars. The method can be used to print business forms, computer letters and direct mail advertising.
+Variable-size printing
+A printing process that uses removable printing units, inserts, or cassettes for one-sided and blanket-to-blanket two-sided printing.
+Keyless offset
+A printing process that is based on the concept of using fresh ink for each revolution by removing residual inks on the inking drum after each revolution. It is suitable for printing newspapers.
+Dry offset printing
+A printing process which uses a metal backed photopolymer relief plate, similar to a letterpress plate, but, unlike letterpress printing where the ink is transferred directly from the plate to the substrate, in dry offset printing the ink is transferred to a rubber blanket before being transferred to the substrate. This method is used for printing on injection moulded rigid plastic buckets, tubs, cups and flowerpots.
+
+Plates
+
+Materials
+The plates used in offset printing are thin, flexible, and usually larger than the paper size to be printed. Two main materials are used:
+
+Metal plates, usually aluminum, although sometimes they are made of multi-metal, paper, or plastic.
+Polyester plates, which are much cheaper and can be used in place of aluminum plates for smaller formats or medium quality jobs, as their dimensional stability is lower.
+
+Computer to plate
+
+Computer-to-plate (CTP) is a newer technology which replaced computer-to-film (CTF) technology, and that allows the imaging of metal or polyester plates without the use of film. By eliminating the stripping, compositing, and traditional plate making processes, CTP altered the printing industry, which led to reduced prepress times, lower costs of labor, and improved print quality.
+Most CTP systems use thermal CTP or violet technologies. Both technologies have the same characteristics in terms of quality and plate durability (for longer runs). However, the violet CTP systems are often cheaper than thermal ones, and thermal CTP systems do not need to be operated under yellow light.
+Thermal CTP involves the use of thermal lasers to expose or remove areas of coating while the plate is being imaged. This depends on whether the plate is negative, or positive working. These lasers are generally at a wavelength of 830 nm, but vary in their energy usage depending on whether they are used to expose or ablate material. Violet CTP lasers have a much shorter wavelength, 405–410 nm. Violet CTP is "based on emulsion tuned to visible light exposure".
+Another process is the computer-to-conventional plate (CTCP) system in which conventional offset plates can be exposed, making it an economical option.
+
+Sheet-fed offset
+
+Sheet-fed refers to individual sheets of paper or rolls being fed into a press via a suction bar that lifts and drops each sheet onto place. A lithographic ("litho" for short) press uses principles of lithography to apply ink to a printing plate, as explained previously. Sheet-fed litho is commonly used for printing of short-run magazines, brochures, letter headings, and general commercial (jobbing) printing. In sheet-fed offset, "the printing is carried out on single sheets of paper as they are fed to the press one at a time". Sheet-fed presses use mechanical registration to relate each sheet to one another to ensure that they are reproduced with the same imagery in the same position on every sheet running through the press.
+
+Offset duplicators
+In the United States, an offset press with paper size up to 12 in × 18 in (300 mm × 460 mm), is classified as a duplicator instead of a press. Offset duplicators are used for fast, good quality reproduction of one-color and two-color copies in sizes up to 12 in × 18 in (300 mm × 460 mm). Popular models were made by A. B. Dick Company, Multilith, and the Chief and Davidson lines made by A.T.F.-Davidson. Offset duplicators are made for fast and quick printing jobs; printing up to 12,000 impressions per hour. They are able to print business forms, letterheads, labels, bulletins, postcards, envelopes
+
+Feeder system
+The feeder system is responsible for making sure paper runs through the press correctly. This is where the substrate is loaded and then the system is correctly set up to the certain specifications of the substrate to the press.
+
+Printing–inking system
+The Printing Unit consists of many different systems. The dampening system is used to apply dampening solution to the plates with water rollers. The inking system uses rollers to deliver ink to the plate and blanket cylinders to be transferred to the substrate. The plate cylinder is where the plates containing all of the imaging are mounted. Finally, the blanket and impression cylinders are used to transfer the image to the substrate running through the press.
+
+Delivery system
+The delivery system is the final destination in the printing process while the paper runs through the press. Once the paper reaches delivery, it is stacked for the ink to cure in a proper manner. This is the step in which sheets are inspected to make sure they have proper ink density and registration.
+
+Slur
+Production or impact of double image in printing is known as slur.
+
+Web-fed offset
+Web-fed refers to the use of rolls (or "webs") of paper supplied to the printing press. Offset web printing is generally used for runs in excess of five or ten thousand impressions. Typical examples of web printing include newspapers, newspaper inserts or ads, magazines, direct mail, catalogs, and books. Web-fed presses are divided into two general classes: cold-set (or non-heat-set) and heat-set offset web presses, the difference being how the inks dry. Cold web offset printing dries through absorption into the paper, while heat-set utilizes drying lamps or heaters to cure or "set" the inks. Heat-set presses can print on both coated (slick) and uncoated papers, while cold-set presses are restricted to uncoated paper stock, such as newsprint. Some cold-set web presses can be fitted with heat dryers, or ultraviolet lamps (for use with UV-curing inks), thus enabling a newspaper press to print color pages heat-set and black & white pages cold-set.
+Web offset presses are beneficial in long run printing jobs, typically press runs that exceed 10,000 or 20,000 impressions. Speed is a determining factor when considering the completion time for press production; some web presses print at speeds of 3,000 feet (910 meters) per minute or faster. In addition to the benefits of speed and quick completion, some web presses have the inline ability to cut, perforate, and fold.
+
+Heat-set web offset
+This subset of web offset printing uses inks which dry by evaporation in a dryer typically positioned just after the printing units; it is typically done on coated papers, where the ink stays largely on the surface, and gives a glossy high contrast print image after the drying. As the paper leaves the dryer too hot for the folding and cutting that are typically downstream procedures, a set of "chill rolls" positioned after the dryer lowers the paper temperature and sets the ink. The speed at which the ink dries is a function of dryer temperature and length of time the paper is exposed to this temperature. This type of printing is typically used for magazines, catalogs, inserts, and other medium-to-high volume, medium-to-high quality production runs.
+
+Cold-set web offset
+This is also a subset of web offset printing, typically used for lower quality print output. It is typical of newspaper production. In this process, the ink dries by absorption into the underlying paper. A typical coldset configuration is often a series of vertically arranged print units and peripherals. As newspapers seek new markets, which often imply higher quality (more gloss, more contrast), they may add a heatset tower (with a dryer) or use UV (ultraviolet) based inks which "cure" on the surface by polymerization rather than by evaporation or absorption.
+
+Sheet-fed vs. web-fed
+Sheet-fed presses offer several advantages. Because individual sheets are fed through, a large number of sheet sizes and format sizes can be run through the same press. In addition, waste sheets can be used for make-ready (which is the testing process to ensure a quality print run). This allows for lower cost preparation so that good paper is not wasted while setting up the press, for plates and inks. Waste sheets do bring some disadvantages as often there are dust and offset powder particles that transfer on to the blankets and plate cylinders, creating imperfections on the printed sheet. This method produces the highest quality images.
+Web-fed presses, on the other hand, are much faster than sheet-fed presses, with speeds up to 80,000 cut-offs per hour (a cut-off is the paper that has been cut off a reel or web on the press; the length of each sheet is equal to the cylinder's circumference). The speed of web-fed presses makes them ideal for large runs such as newspapers, magazines, and comic books. However, web-fed presses have a fixed cut-off, unlike rotogravure or flexographic presses, which are variable.
+
+Inks
+Offset printing uses inks that, compared to other printing methods, are highly viscous. Typical inks have a dynamic viscosity of 40–100 Pa·s.
+There are many types of paste inks available for utilization in offset lithographic printing and each have their own advantages and disadvantages. These include heat-set, cold-set, and energy-curable (or EC), such as ultraviolet- (or UV-) curable, and electron beam- (or EB-) curable. Heat-set inks are the most common variety and are "set" by applying heat and then rapid cooling to catalyze the curing process. They are used in magazines, catalogs, and inserts. Cold-set inks are set simply by absorption into non-coated stocks and are generally used for newspapers and books but are also found in insert printing and are the most economical option. Energy-curable inks are the highest-quality offset litho inks and are set by application of light energy. They require specialized equipment such as inter-station curing lamps, and are usually the most expensive type of offset litho ink.
+
+Letterset inks are mainly used with offset presses that do not have dampening systems and use imaging plates that have a raised image.
+Waterless inks are heat-resistant and are used to keep silicone-based plates from showing toning in non-image areas. These inks are typically used on waterless Direct Imaging presses.
+Single Fluid Inks are newer inks that use a process allowing lithographic plates on a lithographic press without using a dampening system during the process.
+
+In industry
+Offset lithography became the most popular form of commercial printing from the 1950s ("offset printing"). Substantial investment in the larger presses required for offset lithography was needed, and had an effect on the shape of the printing industry, leading to fewer, larger, printers. The change made a greatly increased use of colour printing possible, as this had previously been much more expensive. Subsequent improvements in plates, inks, and paper have further refined the technology of its superior production speed and plate durability. In 2003 lithography was described as the primary printing technology used in the U.S.; most often as offset lithography, "responsible for over half of all printing using printing plates".
+
+See also
+Spot color
+Variable data printing
+Offset ink
+Printing press
+Lithography
+Fountain solution
+CMYK color model
+Prepress
+Flexography
+Gravure printing
+Digital printing
+Screen printing
+
+References
+
+Further reading
+"Offset Printing". Encyclopædia Britannica. Retrieved March 22, 2004, from Encyclopædia Britannica Premium Service.
+Hird, Kenneth F. (2000). Offset Lithographic Technology. Tinley Park, Illinois: Goodheart - Willcox. ISBN 978-1-56637-621-1.
+
+External links
+
+[[Amazon Kindle]] [[Apple Books]] [[Associated Press]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Desktop publishing]] [[Google Play Books]] [[Kindle Store]] [[Kobo Inc.]] [[PocketBook International]] [[Print on demand]] [[Self-publishing]] [[Smashwords]] [[Sony Reader]]

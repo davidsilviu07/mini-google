@@ -1,0 +1,90 @@
+Cumulative voting
+Cumulative voting (sometimes called the single divisible vote) is an election system where a voter casts multiple votes but can lump votes on a specific candidate or can split their votes across multiple candidates. The candidates elected are those receiving the largest number of votes cast in the election, up to the number of representatives to be elected.
+Cumulative voting can simplify strategic voting, by allowing larger groups of voters to elect multiple representatives by splitting their vote between multiple candidates. This removes the complexity associated with randomized or coordinated strategies.
+It may be thought of as a variant of block voting. Under both cumulative voting and block voting, a voter casts multiple votes but in the case of cumulative voting, can lump them all on one candidate (the equivalent of engaging in plumping). When voters do this, the result is similar to SNTV. When supporters of a minority candidate do this, they may be of sufficient strength to elect that minority representative, not a likely occurrence under either first past the post voting or block voting. Thus, cumulative voting generally produces similar results to SNTV (especially if voters are informed and rational, in which case they will tend to engage in plumping. Plumping though reduces cumulative voting's effectiveness at reducing need for strategic voting by allowing the voter to cast a split vote.).
+Cumulative voting can also be thought of as a form of cardinal voting: a variant on score voting where the total scores for each voter must add up to a fixed value (e.g. 100%). If instead the sum of squares must add up to a fixed value, the method becomes quadratic voting.
+Cumulative voting is semi-proportional, allowing for more representative government than winner-take-all elections using block plurality voting or block instant-runoff voting. Cumulative voting is commonly used in corporate governance, where it is mandated by 7 U.S. states.
+The method can also be used in participatory budgeting.
+
+History
+Cumulative voting was used to elect the Illinois House of Representatives from 1870 until its repeal in 1980 and used in England and Scotland in the late 19th century to elect some school boards. As of March 2012, more than fifty communities in the United States use cumulative voting, all resulting from cases brought under the National Voting Rights Act of 1965. Among them are Peoria, Illinois for half of its city council, Chilton County, Alabama for its county council and school board, and Amarillo, Texas, for its school board and College Board of Regents. Courts sometimes mandate its use as a remedy in lawsuits brought under the Voting Rights Act in the United States; an example of this occurred in 2009 in Port Chester, New York which had its first cumulative voting elections for its board of trustees in 2010.
+
+Cumulative voting was also used to elect city boards in Toronto, Canada starting in 1904. The Proportional Representation Review (September 1903) described it like this:
+
+Cumulative voting as applied to the Board of Control, means that each elector will have four votes but that he need not give each of them to a different candidate. He may do so if he wishes; but he has also the power to give all his four votes to one candidate. This makes "plumping" four times as powerful as it was by the old "block" vote system, when if you "plumped" for one candidate, you threw away three out of your four votes. Now you have the benefit of your full voting power, whether you plump or not. And plumping is the correct thing; in fact proportional representation is simply effective representation with the addition in the best systems of a provision for transfer of votes, so as to prevent wasting too many on one candidate...
+Besides permitting an elector to give all four votes to one candidate, the cumulative plan enables him to give two of his votes to one candidate and two to another, or he may give three votes to one candidate and his fourth to another candidate. In fact he may distribute or cumulate his four votes as he pleases....
+
+If one-fourth of the voters give all their votes to one candidate, they can elect him, no matter what the other three-fourths choose to do[...] thus Cumulative Voting if used carefully allows for minority representation.
+A form of cumulative voting has been used by group facilitators as a method to collectively prioritize options, for example ideas generated from a brainstorming session within a workshop. This approach is described as "multi-voting" and was likely derived from the nominal group technique and is one of many tools suggested within the Six Sigma business management strategy.
+
+Voting
+
+Cumulative voting is used in elections where more than one seat is filled. It permits voters to cast multiple votes, as many as the number of seats to be filled, allows each voter to put more than one vote on a preferred candidate. When voters in the minority concentrate their votes in this way for just one candidate, it increases their chances of obtaining representation in a legislative body. This is different from bloc voting, where a voter may not vote more than once for any candidate and the largest single block, even if less than 50 percent, can control all the representation elected in the district.
+
+Permissible splits
+Cumulative voting systems differ both in the ways voters mark their selections and in the degree to which voters are permitted to split their votes.
+
+Equal-and-even
+Possibly the simplest ballot is called satisfaction approval voting or the equal-and-even method. On this ballot, a voter simply marks all candidates they approve of, as in approval voting, and their vote is automatically distributed evenly among those preferred candidates. Voters are unable to specify a differing level of support for a more preferred candidate, giving them less flexibility but simplifying ballot completion.
+
+Dot voting
+A more common and slightly more complex cumulative voting system is called dot voting or multi-voting. Under this method, voters are given an explicit number of points, which they can distribute among one or more candidates on the ballot. Typically, this is done by having a voter make one mark for each point they wish to assign to the desired candidate. In dot-voting participants vote on their chosen options using  a limited number of stickers or marks with pens — dot stickers being the most common. This sticker voting approach is a form of cumulative voting. Dot-voting is now widely used for making quick collaborative decisions by teams adopting agile and lean methodologies. For example, it is one of the methods endorsed by the 18F digital services agency of the United States' General Services Administration, and is part of the Design Sprint methodology.
+Generally, the number of points given to each voter is equal to the number of winning candidates (seats to be filled), which is typically a holdover after a transition from block plurality voting.
+
+Fractional voting
+A similar method is to have the voter write in a desired number of points next to each candidate. Then, the scores on the ballot are divided by the total number of points the voter has assigned, to make sure the allocation adds up to 100%. The need to normalize votes complicates counting by hand, but simplifies the process of voting and gives each voter maximum flexibility.
+
+Properties
+Advocates of cumulative voting often argue that political and racial minorities deserve better representation. By concentrating their votes on a small number of candidates of their choice, voters in the minority can win some representation—for example, a like-minded grouping of voters that is 20% of a city would be well-positioned to elect one out of five seats. All forms of cumulative voting achieve this objective (although if two or more candidates of that minority run in the same election, vote splitting may deny the group its possible representation).
+In a corporate setting, challengers of cumulative voting argue that the board of directors gets divided and this hurts the company's long term profit. Using a staggered board of directors can diminish the ability of minority factions to obtain representation by reducing the number of seats up for election at any given time.
+Robert's Rules of Order Newly Revised states that groups may adopt cumulative voting in its by-laws, and notes that "A minority group, by coordinating its effort in voting for only one candidate who is a member of the group, may be able to secure the election of that candidate as a minority member of the board."
+
+Use
+The Norfolk Island Legislative Assembly on Norfolk Island was elected using a form of cumulative voting where voters cannot give all their votes to one candidate. It is also used heavily in corporate governance, where it is mandated by seven U.S. states, and it was used to elect the Illinois House of Representatives from 1870 until 1980. It was used in England between 1870 and 1902, under the Elementary Education Act 1870, to elect school boards. Starting in the late 1980s, it has been adopted in a growing number of jurisdictions in the United States. Generally, this has been in an attempt to resolve lawsuits brought against bloc voting methods.
+With strategic voting, one can calculate how many shares are needed to elect a certain number of candidates, and to determine how many candidates a person holding a certain number of shares can elect.
+Some Bugzilla installations allow the use of cumulative voting to decide which software bugs most urgently need correcting.
+
+Tactical voting
+Voters in a cumulative election can employ different strategies for allocating their vote.
+
+Plumping
+Plump voting occurs when a voter assigns all their points to the same candidate. The issue of "Plumper Votes" was heavily discussed in the early 18th century, when Sir Richard Child was returned for Essex in 1710 with 90% of his votes having been "Plumpers".
+
+Quota
+The formula to determine the number of votes needed to elect one seat is called the Droop quota and has value:
+
+  
+    
+      
+        
+          
+            votes
+          
+        
+        
+          
+            seats
+          
+          +
+          1
+        
+      
+    
+    {\displaystyle {\text{votes}} \over {{\text{seats}}+1}}
+  
+
+See also
+Voting systems
+Panachage
+Quadratic voting
+
+Notes
+
+External links
+The Midwest Democracy Center
+Cumulative voting page at FairVote - Center for Voting and Democracy
+A Handbook of Electoral System Design Archived 2009-12-24 at the Wayback Machine from International IDEA
+Electoral Design Reference Materials from the ACE Project
+Port Chester (NY) voter education site
+
+[[Alternative vote plus]] [[Ballot]] [[Dual-member mixed proportional]] [[Electoral system]] [[First-past-the-post voting]]

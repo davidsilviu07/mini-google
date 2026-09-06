@@ -1,0 +1,133 @@
+LTspice
+LTspice is a SPICE-based analog electronic circuit simulator computer software, produced by semiconductor manufacturer Analog Devices (originally by Linear Technology). It is the most widely distributed and used SPICE software in the industry. Though it is freeware, it is not artificially restricted to limit its abilities (no limits on: features, nodes, components, subcircuits). It ships with a library of SPICE models from Analog Devices, Linear Technology, Maxim Integrated, and third-party sources.
+
+Overview
+LTspice provides schematic capture to enter an electronic schematic for an electronic circuit, an enhanced SPICE type analog electronic circuit simulator, and a waveform viewer to show the results of the simulation. Circuit simulation analysis based on transient, noise, AC, DC, DC transfer function, DC operating point can be performed and plotted as well as fourier analysis. Heat dissipation of components can be calculated and efficiency reports can also be generated. It has enhancements and specialized models to speed the simulation of switched-mode power supplies (SMPS) in DC-to-DC converters.
+LTspice does not generate printed circuit board (PCB) layouts, but netlists can be exported to PCB layout software. While LTspice does support simple logic gate simulation, it is not designed specifically for simulating logic circuits.
+It is used by many users in fields including radio frequency electronics, power electronics, audio electronics, digital electronics, and other disciplines.
+
+LTspice/SwitcherCAD III
+In 1999, LTspice III was released, the first public release. It is designed to run on Windows 95, 98, 98SE, ME, NT4.0, 2K, XP. This version is no longer available for download from Analog Devices. Initially, LTspice III was internally released to Linear Technology's Field Application Engineers (FAE) in October 1999, who then gave it away during customer visits via CD-ROM media. In June 2001, it was released for public downloading from the Linear Technology website. Originally, LTspice/SwitcherCAD ran only on Microsoft Windows platforms, but since 2003 it is able to run under the Wine Windows compatibility layer on Linux.
+
+LTspice IV
+In 2008, LTspice IV was released. It is designed to run on Windows 2K, XP, Vista, 7 with a processor that contains a minimum instruction set similar to a Pentium 4 processor. Though IV is still available for download, it is no longer maintained. LTspice was originally called SwitcherCAD, but that name was removed when IV was released. A native Apple macOS 10.7+ application was introduced in 2013.
+
+LTspice XVII
+In 2016, LTspice XVII was released, and is currently the latest version. It is designed to run on 32-bit or 64-bit editions of Windows 7, 8, 8.1, 10, and macOS 10.9+.
+Summary of major changes from LTspice IV to LTspice XVII are:
+
+Add 64-bit executables.
+Add Unicode characters in schematics, netlists, plot.
+Add device equations for IGBT, diode soft recovery, arbitrary state machine.
+Add user-defined symbol and library directory search path settings to the LTspice control panel.
+Add schematic thumbnail and preview support on Microsoft Windows.
+Add editors for most SPICE commands.
+Add multi-monitor support.
+
+Updates
+Every month, LTspice updates have been released with new SPICE models, fixed SPICE models, or software changes. At any time, a user can manually update LTspice by choosing "Sync Release" from the "Tools" pulldown menu. From the "Help" pulldown menu, "Show Change Log" displays a list of every SPICE model and software change since LTspice XVII was first released.
+In March 2017, Linear Technology merged into Analog Devices. Over time, SPICE models for Analog Devices components have gradually been added to LTspice.
+In August 2021, Maxim Integrated merged with Analog Devices. Since then, SPICE models for Maxim components are being gradually added into LTspice.
+Updates are no longer provided for Windows XP and MacOS 10.9, as well as older versions of Windows and MacOS.
+
+Device models
+LTspice ships with thousands of third-party models (capacitors, diodes, inductors, resistors, transistors, ferrite beads, opto-isolators, 555 timer, and more), as well as macro models for Analog Devices and Linear Technology parts (ADCs, analog switches, comparators, DACs, filters, opamps, timers, voltage references, voltage supervisors, voltage regulators, 0.01% quad resistor networks, and more). In the device library, Analog Devices part numbers start with "AD", and Linear Technology parts start with "LT".
+LTspice allows a user to choose from device models that ship with LTspice, as well as allows the user to define their own device model, or use 3rd party models from numerous electronic component manufacturers, or use a model from a 3rd party device library. Starting with LTspice XVII, control panel settings were added to allow the user to specify search directories for 3rd party device symbols and libraries. See option setting at LTspice -> Tools -> Control Panel -> Sym. & Lib. Search Paths.
+The text that describes intrinsic SPICE models can be placed directly on an LTspice schematic by using the spice directive .op button. The advantage of this method is the 3rd party model is self-contained as part of the schematic when you distribute the schematic file. The same .model can also be copied to an ASCII text file on your computer too, but it won't "travel" with a schematic when you copy it to another computer. For example, the following diode part numbers aren't included in the current LTspice device library:
+
+.model 1N4004_WIKI D(Is=500p Rs=0.12 N=1.6 Tt=4u Cjo=40p M=0.35 BV=400 Ibv=5.00u Mfg=BobCordellBook Type=Silicon) 
+.model 1N4007_WIKI D(Is=7.02767n Rs=0.0341512 N=1.80803 Tt=1e-07 Cjo=1e-11 Vj=0.7 M=0.5 Eg=1.05743 Xti=5 Fc=0.5 BV=1000 Ibv=5e-08 Mfg=OnSemiconductor Type=Silicon) 
+.model 1N5408_WIKI D(Is=63.0n Rs=14.1m N=1.70 Tt=4.32u Cjo=53.0p M=0.333 BV=1000 Ibv=10.0u Mfg=DiodesInc Type=Silicon) 
+
+Number conventions
+In LTspice, numeric values can be expressed in four different ways: integer (i.e., 1000), real (i.e., 1000.0), scientific e-notation (i.e., 1e3, 1.0e3), scale factor notation (i.e., 1K, 1K0).
+If the first character after a number is not the letter "e" for scientific e-notation or a scale factor suffix (left column of table), then trailing characters are ignored. For example, 5 is treated the same as 5V, 5Volt, 5Volts, 5 Hz, or 5Hertz.
+
+Scale factors
+Integer and real numbers supports a scale factor (multiplier) suffix. These are based mostly on metric conventions.
+The suffix (left column) can be upper, lower, or mixed case, known as case insensitive. For example, 1MEG, 1meg, or 1Meg represents 1000000; 1k, or 1K represents 1000.
+Any appended text after the suffix (left column) is ignored. For example, 2MegHz, or 2MegaOhm represents 2000000; 3mV, or 3mOhm represents 0.003; 4uF, or 4uHenry represents 0.000004.
+In LTspice, any suffix (left column) can replace the decimal point of a real number, a common format for printed schematics. For example, 4K7 represents 4700, 1u8 represents 0.0000018.
+
+Compatibility
+Although LTspice was originally based upon Berkeley SPICE 3f5 source code, it no longer is, thus some of its features may create non-portable files. Competitor SPICE programs have non-portable features too.
+LTspice features that may not be supported by some SPICE programs:
+
+Unicode characters in schematics, netlists, plot. This is a new feature in LTspice XVII, thus older versions of LTspice don't support Unicode.
+Unicode (U+00B5) µ micro character as an alternate symbol for ASCII (hex 75) u letter, which used as the micro (10−6) scale factor. See option setting at LTspice -> Tools -> Control Panel -> Netlist Options -> Convert 'µ' to 'u'.
+Unicode (U+2212) − minus character as an alternate symbol for ASCII (hex 2D) − minus/dash/hyphen character.
+Suffix replacing decimal point. See option setting at LTspice -> Tools -> Control Panel -> SPICE -> Accept 3K4 as 3.4K.
+LTspice does not support the following features:
+
+LTspice does not support scale factors of "atto" 10−18, "peta" 1015, or "exa" 1018.
+HSPICE supports 'a' for "atto" 10−18, which must be replaced with 'e-18' to be compatible with LTspice and other SPICE software.
+HSPICE supports 'X' as a synonym for "meg" 106, which must be replaced with 'e6' or 'MEG'to be compatible with LTspice and other SPICE software.
+
+Node name conventions
+In LTspice, a node/net (connection point) on the schematic can be labeled by using the Label Net tool button or F4 key. The "Label Net" wizard has three choices for a label, two predefined graphical symbols (GND, COM), or a user-defined node/net name.
+The two graphical symbols represent:
+
+GND - The ground symbol assigns a node with a special global net name of "0".
+COM - The COM symbol assigns a node with a net name of "COM", which has no special significance.
+Historically, SPICE and older version of LTspice software only supported printable ASCII characters for node/net names, then LTspice XVII added support for Unicode characters.
+A user-defined name supports two optional features that can be prepended to the text name:
+
+_ - An underscore causes an overbar to be placed above the entire name, which commonly means an active low signal. For example, "_RESET" is shown on the schematic as "RESET".
+$G_ - This means a node is global, no matter where the name occurs in the circuit hierarchy. For example, "$G_ENABLE" / "$G_ERROR". The ground symbol is treated in a similar way, but it does not have "$G_" prepended to it.
+When a node/net name is placed on a schematic, it will have one of five different visual representations. Two are automatically determined, while three others are chosen by the "Port Type" field in the "Label Net" wizard.
+
+None - Bare text. This is the default.
+Global - "Rectangle" around the text. This is automatically shown for a global net name that starts with "$G_".
+Input - "Rectangle with triangle end" around the text. This is chosen by the "Port Type" field in the "Label Net" wizard.
+Output - "Rectangle with triangle on other end" around the text. This is chosen by the "Port Type" field in the "Label Net" wizard.
+Bidirectional - "Rectangle with triangle on two ends" around the text. This is chosen by the "Port Type" field in the "Label Net" wizard.
+
+File format
+Many of the LTspice files are stored as an ASCII text file, which can be viewed or edited with any ASCII text editor program. One side benefit of an ASCII file format is that a schematic can be listed in any printed document, such as book, magazine, datasheet, research paper, or homework assignment, which allows recreating LTspice files without electronic file distribution.
+LTspice filename extensions:
+
+.asc - schematic.
+.asy - electronic symbol shown in a schematic.
+.cir - external netlist input.
+.fft - FFT binary output.
+.lib - model library subcircuits.
+.plt - waveform viewer plot settings.
+.raw - binary output, optional ASCII output.
+.sub - subcircuit.
+.lib / .sub / .mod / .model - device model. While any file extension is allowed, users tend to gravitate towards common ones.
+
+Example
+The following example can be viewed by copying each into two different text files. For each, copy the text in the gray box from this article, paste into an ASCII text editor, saving as a text file. Both files must have the same "base name" and sit in the same directory. To see it, opening the "asc" file with LTspice then click the "Run" button inside LTspice software.
+
+LTspice_RC.asc
+LTspice_RC.plt
+
+Schematic file
+LTspice schematics are stored as an ASCII text file with a filename extension of "asc".
+The following example shows the contents from a small LTspice schematic file for a simple RC circuit with four schematic symbols: V1 is 10 volt DC voltage source, R1 is 1K ohm resistor, C1 is 1 uF capacitor, ground. The bottom three TEXT lines are: 1) a transient simulation directive with a stop time parameter of 10 ms (.tran 10mS), 2) a SPICE directive to set the initial condition of RC "out" net to zero volts (.ic v(OUT)=0V), and 3) a text comment (title).
+
+Plot file
+LTspice waveform viewer plot settings are stored as an ASCII text file with a filename extension of "plt". If this optional plot file is present, then all plot planes will automatically be displayed after the "Run" button is pressed, otherwise the user will need to click on each net to see the waveform(s). To create a plot file on Windows, after a plot graph is displayed, right-click on it and choose "File", then choose "Save Plot Settings".
+The following example for the above schematic shows settings for a "transient analysis" simulation with two waveforms on one plot plane consisting of the RC voltage at "out" net and current through resistor R1, which are labeled V(out) and I(R1) at the top of the plot graph.
+
+See also
+
+Transistor model
+Diode modelling
+Compact Model Coalition
+Comparison of EDA software
+List of free electronics circuit simulators
+
+References
+
+Further reading
+SPICE Differentiation; Mike Engelhardt; Linear Technology; LT Journal of Analog Innovation; 7 pages; January 2015.
+The LTspice IV Simulator: Manual, Methods and Applications; Gilles Brocard; Würth Elektronik; 744 pages; 2013; ISBN 978-3899292589. (Table of Contents)
+Semiconductor Device Modeling with SPICE; 2nd Ed; Giuseppe Massobrio and Paolo Antognetti; McGraw Hill; 479 pages; 1993; ISBN 978-0070024694. (Table of Contents)
+Books with LTspice chapters
+Designing Audio Power Amplifiers; 2nd Ed; Bob Cordell; McGraw Hill; 776 pages; 2019; ISBN 978-1138555440. (Chapters 23 & 24) (LTspice models)
+Op-Amp Circuits - Simulations and Experiments; 1st Ed; Sid Antoch; Zap Studio; 128 pages; 2016; ISBN 978-1935422150.
+
+External links
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[Digital electronics]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic circuit simulation]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[Fast Fourier transform]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[Ground (electricity)]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Ohm]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[Schematic]] [[Schematic capture]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Text file]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

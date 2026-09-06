@@ -1,0 +1,26 @@
+Hypophysectomy
+Hypophysectomy is the surgical removal of the hypophysis (pituitary gland). It is most commonly performed to treat tumors, especially craniopharyngioma tumors. Sometimes it is used to treat Cushing's syndrome due to pituitary adenoma or Simmond's disease It is also applied in neurosciences (in experiments with lab animals) to understand the functioning of hypophysis.  There are various ways a hypophysectomy can be carried out.  These methods include transsphenoidal hypophysectomy, open craniotomy, and stereotactic radiosurgery.
+Medications that are given as hormone replacement therapy following a complete hypophysectomy (removal of the pituitary gland) are often glucocorticoids. Secondary Addison's and hyperlipidemia can occur. Thyroid hormone is useful in controlling cholesterol metabolism that has been affected by pituitary deletion.
+
+Methods of hypophysectomy
+Hypophysectomies can be performed in three ways. These include transsphenoidal hypophysectomy, open craniotomy, and stereotactic radiosurgery.  Each of these methods differ in the method in which the pituitary gland is removed.
+
+Transsphenoidal hypophysectomy
+In a transsphenoidal hypophysectomy, the pituitary gland or section of the pituitary gland is removed through the sphenoid sinus and out through the nose.
+
+Open craniotomy
+In an open craniotomy, a cavity is opened within the skull to reach the pituitary gland.  Once the cavity is open, the pituitary gland is removed through the cavity.
+
+Stereotactic radiosurgery
+in stereotactic radiosurgery, a headframe is applied to a patient.  MRI or CT scans are then administered on the patient to allow a map of the head/brain to be formed.  This map will then be used as a guide to allow correct orientation of the lasers administering radiation to specifically destroy the pituitary gland or part of the pituitary gland.
+
+Complications
+Hypophysectomy performed at any age causes atrophy of the thyroid and adrenal glands as well as asthenia and cachexia. When the procedure is performed before sexual maturity, the reproductive tract remains undeveloped and non-functional. There is also a general lack of growth.  If performed after sexual maturity, there will be a loss of reproductive function along with atrophy of gonads and accessory reproductive structures.
+There is a risk of cerebral spinal fluid leak due to penetration of the basal skull and risk of increased cerebral spinal fluid pressure that may lead to central nervous system changes. Post surgery, patients may have a severely altered self-image that may lead to an increased risk of suicide. There is also an increased risk of hemorrhage and infection secondary to the surgical procedure.
+
+See also
+List of surgeries by type
+
+References
+
+[[Amygdalohippocampectomy]] [[Anterior temporal lobectomy]] [[Bilateral cingulotomy]] [[Brain biopsy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral shunt]] [[Cerebrum]] [[Clinical prediction rule]] [[Computed tomography of the head]] [[Cordotomy]] [[Corpus callosotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure monitoring]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[Myelography]] [[National Institutes of Health Stroke Scale]] [[Pallidotomy]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Psychosurgery]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Suboccipital puncture]]

@@ -1,0 +1,38 @@
+Kindle Store
+The Kindle Store is an online e-book e-commerce store operated by Amazon as part of its retail website and can be accessed from any Amazon Kindle, Fire tablet, or Kindle mobile app. At the launch of the Kindle in November 2007, the store had more than 88,000 digital titles available in the U.S. store. This number increased to more than 275,000 by late 2008 and exceeded 765,000 by August 2011. In July 2014, there were over 2.7 million titles available. As of March 2018, there are over six million titles available in the U.S. Content from the store is purchased online and downloaded using either Wi-Fi or Amazon's Whispernet to bring the content to the user's device. One of the innovations Amazon brought to the store was one-click purchasing which allowed users to quickly purchase an e-book. The Kindle Store uses a recommendation engine that looks at purchase history, browsing history, and reading activity, and then suggests material it thinks the user will like.
+
+Features
+
+Whispersync
+Whispersync is a service provided for e-books acquired from the Kindle Store that allows customers to synchronize reading progress, bookmarks, and other information across Kindle devices and Kindle apps. The service debuted with the Kindle 2's release in February 2009.
+
+Lending Library
+The Lending Library was added in late 2011 for Amazon Prime members with Kindle e-readers. This perk allows access to the "Kindle Owners' Lending Library" where users can borrow one e-book, choosing from over 600,000 titles as of July 2014, per calendar month from the Kindle Store for free. The library was later expanded to include Fire tablets; as of February 2018, the service had over 1.7 million titles available.
+
+Kindle Unlimited
+In July 2014, Amazon added the Kindle Unlimited subscription service that initially offered unlimited access to over 638,000 titles and over 7,000 audiobooks for a $9.99 monthly fee. As of June 2015, there were over one million titles available in Kindle Unlimited, from publishers such as Houghton Mifflin Harcourt, Lonely Planet, Simon & Schuster, Wizarding World Digital, and Workman Publishing Company. As of February 2017, the U.S. version of Kindle Unlimited includes over 1.5 million titles includes over 290,000 foreign language titles. Amazon pays authors by using a per-page rate and during 2016 nearly $200 million was paid to authors. In 2019, Amazon paid over $300 million to authors and publishers that provide content to Kindle Unlimited. Jeff Duntemann reported that 40% of the revenue in 2015 for his The Cunning Blood came from the program. Because of the novel's long length he was paid more if a reader finished the book through Kindle Unlimited than from selling a copy for $2.99, Duntemann said.
+
+Prime Reading
+In October 2016, another perk was added for Amazon Prime members called "Prime Reading". Prime Reading gives the ability to read as much material as they wish from a selection of over 1,000 e-books, magazines, comic books, children's books, and more for no additional fee.
+
+E-book pricing
+In late 2007, new releases and New York Times best sellers were being offered for approximately $11 at the store, with the first chapters of many books offered as free samples. Many titles, including some classics, are offered free of charge or at a low price, which has been stated to relate to the cost of adapting the book to the Kindle format. Magazines, newspapers, and blogs via RSS are provided for a monthly subscription fee or during a free trial period. Newspaper subscriptions cost from $1.99 to $27.99 per month; magazines charge between $1.25 and $10.99 per month, and blogs charge from $0.99 to $1.99 per month. Amazon e-book sales overtook print for one day for the first time on Christmas Day 2009. International users may pay different prices for e-books depending on the country listed as their home address.
+In February 2017, the Association of American Publishers released data that shows the U.S. adult e-book market declined 16.9% in the first nine months of 2016 over the same time in 2015. This decline is partly due to widespread e-book price increases, known as agency pricing, by major publishers that Amazon had recently allowed bringing the average e-book price from $6 to nearly $10.
+
+File formats
+The Kindle Store offers e-books in Amazon's proprietary e-book formats: AZW, and, for fourth-generation and later Kindles, AZW3, also called KF8. In August 2015, the "Kindle Format 10" (KFX) file format, which has enhanced typography, was added to the Store. E-books available in KFX are indicated on the e-book's description page.
+The Kindle Store's terms of use forbid transferring Amazon format e-books to another user or a different type of device. However, Amazon allows limited lending of certain e-books.
+
+Country availability
+
+See also
+Books on Google Play
+Apple Books
+
+References
+
+External links
+Kindle Store (official), Amazon.
+Kindle Store (UK) (official), Amazon.
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe InDesign]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[E-book lending]] [[E-commerce]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

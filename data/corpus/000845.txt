@@ -1,0 +1,29 @@
+Print on demand
+Print on demand (POD) is a printing technology and business process in which products are produced only after an order is placed, rather than in advance in bulk.
+While other industries established the build-to-order business model, POD for books and documents could only develop after the beginning of digital printing, as it was not economical to print single copies using traditional printing technologies such as letterpress and offset printing.
+For apparel and similar physical goods, traditional textile decoration methods such as screen printing require the preparation of a separate screen for each color and design, a lengthy process that must be repeated for each new job. Digital textile printing methods such as direct-to-garment printing eliminate this preparation step, allowing designs to be applied to individual items without the equipment changeover required by screen printing.
+POD allows publishers and other businesses to produce standard products such as books, as well as customized products such as apparel, without maintaining an inventory of finished goods in advance.
+As small presses adapt to the loss of key distributors, a growing number are exploring print‑on‑demand and other flexible printing methods to keep titles available without large offset print runs. Many academic publishers, including university presses, use POD services to maintain large backlists (lists of older publications); some use POD for all of their publications. Larger publishers may use POD in special circumstances, such as reprinting older, out-of-print titles or for test marketing.
+
+Predecessors
+Before the development of digital printing technology, the production of small numbers of publications had many limitations. In the early 20th century, small-scale printing was commonly produced using stencils and reproduced on a mimeograph or similar machine. This enabled the economical reproduction of limited quantities of text but yielded output of relatively low typographic quality compared with conventional book printing. By the mid-20th century, electrostatic copiers were available to make paper master plates for offset duplicators. The introduction of plain-paper copiers in the 1960s enabled photocopy machines to make multiple good-quality copies of a monochrome original.
+Speculative concepts of on-demand publishing also emerged during this period. In a 1966 editorial for Galaxy Science Fiction, editor Frederik Pohl discussed "a proposal for high-speed facsimile machines which would produce a book to your order, anywhere in the world". He said that "it, or something like it, is surely the shape of the publishing business some time in the future". As technology advanced, it became possible to store text in digital form –  paper tape, punched cards readable by digital computer, magnetic mass storage, etc. –  and to print on a teletypewriter, line printer or other computer printer, but the software and hardware to produce original good-quality printed colour text and graphics and to print small jobs fast and cheaply was unavailable.
+
+Self-publishing authors
+POD has contributed to the emergence of a publishing (or printing) company that offers services, usually for a fee, directly to authors who wish to self-publish. These services generally include printing and shipping each individual book ordered, handling royalties, and getting listings in online bookstores. The initial investment required for POD services is less than for offset printing. Other services may also be available, including formatting, proofreading, and editing, but such companies typically do not invest in marketing, unlike conventional publishers. Such companies are suitable for authors who are prepared to design and promote their work independently, with minimal assistance and at minimal cost. POD publishing provides authors with editorial independence, speed to market, ability to revise content, and greater financial return per copy than royalties paid by conventional publishers.
+In addition to traditional POD companies, website-building platforms like Wix have expanded to offer tools for creators to sell printed products, often integrating with third-party POD providers. Smaller platforms such as Printful, Spreadshop, and Contrado also support POD services.
+
+Author's reversion rights
+In 1999, the Times Literary Supplement carried an article titled "A Very Short Run", in which author Andrew Malcolm argued that under the rights-reversion clauses of older, pre-PoD contracts, copyrights would legally revert to their authors if their books were printed on demand rather than re-lithographed, and he envisaged a test case being successfully fought on this aspect. This claim was contradicted by an article entitled "Eternal Life?" in the Spring 2000 issue of The Author Magazine (the journal of the UK Society of Authors) by Cambridge University Press's Business Development Director Michael Holdsworth, who argued that printing on demand keeps books "permanently in print", thereby invalidating authors' reversion rights.
+
+See also
+
+Bibliography
+
+2007.5 Writer's Market, Robert Lee Brewer & Joanna Masterson. (2006) ISBN 1-58297-427-6
+The Fine Print of Self-publishing: The Contracts & Services of 48 Major Self-publishing Companies, Mark Levine. (2006) ISBN 1-933538-56-2
+Print on Demand Book Publishing, Morris Rosenthal (2004) ISBN 0-9723801-3-2
+
+References
+
+[[Amazon Kindle]] [[Apple Books]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Cambridge University Press]] [[Desktop publishing]] [[Google Play Books]] [[Kindle Store]] [[Kobo Inc.]] [[Offset printing]] [[PocketBook International]] [[Self-publishing]] [[Smashwords]] [[Sony Reader]]

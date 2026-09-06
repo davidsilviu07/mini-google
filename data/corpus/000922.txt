@@ -1,0 +1,1425 @@
+Solenoid
+A solenoid () is a type of electromagnet formed by a helical coil of wire whose length is substantially greater than its diameter, which generates a controlled magnetic field. The coil can produce a uniform magnetic field in a volume of space when an electric current is passed through it.
+André-Marie Ampère coined the term solenoid in 1823, having conceived of the device in 1820. The French term originally created by Ampère is solénoïde, which is a French transliteration of the Greek word σωληνοειδής which means tubular.
+The helical coil of a solenoid does not necessarily need to revolve around a straight-line axis; for example, William Sturgeon's electromagnet of 1824 consisted of a solenoid bent into a horseshoe shape (similarly to an arc spring).
+Solenoids provide magnetic focusing of electrons in vacuums, notably in television camera tubes such as vidicons and image orthicons. Electrons take helical paths within the magnetic field. These solenoids, focus coils, surround nearly the whole length of the tube.
+
+Physics
+
+Infinite continuous solenoid
+
+An infinite solenoid has infinite length but finite diameter. "Continuous" means that the solenoid is not formed by discrete finite-width coils but by many infinitely thin coils with no space between them; in this abstraction, the solenoid is often viewed as a cylindrical sheet of conductive material.
+The magnetic field inside an infinitely long solenoid is homogeneous and its strength neither depends on the distance from the axis nor on the solenoid's cross-sectional area.
+This is a derivation of the magnetic flux density around a solenoid that is long enough so that fringe effects can be ignored. In Figure 1, we immediately know that the flux density vector points in the positive z direction inside the solenoid, and in the negative z direction outside the solenoid. We confirm this by applying the right hand grip rule for the field around a wire. If we wrap our right hand around a wire with the thumb pointing in the direction of the current, the curl of the fingers shows how the field behaves. Since we are dealing with a long solenoid, all of the components of the magnetic field not pointing upwards cancel out by symmetry. Outside, a similar cancellation occurs, and the field is only pointing downwards.
+
+Now consider the imaginary loop c that is located inside the solenoid. By Ampère's law, we know that the line integral of B (the magnetic flux density vector) around this loop is zero, since it encloses no electrical currents (it can be also assumed that the circuital electric field passing through the loop is constant under such conditions: a constant or constantly changing current through the solenoid). We have shown above that the field is pointing upwards inside the solenoid, so the horizontal portions of loop c do not contribute anything to the integral. Thus the integral of the up side 1 is equal to the integral of the down side 2. Since we can arbitrarily change the dimensions of the loop and get the same result, the only physical explanation is that the integrands are actually equal, that is, the magnetic field inside the solenoid is radially uniform. Note, though, that nothing prohibits it from varying longitudinally, which in fact, it does.
+A similar argument can be applied to the loop a to conclude that the field outside the solenoid is radially uniform or constant. This last result, which holds strictly true only near the center of the solenoid where the field lines are parallel to its length, is important as it shows that the flux density outside is practically zero since the radii of the field outside the solenoid will tend to infinity. An intuitive argument can also be used to show that the flux density outside the solenoid is actually zero. Magnetic field lines only exist as loops, they cannot diverge from or converge to a point like electric field lines can (see Gauss's law for magnetism). The magnetic field lines follow the longitudinal path of the solenoid inside, so they must go in the opposite direction outside of the solenoid so that the lines can form loops. However, the volume outside the solenoid is much greater than the volume inside, so the density of magnetic field lines outside is greatly reduced. Now recall that the field outside is constant. In order for the total number of field lines to be conserved, the field outside must go to zero as the solenoid gets longer. Of course, if the solenoid is constructed as a wire spiral (as often done in practice), then it emanates an outside field the same way as a single wire, due to the current flowing overall down the length of the solenoid.
+
+Applying Ampère's circuital law to the solenoid (see figure on the right) gives us
+
+  
+    
+      
+        B
+        l
+        =
+        
+          μ
+          
+            0
+          
+        
+        N
+        I
+        ,
+      
+    
+    {\displaystyle Bl=\mu _{0}NI,}
+  
+
+where 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ is the magnetic flux density, 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+ is the length of the solenoid, 
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+  
+ is the magnetic constant, 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ the number of turns, and 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ the current. From this we get
+
+  
+    
+      
+        B
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            
+              N
+              I
+            
+            l
+          
+        
+        .
+      
+    
+    {\displaystyle B=\mu _{0}{\frac {NI}{l}}.}
+  
+
+This equation is valid for a solenoid in free space, which means the permeability of the magnetic path is the same as permeability of free space, μ0.
+If the solenoid is immersed in a material with relative permeability μr, then the field is increased by that amount:
+
+  
+    
+      
+        B
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          μ
+          
+            
+              r
+            
+          
+        
+        
+          
+            
+              N
+              I
+            
+            l
+          
+        
+        .
+      
+    
+    {\displaystyle B=\mu _{0}\mu _{\mathrm {r} }{\frac {NI}{l}}.}
+  
+
+In most solenoids, the solenoid is not immersed in a higher permeability material, but rather some portion of the space around the solenoid has the higher permeability material and some is just air (which behaves much like free space). In that scenario, the full effect of the high permeability material is not seen, but there will be an effective (or apparent) permeability μeff such that 1 ≤ μeff ≤ μr.
+The inclusion of a ferromagnetic core, such as iron, increases the magnitude of the magnetic flux density in the solenoid and raises the effective permeability of the magnetic path. This is expressed by the formula
+
+  
+    
+      
+        B
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          μ
+          
+            
+              e
+              f
+              f
+            
+          
+        
+        
+          
+            
+              N
+              I
+            
+            l
+          
+        
+        =
+        μ
+        
+          
+            
+              N
+              I
+            
+            l
+          
+        
+        ,
+      
+    
+    {\displaystyle B=\mu _{0}\mu _{\mathrm {eff} }{\frac {NI}{l}}=\mu {\frac {NI}{l}},}
+  
+
+where μeff is the effective or apparent permeability of the core. The effective permeability is a function of the geometric properties of the core and its relative permeability. The terms relative permeability (a property of just the material) and effective permeability (a property of the whole structure) are often confused; they can differ by many orders of magnitude. Additionally, ferromagnetic cores are subject to magnetic saturation; once the core material is fully magnetized, increasing the current further will not produce a proportional increase in magnetic flux.
+For an open magnetic structure, the relationship between the effective permeability and relative permeability is given as follows:
+
+  
+    
+      
+        
+          μ
+          
+            
+              e
+              f
+              f
+            
+          
+        
+        =
+        
+          
+            
+              μ
+              
+                r
+              
+            
+            
+              1
+              +
+              k
+              (
+              
+                μ
+                
+                  r
+                
+              
+              −
+              1
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mu _{\mathrm {eff} }={\frac {\mu _{r}}{1+k(\mu _{r}-1)}},}
+  
+
+where k is the demagnetization factor of the core.
+
+Finite continuous solenoid
+A finite solenoid is a solenoid with finite length. Continuous means that the solenoid is not formed by discrete coils but by a sheet of conductive material. We assume the current is uniformly distributed on the surface of the solenoid, with a surface current density K; in cylindrical coordinates:
+
+  
+    
+      
+        
+          
+            
+              K
+              →
+            
+          
+        
+        =
+        
+          
+            I
+            l
+          
+        
+        
+          
+            
+              ϕ
+              ^
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {K}}={\frac {I}{l}}{\hat {\phi }}.}
+  
+
+The magnetic field can be found using the vector potential, which for a finite solenoid with radius R and length l in cylindrical coordinates 
+  
+    
+      
+        (
+        ρ
+        ,
+        ϕ
+        ,
+        z
+        )
+      
+    
+    {\displaystyle (\rho ,\phi ,z)}
+  
+ is
+
+  
+    
+      
+        
+          A
+          
+            ϕ
+          
+        
+        =
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              I
+            
+            π
+          
+        
+        
+          
+            R
+            l
+          
+        
+        
+          (
+          
+            
+              
+                
+                  m
+                  +
+                  n
+                  −
+                  m
+                  n
+                
+                
+                  m
+                  n
+                
+              
+            
+            K
+            (
+            m
+            )
+            −
+            
+              
+                1
+                m
+              
+            
+            E
+            (
+            m
+            )
+            +
+            
+              
+                
+                  n
+                  −
+                  1
+                
+                n
+              
+            
+            Π
+            (
+            n
+            ,
+            m
+            )
+          
+          )
+        
+        
+          
+            
+            
+              
+                ζ
+                
+                  (
+                  R
+                  +
+                  ρ
+                  
+                    )
+                    
+                      2
+                    
+                  
+                  +
+                  
+                    ζ
+                    
+                      2
+                    
+                  
+                
+              
+            
+            |
+          
+          
+            
+              ζ
+              
+                −
+              
+            
+          
+          
+            
+              ζ
+              
+                +
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle A_{\phi }={\frac {\mu _{0}I}{\pi }}{\frac {R}{l}}\left({\frac {m+n-mn}{mn}}K(m)-{\frac {1}{m}}E(m)+{\frac {n-1}{n}}\Pi (n,m)\right)\left.{\frac {\zeta }{\sqrt {(R+\rho )^{2}+\zeta ^{2}}}}\right|_{\zeta _{-}}^{\zeta _{+}},}
+  
+
+Where:
+
+  
+    
+      
+        
+          ζ
+          
+            ±
+          
+        
+        =
+        z
+        ±
+        
+          
+            l
+            2
+          
+        
+      
+    
+    {\displaystyle \zeta _{\pm }=z\pm {\frac {l}{2}}}
+  
+,
+
+  
+    
+      
+        n
+        =
+        
+          
+            
+              4
+              R
+              ρ
+            
+            
+              (
+              R
+              +
+              ρ
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle n={\frac {4R\rho }{(R+\rho )^{2}}}}
+  
+,
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              4
+              R
+              ρ
+            
+            
+              (
+              R
+              +
+              ρ
+              
+                )
+                
+                  2
+                
+              
+              +
+              
+                ζ
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle m={\frac {4R\rho }{(R+\rho )^{2}+\zeta ^{2}}}}
+  
+,
+
+  
+    
+      
+        K
+        (
+        m
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              π
+              2
+            
+          
+        
+        
+          
+            
+              d
+              θ
+            
+            
+              1
+              −
+              m
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              θ
+            
+          
+        
+      
+    
+    {\displaystyle K(m)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{\sqrt {1-m\sin ^{2}\theta }}}}
+  
+,
+
+  
+    
+      
+        E
+        (
+        m
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              π
+              2
+            
+          
+        
+        
+          
+            1
+            −
+            m
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            θ
+          
+        
+        
+        d
+        θ
+      
+    
+    {\displaystyle E(m)=\int _{0}^{\frac {\pi }{2}}{\sqrt {1-m\sin ^{2}\theta }}\,d\theta }
+  
+ ,
+
+  
+    
+      
+        Π
+        (
+        n
+        ,
+        m
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              π
+              2
+            
+          
+        
+        
+          
+            
+              d
+              θ
+            
+            
+              (
+              1
+              −
+              n
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              θ
+              )
+              
+                
+                  1
+                  −
+                  m
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Pi (n,m)=\int _{0}^{\frac {\pi }{2}}{\frac {d\theta }{(1-n\sin ^{2}\theta ){\sqrt {1-m\sin ^{2}\theta }}}}}
+  
+ .
+Here, 
+  
+    
+      
+        K
+        (
+        m
+        )
+      
+    
+    {\displaystyle K(m)}
+  
+, 
+  
+    
+      
+        E
+        (
+        m
+        )
+      
+    
+    {\displaystyle E(m)}
+  
+, and 
+  
+    
+      
+        Π
+        (
+        n
+        ,
+        m
+        )
+      
+    
+    {\displaystyle \Pi (n,m)}
+  
+ are complete elliptic integrals of the first, second, and third kind.
+Using:
+
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+        =
+        ∇
+        ×
+        
+          
+            
+              A
+              →
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {B}}=\nabla \times {\vec {A}},}
+  
+
+The magnetic flux density is obtained as
+
+  
+    
+      
+        
+          B
+          
+            ρ
+          
+        
+        =
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              I
+            
+            
+              4
+              π
+            
+          
+        
+        
+          
+            1
+            
+              l
+              
+              ρ
+            
+          
+        
+        
+          
+            [
+          
+        
+        (
+        m
+        
+          −
+        
+        2
+        )
+        K
+        (
+        m
+        )
+        +
+        2
+        E
+        (
+        m
+        )
+        
+          
+            ]
+          
+        
+        
+          
+            
+            
+              
+                (
+                R
+                +
+                ρ
+                
+                  )
+                  
+                    2
+                  
+                
+                +
+                
+                  ζ
+                  
+                    2
+                  
+                
+              
+            
+            |
+          
+          
+            
+              ζ
+              
+                −
+              
+            
+          
+          
+            
+              ζ
+              
+                +
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle B_{\rho }={\frac {\mu _{0}I}{4\pi }}{\frac {1}{l\,\rho }}{\Bigl [}(m{-}2)K(m)+2E(m){\Bigr ]}\left.{\sqrt {(R+\rho )^{2}+\zeta ^{2}}}\right|_{\zeta _{-}}^{\zeta _{+}},}
+  
+
+  
+    
+      
+        
+          B
+          
+            z
+          
+        
+        =
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              I
+            
+            
+              2
+              π
+            
+          
+        
+        
+          
+            1
+            l
+          
+        
+        
+          (
+          
+            K
+            (
+            m
+            )
+            +
+            
+              
+                
+                  R
+                  −
+                  ρ
+                
+                
+                  R
+                  +
+                  ρ
+                
+              
+            
+            Π
+            (
+            n
+            ,
+            m
+            )
+          
+          )
+        
+        
+          
+            
+            
+              
+                ζ
+                
+                  (
+                  R
+                  +
+                  ρ
+                  
+                    )
+                    
+                      2
+                    
+                  
+                  +
+                  
+                    ζ
+                    
+                      2
+                    
+                  
+                
+              
+            
+            |
+          
+          
+            
+              ζ
+              
+                −
+              
+            
+          
+          
+            
+              ζ
+              
+                +
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle B_{z}={\frac {\mu _{0}I}{2\pi }}{\frac {1}{l}}\left(K(m)+{\frac {R-\rho }{R+\rho }}\Pi (n,m)\right)\left.{\frac {\zeta }{\sqrt {(R+\rho )^{2}+\zeta ^{2}}}}\right|_{\zeta _{-}}^{\zeta _{+}}.}
+  
+
+On the symmetry axis, the radial component vanishes, and the axial field component is
+
+  
+    
+      
+        
+          B
+          
+            z
+          
+        
+        =
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              N
+              I
+            
+            2
+          
+        
+        
+          (
+          
+            
+              
+                
+                  z
+                  +
+                  l
+                  
+                    /
+                  
+                  2
+                
+                
+                  l
+                  
+                    
+                      
+                        R
+                        
+                          2
+                        
+                      
+                      +
+                      (
+                      z
+                      +
+                      l
+                      
+                        /
+                      
+                      2
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+            
+            −
+            
+              
+                
+                  z
+                  −
+                  l
+                  
+                    /
+                  
+                  2
+                
+                
+                  l
+                  
+                    
+                      
+                        R
+                        
+                          2
+                        
+                      
+                      +
+                      (
+                      z
+                      −
+                      l
+                      
+                        /
+                      
+                      2
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle B_{z}={\frac {\mu _{0}NI}{2}}\left({\frac {z+l/2}{l{\sqrt {R^{2}+(z+l/2)^{2}}}}}-{\frac {z-l/2}{l{\sqrt {R^{2}+(z-l/2)^{2}}}}}\right).}
+  
+
+Inside the solenoid, far away from the ends (
+  
+    
+      
+        l
+        
+          /
+        
+        2
+        −
+        
+          |
+        
+        z
+        
+          |
+        
+        ≫
+        R
+      
+    
+    {\displaystyle l/2-|z|\gg R}
+  
+), this tends towards the constant value 
+  
+    
+      
+        B
+        =
+        
+          μ
+          
+            0
+          
+        
+        N
+        I
+        
+          /
+        
+        l
+      
+    
+    {\displaystyle B=\mu _{0}NI/l}
+  
+.
+
+Short solenoid estimate
+For the case in which the radius is much larger than the length of the solenoid (
+  
+    
+      
+        R
+        ≫
+        l
+      
+    
+    {\displaystyle R\gg l}
+  
+), the magnetic flux density through the centre of the solenoid (in the z direction, parallel to the solenoid's length, where the coil is centered at z=0) can be estimated as the flux density of a single circular conductor loop:
+
+  
+    
+      
+        
+          B
+          
+            z
+          
+        
+        ≈
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              I
+              N
+              
+                R
+                
+                  2
+                
+              
+            
+            
+              2
+              
+                
+                  
+                    
+                      R
+                      
+                        2
+                      
+                    
+                    +
+                    
+                      z
+                      
+                        2
+                      
+                    
+                  
+                
+                
+                  3
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle B_{z}\approx {\frac {\mu _{0}INR^{2}}{2{\sqrt {R^{2}+z^{2}}}^{3}}}}
+  
+
+Irregular solenoids
+
+Within the category of finite solenoids, there are those that are sparsely wound with a single pitch, those that are sparsely wound with varying pitches (varied-pitch solenoid), and those with varying radii for different loops (non-cylindrical solenoids). They are called irregular solenoids. They have found applications in different areas, such as sparsely wound solenoids for wireless power transfer, varied-pitch solenoids for magnetic resonance imaging (MRI), and non-cylindrical solenoids for other medical devices.
+The calculation of the intrinsic inductance and capacitance cannot be done using those for the conventional solenoids, i.e. the tightly wound ones. New calculation methods were proposed for the calculation of intrinsic inductance(codes available at ) and capacitance. (codes available at )
+
+Inductance
+
+As shown above, the magnetic flux density 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ within the coil is practically constant and given by
+
+  
+    
+      
+        B
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            
+              N
+              I
+            
+            l
+          
+        
+        ,
+      
+    
+    {\displaystyle B=\mu _{0}{\frac {NI}{l}},}
+  
+
+where μ0 is the magnetic constant, 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ the number of turns, 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ the current and 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+ the length of the coil. Ignoring end effects, the total magnetic flux through the coil is obtained by multiplying the flux density 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ by the cross-section area 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+:
+
+  
+    
+      
+        Φ
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            
+              N
+              I
+              A
+            
+            l
+          
+        
+        .
+      
+    
+    {\displaystyle \Phi =\mu _{0}{\frac {NIA}{l}}.}
+  
+
+Combining this with the definition of inductance
+
+  
+    
+      
+        L
+        =
+        
+          
+            
+              N
+              Φ
+            
+            I
+          
+        
+        ,
+      
+    
+    {\displaystyle L={\frac {N\Phi }{I}},}
+  
+
+the inductance of a solenoid follows as
+
+  
+    
+      
+        L
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            
+              
+                N
+                
+                  2
+                
+              
+              A
+            
+            l
+          
+        
+        .
+      
+    
+    {\displaystyle L=\mu _{0}{\frac {N^{2}A}{l}}.}
+  
+
+A table of inductance for short solenoids of various diameter to length ratios has been calculated by Dellinger, Whittmore, and Ould.
+This, and the inductance of more complicated shapes, can be derived from Maxwell's equations. For rigid air-core coils, inductance is a function of coil geometry and number of turns, and is independent of current.
+Similar analysis applies to a solenoid with a magnetic core, but only if the length of the coil is much greater than the product of the relative permeability of the magnetic core and the diameter. That limits the simple analysis to low-permeability cores, or extremely long thin solenoids. The presence of a core can be taken into account in the above equations by replacing the magnetic constant μ0 with μ or μ0μr, where μ represents permeability and μr relative permeability. Note that since the permeability of ferromagnetic materials changes with applied magnetic flux, the inductance of a coil with a ferromagnetic core will generally vary with current.
+
+See also
+Helmholtz coil
+Inductor
+
+References
+
+External links
+
+Interactive Java Tutorial: Magnetic Field of a Solenoid, National High Magnetic Field Laboratory
+Discussion of Solenoids at Hyperphysics

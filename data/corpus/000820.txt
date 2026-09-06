@@ -1,0 +1,20 @@
+Parasolid
+Parasolid is a geometric modeling kernel originally developed by Shape Data Limited, now owned and developed by Siemens Digital Industries Software. It can be licensed by other companies for use in their 3D computer graphics software products.
+Parasolid's abilities include model creation and editing utilities such as Boolean modeling operators, feature modeling support, advanced surfacing, thickening and hollowing, blending and filleting, and sheet modeling. It also incorporates modeling with mesh surfaces and lattices. Parasolid also includes tools for direct model editing, including tapering, offsetting, geometry replacement and removing feature details with automated regeneration of surrounding data. Parasolid also provides wide-ranging graphical and rendering support, including hidden-line, wireframe and drafting, tessellation, and model data inquiries.
+To use Parasolid effectively, software developers need knowledge of CAD in general, computational geometry, and topology.
+Parasolid is available for Windows (32-bit, 64-bit and AArch64), Linux (64-bit and AArch64), macOS (Apple silicon and Intel), iOS, including Catalyst, and Android.
+
+Parasolid XT format
+
+Parasolid parts are normally saved in XT format, which usually has the file extension .X_T. The format is documented and open. There is also a binary version of the format, usually with an .X_B extension, which is somewhat more compact. Both .X_T and .X_B are used for parts files.
+
+Applications
+It is used in many computer-aided design (CAD), computer-aided manufacturing (CAM), computer-aided engineering (CAE), product visualization, and CAD data exchange packages.
+Notable uses include:
+
+References
+
+External links
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Ansys]] [[Application software]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computational geometry]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Computing platform]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

@@ -1,2 +1,0 @@
-BM25 Ranking
-BM25 is a ranking function used to score documents against a query. It extends the TF-IDF idea with term frequency saturation and document length normalization. It is the lexical baseline of a [[Search Engine]] and works together with an [[Inverted Index]].

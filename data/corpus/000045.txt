@@ -1,0 +1,36 @@
+Alternative vote plus
+The alternative vote plus (AV+), or alternative vote top-up, is a semi-proportional voting system. AV+ was devised by the 1998 Jenkins Commission which first proposed the idea as a system that could be used for elections to the Parliament of the United Kingdom.
+AV+ a variant of the additional-member system which works in two parts: the "AV" part and the "plus" part. As in the alternative vote system, candidates are ranked numerically in order of preference. The important difference is that an additional group of members would be elected through regional party lists to ensure a degree of proportionality; in typical proposals, these members are 15–20% of the whole body. More specifically, each voter would get a second vote to elect a county or regional-level representative from a list of candidates of more than one person per party. The number of votes cast in this vote would decide how many representatives from that county or region would go on to parliament. In systems with an electoral threshold on regional seats, votes are transferred in order of voters' numerical preference until it puts a party above the threshold, or reaches a party already above.
+
+Reaction in the UK
+Then Prime Minister Tony Blair issued a statement, saying that the report "makes a well-argued and powerful case for the system it recommends" and that "it is very much a modification of the existing Westminster system, rather than any full blown PR system as practised in other countries." He also praised Lord Jenkins for his work and gave the recommendations a cautious welcome, pointing out in particular that change would help address the "complete absence of Conservative representation in Scotland", a reference to the then most recent election in which the Conservatives failed to win a single seat in Scotland, despite winning 17.5% of the Scottish vote.
+However, leading figures in the Cabinet at the time (such as Home Secretary Jack Straw, Deputy Prime Minister John Prescott, Chancellor Gordon Brown, and Margaret Beckett) and the Labour NEC, all strongly opposed reform of the voting system, and blocked change at that time. 
+The report was welcomed by the Liberal Democrats and the SNP, although at the time the Liberal Democrats remained largely committed to STV, but preferred AV+ to first-past-the-post.
+The report was heavily criticised by the Conservative party, with leader William Hague branding its proposals "a dog's breakfast".
+In a May 2009 article in The Times, Health Secretary Alan Johnson called for a referendum on the adoption of this system as part of the response to the 2009 parliamentary expenses scandal. In this piece he praised the system as "an elegant solution". David Cameron, Leader of the Conservative Party, declared on May 26 that his party did not support the AV+ system, or any other form of proportional representation, as it would end up choosing a government "on the basis of secret backroom deals".
+In June 2009, it was reported by the BBC that the Prime Minister, Gordon Brown, was considering changing the electoral system as part of a package of constitutional reform. In February 2010, the Labour government under Gordon Brown offered a Commons vote on a referendum for an alternative vote system, possibly manoeuvering for political positioning in case of a hung parliament following the general election on May 6. In a BBC interview on Election Night 2010, Home Secretary Alan Johnson suggested he would like to see the AV+ system introduced if a deal with the Liberal Democrats became necessary.
+A national referendum on the Alternative Vote system was granted as part of the Conservative–Liberal Democrat coalition agreement, but not AV+. The Jenkins Commission rejected plain AV on the basis that it did little to relieve disproportionality, but favoured it over first-past-the-post as the basis for AV+.
+The referendum on AV was held on 5 May 2011. Voters rejected the proposed AV voting system by a vote of 68% to 32% in favour of retaining First Past the Post.  The turnout of registered voters was 42%.
+
+Properties
+AV+ has several properties which may be considered advantages or disadvantages based on ones views on how an electoral system should work and what effects it should produce. Common arguments in favour or against are similar to those relating to its component systems, AV and AMS.
+
+Single-member constituencies would exist under the scheme, so every voter would have a local MP, but not all MPs would be elected in an SMD.
+Because of compensation (additional seats), results would be more proportional result than FPTP or AV, but would still give a built-in advantage to the largest party and allow one-party rule during landslide years. Coalition governments, which include the opinions of multiple movements of the people, are more likely.
+Would lessen the problems of "split voting" and the necessity of tactical voting.
+Decreases the chances of "safe seats" and MPs holding seats for life.
+MPs will have to secure 50% of votes to win a constituency seat - making them more accountable and working harder to win over a broader appeal. Limits the chances for extremists to gain power scraping in with minority support. The AV part shuts down the ability for local candidates to slip in with just a minority of the votes.
+It is more complex than FPTP for voters and it might cost more to count the votes
+It will lead to "two types of MP", as a majority would be linked directly to a constituency with a minority with a larger area overlapping the first group. This might weaken the psychological link between voters and their representatives.
+
+See also
+Outline of democracy
+Mixed-member proportional representation
+
+References
+
+External links
+Alternative vote - what is it? Simple animation explaining Alternative Vote system (not AV+)
+Electoral Reform Society page on the AV+ system
+
+[[Additional-member system]] [[Ballot]] [[Cumulative voting]] [[Dual-member mixed proportional]] [[Electoral system]] [[First-past-the-post voting]]

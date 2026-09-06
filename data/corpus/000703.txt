@@ -1,0 +1,83 @@
+Meninges
+In anatomy, the meninges (; sing. meninx ; from Ancient Greek  μῆνινξ (mêninx) 'membrane') are protective membranes that cover the brain and spinal cord.  In mammals, three meninges have been clearly identified: the dura mater, the arachnoid mater, and the pia mater. Each layer has its own molecularly distinct type of fibroblasts. The meninges act as a physical and immunological protective barrier for the brain and spinal cord, shielding the central nervous system (CNS) from injury. They anchor and support  the tissues of the CNS, and provide containment for cerebrospinal fluid (CSF) and the arteries and veins that supply blood to the brain and spinal cord.
+The dura mater surrounds the arachnoid mater and supports the dural sinuses, which carry blood from the brain to the heart. The area between the arachnoid and pia mater is known as the subarachnoid space. It contains cerebrospinal fluid. The arachnoid and pia maters produce prostaglandin D2 synthase, a major cerebrospinal fluid protein. The arachnoid mater provides a restrictive permeability barrier between the cerebrospinal fluid in the subarachnoid space and the circulation of blood in the dura.  The pia mater is a thin sheet of connective tissue that interfaces with the glial limitans superficialis.
+
+Structures
+
+Dura mater
+
+The dura mater (Latin: tough mother), is a durable, thick fibrous membrane that attaches to the inside of the skull and covers the brain and vertebrae. Its dense fibrous tissue is formed from an interlay of collagen fibers, elastin, and fibroblasts in an unformed extracellular matrix. The dura mater is itself a two layered membrane: an outer endosteal (periosteal) layer lies closest to the skull, and an inner (meningeal or dura mater proper) layer lies closer to the brain. These layers separate to surround the Dural venous sinuses. Sensory and autonomic nerves innervate the dura, and are dense near its blood vessels. The dura's inner surface is covered by flattened fibrocytes which are adhered to by the outer cells of the arachnoid mater. The dura mater surrounds the arachnoid mater and supports the dural sinuses which carry blood from the brain to the heart.
+The dura mater folds inwards upon itself to form four areas of infolding called dural reflections:
+
+Falx cerebri: This sickle-shaped fold is the largest of the dural reflections.  It separates the two cerebral hemispheres, and is anchored to the crista galli of the ethmoid bone and the internal occipital protuberance.
+Tentorium cerebelli. The second largest fold is also crescent-shaped. It separates the occipital lobes of the cerebrum from the cerebellum. The falx cerebri attaches to it to form the roof of the posterior cranial fossa, which gives it a tentlike appearance.
+Falx cerebelli: This vertical infolding is located inferior to the tentorium cerebelli. It partially separates the cerebellar hemispheres.
+Diaphragma sellae: The smallest of the infoldings, it forms a roof over the   sella turcica and seals the pituitary gland from the subarachnoid space.
+
+Arachnoid mater
+
+The arachnoid mater, or arachnoid membrane, is the middle element of the meninges. Thin and transparent, its name reflects its resemblance to a spider web. Its fibrous tissue cushions the central nervous system.  Like the pia mater, it has an outer layer of tightly packed flat cells, forming the arachnoid barrier.
+The arachnoid is loosely fitting and does not closely follow the ridges and grooves on the surface of the brain. A large number of fine filaments called arachnoid trabeculae pass from the arachnoid through the subarachnoid space to blend with the tissue of the pia mater. The arachnoid barrier creates a restrictive permeability barrier between the cerebrospinal fluid in the subarachnoid space and the blood circulation in the dura.
+The arachnoid barrier layer is characterized by a distinct continuous basal lamina on its inner surface toward the innermost collagenous portion of the arachnoid reticular layer.
+
+Pia mater
+
+The pia mater (Latin: tender mother) is a very delicate membrane. It is the meningeal envelope that firmly adheres to the surfaces of the brain and spinal cord, following all of the brain's contours (gyri and sulci). It is a very thin sheet of connective tissue that interfaces with the glial limitans superficialis but lacks capillaries itself.
+
+Subarachnoidal lymphatic-like membrane
+
+Leptomeninges
+The arachnoid and pia mater are sometimes together called the leptomeninges, literally "thin meninges" (Greek: λεπτός "leptos"—"thin"). Acute meningococcal meningitis can lead to an exudate within the  leptomeninges along the surface of the brain. Because the arachnoid is connected to the pia by cobweb-like strands, it is structurally continuous with the pia, hence the name pia-arachnoid or leptomeninges. They are responsible for the production of beta-trace protein (prostaglandin D2 synthase), a major cerebrospinal fluid protein.
+
+Subarachnoid space
+
+The subarachnoid space is the space that normally exists between the arachnoid and the pia mater. It is filled with cerebrospinal fluid and continues down the spinal cord. Spaces are formed from openings at different points along the subarachnoid space; these
+are the subarachnoid cisterns, which are filled with cerebrospinal fluid.
+The dura mater is attached to the skull, whereas in the spinal cord, the dura mater is separated from the vertebrae by a space called the epidural space, which contains fat and blood vessels. The arachnoid is attached to the dura mater, while the pia mater is attached to the central nervous system tissue. If the dura mater and the arachnoid become separated due to injury or illness, the space between them is known as the subdural space. There is another potential space, the subpial space, between the pia mater and the glia limitans.
+
+Clinical significance
+
+Intracranial hemorrhage
+Three types of intracranial hemorrhage can involve the meninges: epidural, subdural, and subarachnoid.
+
+A subarachnoid hemorrhage is acute bleeding under the arachnoid; it may occur spontaneously or as a result of trauma.
+A subdural hematoma (SDH) is an extracerebral collection of blood located in the potential space that can separate arachnoid from the dura mater.  The origin is usually venous, caused by injury to the bridging veins that connect the dura mater and the arachnoid. Once these are torn, blood leaks into this area. SDHs occur in about 30% cases of severe head trauma.
+An epidural hematoma (EDH) is a collection of blood between the skull and the dura mater, underlying a bare bone surface. It is often associated with skull fracture. EDH may be arterial (caused by injury of a meningeal artery) or venous (related to damage to of a dural venous sinus or bleeding from diploic veins).
+
+Meningioma
+Meningiomas are the most common type of primary brain tumors to occur in adults. They are thought to arise from meningothelial arachnoid cells in the meninges. Most commonly they attach firmly to the inner surface of the dura and are well-circumscribed; but some tumors may show brain invasion. More rarely, leptomeningeal cancers may metastasize from tumors elsewhere in the body to the cerebrospinal fluid and leptomeninges.
+
+Meningitis
+Other medical conditions that affect the meninges include meningitis, which usually arises from a viral, bacterial, or  fungal infection.
+
+Migraine
+Migraine is a complex neurovascular pain disorder involving blood vessels, neurons, and cerebrospinal fluid within the meninges. The trigeminal nerve, located within the dura mater, carries sensory information about pain, touch, heat and cold from the face to the brain. The hypothalamus receives input from the trigeminal nerve and can modulate trigeminal nerve activity. Migraine patients appear to experience impairments in cortical habituation, a process which would normally decrease cortical responses to repetitive sensory stimuli.
+Initiation of a migraine attack may begin with disruption in the hypothalamus and limbic system. Gradually increasing hypothalamic activity has been observed in the period leading up to a migraine attack, followed by a disruption or collapse of hypothalamic connectivity to the limbic system during an attack. Disruption of the connection between the hypothalamus and limbic system may increase activity in the pain pathway from the trigeminal nerve to the brain, resulting in a migraine attack.
+The meninges, particularly the dura mater, are rich in pain-sensitive nerve endings. Sensory information travels along trigeminal nerve fibers to cell bodies located within the trigeminal ganglion (TG). Axons of the trigeminal ganglion neurons enter the brainstem and travel to the trigeminal nucleus caudalis (TNC).
+The activity of calcitonin gene-related peptide (CGRP) in the meninges is linked to migraine. 
+CGRP is released from both the trigeminal ganglion (TG) and the trigeminal nucleus caudalis (TNC) in response to trigeminal nerve activation. CGRP activates receptors on meningeal blood vessels, causing dilation and changes in blood flow. CGRP also activates specialized nerve endings on the dura mater (nociceptors) that transmit pain signals from the dura to the central nervous system. Increased neuronal activity in the trigeminal pain pathway reaches higher cortical pain regions via the brainstem, midbrain and thalamus.
+Stimulation of the trigeminal nerve may result in release of neuropeptides such as CGRP, vasodilation of cerebral and dural blood vessels, neurogenic inflammation, and the transmission of pain signals via nerves in the meninges.
+Cerebrospinal fluid may also play a role in migraine by transferring signals released from the brain to overlying pain-sensitive meningeal tissues, including dura mater.
+
+Other animals
+In fish, there is a single membrane known as the primitive meninx. Amphibians and reptiles have two meninges, and birds and mammals have three. 
+Mammals (as higher vertebrates) retain the dura mater, and the secondary meninx divides into the arachnoid and pia mater.
+
+History
+The first known reference to the dura appears in Egypt, in Case 6 of the Edwin Smith Papyrus. Hippocrates described the dura in his monograph "On Injuries of the Head" and insisted that care should be taken to keep it intact and clean. Celsus agreed, and described a method of treatment for depressed fractures. Galen was the first to describe the pia mater in humans in the second century AD.
+
+The arachnoid layer was first described by Dutch physician Gerardus Blasius in 1664.
+In 1695, Humphrey Ridley first described the subarachnoid cisterns. He also contributed to the understanding of the blood-brain barrier, and accurately described the fifth cranial nerve ganglion with its branches.  In 1699, Frederick Ruysch confirmed that the arachnoid mater formed a complete layer that surrounded the brain. Its current name is based on his description of its spiderlike morphology. Arachnoid granulations were first described by Italian physician Antonio Pacchioni who published his Dissertatio Epistolaris de Glandulis Conglobatis Durae Meningis Humanae in 1705.
+In seven articles from 1899 to 1902, Italian anatomist Giuseppe Sterzi described comparative studies on the meninges from the lancelet to the human. He showed that the spinal meninges were very simple in adult lower vertebrates and in the early development of more advanced vertebrates.
+
+See also
+Cranial cavity
+
+Notes
+
+References
+
+External links
+ Media related to Meninges at Wikimedia Commons
+
+[[Cerebellum]] [[Cerebrospinal fluid]] [[Cerebrum]] [[Gyrus]] [[Migraine]] [[Peripheral nervous system]] [[Pituitary gland]] [[Skull]] [[Spinal cord]] [[Subarachnoid hemorrhage]] [[Sulcus (neuroanatomy)]]

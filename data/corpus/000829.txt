@@ -1,0 +1,32 @@
+Physical verification
+Physical verification is a process whereby an integrated circuit layout (IC layout) design is verified via EDA software tools to ensure correct electrical and logical functionality and manufacturability. Verification involves design rule check (DRC), layout versus schematic (LVS), XOR (exclusive OR), antenna checks and electrical rule check (ERC).
+
+Design rule check (DRC)
+
+DRC verifies that the layout meets all technology-imposed constraints. DRC also verifies layer density for chemical-mechanical polishing (CMP).
+
+Layout versus schematic (LVS)
+
+LVS verifies the functionality of the design. From the layout, a netlist is derived and compared with the original netlist produced from logic synthesis or circuit design.
+
+XOR check
+This check is typically run after a metal spin, where the original and modified database are compared. This is done to confirm that the desired modifications have been made and no undesired modifications have been made by accident. This step involves comparing the two layout databases/GDS by XOR operation of the layout geometries. This check results a database which has all the mismatching geometries in both the layouts.
+
+Antenna check
+The antenna basically is a metal interconnect, i.e., a conductor like polysilicon or metal, that is not electrically connected to silicon or grounded, during the processing steps of the wafer. During the manufacturing process charge accumulation can occur on the antenna during certain fabrication steps like plasma etching, which uses highly ionized matter to etch. If the connection to silicon does not exist, charges may build up on the interconnect to the point at which rapid discharge does take place and permanent physical damage results to thin transistor gate oxide. This rapid and destructive phenomenon is known as the antenna effect. Antenna errors can be cured by adding a small antenna diode to safely discharge the node or splitting the antenna by routing up to another metal layer and then down again.
+The antenna ratio is defined as the ratio between the physical area of the conductors making up the antenna to the total gate oxide area to which the antenna is electrically connected.
+
+Electrical rule check (ERC)
+ERC verifies the correctness of power and ground connections, and that signal transition times (slew), capacitive loads and fanouts are appropriately bounded. This might include checking for
+
+Well and substrate areas for proper contacts and spacings thereby ensuring correct power and ground connections
+Unconnected inputs or shorted outputs.
+Gates should not connect directly to supplies; connection should be through TIE high/low cells only. ERC checks are based upon assumptions about the normal operating conditions of the ASIC, so they may give many false warning on ASICs with multiple or negative supplies. They can also check for structures susceptible to electrostatic discharge (ESD) damage.
+
+References
+
+Further reading
+Clein, D. (2000). CMOS IC Layout. Newnes. ISBN 0-7506-7194-7
+Kahng, A. et al. (2022). VLSI Physical Design: From Graph Partitioning to Timing Closure, ISBN 978-3-030-96414-6, doi:10.1007/978-3-030-96415-3
+
+[[Integrated circuit layout]]

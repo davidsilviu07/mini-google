@@ -1,0 +1,80 @@
+P50 (neuroscience)
+P50 is a mid-latency, positive-going auditory evoked potential that peaks approximately 40–75 ms after the onset of an auditory stimulus, most prominently at central scalp locations such as Cz. When measured with a paired-stimulus (paired-click) paradigm, suppression of the P50 response to a repeated stimulus is commonly used as an index of sensory gating, that is, pre-attentive filtering of redundant or irrelevant sensory input.
+In clinical and translational research, the P50 sensory gating measure has been studied most extensively in schizophrenia and related psychotic disorders, where reduced suppression of the second P50 response (higher P50 ratios) is one of several proposed electrophysiological endophenotypes. P50 gating has also been examined in a range of other psychiatric and neurological conditions, as well as across development and different sleep–wake and medication states.
+
+Physiology and neural generators
+The P50 component is part of the mid-latency auditory evoked potential complex, occurring after earlier brainstem and thalamic responses and before later cortical components such as N100 and P200. Intracranial recordings, source modelling, and combined EEG/MEG/fMRI studies indicate that its main generators are in primary and secondary auditory cortex (Heschl's gyrus and adjacent superior temporal gyrus), with contributions from hippocampal and frontal circuitry.
+Experimental and pharmacological work has linked P50 sensory gating to cholinergic neurotransmission, particularly the α7 nicotinic acetylcholine receptor expressed in hippocampus and related limbic circuits. Animal models using hippocampal recordings show that manipulations of α7 receptor function alter gating of mid-latency auditory responses in ways broadly parallel to human P50 suppression paradigms, supporting the construct validity of the measure as a cross-species index of sensory gating.
+
+Paired-click sensory gating paradigm
+
+Paradigm
+The most widely used method for assessing P50 sensory gating is the auditory paired-click (conditioning–test) paradigm. Participants hear pairs of brief, identical auditory stimuli (commonly 1–4 kHz clicks or tone bursts) separated by an interstimulus interval of about 500 ms. Pairs are typically presented every 8–12 s to reduce overlap with slower components and to minimize habituation.
+The first stimulus in each pair (S1, the conditioning stimulus) elicits a robust P50 response. In healthy adults, the response to the second stimulus (S2, the test stimulus) is usually reduced in amplitude. This attenuation is interpreted as reflecting pre-attentive sensory gating, or filtering of repeated sensory input.
+
+Recording and scoring
+P50 is generally recorded with scalp EEG using midline or central electrodes (e.g. Cz referenced to linked mastoids). Signals are commonly band-pass filtered in a mid-frequency range (for example 10–50 Hz or 1–50 Hz) to emphasize mid-latency components and reduce slow drifts and high-frequency noise.
+Two main metrics are reported:
+
+the P50 ratio (S2 amplitude divided by S1 amplitude), and
+the P50 difference score (S1 amplitude minus S2 amplitude).
+Lower ratios and larger difference scores indicate stronger gating (greater suppression of the response to the repeated stimulus). In many schizophrenia studies, group differences are more robust for the ratio measure than for raw S1 or S2 amplitudes, although protocol specifics and sample characteristics strongly influence effect sizes.
+Patterson and colleagues applied adaptive filter and frequency-domain, single-trial methods to P50 analysis, demonstrating that temporal variability of the response within and between subjects contributes substantially to gating metrics and may partly explain inconsistencies across studies.
+
+Alternative paradigms and related measures
+While the paired-click paradigm is the dominant approach for P50 gating, related methods include:
+
+oddball paradigms that examine mid-latency responses to rare versus frequent stimuli, and
+analyses of oscillatory activity (for example, gamma-band responses) time-locked to repeated auditory stimuli.
+Other event-related potential components such as N100 and P200 can also be used to index sensory gating in paired-stimulus paradigms, sometimes showing different sensitivity or reliability than P50 in particular patient groups or developmental stages.
+
+Development and state dependence
+
+Infancy and early childhood
+P50 responses and measurable sensory gating can be recorded very early in life. Longitudinal and cross-sectional studies suggest that basic P50 gating is present in infancy but undergoes substantial maturation across childhood and adolescence.
+Ross et al. reported that perinatal factors (such as intrauterine exposures and pregnancy complications) influenced the stability of early P50 gating measures. Hunter et al. found that P50 gating during sleep was relatively stable within individuals but modulated by developmental stage and sleep state, indicating that both trait-like and state-dependent factors contribute to early sensory gating.
+In older children, studies of typically developing samples show gradual improvement in gating indices with age, paralleling broader maturation of cortical inhibitory circuits and attention networks.
+
+Sensory processing disorders and developmental conditions
+Davies, Chang and Gavin reported that children with sensory processing disorders (SPD) exhibited weaker P50 suppression than typically developing controls, suggesting an association between clinical sensory processing difficulties and altered early sensory gating. These findings have been interpreted in the context of broader models linking atypical sensory responsivity in neurodevelopmental disorders to early-stage filtering of incoming stimuli.
+P50 gating abnormalities have also been investigated in multiplex schizophrenia families, where deficits can be observed in unaffected relatives, supporting the concept of P50 suppression as a potential endophenotype with developmental and genetic underpinnings.
+
+Sleep, arousal, and medication
+P50 responses and gating indices are influenced by sleep–wake state, arousal level, and medication. Measurements during different sleep stages show that gating can remain present but is modulated by sleep depth and architecture. Arousal, recent nicotine or caffeine intake, and psychotropic medications can alter both S1 amplitude and S2 suppression, contributing to between-study heterogeneity and complicating comparisons across samples.
+
+Clinical and research significance
+
+Schizophrenia and psychosis spectrum
+The largest body of P50 research concerns schizophrenia and related psychotic disorders. Many, though not all, studies report diminished P50 suppression (higher S2/S1 ratios and smaller S1–S2 differences) in people with schizophrenia compared with healthy controls. Potter et al. reviewed clinical correlates of P50 abnormalities and concluded that gating deficits are moderately robust at the group level but show substantial overlap between patients and controls, limiting diagnostic specificity.
+P50 gating deficits have been described in first-episode and chronic schizophrenia, as well as in some schizoaffective and related psychotic conditions. Myles-Worsley reported abnormal gating in multiplex schizophrenia families from a Pacific island isolate, and Hong et al. showed that P50 suppression and its oscillatory correlates have substantial heritability, supporting P50 gating as a candidate endophenotype rather than a simple disease marker.
+
+Pharmacology and genetics
+Cholinergic manipulations, particularly those involving nicotinic receptors, have notable effects on P50 gating. Nicotine administration often transiently improves P50 suppression in individuals with schizophrenia and in some relatives, an effect that has been linked to α7 nicotinic receptor function. Martin and Freedman reviewed converging evidence implicating the α7 receptor and its gene CHRNA7 in the pathophysiology of P50 gating deficits and related inhibitory dysfunction in schizophrenia.
+Translational animal work, including rodent hippocampal auditory gating paradigms, has been used to model P50-like responses and to test candidate compounds that normalize sensory gating. Smucny et al. argued that such paradigms provide a useful translational bridge by aligning neurophysiological measures of gating across species, though they also emphasized important methodological differences and limitations.
+Some atypical antipsychotics and experimental compounds targeting nicotinic receptors or other neuromodulatory systems have been reported to partially normalize P50 gating, but effects are variable and often modest.
+
+Other psychiatric and neurological conditions
+P50 sensory gating has been investigated in a range of other disorders. Studies in bipolar disorder, post-traumatic stress disorder (PTSD), substance use disorders, antisocial personality disorder, and dementia report P50 abnormalities in at least some samples, but findings are inconsistent and effect sizes are typically smaller than those observed in schizophrenia.
+In attention-deficit/hyperactivity disorder (ADHD), several studies in adults have found impaired P50 suppression and elevated self-reported perceptual abnormalities related to sensory gating. Holstein et al. reported reduced P50 suppression in adults with ADHD compared with controls, and Micoulaud-Franchi et al. found that adults with ADHD showed abnormal P50 suppression and higher scores on a sensory gating inventory, with deficits comparable in magnitude to those observed in a schizophrenia group. In a related study, Micoulaud-Franchi and colleagues reported that poorer P50 gating capacity in adults with ADHD was associated with lower P300 amplitudes and worse attentional performance, linking early sensory gating to higher-order attentional function.
+However, results in younger samples are less consistent. Lemvigh et al. examined P50, N100 and P200 suppression in young adolescents with early-onset psychosis (EOP), ADHD, and healthy controls and found no significant group differences, with healthy levels of P50 suppression observed in both patient groups. These findings highlight that P50 gating abnormalities in ADHD and early-onset psychosis are not universal and may depend on age, clinical characteristics, comorbidities, and methodological details.
+Altered P50 gating has also been reported after traumatic brain injury (TBI) and in some neurodegenerative conditions, where it is often interpreted as reflecting broader disruptions in cortical inhibitory circuitry. However, P50 measures are not routinely used as clinical tests in these settings, and their incremental clinical utility over standard neuropsychological and imaging assessments remains uncertain.
+
+Limitations and methodological issues
+Although P50 sensory gating has been widely studied, several limitations constrain its use as a biomarker:
+
+Test–retest reliability – P50 amplitudes and gating ratios show only moderate reliability in many studies. Reliability can improve with careful standardization of recording parameters and artifact rejection, but intra-individual variability remains a concern.
+Sensitivity to preprocessing choices – Band-pass filter settings, reference choice (e.g. linked mastoids vs. nose), epoch length, and artifact criteria can substantially affect measured amplitudes and gating indices, making comparisons across studies difficult.
+State dependence – Arousal, sleep deprivation, recent nicotine or caffeine intake, acute stress, and psychotropic medications can all modulate P50 responses and gating measures, introducing confounds if not carefully controlled.
+Diagnostic specificity – While reduced P50 suppression is relatively common in schizophrenia, it is neither necessary nor sufficient for diagnosis and can also be observed in some other psychiatric and neurological conditions.
+Construct coverage – P50 gating is only one operationalization of sensory gating. Other measures (for example, prepulse inhibition of the startle reflex, N100/P200 gating, and behavioural or self-report indices of sensory overload) may tap partly distinct aspects of gating and in some contexts show better psychometric properties or stronger clinical associations.
+Because of these limitations, current consensus in the literature is that P50 sensory gating is best viewed as a useful research tool and a candidate endophenotype for certain conditions (particularly schizophrenia), rather than as a stand-alone diagnostic test. Ongoing work continues to refine paradigms, integrate P50 with oscillatory and network-level measures, and clarify its role within broader models of cognitive and sensory inhibition.
+
+See also
+Event-related potential
+Sensory gating
+Prepulse inhibition
+Auditory cortex
+
+References
+
+[[Amplitude integrated electroencephalography]] [[Bereitschaftspotential]] [[Brainstem]] [[Brainstem auditory evoked potential]] [[Delta wave]] [[Difference due to memory]] [[EEGLAB]] [[Early left anterior negativity]] [[Electrocorticography]] [[Electroencephalography]] [[Gamma wave]] [[K-complex]] [[Late positive component]] [[Mismatch negativity]] [[Mu wave]] [[N100]] [[N170]] [[N200 (neuroscience)]] [[N2pc]] [[N400 (neuroscience)]] [[Neural oscillation]] [[Neurophysiological Biomarker Toolbox]] [[P200]] [[P3a]] [[P3b]] [[P600 (neuroscience)]] [[Sensorimotor rhythm]] [[Sleep spindle]] [[Somatosensory evoked potential]]

@@ -1,0 +1,2708 @@
+Dipole
+In physics, a dipole (from Ancient Greek  δίς (dís) 'twice' and  πόλος (pólos) 'axis') is an electromagnetic phenomenon which occurs in two ways:
+
+An electric dipole formed by the separation of the positive and negative electric charges (typically in atomic and molecular systems).
+A magnetic dipole represents a sufficiently small magnet such as those due to atoms, molecules, and electrons.
+The strength of a dipole, whether electric or magnetic, is characterized by its dipole moment, a vector quantity.
+Electric dipoles produce an electric field and experience forces and torques in an electric field that are proportional to their electric dipole moment. The same is true of magnetic dipoles with magnetic fields. Further, the equations for the magnetic dipole are nearly identical to their electric counterparts.
+Electric dipoles are typically represented by a pair of equal but opposite electric charges separated by a small distance. The electric dipole moment points from the negative charge towards the positive charge and has a magnitude equal to the strength of each charge times the separation between the charges. Magnetic dipoles are typically modeled as a loop of constant current. The magnetic dipole moment points through the loop (according to the right hand grip rule), with a magnitude equal to the current in the loop times the area of the loop.
+
+Classification
+
+Electric dipole
+
+Objects having positive and negative charges with no net charge (such as atoms or molecules) can often be modeled as an electric dipole. For a sufficiently large distance from such an object (or equivalently sufficiently small object size), the complexity of the object can be ignored so that all of the physics depends on one quantity, that is the electric dipole moment. In this model, the object is represented as two equal but opposite point charges with charge ±q and separated by a distance d. The electric dipole moment has a magnitude 
+  
+    
+      
+        p
+        =
+        q
+        d
+      
+    
+    {\displaystyle p=qd}
+  
+ and is directed from the negative charge to the positive one.
+A better definition, accounting for the  vector nature of the dipole moment, expresses the electric dipole moment p in vector form 
+  
+    
+      
+        
+          p
+        
+        =
+        q
+        
+          d
+        
+      
+    
+    {\displaystyle \mathbf {p} =q\mathbf {d} }
+  
+ where d is the displacement vector pointing from the negative charge to the positive charge. The electric dipole moment vector p then points in the same direction. With this definition, the dipole direction tends to align itself with an external electric field (which tends to oppose the flux lines of the external field). Note that this sign convention is used in physics, while the opposite sign convention for the dipole, from the positive charge to the negative charge, is used in chemistry.
+
+Magnetic dipole
+
+A magnetic dipole is a theoretical description of a sufficiently small magnet such as that of an atom or an electron. All magnets can be described as being a magnetic dipole for sufficiently large distances from the magnet. The strength of a magnetic dipole is determined by a single property: its magnetic dipole moment, m. The magnetic dipole model accurately predicts many properties of small magnets such as the magnetic field it produces and how it interacts with other magnetic dipoles, and external magnetic fields.
+Two different models can be used to describe a magnetic dipole. The simplest to understand, but least correct, is to imagine the magnet as 2 equal but opposite poles. The magnetic dipole moment, similar to the electric dipole moment, then is the product of the magnetic charge (also known as pole strength) and the vector distance between the charges. This can give correct results in an easy to understand way, but suffers from being incorrect (magnetic poles do not exist as separate entities) and giving incorrect results in certain cases (for example inside of a magnet). 
+The more correct description of a magnetic dipole is that of a closed loop of electric current that encloses a flat area a. The magnetic moment of this dipole then is the product of its area and it current I. This amperian loop model has the advantage of being physically correct, at least for the part of the magnetic field of an atom due to the motion of the electrons around the nucleus of atoms.
+
+Physical vs. ideal dipole
+
+A physical dipole consists of two equal and opposite point charges: in the literal sense, two poles. Its field at large distances (i.e., distances large in comparison to the separation of the poles) depends almost entirely on the dipole moment as defined above. A point (electric) dipole or ideal dipole is the limit obtained by letting the separation tend to 0 while keeping the dipole moment fixed. The field of a point dipole has a particularly simple form, and the order-1 term in the multipole expansion is precisely the point dipole field.
+
+Dominant term in multipole expansion
+
+Any finite size charge distribution near the origin can be expressed equivalently as an infinite sum of infinitesimally small charge distributions at the origin with progressively finer angular features. (Something similar happens for finite size current distributions producing magnetic fields.) One advantage of this multipole expansion is that for sufficiently large distances from the origin the first non-zero term of this series dominates. For electric and magnetic fields this term is typically the electric and magnetic dipole respectively.
+The first term in the multipole expansion is the monopole. It represents the total charge of the charge distribution and produces spherically symmetric fields (electric field E for the electric dipole or magnetic field B for the magnetic dipole) that decrease as ⁠1/r2⁠. Magnetic monopoles do not exist in nature, therefore they don't contribute to the magnetic field. Electric monopoles (isolated electric charges) exist but do not contribute for the common case of materials with no net electrical charge.
+Any configuration of charges or currents has a 'dipole moment' whose field is the best approximation, at large distances, to that of that configuration. The field of a dipole falls off in proportion to ⁠1/r3⁠, as compared to ⁠1/r4⁠ for the next (quadrupole) term and higher powers of ⁠1/r⁠ for higher terms.
+Although there are no known magnetic monopoles in nature, magnetic dipoles exist in the form of the quantum-mechanical spin associated with particles such as electrons and the 'currents' of electrons around nuclei. A theoretical magnetic point dipole has a magnetic field of the same form as the electric field of an electric point dipole. A very small current-carrying loop is approximately a magnetic point dipole; the magnetic dipole moment of such a loop is the product of the current flowing in the loop and the (vector) area of the loop.
+
+Potential of static dipoles
+
+In electromagnetism, the calculation of the electric and magnetic fields are often made simpler by first calculating the scaler and vector potentials, Φ and A respectively.
+The electrostatic potential at position r due to an electric dipole at the origin is given by:
+
+  
+    
+      
+        
+          Φ
+          
+            d
+            i
+            p
+          
+        
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        
+        
+          
+            
+              
+                p
+              
+              ⋅
+              
+                
+                  
+                    
+                      r
+                    
+                    ^
+                  
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \Phi _{dip}={\frac {1}{4\pi \varepsilon _{0}}}\,{\frac {\mathbf {p} \cdot {\hat {\mathbf {r} }}}{r^{2}}},}
+  
+
+where p is the electric dipole moment, and ε0 is the permittivity of free space. This term appears as the second term in the multipole expansion of an arbitrary electrostatic potential Φ. This term will dominate at large distances if there is no net charge (and if p≠0).
+The vector potential Adip at position r of a magnetic dipole moment m at the origin is
+
+  
+    
+      
+        
+          
+            A
+          
+          
+            d
+            i
+            p
+          
+        
+        =
+        
+          
+            
+              μ
+              
+                0
+              
+            
+            
+              4
+              π
+            
+          
+        
+        
+          
+            
+              
+                m
+              
+              ×
+              
+                
+                  
+                    
+                      r
+                    
+                    ^
+                  
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {A} _{dip}={\frac {\mu _{0}}{4\pi }}{\frac {\mathbf {m} \times {\hat {\mathbf {r} }}}{r^{2}}},}
+  
+
+where μ0 is the permeability of free space. This term appears as the second term (first non-zero term) in the multipole expansion of an arbitrary vector potential A in terms of the current density J that created it. This term dominates at large distances if m≠0.
+
+Field of a static dipole
+The electric field, Edip, and magnetic field, Bdip, at a location, r, due to a dipole at the origin with dipole moment, p for the electric dipole or m for the magnetic dipole, can be determined from the scalar, Φdip, and vector, Adip, potential respectively as:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    E
+                  
+                  
+                    d
+                    i
+                    p
+                  
+                
+              
+              
+                
+                =
+                −
+                ∇
+                
+                  Φ
+                  
+                    d
+                    i
+                    p
+                  
+                
+              
+              
+                =
+                
+                  
+                    1
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                 
+                
+                  
+                    
+                      3
+                      (
+                      
+                        p
+                      
+                      ⋅
+                      
+                        
+                          
+                            
+                              r
+                            
+                            ^
+                          
+                        
+                      
+                      )
+                      
+                        
+                          
+                            
+                              r
+                            
+                            ^
+                          
+                        
+                      
+                      −
+                      
+                        p
+                      
+                    
+                    
+                      r
+                      
+                        3
+                      
+                    
+                  
+                
+                
+              
+              
+                
+                −
+                
+                
+                  δ
+                  
+                    3
+                  
+                
+                (
+                
+                  r
+                
+                )
+                
+                  
+                    
+                      p
+                    
+                    
+                      3
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  
+                    B
+                  
+                  
+                    d
+                    i
+                    p
+                  
+                
+              
+              
+                
+                =
+                
+                
+                ∇
+                ×
+                
+                  
+                    A
+                  
+                  
+                    d
+                    i
+                    p
+                  
+                
+              
+              
+                =
+                
+                  
+                    
+                      μ
+                      
+                        0
+                      
+                    
+                    
+                      4
+                      π
+                    
+                  
+                
+                 
+                
+                  
+                    
+                      3
+                      (
+                      
+                        m
+                      
+                      ⋅
+                      
+                        
+                          
+                            
+                              r
+                            
+                            ^
+                          
+                        
+                      
+                      )
+                      
+                        
+                          
+                            
+                              r
+                            
+                            ^
+                          
+                        
+                      
+                      −
+                      
+                        m
+                      
+                    
+                    
+                      r
+                      
+                        3
+                      
+                    
+                  
+                
+                
+              
+              
+                
+                +
+                
+                
+                  δ
+                  
+                    3
+                  
+                
+                (
+                
+                  r
+                
+                )
+                
+                  
+                    
+                      2
+                      
+                        μ
+                        
+                          0
+                        
+                      
+                      
+                        m
+                      
+                    
+                    3
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {E} _{dip}&=-\nabla \Phi _{dip}&={\frac {1}{4\pi \varepsilon _{0}}}\ {\frac {3(\mathbf {p} \cdot {\hat {\mathbf {r} }}){\hat {\mathbf {r} }}-\mathbf {p} }{r^{3}}}\,&-\,\delta ^{3}(\mathbf {r} ){\frac {\mathbf {p} }{3\varepsilon _{0}}},\\\mathbf {B} _{dip}&=\;\;\nabla \times \mathbf {A} _{dip}&={\frac {\mu _{0}}{4\pi }}\ {\frac {3(\mathbf {m} \cdot {\hat {\mathbf {r} }}){\hat {\mathbf {r} }}-\mathbf {m} }{r^{3}}}\,&+\,\delta ^{3}(\mathbf {r} ){\frac {2\mu _{0}\mathbf {m} }{3}},\end{aligned}}}
+  
+
+where ε0 is the permitivity of free space and μ0 is the permeability of free space (both constants). The last term in the equations (containing the dirac delta function) only contributes at the origin and in most cases can be ignored. Note the similarity in the two equations making them near identical except for the last term.
+These equations are exactly the field of a point (ideal) dipole, exactly the dipole term in the multipole expansion of an arbitrary field, and approximately the field of any dipole-like configuration at large distances. The field of a real (physical) dipole is continuous everywhere and will be different close to the origin. The delta function represents the strong field pointing in the opposite direction between the point charges for the electric dipole case (and in same direction for magnetic dipole), which is often omitted since one is rarely interested in the field at the dipole's position.
+For further discussions about the internal field of dipoles, see or Magnetic moment § Internal magnetic field of a dipole.
+
+Alternative formulation in spherical coordinates
+An alternative formulation that simplifies the equations by orienting the z-axis in the direction of the dipole moment is:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    E
+                  
+                  
+                    d
+                    i
+                    p
+                  
+                
+                =
+                
+                  
+                    p
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                      
+                        r
+                        
+                          3
+                        
+                      
+                    
+                  
+                
+                
+                  (
+                  
+                    2
+                    cos
+                    ⁡
+                    θ
+                    
+                    
+                      
+                        
+                          r
+                          ^
+                        
+                      
+                    
+                    +
+                    sin
+                    ⁡
+                    θ
+                    
+                    
+                      
+                        
+                          θ
+                          ^
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+            
+            
+              
+                
+                  
+                    B
+                  
+                  
+                    d
+                    i
+                    p
+                  
+                
+                =
+                
+                  
+                    
+                      
+                        μ
+                        
+                          0
+                        
+                      
+                      m
+                    
+                    
+                      4
+                      π
+                      
+                        r
+                        
+                          3
+                        
+                      
+                    
+                  
+                
+                
+                  (
+                  
+                    2
+                    cos
+                    ⁡
+                    θ
+                    
+                    
+                      
+                        
+                          r
+                          ^
+                        
+                      
+                    
+                    +
+                    sin
+                    ⁡
+                    θ
+                    
+                    
+                      
+                        
+                          θ
+                          ^
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {E} _{dip}={\frac {p}{4\pi \varepsilon _{0}r^{3}}}\left(2\cos \theta \,\mathbf {\hat {r}} +\sin \theta \,\mathbf {\hat {\theta }} \right),\\\mathbf {B} _{dip}={\frac {\mu _{0}m}{4\pi r^{3}}}\left(2\cos \theta \,\mathbf {\hat {r}} +\sin \theta \,\mathbf {\hat {\theta }} \right),\end{aligned}}}
+  
+
+where θ is the angle from the z-axis (the direction of the dipole moment), r is the distance from the dipole to where the field is, 
+  
+    
+      
+        
+          
+            
+              r
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {r}}}
+  
+ is the direction of r, and 
+  
+    
+      
+        
+          
+            
+              θ
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\theta }}}
+  
+  is the direction  perpendicular to 
+  
+    
+      
+        
+          
+            
+              r
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {r}}}
+  
+ and pointing away from the z-axis.
+
+Magnitude
+The magnitude of the dipole field strengths, Edip and Edip, at a distance, r, from the dipoles at the origin are:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  E
+                  
+                    d
+                    i
+                    p
+                  
+                
+                
+              
+              
+                
+                =
+              
+              
+                
+                  
+                    1
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    p
+                    
+                      r
+                      
+                        3
+                      
+                    
+                  
+                
+                
+                  
+                    1
+                    +
+                    3
+                    
+                      cos
+                      
+                        2
+                      
+                    
+                    ⁡
+                    (
+                    θ
+                    )
+                  
+                
+                
+                ,
+              
+            
+            
+              
+                
+                  B
+                  
+                    d
+                    i
+                    p
+                  
+                
+                
+              
+              
+                
+                =
+              
+              
+                
+                  
+                    
+                      μ
+                      
+                        0
+                      
+                    
+                    
+                      4
+                      π
+                    
+                  
+                
+                
+                  
+                    m
+                    
+                      r
+                      
+                        3
+                      
+                    
+                  
+                
+                
+                  
+                    1
+                    +
+                    3
+                    
+                      cos
+                      
+                        2
+                      
+                    
+                    ⁡
+                    (
+                    θ
+                    )
+                  
+                
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}E_{dip}\;&=&{\frac {1}{4\pi \varepsilon _{0}}}{\frac {p}{r^{3}}}{\sqrt {1+3\cos ^{2}(\theta )}}\,,\\B_{dip}\;&=&{\frac {\mu _{0}}{4\pi }}{\frac {m}{r^{3}}}{\sqrt {1+3\cos ^{2}(\theta )}}\,,\end{aligned}}}
+  
+
+where θ is the angle between the direction that the dipole is pointing (typically chosen as the z-axis) and the direction of r,  ε0 is the permittivity of free space, and μ0 is permeability of free space.
+Conversion to cylindrical coordinates is achieved using r2 = z2 + ρ2 and
+
+  
+    
+      
+        θ
+        =
+        arccos
+        ⁡
+        
+          (
+          
+            
+              z
+              
+                
+                  z
+                  
+                    2
+                  
+                
+                +
+                
+                  ρ
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \theta =\arccos \left({\frac {z}{\sqrt {z^{2}+\rho ^{2}}}}\right)}
+  
+
+where ρ is the perpendicular distance from the z-axis gives:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  E
+                  
+                    d
+                    i
+                    p
+                  
+                
+                
+              
+              
+                
+                =
+              
+              
+                
+                  
+                    p
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                      
+                        
+                          (
+                          
+                            
+                              z
+                              
+                                2
+                              
+                            
+                            +
+                            
+                              ρ
+                              
+                                2
+                              
+                            
+                          
+                          )
+                        
+                        
+                          
+                            3
+                            2
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    1
+                    +
+                    
+                      
+                        
+                          3
+                          
+                            z
+                            
+                              2
+                            
+                          
+                        
+                        
+                          
+                            z
+                            
+                              2
+                            
+                          
+                          +
+                          
+                            ρ
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                ,
+              
+            
+            
+              
+                
+                  B
+                  
+                    d
+                    i
+                    p
+                  
+                
+                
+              
+              
+                
+                =
+              
+              
+                
+                  
+                    
+                      
+                        μ
+                        
+                          0
+                        
+                      
+                      m
+                    
+                    
+                      4
+                      π
+                      
+                        
+                          (
+                          
+                            
+                              z
+                              
+                                2
+                              
+                            
+                            +
+                            
+                              ρ
+                              
+                                2
+                              
+                            
+                          
+                          )
+                        
+                        
+                          
+                            3
+                            2
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    1
+                    +
+                    
+                      
+                        
+                          3
+                          
+                            z
+                            
+                              2
+                            
+                          
+                        
+                        
+                          
+                            z
+                            
+                              2
+                            
+                          
+                          +
+                          
+                            ρ
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}E_{dip}\;&=&{\frac {p}{4\pi \varepsilon _{0}\left(z^{2}+\rho ^{2}\right)^{\frac {3}{2}}}}{\sqrt {1+{\frac {3z^{2}}{z^{2}+\rho ^{2}}}}}\,,\\B_{dip}\;&=&{\frac {\mu _{0}m}{4\pi \left(z^{2}+\rho ^{2}\right)^{\frac {3}{2}}}}{\sqrt {1+{\frac {3z^{2}}{z^{2}+\rho ^{2}}}}}.\end{aligned}}}
+  
+
+Torques and forces on static dipoles
+Since the direction of an electric field is defined as the direction of the force on a positive charge, electric field lines point away from a positive charge and toward a negative charge.
+When placed in a homogeneous electric or magnetic field, equal but opposite forces arise on each side of the dipole creating a torque τ:
+
+  
+    
+      
+        
+          τ
+        
+        =
+        
+          p
+        
+        ×
+        
+          E
+        
+      
+    
+    {\displaystyle {\boldsymbol {\tau }}=\mathbf {p} \times \mathbf {E} }
+  
+
+for an electric dipole moment p (in coulomb-meters), or
+
+  
+    
+      
+        
+          τ
+        
+        =
+        
+          m
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle {\boldsymbol {\tau }}=\mathbf {m} \times \mathbf {B} }
+  
+
+for a magnetic dipole moment m (in ampere-square meters).
+The resulting torque will tend to align the dipole with the applied field, which in the case of an electric dipole, yields a potential energy of
+
+  
+    
+      
+        U
+        =
+        −
+        
+          p
+        
+        ⋅
+        
+          E
+        
+        .
+      
+    
+    {\displaystyle U=-\mathbf {p} \cdot \mathbf {E} .}
+  
+
+The energy of a magnetic dipole is similarly
+
+  
+    
+      
+        U
+        =
+        −
+        
+          m
+        
+        ⋅
+        
+          B
+        
+        .
+      
+    
+    {\displaystyle U=-\mathbf {m} \cdot \mathbf {B} .}
+  
+
+Molecular electric dipoles
+
+Electric dipole moments are responsible for the behavior of a substance in the presence of external electric fields. The dipoles tend to be aligned to the external field which can be constant or time-dependent. This effect forms the basis of a modern experimental technique called dielectric spectroscopy.
+Dipole moments can be found in common molecules such as water and also in biomolecules such as proteins due to non-uniform distributions of positive and negative charges on the various atoms. Therefore, a molecule's dipole is an electric dipole with an inherent electric field that should not be confused with a magnetic dipole, which generates a magnetic field.
+The physical chemist Peter J. W. Debye was the first scientist to study molecular dipoles extensively, and, as a consequence, dipole moments are measured in the non-SI unit named debye in his honor.
+For molecules there are three types of dipoles:
+
+Permanent dipoles
+These occur when two atoms in a molecule have substantially different electronegativity : One atom attracts electrons more than another, becoming more negative, while the other atom becomes more positive. A molecule with a permanent dipole moment is called a polar molecule. See Intermolecular force § Dipole–dipole interactions.
+Instantaneous dipoles
+These occur due to chance when electrons happen to be more concentrated in one place than another in a molecule, creating a temporary dipole. These dipoles are smaller in magnitude than permanent dipoles, but still play a large role in chemistry and biochemistry due to their prevalence. See instantaneous dipole.
+Induced dipoles
+These can occur when one molecule with a permanent dipole repels another molecule's electrons, inducing a dipole moment in that molecule. A molecule is polarized when it carries an induced dipole. See induced-dipole attraction.
+It is possible to calculate dipole moments from electronic structure theory, either as a response to constant electric fields or from the density matrix. Such values however are not directly comparable to experiment due to the potential presence of nuclear quantum effects, which can be substantial for even simple systems like the ammonia molecule. Coupled cluster theory (especially CCSD(T)) can give very accurate dipole moments, although it is possible to get reasonable estimates (within about 5%) from density functional theory, especially if hybrid or double hybrid functionals are employed. The dipole moment of a molecule can also be calculated based on the molecular structure using the concept of group contribution methods.
+By means of the total dipole moment of some material one can compute the dielectric constant. If 
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            
+              T
+              o
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\mathcal {M}}_{\rm {Tot}}}
+  
+ is the total dipole moment of the sample, then the dielectric constant is given by
+
+  
+    
+      
+        ε
+        =
+        1
+        +
+        k
+        
+          ⟨
+          
+            
+              
+                M
+              
+            
+            
+              Tot
+            
+            
+              2
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \varepsilon =1+k\left\langle {\mathcal {M}}_{\text{Tot}}^{2}\right\rangle }
+  
+
+where k is a constant and 
+  
+    
+      
+        
+          ⟨
+          
+            
+              
+                M
+              
+            
+            
+              Tot
+            
+            
+              2
+            
+          
+          ⟩
+        
+        =
+        
+          ⟨
+          
+            
+              
+                
+                  M
+                
+              
+              
+                Tot
+              
+            
+            (
+            t
+            =
+            0
+            )
+            
+              
+                
+                  M
+                
+              
+              
+                Tot
+              
+            
+            (
+            t
+            =
+            0
+            )
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left\langle {\mathcal {M}}_{\text{Tot}}^{2}\right\rangle =\left\langle {\mathcal {M}}_{\text{Tot}}(t=0){\mathcal {M}}_{\text{Tot}}(t=0)\right\rangle }
+  
+ is the time correlation function of the total dipole moment. In general the total dipole moment have contributions coming from translations and rotations of the molecules in the sample,
+
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            Tot
+          
+        
+        =
+        
+          
+            
+              M
+            
+          
+          
+            Trans
+          
+        
+        +
+        
+          
+            
+              M
+            
+          
+          
+            Rot
+          
+        
+        .
+      
+    
+    {\displaystyle {\mathcal {M}}_{\text{Tot}}={\mathcal {M}}_{\text{Trans}}+{\mathcal {M}}_{\text{Rot}}.}
+  
+
+Therefore, the dielectric constant has contributions from both terms. This approach can be generalized to compute the frequency dependent dielectric function.
+Alternatively, electric dipole moment values for a given material can be calculated by the measured value of the dielectric constant of that material.
+
+Quantum-mechanical dipole operator
+Consider a collection of N particles with charges qi and position vectors ri. For instance, this collection may be a molecule consisting of electrons, all with charge −e, and nuclei with charge eZi, where Zi is the atomic number of the i th nucleus.
+The dipole observable (physical quantity) has the quantum mechanical dipole operator:
+
+  
+    
+      
+        
+          
+            p
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+        
+          q
+          
+            i
+          
+        
+        
+        
+          
+            r
+          
+          
+            i
+          
+        
+        
+        .
+      
+    
+    {\displaystyle {\mathfrak {p}}=\sum _{i=1}^{N}\,q_{i}\,\mathbf {r} _{i}\,.}
+  
+
+Notice that this definition is valid only for neutral atoms or molecules, i.e., total charge equal to zero. In the ionized case, we have
+
+  
+    
+      
+        
+          
+            p
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            N
+          
+        
+        
+        
+          q
+          
+            i
+          
+        
+        
+        (
+        
+          
+            r
+          
+          
+            i
+          
+        
+        −
+        
+          
+            r
+          
+          
+            c
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle {\mathfrak {p}}=\sum _{i=1}^{N}\,q_{i}\,(\mathbf {r} _{i}-\mathbf {r} _{c}),}
+  
+
+where 
+  
+    
+      
+        
+          
+            r
+          
+          
+            c
+          
+        
+      
+    
+    {\displaystyle \mathbf {r} _{c}}
+  
+ is the center of mass of the molecule/group of particles.
+
+Atomic dipoles
+A non-degenerate (S-state) atom can have only a zero permanent dipole. This fact follows quantum mechanically from the inversion symmetry of atoms. All 3 components of the dipole operator are antisymmetric under inversion with respect to the nucleus,
+
+  
+    
+      
+        
+          
+            I
+          
+        
+        
+        
+          
+            p
+          
+        
+        
+        
+          
+            
+              I
+            
+          
+          
+            −
+            1
+          
+        
+        =
+        −
+        
+          
+            p
+          
+        
+        ,
+      
+    
+    {\displaystyle {\mathfrak {I}}\;{\mathfrak {p}}\;{\mathfrak {I}}^{-1}=-{\mathfrak {p}},}
+  
+
+where 
+  
+    
+      
+        
+          
+            p
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {p}}}
+  
+ is the dipole operator  and 
+  
+    
+      
+        
+          
+            I
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {I}}}
+  
+ is the inversion operator.
+The permanent dipole moment  of an atom in a non-degenerate state (see Degenerate energy level) is given as the expectation (average) value of the dipole operator,
+
+  
+    
+      
+        
+          ⟨
+          
+            
+              p
+            
+          
+          ⟩
+        
+        =
+        
+          ⟨
+          S
+          |
+        
+        
+          
+            p
+          
+        
+        
+          |
+          S
+          ⟩
+        
+        ,
+      
+    
+    {\displaystyle \left\langle {\mathfrak {p}}\right\rangle =\left\langle S\right|{\mathfrak {p}}\left|S\right\rangle ,}
+  
+
+where 
+  
+    
+      
+        
+          |
+          S
+          ⟩
+        
+      
+    
+    {\displaystyle \left|S\right\rangle }
+  
+ is an S-state, non-degenerate, wavefunction, which is symmetric or anti-symmetric under inversion: 
+  
+    
+      
+        
+          
+            I
+          
+        
+        
+          |
+          S
+          ⟩
+        
+        =
+        ±
+        
+          |
+          S
+          ⟩
+        
+      
+    
+    {\displaystyle {\mathfrak {I}}\left|S\right\rangle =\pm \left|S\right\rangle }
+  
+. Since the product of the wavefunction (in the ket) and its complex conjugate (in the bra) is always symmetric under inversion and its inverse,
+
+  
+    
+      
+        
+          ⟨
+          
+            
+              p
+            
+          
+          ⟩
+        
+        =
+        
+          ⟨
+          
+            
+              
+                
+                  I
+                
+              
+              
+                −
+                1
+              
+            
+            S
+          
+          |
+        
+        
+          
+            p
+          
+        
+        
+          |
+          
+            
+              
+                
+                  I
+                
+              
+              
+                −
+                1
+              
+            
+            S
+          
+          ⟩
+        
+        =
+        
+          ⟨
+          S
+          |
+        
+        
+          
+            I
+          
+        
+        
+        
+          
+            p
+          
+        
+        
+        
+          
+            
+              I
+            
+          
+          
+            −
+            1
+          
+        
+        
+          |
+          S
+          ⟩
+        
+        =
+        −
+        
+          ⟨
+          
+            
+              p
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left\langle {\mathfrak {p}}\right\rangle =\left\langle {\mathfrak {I}}^{-1}S\right|{\mathfrak {p}}\left|{\mathfrak {I}}^{-1}S\right\rangle =\left\langle S\right|{\mathfrak {I}}\,{\mathfrak {p}}\,{\mathfrak {I}}^{-1}\left|S\right\rangle =-\left\langle {\mathfrak {p}}\right\rangle }
+  
+
+it follows that the expectation value changes sign under inversion.  We used here the fact that 
+  
+    
+      
+        
+          
+            I
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {I}}}
+  
+, being a symmetry operator, is unitary: 
+  
+    
+      
+        
+          
+            
+              I
+            
+          
+          
+            −
+            1
+          
+        
+        =
+        
+          
+            
+              I
+            
+          
+          
+            ∗
+          
+        
+        
+      
+    
+    {\displaystyle {\mathfrak {I}}^{-1}={\mathfrak {I}}^{*}\,}
+  
+ and by definition the Hermitian adjoint 
+  
+    
+      
+        
+          
+            
+              I
+            
+          
+          
+            ∗
+          
+        
+        
+      
+    
+    {\displaystyle {\mathfrak {I}}^{*}\,}
+  
+ may be moved from bra to ket and then becomes 
+  
+    
+      
+        
+          
+            
+              I
+            
+          
+          
+            ∗
+            ∗
+          
+        
+        =
+        
+          
+            I
+          
+        
+        
+      
+    
+    {\displaystyle {\mathfrak {I}}^{**}={\mathfrak {I}}\,}
+  
+. Since the only quantity that is equal to minus itself is the zero, the expectation  value vanishes,
+
+  
+    
+      
+        
+          ⟨
+          
+            
+              p
+            
+          
+          ⟩
+        
+        =
+        0.
+      
+    
+    {\displaystyle \left\langle {\mathfrak {p}}\right\rangle =0.}
+  
+
+In the case of open-shell atoms with degenerate  energy levels, one could define a dipole moment by the aid of the first-order Stark effect. This gives a non-vanishing dipole (by definition proportional to a non-vanishing first-order Stark shift) only if some of the wavefunctions belonging to the degenerate energies have opposite parity; i.e., have different behavior under inversion. This is a rare occurrence, but happens for the excited H-atom, where 2s and 2p states are "accidentally" degenerate (see article Laplace–Runge–Lenz vector for the origin of this degeneracy) and have opposite parity (2s is even and 2p is odd).
+
+Atomic Dipole Moment in QTAIM
+In the Quantum Theory of Atoms in Molecules (QTAIM), an atomic dipole moment is defined from the electron density by partitioning a molecule or crystal into atomic basins bounded by zero-flux surfaces in the gradient vector field of the electron density. The atomic dipole consists of two contributions: (1) the intrinsic polarization of the atomic basin itself, corresponding to the displacement of the electronic charge centroid relative to the nucleus, and (2) a charge-transfer contribution arising from the transfer of electronic charge across interatomic surfaces shared with neighboring atoms. In this manner, the total molecular or crystalline dipole moment is exactly additive, being equal to the sum of all atomic contributions, thereby providing a real-space decomposition of polarization in molecules and solids.
+
+Dipole radiation
+
+In addition to dipoles in electrostatics, it is also common to consider an electric or magnetic dipole that is oscillating in time. It is an extension, or a more physical next-step, to spherical wave radiation.
+In particular, consider a harmonically oscillating electric dipole, with angular frequency ω and a dipole moment p0 along the ẑ direction of the form
+
+  
+    
+      
+        
+          p
+        
+        (
+        
+          r
+        
+        ,
+        t
+        )
+        =
+        
+          p
+        
+        (
+        
+          r
+        
+        )
+        
+          e
+          
+            −
+            i
+            ω
+            t
+          
+        
+        =
+        
+          p
+          
+            0
+          
+        
+        
+          
+            
+              
+                z
+              
+              ^
+            
+          
+        
+        
+          e
+          
+            −
+            i
+            ω
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {p} (\mathbf {r} ,t)=\mathbf {p} (\mathbf {r} )e^{-i\omega t}=p_{0}{\hat {\mathbf {z} }}e^{-i\omega t}.}
+  
+
+In vacuum, the exact field produced by this oscillating dipole can be derived using the retarded potential formulation as:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  E
+                
+              
+              
+                
+                =
+                
+                  
+                    1
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                
+                  [
+                  
+                    
+                      
+                        
+                          ω
+                          
+                            2
+                          
+                        
+                        
+                          
+                            c
+                            
+                              2
+                            
+                          
+                          r
+                        
+                      
+                    
+                    
+                      (
+                      
+                        
+                          
+                            
+                              
+                                r
+                              
+                              ^
+                            
+                          
+                        
+                        ×
+                        
+                          p
+                        
+                      
+                      )
+                    
+                    ×
+                    
+                      
+                        
+                          
+                            r
+                          
+                          ^
+                        
+                      
+                    
+                    +
+                    
+                      (
+                      
+                        
+                          
+                            1
+                            
+                              r
+                              
+                                3
+                              
+                            
+                          
+                        
+                        −
+                        
+                          
+                            
+                              i
+                              ω
+                            
+                            
+                              c
+                              
+                                r
+                                
+                                  2
+                                
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    
+                      (
+                      
+                        3
+                        
+                          
+                            
+                              
+                                r
+                              
+                              ^
+                            
+                          
+                        
+                        
+                          [
+                          
+                            
+                              
+                                
+                                  
+                                    r
+                                  
+                                  ^
+                                
+                              
+                            
+                            ⋅
+                            
+                              p
+                            
+                          
+                          ]
+                        
+                        −
+                        
+                          p
+                        
+                      
+                      )
+                    
+                  
+                  ]
+                
+                
+                  e
+                  
+                    i
+                    ω
+                    (
+                    r
+                    
+                      /
+                    
+                    c
+                    −
+                    t
+                    )
+                  
+                
+              
+            
+            
+              
+                
+                  B
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      ω
+                      
+                        2
+                      
+                    
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                      
+                        c
+                        
+                          3
+                        
+                      
+                    
+                  
+                
+                (
+                
+                  
+                    
+                      
+                        r
+                      
+                      ^
+                    
+                  
+                
+                ×
+                
+                  p
+                
+                )
+                
+                  (
+                  
+                    1
+                    −
+                    
+                      
+                        c
+                        
+                          i
+                          ω
+                          r
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      e
+                      
+                        i
+                        ω
+                        (
+                        r
+                        
+                          /
+                        
+                        c
+                        −
+                        t
+                        )
+                      
+                    
+                    r
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {E} &={\frac {1}{4\pi \varepsilon _{0}}}\left[{\frac {\omega ^{2}}{c^{2}r}}\left({\hat {\mathbf {r} }}\times \mathbf {p} \right)\times {\hat {\mathbf {r} }}+\left({\frac {1}{r^{3}}}-{\frac {i\omega }{cr^{2}}}\right)\left(3{\hat {\mathbf {r} }}\left[{\hat {\mathbf {r} }}\cdot \mathbf {p} \right]-\mathbf {p} \right)\right]e^{i\omega (r/c-t)}\\[1ex]\mathbf {B} &={\frac {\omega ^{2}}{4\pi \varepsilon _{0}c^{3}}}({\hat {\mathbf {r} }}\times \mathbf {p} )\left(1-{\frac {c}{i\omega r}}\right){\frac {e^{i\omega (r/c-t)}}{r}}.\end{aligned}}}
+  
+
+For ⁠rω/c⁠ ≫ 1, the far-field takes the simpler form of a radiating "spherical" wave, but with angular dependence embedded in the cross-product:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  B
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      ω
+                      
+                        2
+                      
+                    
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                      
+                        c
+                        
+                          3
+                        
+                      
+                    
+                  
+                
+                (
+                
+                  
+                    
+                      
+                        r
+                      
+                      ^
+                    
+                  
+                
+                ×
+                
+                  p
+                
+                )
+                
+                  
+                    
+                      e
+                      
+                        i
+                        ω
+                        (
+                        r
+                        
+                          /
+                        
+                        c
+                        −
+                        t
+                        )
+                      
+                    
+                    r
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        ω
+                        
+                          2
+                        
+                      
+                      
+                        μ
+                        
+                          0
+                        
+                      
+                      
+                        p
+                        
+                          0
+                        
+                      
+                    
+                    
+                      4
+                      π
+                      c
+                    
+                  
+                
+                (
+                
+                  
+                    
+                      
+                        r
+                      
+                      ^
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      
+                        z
+                      
+                      ^
+                    
+                  
+                
+                )
+                
+                  
+                    
+                      e
+                      
+                        i
+                        ω
+                        (
+                        r
+                        
+                          /
+                        
+                        c
+                        −
+                        t
+                        )
+                      
+                    
+                    r
+                  
+                
+                =
+                −
+                
+                  
+                    
+                      
+                        ω
+                        
+                          2
+                        
+                      
+                      
+                        μ
+                        
+                          0
+                        
+                      
+                      
+                        p
+                        
+                          0
+                        
+                      
+                    
+                    
+                      4
+                      π
+                      c
+                    
+                  
+                
+                sin
+                ⁡
+                (
+                θ
+                )
+                
+                  
+                    
+                      e
+                      
+                        i
+                        ω
+                        (
+                        r
+                        
+                          /
+                        
+                        c
+                        −
+                        t
+                        )
+                      
+                    
+                    r
+                  
+                
+                
+                  
+                    
+                      ϕ
+                      ^
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  E
+                
+              
+              
+                
+                =
+                c
+                
+                  B
+                
+                ×
+                
+                  
+                    
+                      
+                        r
+                      
+                      ^
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                −
+                
+                  
+                    
+                      
+                        ω
+                        
+                          2
+                        
+                      
+                      
+                        μ
+                        
+                          0
+                        
+                      
+                      
+                        p
+                        
+                          0
+                        
+                      
+                    
+                    
+                      4
+                      π
+                    
+                  
+                
+                sin
+                ⁡
+                (
+                θ
+                )
+                
+                  (
+                  
+                    
+                      
+                        
+                          ϕ
+                          ^
+                        
+                      
+                    
+                    ×
+                    
+                      
+                        
+                          r
+                          ^
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      e
+                      
+                        i
+                        ω
+                        (
+                        r
+                        
+                          /
+                        
+                        c
+                        −
+                        t
+                        )
+                      
+                    
+                    r
+                  
+                
+                =
+                −
+                
+                  
+                    
+                      
+                        ω
+                        
+                          2
+                        
+                      
+                      
+                        μ
+                        
+                          0
+                        
+                      
+                      
+                        p
+                        
+                          0
+                        
+                      
+                    
+                    
+                      4
+                      π
+                    
+                  
+                
+                sin
+                ⁡
+                (
+                θ
+                )
+                
+                  
+                    
+                      e
+                      
+                        i
+                        ω
+                        (
+                        r
+                        
+                          /
+                        
+                        c
+                        −
+                        t
+                        )
+                      
+                    
+                    r
+                  
+                
+                
+                  
+                    
+                      θ
+                      ^
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {B} &={\frac {\omega ^{2}}{4\pi \varepsilon _{0}c^{3}}}({\hat {\mathbf {r} }}\times \mathbf {p} ){\frac {e^{i\omega (r/c-t)}}{r}}\\[0.4ex]&={\frac {\omega ^{2}\mu _{0}p_{0}}{4\pi c}}({\hat {\mathbf {r} }}\times {\hat {\mathbf {z} }}){\frac {e^{i\omega (r/c-t)}}{r}}=-{\frac {\omega ^{2}\mu _{0}p_{0}}{4\pi c}}\sin(\theta ){\frac {e^{i\omega (r/c-t)}}{r}}{\hat {\boldsymbol {\phi }}}\\[1ex]\mathbf {E} &=c\mathbf {B} \times {\hat {\mathbf {r} }}\\[0.4ex]&=-{\frac {\omega ^{2}\mu _{0}p_{0}}{4\pi }}\sin(\theta )\left({\hat {\boldsymbol {\phi }}}\times \mathbf {\hat {r}} \right){\frac {e^{i\omega (r/c-t)}}{r}}=-{\frac {\omega ^{2}\mu _{0}p_{0}}{4\pi }}\sin(\theta ){\frac {e^{i\omega (r/c-t)}}{r}}{\hat {\boldsymbol {\theta }}}.\end{aligned}}}
+  
+
+The time-averaged Poynting vector
+
+  
+    
+      
+        ⟨
+        
+          S
+        
+        ⟩
+        =
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                p
+                
+                  0
+                
+                
+                  2
+                
+              
+              
+                ω
+                
+                  4
+                
+              
+            
+            
+              32
+              
+                π
+                
+                  2
+                
+              
+              c
+            
+          
+        
+        
+        
+          
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              θ
+              )
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              r
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \langle \mathbf {S} \rangle ={\frac {\mu _{0}p_{0}^{2}\omega ^{4}}{32\pi ^{2}c}}\,{\frac {\sin ^{2}(\theta )}{r^{2}}}\mathbf {\hat {r}} }
+  
+
+is not distributed isotropically, but concentrated around the directions lying perpendicular to the dipole moment, as a result of the non-spherical electric and magnetic waves. In fact, the spherical harmonic function (sin θ) responsible for such toroidal angular distribution is precisely the l = 1 "p" wave.
+The total time-average power radiated by the field can then be derived from the Poynting vector as
+
+  
+    
+      
+        P
+        =
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                ω
+                
+                  4
+                
+              
+              
+                p
+                
+                  0
+                
+                
+                  2
+                
+              
+            
+            
+              12
+              π
+              c
+            
+          
+        
+        .
+      
+    
+    {\displaystyle P={\frac {\mu _{0}\omega ^{4}p_{0}^{2}}{12\pi c}}.}
+  
+
+Notice that the dependence of the power on the fourth power of the frequency of the radiation is in accordance with the Rayleigh scattering, and the underlying effects why the sky consists of mainly blue colour.
+A circular polarized dipole is described as a superposition of two linear dipoles.
+
+See also
+
+Notes
+
+References
+
+External links
+USGS Geomagnetism Program
+Fields of Force Archived 2010-12-14 at the Wayback Machine: a chapter from an online textbook
+Electric Dipole Potential by Stephen Wolfram and Energy Density of a Magnetic Dipole by Franz Krafft. Wolfram Demonstrations Project.
+
+[[Electric dipole moment]] [[Quadrupole]]

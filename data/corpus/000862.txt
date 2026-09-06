@@ -1,0 +1,1316 @@
+Quadrupole
+A quadrupole or quadrapole is one of a sequence of configurations of things like electric charge or current, magnetic fields, or gravitational mass that can exist in their ideal forms but are usually just part of a multipole expansion of a more complex structure reflecting various orders of complexity.
+
+Mathematical definition
+The quadrupole moment tensor Q is a rank-two tensor—3×3 matrix. There are several definitions, but it is normally stated in the traceless form (i.e. 
+  
+    
+      
+        
+          Q
+          
+            x
+            x
+          
+        
+        +
+        
+          Q
+          
+            y
+            y
+          
+        
+        +
+        
+          Q
+          
+            z
+            z
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle Q_{xx}+Q_{yy}+Q_{zz}=0}
+  
+). The quadrupole moment tensor has thus nine components, but because of transposition symmetry and the zero-trace property, in this form only five of these are independent.
+For a discrete system of 
+  
+    
+      
+        ℓ
+      
+    
+    {\displaystyle \ell }
+  
+ point charges or masses in the case of a gravitational quadrupole, each with charge 
+  
+    
+      
+        
+          q
+          
+            ℓ
+          
+        
+      
+    
+    {\displaystyle q_{\ell }}
+  
+, or mass 
+  
+    
+      
+        
+          m
+          
+            ℓ
+          
+        
+      
+    
+    {\displaystyle m_{\ell }}
+  
+, and position 
+  
+    
+      
+        
+          
+            r
+          
+          
+            ℓ
+          
+        
+        =
+        
+          (
+          
+            
+              r
+              
+                x
+                ℓ
+              
+            
+            ,
+            
+              r
+              
+                y
+                ℓ
+              
+            
+            ,
+            
+              r
+              
+                z
+                ℓ
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \mathbf {r} _{\ell }=\left(r_{x\ell },r_{y\ell },r_{z\ell }\right)}
+  
+ relative to the coordinate system origin,  the components of the Q matrix are defined by:
+
+  
+    
+      
+        
+          Q
+          
+            i
+            j
+          
+        
+        =
+        
+          ∑
+          
+            ℓ
+          
+        
+        
+          q
+          
+            ℓ
+          
+        
+        
+          (
+          
+            3
+            
+              r
+              
+                i
+                ℓ
+              
+            
+            
+              r
+              
+                j
+                ℓ
+              
+            
+            −
+            
+              
+                ‖
+                
+                  
+                    r
+                  
+                  
+                    ℓ
+                  
+                
+                ‖
+              
+              
+                2
+              
+            
+            
+              δ
+              
+                i
+                j
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle Q_{ij}=\sum _{\ell }q_{\ell }\left(3r_{i\ell }r_{j\ell }-\left\|\mathbf {r} _{\ell }\right\|^{2}\delta _{ij}\right).}
+  
+
+The indices 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+  
+ run over the Cartesian coordinates 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+      
+    
+    {\displaystyle x,y,z}
+  
+ and 
+  
+    
+      
+        
+          δ
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle \delta _{ij}}
+  
+ is the Kronecker delta.  This means that 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+      
+    
+    {\displaystyle x,y,z}
+  
+ must be equal, up to sign, to distances from the point to 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ mutually perpendicular hyperplanes for the Kronecker delta to equal 1.
+In the non-traceless form, the quadrupole moment is sometimes stated as:
+
+  
+    
+      
+        
+          Q
+          
+            i
+            j
+          
+        
+        =
+        
+          ∑
+          
+            ℓ
+          
+        
+        
+          q
+          
+            ℓ
+          
+        
+        
+          r
+          
+            i
+            ℓ
+          
+        
+        
+          r
+          
+            j
+            ℓ
+          
+        
+      
+    
+    {\displaystyle Q_{ij}=\sum _{\ell }q_{\ell }r_{i\ell }r_{j\ell }}
+  
+
+with this form seeing some usage in the literature regarding the fast multipole method. Conversion between these two forms can be easily achieved using a detracing operator.
+For a continuous system with charge density, or mass density, 
+  
+    
+      
+        ρ
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle \rho (x,y,z)}
+  
+, the components of Q are defined by integral over the Cartesian space r:
+
+  
+    
+      
+        
+          Q
+          
+            i
+            j
+          
+        
+        =
+        ∫
+        
+        ρ
+        (
+        
+          r
+        
+        )
+        
+          (
+          
+            3
+            
+              r
+              
+                i
+              
+            
+            
+              r
+              
+                j
+              
+            
+            −
+            
+              
+                ‖
+                
+                  r
+                
+                ‖
+              
+              
+                2
+              
+            
+            
+              δ
+              
+                i
+                j
+              
+            
+          
+          )
+        
+        
+        
+          d
+          
+            3
+          
+        
+        
+          r
+        
+      
+    
+    {\displaystyle Q_{ij}=\int \,\rho (\mathbf {r} )\left(3r_{i}r_{j}-\left\|\mathbf {r} \right\|^{2}\delta _{ij}\right)\,d^{3}\mathbf {r} }
+  
+
+As with any multipole moment, if a lower-order moment, monopole or dipole in this case, is non-zero, then the value of the quadrupole moment depends on the choice of the coordinate origin.  For example, a dipole of two opposite-sign, same-strength point charges, which has no monopole moment, can have a nonzero quadrupole moment if the origin is shifted away from the center of the configuration exactly between the two charges; or the quadrupole moment can be reduced to zero with the origin at the center.  In contrast, if the monopole and dipole moments vanish, but the quadrupole moment does not, e.g. four same-strength charges, arranged in a square, with alternating signs, then the quadrupole moment is coordinate independent.
+If each charge is the source of a "
+  
+    
+      
+        1
+        
+          /
+        
+        r
+      
+    
+    {\displaystyle 1/r}
+  
+ potential" field, like the electric or gravitational field, the contribution to the field's potential from the quadrupole moment is:
+
+  
+    
+      
+        
+          V
+          
+            q
+          
+        
+        (
+        
+          R
+        
+        )
+        =
+        
+          
+            k
+            
+              
+                |
+              
+              
+                R
+              
+              
+                
+                  |
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+            ,
+            j
+          
+        
+        
+          
+            1
+            2
+          
+        
+        
+          Q
+          
+            i
+            j
+          
+        
+        
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            j
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle V_{\text{q}}(\mathbf {R} )={\frac {k}{|\mathbf {R} |^{3}}}\sum _{i,j}{\frac {1}{2}}Q_{ij}\,{\hat {R}}_{i}{\hat {R}}_{j}\ ,}
+  
+
+where R is a vector with origin in the system of charges and R̂ is the unit vector in the direction of R. That is to say, 
+  
+    
+      
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\hat {R}}_{i}}
+  
+ for 
+  
+    
+      
+        i
+        =
+        x
+        ,
+        y
+        ,
+        z
+      
+    
+    {\displaystyle i=x,y,z}
+  
+ are the Cartesian components of the unit vector pointing from the origin to the field point. Here, 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+ is a constant that depends on the type of field, and the units being used.
+
+Examples
+
+Electric quadrupole
+A simple example of an electric quadrupole consists of alternating positive and negative charges, arranged on the corners of a square.  The monopole moment—the total charge—of this arrangement is zero.  Similarly, the dipole moment is zero, regardless of the coordinate origin that has been chosen. A consequence of this is that a quadrupole in a uniform field experiences neither a net force nor a net torque, although it can experience a net force or torque in a non-uniform field depending on the field gradients at the different charge sites. As opposed to the monopole and dipole moments, the quadrupole moment of the arrangement in the diagram cannot be reduced to zero, regardless of where we place the coordinate origin.  The electric potential of an electric charge quadrupole is given by
+
+  
+    
+      
+        
+          V
+          
+            q
+          
+        
+        (
+        
+          R
+        
+        )
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        
+          
+            1
+            
+              
+                |
+              
+              
+                R
+              
+              
+                
+                  |
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+            ,
+            j
+          
+        
+        
+          
+            1
+            2
+          
+        
+        
+          Q
+          
+            i
+            j
+          
+        
+        
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            j
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle V_{\text{q}}(\mathbf {R} )={\frac {1}{4\pi \varepsilon _{0}}}{\frac {1}{|\mathbf {R} |^{3}}}\sum _{i,j}{\frac {1}{2}}Q_{ij}\,{\hat {R}}_{i}{\hat {R}}_{j}\ ,}
+  
+
+where 
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+  
+ is the electric permittivity, and 
+  
+    
+      
+        
+          Q
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle Q_{ij}}
+  
+ follows the definition above.
+Alternatively, other sources include the factor of one half in the 
+  
+    
+      
+        
+          Q
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle Q_{ij}}
+  
+ tensor itself, such that:
+
+  
+    
+      
+        
+          Q
+          
+            i
+            j
+          
+        
+        =
+        ∫
+        
+        ρ
+        (
+        
+          r
+        
+        )
+        
+          (
+          
+            
+              
+                3
+                2
+              
+            
+            
+              r
+              
+                i
+              
+            
+            
+              r
+              
+                j
+              
+            
+            −
+            
+              
+                1
+                2
+              
+            
+            
+              
+                ‖
+                
+                  r
+                
+                ‖
+              
+              
+                2
+              
+            
+            
+              δ
+              
+                i
+                j
+              
+            
+          
+          )
+        
+        
+        
+          d
+          
+            3
+          
+        
+        
+          r
+        
+        ,
+      
+    
+    {\displaystyle Q_{ij}=\int \,\rho (\mathbf {r} )\left({\frac {3}{2}}r_{i}r_{j}-{\frac {1}{2}}\left\|\mathbf {r} \right\|^{2}\delta _{ij}\right)\,d^{3}\mathbf {r} ,}
+  
+
+and
+
+  
+    
+      
+        
+          V
+          
+            q
+          
+        
+        (
+        
+          R
+        
+        )
+        =
+        
+          
+            1
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        
+          
+            1
+            
+              
+                |
+              
+              
+                R
+              
+              
+                
+                  |
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+            ,
+            j
+          
+        
+        
+          Q
+          
+            i
+            j
+          
+        
+        
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            j
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle V_{\text{q}}(\mathbf {R} )={\frac {1}{4\pi \varepsilon _{0}}}{\frac {1}{|\mathbf {R} |^{3}}}\sum _{i,j}Q_{ij}\,{\hat {R}}_{i}{\hat {R}}_{j}\ ,}
+  
+
+which makes more explicit the connection to Legendre polynomials which result from the multipole expansion, namely here 
+  
+    
+      
+        
+          P
+          
+            2
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            3
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          
+            1
+            2
+          
+        
+        .
+      
+    
+    {\textstyle P_{2}(x)={\frac {3}{2}}x^{2}-{\frac {1}{2}}.}
+  
+
+In atomic nuclei the electric quadrupole moment is used as a measure of the nucleus' obliquity, with the quadrupole moment in the nucleus given by
+
+  
+    
+      
+        Q
+        ≡
+        
+          
+            1
+            e
+          
+        
+        ∫
+        
+          r
+          
+            2
+          
+        
+        (
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        θ
+        )
+        −
+        1
+        )
+        ρ
+        (
+        
+          r
+        
+        )
+        
+        
+          d
+          
+            3
+          
+        
+        
+          r
+        
+      
+    
+    {\displaystyle Q\equiv {\frac {1}{e}}\int r^{2}(\cos ^{2}(\theta )-1)\rho (\mathbf {r} )\,d^{3}\mathbf {r} }
+  
+
+where 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  
+ is the position within the nucleus and 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ gives the charge density at 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+  
+.
+An electric field constructed using four metal rods with an applied voltage forms the basis for the quadrupole mass analyzer, in which the electric field separates ions based on their mass-to-charge ratio (m/z).
+
+Magnetic quadrupole
+
+All known magnetic sources give dipole fields. However, it is possible to make a magnetic quadrupole by placing four identical bar magnets perpendicular to each other such that the north pole of one is next to the south of the other. Such a configuration cancels the dipole moment and gives a quadrupole moment, and its field will decrease at large distances faster than that of a dipole.
+An example of a magnetic quadrupole, involving permanent magnets, is depicted on the right. Electromagnets of similar conceptual design (called quadrupole magnets) are commonly used to focus beams of charged particles in particle accelerators and beam transport lines, a method known as strong focusing.  As a given quadrupole configuration deflects charged particles in one direction and focuses them in another, by using alternating quadrupole magnets a particle beam can be made to focus in the direction of travel. There are four steel pole tips, two opposing magnetic north poles and two opposing magnetic south poles. The steel is magnetized by a large electric current that flows in the coils of tubing wrapped around the poles.
+A changing magnetic quadrupole moment produces electromagnetic radiation.
+
+Gravitational quadrupole
+The mass quadrupole is analogous to the electric charge quadrupole, where the charge density is simply replaced by the mass density and a negative sign is added because the masses are always positive and the force is attractive. The gravitational potential is then expressed as:
+
+  
+    
+      
+        
+          V
+          
+            q
+          
+        
+        (
+        
+          R
+        
+        )
+        =
+        −
+        
+          
+            G
+            
+              2
+              
+                |
+              
+              
+                R
+              
+              
+                
+                  |
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+            ,
+            j
+          
+        
+        
+          Q
+          
+            i
+            j
+          
+        
+        
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            i
+          
+        
+        
+          
+            
+              
+                R
+                ^
+              
+            
+          
+          
+            j
+          
+        
+         
+        .
+      
+    
+    {\displaystyle V_{\text{q}}(\mathbf {R} )=-{\frac {G}{2|\mathbf {R} |^{3}}}\sum _{i,j}Q_{ij}\,{\hat {R}}_{i}{\hat {R}}_{j}\ .}
+  
+
+For example, because the Earth is rotating, it is oblate (flattened at the poles). This gives it a nonzero quadrupole moment. While the contribution to the Earth's gravitational field from this quadrupole is extremely important for artificial satellites close to Earth, it is less important for the Moon because the 
+  
+    
+      
+        
+          1
+        
+        
+          /
+        
+        
+          
+            |
+          
+          
+            R
+          
+          
+            
+              |
+            
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {1}/{|\mathbf {R} |^{3}}}
+  
+ term falls quickly.
+The mass quadrupole moment is also important in general relativity because, if it changes in time, it can produce gravitational radiation, similar to the electromagnetic radiation produced by oscillating electric or magnetic dipoles and higher multipoles. However, only quadrupole and higher moments can radiate gravitationally. The mass monopole represents the total mass-energy in a system, which is conserved—thus it gives off no radiation. Similarly, the mass dipole corresponds to the center of mass of a system and its first derivative represents momentum which is also a conserved quantity so the mass dipole also emits no radiation. The mass quadrupole, however, can change in time, and is the lowest-order contribution to gravitational radiation. Because only the mass multipole moments above the dipole moment can contribute to gravitational radiation, gravitational radiation is significantly weaker in magnitude to electromagnetic radiation. The magnitude of the gravitational radiation, or gravitational wave, can be described by Einstein's quadrupole formula.
+The simplest and most important example of a radiating system is a pair of mass points with equal masses orbiting each other on a circular orbit, an approximation to e.g. special case of binary black holes. Since the dipole moment is constant, we can for convenience place the coordinate origin right between the two points. Then the dipole moment will be zero, and if we also scale the coordinates so that the points are at unit distance from the center, in opposite direction, the system's quadrupole moment will then simply be
+
+  
+    
+      
+        
+          Q
+          
+            i
+            j
+          
+        
+        =
+        M
+        
+          (
+          
+            3
+            
+              x
+              
+                i
+              
+            
+            
+              x
+              
+                j
+              
+            
+            −
+            
+              |
+            
+            
+              x
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            
+              δ
+              
+                i
+                j
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle Q_{ij}=M\left(3x_{i}x_{j}-|\mathbf {x} |^{2}\delta _{ij}\right)}
+  
+
+where M is the mass of each point, 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  
+ are components of the (unit) position vector of one of the points, and 
+  
+    
+      
+        
+          
+            δ
+            
+              i
+              j
+            
+          
+        
+      
+    
+    {\displaystyle \displaystyle \delta _{ij}}
+  
+ is the Kronecker delta. As they orbit, this x-vector will rotate, which means that it will have a non-zero first, and also a non-zero second time derivative (this is of course true regardless the choice of the coordinate system). Therefore, the system will radiate gravitational waves. Energy lost in this way was first observed in the changing period of the Hulse–Taylor binary, a pulsar in orbit with another neutron star of similar mass.
+Just as electric charge and current multipoles contribute to the electromagnetic field, mass and mass-current multipoles contribute to the gravitational field in general relativity, causing the so-called gravitomagnetic effects. Changing mass-current multipoles can also give off gravitational radiation. However, contributions from the current multipoles will typically be much smaller than that of the mass quadrupole.
+
+Generalization: higher multipoles
+An extreme generalization ("point octopole") would be: Eight alternating point charges at the eight corners of a parallelepiped, e.g., of a cube with edge length a. The "octopole moment" of this arrangement would correspond, in the "octopole limit" 
+  
+    
+      
+        
+          lim
+          
+            a
+            →
+            0
+          
+        
+        
+          
+            a
+            
+              3
+            
+          
+          ⋅
+          Q
+        
+        →
+        
+          const. 
+        
+      
+    
+    {\textstyle \lim _{a\to 0}{a^{3}\cdot Q}\to {\text{const. }}}
+  
+ to a nonzero diagonal tensor of order three. Still higher multipoles, e.g. of order 
+  
+    
+      
+        
+          2
+          
+            ℓ
+          
+        
+      
+    
+    {\displaystyle 2^{\ell }}
+  
+, would be obtained by dipolar (quadrupolar, octopolar, ...) arrangements of point dipoles (quadrupoles, octopoles, ...), not point monopoles, of lower order, e.g., 
+  
+    
+      
+        
+          2
+          
+            ℓ
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle 2^{\ell -1}}
+  
+.
+
+See also
+
+References
+
+External links
+Multipole expansion
+
+[[Dipole]] [[Electric dipole moment]] [[Electric potential]]

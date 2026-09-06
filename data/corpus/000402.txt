@@ -1,0 +1,19 @@
+Electoral precinct
+A precinct or voting district (U.S. terms), polling district (UK term) or polling division (Canadian term), is a subdivision of an electoral district, typically a contiguous area within which all electors go to a single polling place to cast their ballots.
+
+Canada
+In elections in Canada, the area is called a polling division. Canadian political parties do not have elections for positions representing the voters in a polling division, although parties may assign volunteers to canvass a poll, or to be an outside scrutineer pulling the vote (i.e. reminding supporters to go to vote) on Election Day or an advance polling day, or to be an inside scrutineer in the polling station noting who has come to vote so that can be communicated to an outside scrutineer.
+
+United Kingdom
+In elections in the United Kingdom, this subdivision is known as a polling district. It is typically a subdivision of a ward and the polling station for the voters within that polling district can be found within it. However, in urban areas where distances are short, the polling station for that district may for practical reasons be located in a neighbouring district, sharing polling place with that district's polling station. The UK polling districts are usually the same, regardless of type of election.
+
+United States
+In the United States, an electoral precinct or voting district is the smallest unit into which electoral districts are divided. A larger geographic unit such as a county, township, or city council district is typically subdivided into precincts and each address is assigned to a specific precinct. Each precinct has a specific polling station where its residents go to vote; however, more than one precinct may use the same polling station. 
+A 2004 survey by the United States Election Assistance Commission reported an average precinct size in the United States of approximately 1,100 registered voters. Kansas had the smallest average precinct size with 437 voters per precinct, while the District of Columbia had the largest average size at 2,704 voters per precinct.
+The 2020 survey by the United States Election Assistance Commission found a total of 176,933 precincts or precinct equivalents in the United States, of which 175,441 were in the 50 states plus the District of Columbia and 1,492 were in overseas U.S. territories.
+Electoral precincts usually do not have separate governmental authorities, but there are limited exceptions in some states. In Ohio, the voters within a precinct may vote on liquor control laws that will apply only within that precinct (called "local option elections"). When precinct boundaries are redrawn during redistricting, the result of the vote continues to bind the areas that were formerly inside the precinct's boundaries, although it does not bind any areas that have been newly added to the precinct since the vote. In addition, in Alabama, in those counties that have not abolished the constable system, constables are elected from individual electoral precincts.
+In a political party, individuals, known by various titles such as precinct committeeman, precinct captain, or Precinct Committee Officer, are elected by ballot or county party executive committee, to represent precinct residents in every level of party operations. They report to the party on how the voters in a precinct feel about candidates and issues, and encourage people to vote.
+
+References
+
+[[Absentee ballot]] [[Abstention]] [[Ballot]] [[Ballot box]] [[Binomial voting system]] [[Biometric voter registration]] [[Candidate]] [[Carousel voting]] [[Coattail effect]] [[Compulsory voting]] [[Cumulative voting]] [[Donkey vote]] [[Early voting]] [[Election Assistance Commission]] [[Election boycott]] [[Election ink]] [[Elections in the United States]] [[Electoral district]] [[Electoral fraud]] [[Electronic voting]] [[Family voting]] [[First-past-the-post voting]] [[General ticket]]

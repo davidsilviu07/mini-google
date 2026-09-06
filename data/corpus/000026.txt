@@ -1,0 +1,70 @@
+Adobe InDesign
+Adobe InDesign is a desktop publishing and page layout designing software application produced by Adobe and first released in 1999. It can be used to create works such as posters, flyers, brochures, magazines, newspapers, presentations, books and ebooks. InDesign can also publish content suitable for tablet devices in conjunction with Adobe Digital Publishing Suite. Graphic designers and production artists are the principal users.
+InDesign is the successor to PageMaker, which Adobe acquired by buying Aldus Corporation in late 1994. (Freehand, Aldus's competitor to Adobe Illustrator, was licensed from Altsys, the maker of Fontographer.) By 1998, PageMaker had lost much of the professional market to the comparatively feature-rich QuarkXPress version 3.3, released in 1992, and version 4.0, released in 1996. In 1999, Quark announced its offer to buy Adobe and to divest the combined company of PageMaker to avoid problems under United States antitrust law. Adobe declined Quark's offer and continued to develop a new desktop publishing application. Aldus had begun developing a successor to PageMaker, code-named "Shuksan". Later, Adobe code-named the project "K2", and Adobe released InDesign 1.0 in 1999.
+InDesign exports documents in Adobe's Portable Document Format (PDF) and supports multiple languages. It was the first DTP application to support Unicode character sets, advanced typography with OpenType fonts, advanced transparency features, layout styles, optical margin alignment, and cross-platform scripting with JavaScript. Later versions of the software introduced new file formats. To support the new features, especially typography, introduced with InDesign CS, the program and its document format are not backward-compatible. Instead, InDesign CS2 introduced the INX (.inx) format, an XML-based document representation, to allow backward compatibility with future versions. InDesign CS versions updated with the 3.1 April 2005 update can read InDesign CS2-saved files exported to the .inx format. The InDesign Interchange format does not support versions earlier than InDesign CS. With InDesign CS4, Adobe replaced INX with InDesign Markup Language (IDML), another XML-based document representation.
+InDesign was the first native Mac OS X publishing software. With the third major version, InDesign CS, Adobe increased InDesign's distribution by bundling it with Adobe Photoshop, Adobe Illustrator, and Adobe Acrobat in Adobe Creative Suite. Adobe developed InDesign CS3 (and Creative Suite 3) as universal binary software compatible with native Intel and PowerPC Macs in 2007, two years after the announced 2005 schedule, inconveniencing early adopters of Intel-based Macs. Adobe CEO Bruce Chizen said, "Adobe will be first with a complete line of universal applications."
+
+File format
+
+The MIME type is not official
+
+File Open formats: indd, indl, indt, indb, inx, idml, pmd, xqx
+New File formats: indd, indl, indb
+File Save As formats: indd, indt
+Save file format for InCopy:
+icma (Assignment file)
+icml (Content file, Exported file)
+icap (Package for InCopy)
+idap (Package for InDesign)
+File Export formats: pdf, idml, icml, eps, jpg, txt, XML, rtf
+
+Versions
+Newer versions can, as a rule, open files created by older versions, but the reverse is not true. Current versions can export the InDesign file as an IDML file (InDesign Markup Language), which can be opened by InDesign versions from CS4 upwards; older versions from CS4 down can export to an INX file (InDesign Interchange format).
+
+Server version
+
+In October 2005, Adobe released InDesign Server CS2, a modified version of InDesign (without a user interface) for Windows and Macintosh server platforms. It does not provide any editing client; rather, it is for use by developers in creating client-server solutions with the InDesign plug-in technology. In March 2007 Adobe officially announced Adobe InDesign CS3 Server as part of the Adobe InDesign family.
+
+Features
+Paragraph styles are an essential tool for designers when working with text in Adobe InDesign. Despite their menacing appearance, they are straightforward to operate. Other features that make InDesign a good tool for working with text and paragraphs include:
+
+Creating frames and shapes
+Aligning objects with grids and guides
+Manipulating objects
+Organizing objects
+Importing text
+Formatting text
+Spell checking
+Importing images
+Parent pages (formerly master pages)
+Paragraph styles
+
+Internationalization and localization
+InDesign Middle Eastern editions have unique settings for laying out Arabic or Hebrew text. They feature:
+
+Text settings: Special settings for laying out Arabic or Hebrew text, such as:
+Ability to use Arabic, Persian or Hindi digits;
+Use kashidas for letter spacing and full justification;
+Ligature option;
+Adjust the position of diacritics, such as vowels of the Arabic script;
+Justify text in three possible ways: Standard, Arabic, Naskh;
+Option to insert special characters, including Geresh, Gershayim, Maqaf for Hebrew and Kashida for Arabic texts;
+Apply standard, Arabic, or Hebrew styles for page, paragraph, and footnote numbering.
+Bi-directional text flow: Right-to-left behavior applies to several objects: Story, paragraph, character, and table. It allows mixing right-to-left and left-to-right words, paragraphs, and stories in a document. Changing the direction of neutral characters (e.g., / or ?) is possible according to the user's keyboard language.
+Table of contents: Provides a table of contents titles, one for each supported language. This table is sorted according to the chosen language. InDesign CS4 Middle Eastern versions allow users to select the language of the index title and cross-references.
+Indices: This allows the creation of a simple keyword index or a somewhat more detailed index of the information in the text using embedded indexing codes. Unlike more sophisticated programs, InDesign cannot insert character style information as part of an index entry (e.g., when indexing book, journal, or movie titles). Indices are limited to four levels (the top level and three sub-levels). Like tables of contents, indices can be sorted according to the selected language.
+Importing and exporting: Can import QuarkXPress files up to version 4.1 (1999), even using Arabic XT, Arabic Phonyx, or Hebrew XPressWay fonts, retaining the layout and content. Includes 50 import/export filters, including a Microsoft Word 97-98-2000 import filter and a plain text import filter. Exports IDML files can be read by QuarkXPress 2017.
+Reverse layout: Include a reverse layout feature to reverse the layout of a document when converting a left-to-right document to a right-to-left one or vice versa.
+Complex script rendering: InDesign supports Unicode character encoding, and Middle Eastern editions support complex text layouts for Arabic and Hebrew complex scripts. The underlying Arabic and Hebrew support is present in the Western editions of InDesign CS4, CS5, CS5.5, and CS6, but the user interface is not exposed, making it difficult to access.
+
+See also
+Comparison of desktop publishing software
+List of desktop publishing software
+
+References
+
+External links
+
+Official website
+
+[[ABBYY FineReader]] [[AbiWord]] [[Adobe Acrobat]] [[Adobe Digital Editions]] [[Adobe RoboHelp]] [[Aldiko]] [[Amazon Kindle]] [[Aozora Bunko]] [[Apple Books]] [[Application software]] [[Atlantis Word Processor]] [[Baen Free Library]] [[Barnes & Noble]] [[Barnes & Noble Nook]] [[Blio]] [[Bluefire Reader]] [[BookWalker]] [[Bookeen]] [[Booktrack]] [[Booktype]] [[Braille e-book]] [[Calibre (software)]] [[Calligra]] [[Collabora Online]] [[Comic book archive]] [[Comparison of e-book formats]] [[Desktop publishing]] [[E-book lending]] [[E-reader]] [[EPUB]] [[EXeLearning]] [[Electronic publishing]] [[EnTourage eDGe]] [[FBReader]] [[Feedbooks]] [[FictionBook]] [[Foliate (software)]] [[Google Play]] [[Google Play Books]] [[Hanlin eReader]] [[HathiTrust]] [[HelpNDoc]] [[IPad]] [[IRiver Story]] [[IStudio Publisher]] [[International Digital Publishing Forum]] [[Jarir Bookstore]] [[Kindle File Format]] [[Kindle Store]] [[Kindle single]] [[Kitabu]] [[Kobo Inc.]] [[Kobo eReader]] [[LaTeX]] [[Lector (software)]] [[Lektz]] [[Lucifox]] [[Magazine]] [[Microsoft Reader]] [[Mobipocket]] [[MuPDF]] [[Newspaper]] [[Okular]] [[Onyx Boox]] [[Open Publication Distribution System]] [[OverDrive Media Console]] [[Oxygen XML Editor]] [[PagePlus]] [[Pages (word processor)]] [[Plastic Logic]] [[PocketBook International]] [[Project Gutenberg Australia]] [[Project Gutenberg Canada]] [[QuarkXPress]] [[Reflowable document]] [[Rocket eBook]] [[Rokomari.com]] [[STDU Viewer]] [[Scrivener (software)]] [[Self-publishing]] [[Semantic publishing]] [[Sigil (application)]] [[Smashwords]] [[Snapplify]] [[SoftBook]] [[Sony Reader]] [[Sumatra PDF]] [[Text file]] [[Timeline of ebooks]] [[Writer2epub]]

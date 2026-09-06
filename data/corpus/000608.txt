@@ -1,0 +1,33 @@
+IStudio Publisher
+iStudio Publisher is a page layout and desktop publishing (DTP) application developed by iStudio Software.
+iStudio Publisher 1.0 was released on 6 January 2009 at the Macworld Conference & Expo in San Francisco.
+The present version, iStudio Publisher 1.5.4, runs on macOS 11 Big Sur, 10.15 Catalina, 10.14 Mojave, and 10.13 High Sierra. iStudio Publisher 1.5.2 is available to run on macOS 10.12 Sierra, and Mac OS X 10.11 El Capitan, 10.10 Yosemite, and 10.9 Mavericks. iStudio Publisher 1.4.1 is available to run on Mac OS X 10.8 Mountain Lion, and 10.7 Lion. iStudio Publisher 1.2.1 is available to run on Mac OS X 10.6 Snow Leopard. iStudio Publisher 1.1.10 is available to run on Mac OS X 10.5 Leopard, and 10.4 Tiger. 
+
+Overview
+iStudio Publisher can be used for the page layout and word processing of brochures, newsletters, booklets, magazines, posters, adverts, reports, essays, greeting cards and many other document types, of any page size, and with the option of spread editing facing pages.
+iStudio Publisher has been designed to simplify desktop publishing and enable users to get started quickly. Users are required to understand one main principle - each element of document content is held by a shape. All shapes act as content containers and can contain any combination of text in columns, text around their outline path, an image, a corner style, a line style, a fill style, a drop shadow and a text runaround ("wraparound"). Users can select and draw standard shapes from the Shape Library, construct shapes using the drawing tools provided, or create default shapes automatically when pasting, dragging in or inserting new content. Inspectors are provided to examine and adjust style and format settings of shapes, text and images.
+iStudio Publisher can export color managed PDF files suitable for use in a prepress workflow for professional print jobs. It can also export to booklet PDF, EPUB or RTF file. iStudio Publisher has an XML based file format and supports Unicode character encoding. Using right-to-left languages, such as Arabic, Persian and Hebrew can be achieved by using RTL Fixer (https://www.rtlfixer.com). Arabic, Hebrew, Indic and East_Asian (CJK) writing systems.
+The official user guide "Introduction to iStudio Publisher" has been produced using iStudio Publisher and can be downloaded from the developer's website in PDF format. Video tutorials and a Rapid Start Guide are also available.
+iStudio Publisher 1.0.4 received a generally favorable review by Macworld on Mar 9, 2009.
+
+Image formats
+The following image file formats can be inserted into iStudio Publisher documents:
+
+See also
+Comparison of desktop publishing software
+List of desktop publishing software
+
+References
+
+External links
+Official website
+
+Reviews
+Appletell (Mar 10): "Appletell reviews iStudio Publisher for Mac OS X" Archived 2010-03-12 at the Wayback Machine
+techradar.com (Oct 09): "c:four iStudio Publisher 1.1 review"
+MacUser (Sep 09): "iStudio Publisher"[link removed]
+Jon Whipple blog (Aug 09): "Laying It All Out"
+AppYourMac (Jun 09): "iStudio Publisher: Desktop Publishing. Simplified."
+Macworld (Mar 09): "iStudio Publisher 1.0.4 Intuitive page layout tool for nonprofessionals"
+
+[[Desktop publishing]] [[EPUB]] [[Magazine]]

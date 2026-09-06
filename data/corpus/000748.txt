@@ -1,0 +1,35 @@
+Napoleon Cybulski
+Napoleon Nikodem Cybulski (Polish pronunciation: [napɔˈlɛɔn t͡sɨˈbulski]; 14 September 1854 – 26 April 1919) was a Polish physiologist and a pioneer of endocrinology and electroencephalography. In 1895, he isolated and identified adrenaline. He is also known for conducting one of the first EEG recordings of the cerebral cortex. He was nominated for the Nobel Prize in Physiology or Medicine three times between 1911–1918.
+
+Life and career
+Napoleon Cybulski was born on 14 September 1854 in Krzywonosy, in the Vilna Governorate of the Russian Empire (present-day Belarus). He came from a Polish-Lithuanian noble family. His father was Józef Napoleon Cybulski, of the Prawdzic coat of arms, and his mother was Marcjanna Cybulska, née Hutorowicz.
+Cybulski graduated from secondary school in Minsk and studied medicine at the Imperial Medical and Surgical Academy (since 1881 called Imperial Military Medical Academy) in Saint Petersburg, Russia. In 1880 he received his physician's diploma cum eximia laude (with the highest distinction). In 1877–1885 he worked there as an assistant in the Department of Physiology under Ivan Tarkhanov. In 1885 he obtained the degree of Doctor of Medicine with a thesis on the velocity of blood flow as detected by a photohemotachometer, a device he had constructed himself. He also carried out research on the influence of the phrenic nerve on the respiration rate and on the larynx and the vagus nerves.
+The same year (1885), he moved to Kraków and became head of the Department of Physiology at the Jagiellonian University. In 1887–1888 and 1895–1896 he served as dean of the Faculty of Medicine and subsequently as rector (1904–1905) and deputy rector (1905–1909) of the university. He was the founder of the Kraków School of Physiology and from 31 October 1891 was an active member of the Academy of Learning. His students included Adolf Beck, Władysław Szymonowicz, Leon Wachholz, Aleksander Rosner, and Stanisław Maziarski.
+He married Julia Rogozińska and opened a dental surgery office in order to satisfy the financial needs of his large family. In 1916 he bought a manor house in Nawojowa Góra. In 1918 he received the Award of the Erazm and Anna Jerzmanowski Foundation bestowed by the Polish Academy of Learning. He was nominated for the Nobel Prize in Physiology or Medicine three times between 1911 and 1918.
+He died 26 April 1919 of stroke in his study in the Department of Physiology at the Jagiellonian University. He was buried at the Rakowicki Cemetery. He was posthumously awarded the Commander's Cross of the Order of Polonia Restituta.
+
+Scientific work
+Napoleon Cybulski is widely regarded as a pioneer of electroencephalography and endocrinology in Poland and the world.
+In 1895, with his pupil Władysław Szymonowicz (1869–1939), he discovered the hormonal interactions of the adrenal medulla and isolated adrenaline. He called the substance nadnerczyna (which in Polish literally means "adrenaline": nadnercze is the Polish for "adrenal gland").
+In 1890 Cybulski carried out one of the first-ever EEG recordings of the cerebral cortex. Working with Adolf Beck (1863–1942), he conducted pioneering research on electroencephalographic waves. Under Cybulski's supervision, Beck made pioneering studies of cerebral-cortex activity in response to peripheral-nerve stimulation in dogs and monkeys, using electrodes placed on the skull to record changes in electric potential. In this way they invalidated William Horsley's notion that these changes reflected the activity of skull muscles. By further analyses of potential changes, they mapped out sensory regions of the cerebral cortex. They also provided evidence that the amplitude of signals depended on the strength and kind of sensory stimulus and on the depth of anesthesia. They suspected that brain function was mediated by neurons' bioelectrical activity. Their studies on brain mapping and nerve stimulation were absolutely innovative, since they were unfamiliar with earlier research done by Richard Caton on changes in bioelectrical activity of the dog brain during sleep, activity, and changes in behavior.
+Again working with Beck, Cybulski showed that every taste sensation in the tongue was caused by a separate kind of receptor. He gave a description of the difference between afferent and efferent impulses entering and leaving the spinal cord based on recordings from dorsal and ventral roots.
+In 1913–1914 Napoleon Cybulski studied the bioelectrical activity of the brain and found changes in the amplitude and rate of cortical electrical activity during an induced seizure. It was 15 years before Hans Berger would discover the EEG and the alpha rhythm.
+Cybulski was one of the first physiologists to register and describe the blood flow linear velocity of the carotid artery and the femoral artery.
+Among his other discoveries was establishing that an increase in intracranial pressure causes disturbances in blood flow to the brain.
+Cybulski authored around 100 medical research papers. He was nominated for the Nobel Prize in 1911, 1914 and 1918.
+He initiated research on hypnosis in Poland. Some of his theses in O hypnotyzmie ze stanowiska fizyjologicznego (On Hypnosis From the Physiological Standpoint) anticipate ideas of Sigmund Freud and make him a precursor of the concept of the unconscious.
+
+Social questions
+Apart from medicine, Cybulski was also interested in a range of social questions and published books and articles such as Czy państwo i społeczeństwo mają obowiązek popierać naukę? (Do the State and Society Have an Obligation to Support Science?, 1895), W sprawie organizacji gospodarstw włościańskich (On the Organization of Peasant Farms, 1896) and Nauka wobec wojny (Science and War, 1918).
+He was a staunch advocate of allowing women to study medicine. In 1896, Cybulski, a pioneering Polish bacteriologist, Odo Bujwid (1857–1942), and social activist Kazimiera Bujwidowa, established the first girls' gimnazjum (secondary school) in Kraków. In 1890, he served as Vice-President of the Falcon Polish Gymnastic Society in Kraków.
+
+See also
+Timeline of Polish science and technology
+
+References
+
+Further reading
+Wołczański J (1996). "[Professor Wladyslaw Szymonowicz (1869-1939). Scientific biography]". Folia Med Cracov. 37 (3–4): 41–9. PMID 9312534.
+Pawlik W, Konturek S, Bilski R (2006). "Napoleon Cybulski - Polish pioneer in developing of the device for measuring blood flow velocity". J Physiol Pharmacol. 57 (Suppl 1): 107–18. PMID 16766802.
+
+[[Adolf Beck (physiologist)]] [[Anesthesia]] [[Cerebral cortex]] [[Electroencephalography]] [[Intracranial pressure]] [[Richard Caton]] [[Seizure]] [[Spinal cord]] [[Stroke]]

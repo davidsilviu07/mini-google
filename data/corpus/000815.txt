@@ -1,0 +1,67 @@
+PagePlus
+PagePlus was a desktop publishing (page layout) program developed by Serif for Microsoft Windows. The first version was released in 1991 as the first commercial sub-£100 DTP package for Microsoft Windows. The final release was PagePlus X9, which was released in November 2015. In June 2019 it was officially replaced by Serif with Affinity Publisher.
+
+History
+PagePlus was first launched in 1990 and was the first sub-£100 desktop publishing program for Windows 3.0. Three years later, in spring 1993, PagePlus 2 was released and provided full colour printing support. Following this release, a new version of the product was released on a roughly annual basis.
+Serif did a complete rewrite of the original program source code for the release of PagePlus version 8. Despite the rewrite, at that time the program name was retained and the version number was simply incremented. Version 8 was able to read data files created in previous versions 1 to 7.
+
+Replacement by Affinity Publisher
+Serif announced that PagePlus X9 was to be the final PagePlus release. The last build issued is v19.0.2.22 from 28 April 2017. Serif ceased further development of all "Plus" products to focus efforts on their 'Affinity' product line.
+Serif began rewriting their DTP software, to allow a multi-platform implementation, and allow new methods of internal program operation with more modern operating systems and current configuration of PCs.
+A public beta of Serif's Affinity Publisher (the closest of the Affinity applications to PagePlus functionality) was launched in August 2018, followed by the first full version of the application in June 2019.
+
+Overview
+While PagePlus was generally targeted at the "entry level" DTP user, some of the functionality present in the market leading applications (Quark's XPress and Adobe's InDesign) is present in PagePlus, such as working in the CMYK colour space, OpenType Feature support, and Optical margin alignment (Optical Justification). PagePlus also has the ability to view, create, edit and publish PDF files, and publish E-books in *.epub or *mobi formats suitable for the Kindle store. It also includes support for EPUB3 fixed layout eBooks for textbooks, children's books etc.
+PagePlus is primarily written in C++ using Visual Studio 2008, with a heavy dependence on the MFC framework. The Windows GDI library was discarded early in development in favour of an in-house composition engine supporting advanced bitmap and typeface operations. The text engine supports Unicode text entry.
+
+Supported platforms
+PagePlus was first developed for 16-bit Microsoft Windows v3.0 running on PC/MS DOS but the final releases support Windows XP, Windows Vista (32/64bit), Windows 7 (32/64bit), Windows 8 (32/64bit) and Windows 10 (32/64bit).
+
+Reception
+Compute! in December 1993 said of PagePlus 2.0, "if you're looking for an inexpensive page-layout program that outshines even the high-end DTP packages, this program is for you". Describing it as "surprisingly powerful", the magazine cited color separation as a feature that FrameMaker and high-end Windows word processors lacked, and superior to Ventura Publisher's equivalent. Compute! also approved of the "completely revamped" documentation. While citing its weak long-document support such as lack of automatic page numbering and table of contents, the magazine concluded that PagePlus "provides almost all the power of PageMaker at a fraction of the cost, and it's far easier to use and learn ... this package will be hard to beat".
+
+Version history
+PagePlus: 1990
+PagePlus 2: 1993
+PagePlus 3: 1994
+PagePlus 4: 1996
+PagePlus 5: 1997 (revised for XP compatibility and reissued in 2002)
+PagePlus 6: 1999
+PagePlus 7: 1 October 2000
+PagePlus 8: 2001
+PagePlus 8: PDF Edition, 9 September 2002
+PagePlus 9: September 2003
+PagePlus 10: 11 October 2004
+PagePlus 11: 3 October 2005
+PagePlus X2: 19 February 2007
+PagePlus X3: 21 April 2008
+PagePlus X4: 11 September 2009
+PagePlus X5: 18 October 2010
+PagePlus X6: 5 December 2011
+PagePlus X7: 3 June 2013
+PagePlus X8: 4 August 2014
+PagePlus X9: 16 November 2015
+
+See also
+Comparison of desktop publishing software
+Desktop publishing
+DrawPlus – vector graphics editor
+List of desktop publishing software
+
+References
+
+Bibliography
+PagePlus official user guide
+
+External links
+Official website 
+The CommunityPlus Forums were closed on 5 July 2022
+Alfred's Serif Users' Forums is a fan-based forum for users of the legacy Serif products
+
+Reviews
+#1 DTP product on TopTenReviews.com
+Affordable Desktop Publishing From Serif – PC Mag
+Comparative Review of Recent Versions
+Review of PagePlus X5 – PC PRO
+
+[[Adobe InDesign]] [[Collabora Online]] [[Desktop publishing]] [[Electronic publishing]] [[IStudio Publisher]] [[Pages (word processor)]] [[QuarkXPress]]

@@ -1,0 +1,75 @@
+Axiomatic system
+In mathematics and logic, an axiomatic system or axiom system is a standard type of deductive logical structure, used also in theoretical computer science. It consists of a set of formal statements known as axioms that are used for the logical deduction of other statements. In mathematics these logical consequences of the axioms may be known as lemmas or theorems. A mathematical theory is an expression used to refer to an axiomatic system and all its derived theorems.
+A proof within an axiomatic system is a sequence of deductive steps that establishes a new statement as a consequence of the axioms. By itself, the system of axioms is, intentionally, a syntactic construct: when axioms are expressed in natural language, which is normal in books and technical papers, the nouns are intended as placeholder words. The use of an axiomatic approach is a move away from informal reasoning, in which nouns may carry real-world semantic values, and towards formal proof. In a fully formal setting, a logical system such as predicate calculus must be used in the proofs. The contemporary application of formal axiomatic reasoning differs from traditional methods both in the exclusion of semantic considerations, and in the specification of the system of logic in use.
+
+The axiomatic method in mathematics
+The reduction of a body of propositions to a particular collection of axioms underlies mathematical research. This dependence was very prominent, and contentious, in the mathematics of the first half of the twentieth century, a period to which some major landmarks of the axiomatic method belong. The probability axioms of Andrey Kolmogorov, from 1933, are a salient example. The approach was sometimes attacked as "formalism", because it cut away parts of the working intuitions of mathematicians, and those applying mathematics. In historical context, this alleged formalism is now discussed as deductivism, still a widespread philosophical approach to mathematics.
+
+Timeline of axiomatic systems to 1900
+
+Major axiomatic systems were developed in the nineteenth century. They included non-Euclidean geometry, Georg Cantor's abstract set theory, and Hilbert's revisionist axioms for Euclidean geometry.
+
+Situation at the beginning of the 20th century
+David Hilbert "was the first who explicitly adopted the axiomatic method as an investigative framework for the study of the foundations of mathematics". For Hilbert, a major foundational issue was the logical status of Cantor's set theory. In his list of 23 unsolved problems in mathematics from 1900, Hilbert made the continuum hypothesis the first problem on the list.
+Hilbert's sixth problem asked for "axiomatization of all branches of science, in which mathematics plays an important part". He had in mind at least major areas in mathematical physics and probability. Of the effect on science, Giorgio Israel has written:
+
+Founded by mathematician Felix Klein ... the Göttingen School, under the influence of David Hilbert, turned its efforts towards ... set theory, functional analysis, quantum mechanics and mathematical logic. It did so by taking on as its methodical principle the axiomatic method that was to revolutionise the science of [the twentieth century], from the theory of probabilities to theoretical physics.
+Israel comments also on cultural resistance, at least in France and Italy, to this "German model" and its international scope. The initial International Congress of Mathematicians had heard the views of Henri Poincaré from France on mathematical physics; Hilbert's list was a submission to the second Congress. The Italian school of algebraic geometry took a different attitude to axiomatic work in theory building and pedagogy.
+
+Timeline of axiomatic systems from 1901
+In the period to 1950, much of pure mathematics received widely-accepted axiomatic foundations. Multiple systems coexisted in axiomatic set theory. Mathematics began to be written in a tighter, less discursive if still informal style.
+On the other hand, the approach associated with Hilbert of regarding the axiomatic method as fundamental came under criticism. Part of L. E. J. Brouwer's critique of Hilbert's entire program resulted in an axiomatisation of intuitionistic propositional logic by Arend Heyting. It allowed constructivism in mathematics to be reconciled with "deductivism", by an exchange of logical calculus, under the title of the Brouwer–Heyting–Kolmogorov interpretation.
+
+Situation at mid-20th century
+Three prominent features of mathematics in 1950 were:
+
+The continuing publication in France by the Bourbaki group of the book series Éléments de mathématique. It aimed at an encyclopedic treatment of foundational concepts.
+A dynamic situation in the foundations of algebraic geometry, following the publication of Foundations of Algebraic Geometry by André Weil.
+Quantum field theory (QFT), which lacked a satisfactory axiomatic foundation.
+
+Axiomatics à la Bourbaki
+The aims of Bourbaki were for a treatment in the large of mathematics, which would be: (a) axiomatic, based down on a stripped-down logical foundation in set theory; (b) in the tradition of Hilbert and the Göttingen School, though excluding the needs of physics and computation; (c) a French reception of current developments. The initial work was carried out in a sharp young Turk reaction against the Cours d'analyse mathématique, a standard text on classical analysis from the beginning of the 20th century, by Édouard Goursat, and in favour of the text Moderne Algebra from the early 1930s on abstract algebra, by Bartel Leendert van der Waerden.
+A pseudonymous paper from 1950, in fact the work of Jean Dieudonné, explained the attitude of Bourbaki to the axiomatic method. The principal advantage of working axiomatically is asserted to lie in "elaboration" of mathematical "forms", or structures; this takes precedence over the foundational work and the clarification of inference. What Dieudonné wrote was of his time, as a departure from Hilbert's approaches, and not yet an arrival at structure in the sense implied by the morphisms of category theory.
+
+Timeline of abstract varieties
+For the purposes of the exposition of his proof of the Riemann hypothesis for curves over finite fields, Weil made use of the Jacobian of a curve, and some results of intersection theory. Since he was working over a field of characteristic p rather than the complex numbers, carrying over the classic results required purely algebraic proofs. Further, he used a construction of the Jacobian as an "abstract variety": an intrinsic mathematical object, rather than a projective algebraic variety found in a complex projective space.
+A generation later, with the publication of the textbook Algebraic Geometry by Robin Hartshorne, "abstract variety" gained a standard definition within scheme theory.
+
+Axiomatic QFT
+Plausible axioms for QFT, the Wightman axioms, were introduced by Arthur Wightman. The need for non-trivial examples for these axioms led to constructive quantum field theory, launched by work of Arthur Jaffe and Oscar Lanford, in doctoral dissertations supervised by Wightman in the mid-1960s.
+
+Discussion of axiomatic systems
+In mathematics, axiomatization is the process of taking a body of knowledge and working backwards towards its axioms. It is the formulation of a system of statements (i.e. axioms) that relate a number of primitive terms — in order that a consistent body of propositions may be derived deductively from these statements. Thereafter, the proof of any proposition should be, in principle, traceable back to these axioms. Axiomatization typically involves choices, and once a theory is axiomatic, it may be possible to change the set of axioms without affecting the mathematical results implied.
+
+Axioms and postulates
+In Ancient Greek logic, a contrast between axioms and postulates was recognised ("postulate" being, however, an English term taken from medieval Latin). It reflected, without being applied consistently, axioms as speaking about primitive notions in a way that should be common ground; and postulates as "requests" or "demands", for the purposes of argument. Aristotle's view was minimalist about postulates.
+From the time of Boole's work in the 1840s, in the algebra of logic tradition, logic itself was developed from "postulates" alone. The minimalist view was taken, by the end of the 19th century, to imply research on independence of axioms. Mathematical elegance was also a consideration. Friedrich Schur criticised the lack of independence of Hilbert's axioms for geometry given in Grundlagen der Geometrie.
+
+Timeline of postulational analysis
+Postulational analysis, according to Susan Stebbing, is what is used "in the construction of a deductive system". It is a term applied to the correcting or adjusting of axiomatic systems. Axioms may be added to, or removed from, the system; they may be strengthened or weakened. It is also possible to change the logical calculus used for deduction.
+
+Properties
+Four important properties of an axiom system are consistency, relative consistency, completeness and independence. An axiomatic system is said to be consistent if it lacks contradiction. That is, it is impossible to derive both a statement and its negation from the system's axioms.
+Consistency is a key requirement for most axiomatic systems, as the presence of contradiction would allow any statement to be proven (principle of explosion).
+Relative consistency comes into play when we can not prove the consistency of an axiom system. However, in some cases we can show that an axiom system A is consistent if another
+axiom set B is consistent. 
+In an axiomatic system, an axiom is called independent if it cannot be proven or disproven from other axioms in the system. A system is called independent if each of its underlying axioms is independent. Unlike consistency, in many cases independence is not a necessary requirement for a functioning axiomatic system — though it is usually sought after to minimize the number of axioms in the system.
+An axiomatic system is called complete if for every statement, either itself or its negation is derivable from the system's axioms, i.e. every statement can be proven true or false by using the axioms. However, note that in some cases it may be undecidable if a statement can be proven or not.
+
+Axioms and models
+A model for an axiomatic system is a formal structure, which assigns meaning for the undefined terms presented in the system, in a manner that is correct with the relations defined in the system. If an axiom system has a model, the axioms are said to have been satisfied. The existence of a model which satisfies an axiom system, proves the consistency of the system.
+Models can also be used to show the independence of an axiom in the system. By constructing a model for a subsystem (without a specific axiom) shows that the omitted axiom is independent if its correctness does not necessarily follow from the subsystem.
+Two models are said to be isomorphic if a one-to-one correspondence can be found between their elements, in a manner that preserves their relationship. An axiomatic system for which every model is isomorphic to another is called categorical or categorial. However, this term should not be confused with the topic of category theory. The property of categoriality (categoricity) ensures the completeness of a system, however the converse is not true: Completeness does not ensure the categoriality (categoricity) of a system, since two models can differ in properties that cannot be expressed by the semantics of the system.
+
+Incompleteness
+If the formal system is not complete not every proof can be traced back to the axioms of the system it belongs. For example, a number-theoretic statement might be expressible in the language of arithmetic (i.e. the language of the Peano axioms) and a proof might be given that appeals to topology or complex analysis. It might not be immediately clear whether another proof can be found that derives itself solely from the Peano axioms.
+
+See also
+
+References
+
+Further reading
+"Axiomatic method", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Eric W. Weisstein, Axiomatic System, From MathWorld—A Wolfram Web Resource. Mathworld.wolfram.com & Answers.com
+
+[[Automata theory]] [[Automated theorem proving]] [[Category theory]] [[Computability theory]] [[Deductive reasoning]] [[Formal language]] [[George Boole]]

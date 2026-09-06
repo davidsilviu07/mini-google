@@ -1,0 +1,41 @@
+Neurophysiological Biomarker Toolbox
+The  Neurophysiological Biomarker Toolbox (NBT) is an open source MATLAB toolbox for the computation and integration of neurophysiological biomarkers (e.g.,  biomarkers based on EEG or MEG recordings). The NBT toolbox has so far been used in seven peer-reviewed research articles, and has a broad user base of more than 1000 users. The NBT toolbox provides unique features for analysis of resting-state EEG or MEG recordings.
+NBT offers a pipeline from data storage to statistics including artifact rejection, signal visualization, biomarker computation, statistical testing, and biomarker databasing. NBT allows for easy implementation of new biomarkers, and incorporates an online wiki (the NBTwiki) that aims at facilitating collaboration among NBT users including extensive help and tutorials. The standardised way of data storage and analysis that NBT proposes allow different research projects to merge, compare, or share their data and biomarker algorithms.
+
+Features
+Neuronal oscillations are generated at many spatial and temporal scales of neuronal organization, and thought to provide a network-level mechanism for the coordination of spatio-temporally distributed spiking activity. For an adequate understanding of quantitative changes in neurophysiological signals, such as electroencephalography (EEG) or magnetoencephalography (MEG), as a consequence of disease, experimental manipulations, or genetic variability there is a need to apply multiple biomarker algorithms.
+The aim of the NBT toolbox is to make biomarker research easier at all levels. From having raw data, cleaning it, calculating biomarkers, to performing advanced statistics.
+The NBT toolbox includes biomarkers, such as:
+
+Standard spectral biomarkers
+Phase locking value
+Detrended fluctuation analysis
+The toolbox has a standard template for how biomarkers should be implemented, which makes it relatively easy to implement new biomarkers. Originally the toolbox was aimed at biomarkers based on EEG or MEG signals, recently however the toolbox has moved towards supporting almost any type of biomarker data.
+The biomarker data and associated meta information is stored in a Matlab-based database; the NBT elements database.
+The NBT toolbox works as a plugin to the open-source Matlab toolbox EEGLAB.
+Commercial EEG analysis mainly targeting large clinical research studies or clinical trials are provided as an service to NBT toolbox by NBT Analytics.
+
+History
+The development of the NBT toolbox was started in 2008 by Simon-Shlomo Poil and Klaus Linkenkaer-Hansen from the VU University Amsterdam, the Netherlands. Later the developer team was joined by Rick Jansen, Richard Hardstone, Sonja Simpraga, and Giuseppina Schiavone. The toolbox has also received contributions from many other people.
+The toolbox and its associated tutorial website has served as a major part of courses at the VU University Amsterdam; such as, the Human Neurophysiology course (with on average 100 students each year), and the advanced human neurophysiology.
+The first public release of the toolbox was made (release candidate R1) on the 18th April 2012. As of March 2014, the toolbox has been downloaded more than 1200 times. The most recent public version of the NBT toolbox is 5.0.2-alpha (released 13 November 2014).
+
+Scientific  publications using the NBT toolbox
+Poil et al., Age dependent electroencephalographic changes in Attention Deficit/Hyperactivity Disorder (ADHD), Clinical Neurophysiology, 2014 
+Poil et al., Integrative EEG biomarkers predict progression to Alzheimer's disease at the MCI stage, Frontiers in Aging Neuroscience, 2013 
+Diaz et al., The Amsterdam Resting-State Questionnaire reveals multiple phenotypes of resting-state cognition, Frontiers in Human Neuroscience, 2013 
+O'Gorman et al., Coupling Between Resting Cerebral Perfusion and EEG, Brain Topography, 2012 
+Hardstone et al., Detrended fluctuation analysis: A scale-free view on neuronal oscillations, Frontiers in Fractal Physiology, 2012 
+
+See also
+
+Other open-source toolboxes for analysis of M/EEG recordings:
+
+EEGLAB
+MNE-Python
+Fieldtrip
+NeuroKit
+
+References
+
+[[Amplitude integrated electroencephalography]] [[Bereitschaftspotential]] [[Brainstem auditory evoked potential]] [[Delta wave]] [[Difference due to memory]] [[EEGLAB]] [[Early left anterior negativity]] [[Electrocorticography]] [[Electroencephalography]] [[Gamma wave]] [[K-complex]] [[Late positive component]] [[Mismatch negativity]] [[Mu wave]] [[N100]] [[N170]] [[N200 (neuroscience)]] [[N2pc]] [[N400 (neuroscience)]] [[Neural oscillation]] [[P200]] [[P3a]] [[P3b]] [[P50 (neuroscience)]] [[P600 (neuroscience)]] [[Sensorimotor rhythm]] [[Sleep spindle]] [[Somatosensory evoked potential]]

@@ -1,0 +1,43 @@
+Autodesk Alias
+Autodesk Alias (formerly known as Alias StudioTools) is a family of computer-aided industrial design (CAID) software predominantly used in automotive design and industrial design for generating class A surfaces  using  Bézier surface and non-uniform rational B-spline (NURBS) modeling method.
+The product is sold specifically as CAID rather than CAD, and its tools and abilities are oriented more towards the "styling" aspect of design - that is to say, the product's housing and outer appearance. It does not go into mechanical detail like other CAD programs such as Siemens NX,  Inventor, CATIA, Creo and SolidWorks.
+
+History
+
+Alias Research
+Alias software was developed by four computer scientists: Stephen Bingham, Nigel McGrath, Susan McKenna and David Springer to create an easy-to-use software package to produce realistic 3D models.
+In 1983, Alias Research was founded at Toronto, Ontario, Canada. Alias unveiled its first product Alias/1 in 1985 at SIGGRAPH '85 in San Francisco.
+Initial versions ran only on Silicon Graphics computers and the Irix operating system, until late in the 1990s when the software was ported to Microsoft Windows. In 2011 Mac versions were launched, which were discontinued in 2019. The company was a leader in high-end 3D graphics software.
+
+Under Silicon Graphics
+In 1995, Alias Research was purchased by Silicon Graphics and merged Wavefront Technologies, another 3D software graphics company founded in 1984 at Santa Barbara, California, to form Alias/Wavefront which was later renamed as Alias Systems Corporation.
+
+Under Autodesk
+On October 4, 2005 Alias was acquired by Autodesk, StudioTools changed its name to Autodesk AliasStudio. It became part of Autodesk in 2006.
+
+Products
+The product suite starts with Alias Design as the entry-level conceptual design system, progressing to Alias Surface, and then to Alias Automotive as the top-of-the-line product with all of the options.
+Tools for sketching, modeling and visualization are combined in one software package. It meets the specialized needs of designers: sketching, freedom to experiment with shape and form, creating organic shapes, visualization for design review, and data exchange with CAD packages.
+As of version 2021, Autodesk Alias was split into separate standalone products:
+
+Autodesk Alias AutoStudio (formerly Autodesk Alias Automotive)
+Autodesk Alias Surface (formerly Autodesk Surface Studio)
+Autodesk Alias Concept ( formerly Autodesk Design Studio)
+
+Usage and application
+
+Autodesk Alias is often used for design and styling in the automotive, marine, aircraft, sporting equipment, packaging electronic enclosure, children's toy, and fashion accessory markets.
+Alias .wire data reads directly into Autodesk Inventor, Autodesk Showcase, Autodesk ImageStudio, Autodesk Maya and Autodesk VRED and It exports into several other 3D engineering packages via IGES or STEP such as Siemens NX, SolidWorks, Creo and CATIA for further downstream detailing and operations.
+The program has two types of modelers within it: NURBS and Subdivision.
+
+See also
+Automotive design
+Product design
+Class A surfaces
+
+References
+
+External links
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

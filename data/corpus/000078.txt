@@ -1,0 +1,178 @@
+Association for Computing Machinery
+The Association for Computing Machinery (ACM) is an international learned society for computing founded on September 15, 1947, and headquartered in New York City. The ACM is a non-profit professional membership group, reporting nearly 110,000 student and professional members as of 2024.
+The ACM is an umbrella organization for academic and scholarly interests in computer science (informatics). Its motto is "Advancing Computing as a Science & Profession".
+
+History
+In 1947, a notice was sent to various people:
+
+On January 10, 1947, at the Symposium on Large-Scale Digital Calculating Machinery at the Harvard computation Laboratory, Professor Samuel H. Caldwell of Massachusetts Institute of Technology spoke of the need for an association of those interested in computing machinery, and of the need for communication between them.
+[...]
+After making some inquiries during May and June, we believe there is ample interest to start an informal association of many of those interested in the new machinery for computing and reasoning. Since there has to be a beginning, we are acting as a temporary committee to start such an association:
+
+E. C. Berkeley, Prudential Insurance Co. of America, Newark, N. J.
+R. V. D. Campbell, Raytheon Manufacturing Co., Waltham, Mass.
+John H. Curtiss, Bureau of Standards, Washington, D.C.
+H. E. Goheen, Office of Naval Research, Boston, Mass.
+J. W. Mauchly, Electronic Control Co., Philadelphia, Pa.
+T. K. Sharpless, Moore School of Elec. Eng., Philadelphia, Pa.
+R. Taylor, Mass. Inst. of Tech., Cambridge, Mass.
+C. B. Tompkins, Engineering Research Associates, Washington, D.C.
+
+The committee (except for Curtiss) had gained experience with computers during World War II: Berkeley, Campbell, and Goheen helped build Harvard Mark I under Howard H. Aiken, Mauchly and Sharpless were involved in building ENIAC, Tompkins had used "the secret Navy code-breaking machines", and Taylor had worked on Bush's Differential analyzers.
+The ACM was then founded on September 15, 1947, under the name Eastern Association for Computing Machinery, which was changed the following year to the Association for Computing Machinery. The ACM History Committee since 2016 has published the A.M.Turing Oral History project, the ACM Key Award Winners Video Series, and the India Industry Leaders Video project.
+
+Activities
+
+ACM is organized into over 180 local professional chapters and 38 Special Interest Groups (SIGs), through which it conducts most of its activities. Additionally, there are over 680 student chapters. The first student chapter was founded in 1961 at the University of Louisiana at Lafayette.
+Many of the SIGs, such as SIGGRAPH, SIGDA, SIGPLAN, SIGCSE and SIGCOMM, sponsor regular conferences, that serve as major publication venues in their respective fields. The groups also publish a large number of specialized journals, magazines, and newsletters.
+ACM also sponsors other computer science related events such as the worldwide ACM International Collegiate Programming Contest (ICPC), and has sponsored some other events such as the chess match between Garry Kasparov and the IBM Deep Blue computer.
+
+Services
+
+Publications
+
+ACM publishes over 50 journals, such as the Journal of the ACM which academic citation metrics rank among the top computer science publications, and two general magazines for computer professionals, Communications of the ACM (also known as Communications or CACM) and Queue.
+Other publications of the ACM include:
+
+ACM XRDS, formerly "Crossroads", was redesigned in 2010 and is the most popular student computing magazine in the US.
+ACM Interactions, an interdisciplinary HCI publication focused on the connections between experiences, people and technology, and the third largest ACM publication.
+ACM Computing Surveys (CSUR)
+Computers in Entertainment (CIE)
+ACM Journal on Emerging Technologies in Computing Systems (JETC)
+ACM Special Interest Group: Computers and Society (SIGCAS)
+A number of journals, specific to subfields of computer science, titled ACM Transactions. Some of the more notable transactions include:
+ACM Transactions on Algorithms (TALG)
+ACM Transactions on Embedded Computing Systems (TECS)
+ACM Transactions on Computer Systems (TOCS)
+IEEE/ACM Transactions on Computational Biology and Bioinformatics now published through the IEEE and entitled IEEE Transactions on Computational Biology and Bioinformatics (TCBB)
+ACM Transactions on Computational Logic (TOCL)
+ACM Transactions on Computer-Human Interaction (TOCHI)
+ACM Transactions on Database Systems (TODS)
+ACM Transactions on Graphics (TOG)
+ACM Transactions on Mathematical Software (TOMS)
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+IEEE/ACM Transactions on Networking (TON)
+ACM Transactions on Programming Languages and Systems (TOPLAS)
+ACM Transactions on Software Engineering and Methodology (TOSEM)
+Games: Research and Practice
+Communications transitioned from publishing primary research to focusing on broader industry perspectives. The publication has featured significant discussions and developments in computing history.
+ACM has made almost all of its publications available to paid subscribers online at its Digital Library and also has a Guide to Computing Literature. ACM also offers insurance, online courses, and other services to its members.
+In 1997, ACM Press published Wizards and Their Wonders: Portraits in Computing (ISBN 0897919602), written by Christopher Morgan, with new photographs by Louis Fabian Bachrach. The book is a collection of historic and current portrait photographs of figures from the computer industry.
+
+Portal and Digital Library
+The ACM Portal is an online service of the ACM. Its core are two main sections: ACM Digital Library and the ACM Guide to Computing Literature.
+The ACM Digital Library was launched in October 1997. It is the full-text collection of all articles published by the ACM in its articles, magazines and conference proceedings. The Guide is a bibliography in computing with over one million entries. The ACM Digital Library contains a comprehensive archive starting in the 1950s of the organization's journals, magazines, newsletters and conference proceedings. Online services include a forum called Ubiquity and Tech News digest. There is an extensive underlying bibliographic database containing key works of all genres from all major publishers of computing literature. This secondary database is a rich discovery service known as The ACM Guide to Computing Literature.
+ACM adopted a hybrid Open Access (OA) publishing model in 2013. Authors who do not choose to pay the OA fee must grant ACM publishing rights by either a copyright transfer agreement or a publishing license agreement.
+ACM was a "green" publisher before the term was invented. Authors may post documents on their own websites and in their institutional repositories with a link back to the ACM Digital Library's permanently maintained Version of Record.
+All metadata in the Digital Library is open to the world, including abstracts, linked references and citing works, citation and usage statistics, as well as all functionality and services. Other than the free articles, the full-texts are accessed by subscription. In addition, starting on April 7, 2022, ACM made its publications from 1951 to 2000 open access through the Digital Library in celebration of the 75th anniversary of the organization's founding.
+In 2020, ACM launched a major push to become a fully open access publisher by 2026. ACM restructured its pricing for the ACM Digital Library on the basis of publishing activity by affiliated lead authors in ACM's journals, magazines, and conference proceedings. Under this model, termed "ACM Open", institutions pay set fees for full access to ACM Digital Library contents as well as unlimited open access publishing by their affiliated authors. Authors not affiliated with a participating institution will be expected to pay an article processing charge. As of May 2024, ACM reported that more than 1,340 institutions worldwide had signed on for ACM Open, putting ACM at just over halfway to meeting its target of 2,500 participating institutions by 2026.
+
+Membership grades
+
+In addition to student and regular members, ACM has several advanced membership grades to recognize those with multiple years of membership and "demonstrated performance that sets them apart from their peers".
+The number of Fellows, Distinguished Members, and Senior Members cannot exceed 1%, 10%, and 25% of the total number of professional members, respectively.
+
+Fellows
+
+The ACM Fellows Program was established by Council of the Association for Computing Machinery in 1993 "to recognize and honor outstanding ACM members for their achievements in computer science and information technology and for their significant contributions to the mission of the ACM." There are 1,310 Fellows as of 2020 out of about 100,000 members.
+
+Distinguished Members
+
+In 2006, ACM began recognizing two additional membership grades, one which was called Distinguished Members. Distinguished Members (Distinguished Engineers, Distinguished Scientists, and Distinguished Educators) have at least 15 years of professional experience and 5 years of continuous ACM membership and "have made a significant impact on the computing field". In 2006 when the Distinguished Members first came out, one of the three levels was called "Distinguished Member" and was changed about two years later to "Distinguished Educator". Those who already had the Distinguished Member title had their titles changed to one of the other three titles.
+
+Senior Members
+Also in 2006, ACM began recognizing Senior Members. According to the ACM, "The Senior Members Grade recognizes those ACM members with at least 10 years of professional experience and 5 years of continuous Professional Membership who have demonstrated performance through technical leadership, and technical or professional contributions". Senior membership also requires 3 letters of reference.
+
+Professional Members
+ACM Professional Membership is open to individuals that have satisfied one or more of the following criteria:
+
+Bachelor's degree (in any subject),
+or, equivalent level of education,
+or, two years full-time employment in the IT field.
+As mentioned above, professional members make up the majority of the non-student membership of ACM and reflect its importance as an organization for persons experienced in computing and related fields.
+
+Student Members
+ACM offers membership to students during their study of courses relevant to computing. ACM Student Members pay a reduced rate compared to other members and are able to gain benefits to assist in their learning.
+
+Distinguished Speakers
+While not technically a membership grade, the ACM recognizes distinguished speakers on topics in computer science. A distinguished speaker is appointed for a three-year period. There are usually about 125 current distinguished speakers. The ACM maintains a speakers bureau of approximately 125 experts from academia, industry, and government who present on topics within their areas of expertise. The distinguished speakers program (DSP) has been in existence for over 20 years and serves as an outreach program that brings renowned experts from Academia, Industry and Government to present on the topic of their expertise.  The DSP is overseen by a committee.
+
+Code of Ethics
+The Code includes 25 precepts expressed as statements of personal responsibility, identifying the elements of such commitment while addressing issues professionals are likely to face in the future. In 2018, the ACM conducted the first comprehensive revision of its Code of Ethics in twenty-six years. This update replaces the 1992 version to integrate ethical challenges arising from artificial intelligence and Big Data, reaffirming the Code's foundational commitment to the social impact of technology. 
+The first part includes fundamental ethical considerations; the second part addresses professional conduct; the third part pertains to individuals in leadership roles; and the fourth part covers principles involving compliance with the Code. The Code is supplemented by a series of guidelines designed to assist members in ethical decision-making and serve as a basis for judging formal complaints regarding violations of professional standards. While computing is not explicitly mentioned in the section on moral precepts, the Code focuses on how these fundamental mandates apply to individual behavior as a computing professional, deriving from more general ethical principles.
+The first section, following the preamble "a computing professional should...", details 7 fundamental general principles:
+
+1.1 Contribute to society and human well-being, acknowledging that all people are stakeholders in computing: Professionals must use their skills for the benefit of society and the environment. This includes promoting human rights, individual autonomy, and minimizing negative consequences such as risks to health or safety. Priority should be given to the needs of the disadvantaged.
+1.2 Avoid harm: "Harm" is defined as significant and unjustified negative consequences (injury, loss of information, or property damage). Professionals must mitigate unintended risks, follow industry best practices, and, if necessary, alert authorities to systemic risks (whistleblowing).
+1.3 Be honest and trustworthy: Requires full transparency regarding a system's capabilities and limitations. The Code explicitly prohibits falsifying data, bribery, and misleading claims, requiring the disclosure of any potential conflicts of interest.
+1.4 Be fair and take action not to discriminate: Encourages fair participation and equitable access to technology. It prohibits discrimination based on race, gender, age, or disability, noting that a lack of inclusive and accessible design can constitute unfair discrimination.
+1.5 Respect the work required to produce new ideas, inventions, creative works, and computing artifacts: Credit must be given to original authors, respecting patents and copyrights. However, the Code also encourages public good through open-source software and the public domain.
+1.6 Respect privacy: Professionals must understand the rights associated with the collection and use of personal data. Only the minimum necessary information should be collected, ensuring informed consent and protecting data from unauthorized access or the identification of individuals from anonymized data.
+1.7 Honor confidentiality: Professionals must protect confidential information (trade secrets, client data, etc.), except in cases where evidence of a violation of the law or the Code requires disclosure to the authorities.
+
+Chapters
+ACM has three kinds of chapters: Special Interest Groups, Professional Chapters, and Student Chapters.
+As of 2022, ACM has professional & SIG Chapters in 56 countries.
+As of 2022, there exist ACM student chapters in 41 countries.
+
+Special Interest Groups
+
+Conferences
+
+ACM and its Special Interest Groups (SIGs) sponsors numerous conferences worldwide. Most of the SIGs also have an annual conference. ACM conferences are widely recognized publication venues that typically maintain low acceptance rates.
+For example, SIGGRAPH 2007 attracted about 30000 attendees, while CIKM 2005 and RecSys 2022 had paper acceptance rates of only accepted 15% and 17% respectively.
+
+The ACM is a co–presenter and founding partner of the Grace Hopper Celebration of Women in Computing (GHC) with the Anita Borg Institute for Women and Technology.
+Some conferences are hosted by ACM student branches; this includes Reflections Projections, which is hosted by UIUC ACM. In addition, ACM sponsors regional conferences. Regional conferences facilitate increased opportunities for collaboration between nearby institutions and they are well attended.
+For additional non-ACM conferences, see this list of computer science conferences.
+
+Awards
+The ACM presents or co–presents a number of awards for technical and professional achievements and contributions in computer science and information technology.
+
+Over 30 of ACM's Special Interest Groups also award individuals for their contributions with a few listed below.
+
+Leadership
+
+The President of ACM Yannis Ioannidis, who has served as in the role since 2022. ACM is led by a council consisting of the president, vice-president, treasurer, past president, SIG Governing Board Chair, Publications Board Chair, three representatives of the SIG Governing Board, and seven Members-At-Large. This institution is often referred to simply as "Council" in Communications of the ACM.
+
+Infrastructure
+ACM has numerous boards, committees, and task forces which run the organization:
+
+ACM Council
+ACM Executive Committee
+Digital Library Board
+Education Board
+l Practitioner Board
+l Publications Board
+
+SIG Governing BoarDEI Council
+ACM Technology Policy Council
+ACM Representatives to Other Organizations
+Computer Science Teachers Association
+
+ACM Council on Women in Computing
+
+ACM-W, the ACM council on women in computing, supports, celebrates, and advocates internationally for the full engagement of women in computing. ACM–W's main programs are regional celebrations of women in computing, ACM-W chapters, and scholarships for women CS students to attend research conferences. In India and Europe these activities are overseen by ACM-W India and ACM-W Europe respectively.  ACM-W collaborates with organizations such as the Anita Borg Institute, the National Center for Women & Information Technology (NCWIT), and Committee on the Status of Women in Computing Research (CRA-W).
+The ACM-W gives an annual Athena Lecturer Award to honor outstanding women researchers who have made fundamental contributions to computer science. This program began in 2006. Speakers are nominated by SIG officers.
+
+Partner organizations
+ACM's primary partner has been the IEEE Computer Society (IEEE-CS), which is the largest subgroup of the Institute of Electrical and Electronics Engineers (IEEE). The IEEE focuses more on hardware and standardization issues than theoretical computer science, but there is considerable overlap with ACM's agenda. They have many joint activities including conferences, publications and awards. ACM and its SIGs co-sponsor about 20 conferences each year with IEEE-CS and other parts of IEEE. Eckert–Mauchly Award and Ken Kennedy Award, both major awards in computer science, are given jointly by ACM and the IEEE-CS. They occasionally cooperate on projects like developing computing curricula.
+ACM has also jointly sponsored on events with other professional organizations like the Society for Industrial and Applied Mathematics (SIAM).
+
+Criticism
+In December 2019, the ACM co-signed a letter with over one hundred other publishers to President Donald Trump saying that an open access mandate would increase costs to taxpayers or researchers and hurt intellectual property. This was in response to rumors that he was considering issuing an executive order that would require federally funded research be made freely available online immediately after being published. It is unclear how these rumors started. Many ACM members opposed the letter, leading ACM to issue a statement clarifying that they remained committed to open access, and they wanted to see communication with stakeholders about the potential mandate. The statement did not significantly assuage criticism from ACM members.
+
+See also
+
+References
+
+External links
+
+Official website 
+Unknown (2006). ACM Oral History interviews on. Association for Computing Machinery. doi:10.1145/1141880. ISBN 9781450317719. FREE
+ACM portal for publications
+ACM Digital Library
+Association for Computing Machinery Records, 1947–2009, Charles Babbage Institute, University of Minnesota.
+ACM Upsilon Phi Epsilon. honor society. Archived April 9, 2018, at the Wayback Machine.
+
+[[Artificial intelligence]] [[Communications of the ACM]] [[Computer science]] [[Computing]] [[ENIAC]] [[Institute of Electrical and Electronics Engineers]]

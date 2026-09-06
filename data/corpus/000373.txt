@@ -1,0 +1,74 @@
+EDA database
+An EDA database is a database specialized for the purpose of electronic design automation.  These application specific databases are required because general purpose databases have historically not provided enough performance for EDA applications.
+In examining EDA design databases, it is useful to look at EDA tool architecture, to determine which parts are to be considered part of the design database, and which parts are the application levels. In addition to the database itself, many other components are needed for a useful EDA application.  Associated with a database are one or more language systems (which, although not directly part of the database, are used by EDA applications such as parameterized cells and user scripts). On top of the database are built the algorithmic engines within the tool (such as timing, placement, routing, or simulation engines ), and the highest level represents the applications built from these component blocks, such as floorplanning. The scope of the design database includes the actual design, library information, technology information, and the set of translators to and from external formats such as Verilog and GDSII.
+
+Mature design databases
+Many instances of mature design databases exist in the EDA industry, both as a basis for commercial EDA tools as well as proprietary EDA tools developed by the CAD groups of major electronics companies.
+IBM, Hewlett-Packard, SDA Systems and ECAD (now Cadence Design Systems), High Level Design Systems, and many other companies developed EDA specific databases over the last 20 years, and these continue to be the basis of IC-design systems today. Many of these systems took ideas from university research and successfully productized them. Most of the mature design databases have evolved to the point where they can represent netlist data, layout data, and the ties between the two. They are hierarchical to allow for reuse and smaller designs. They can support styles of layout from digital through pure analog and many styles of mixed-signal design.
+
+Current design databases
+
+The OpenAccess design database
+Given the importance of a common design database in the EDA industry, the OpenAccess Coalition has been formed to develop, deploy, and support an open-sourced EDA design database with shared control. The data model presented in the OA DB provides a unified model that currently extends from structural RTL through GDSII-level mask data, and now into the reticle and wafer space. It provides a
+rich enough capability to support digital, analog, and mixed-signal design data.  It provides technology data that can express foundry process design rules through at least 20 nm, contains the definitions of the layers and purposes used in the design, definitions of VIAs and routing rules, definitions of operating points used for analysis, and so on.  OA makes extensive use of IC-specific data compression techniques to reduce the memory footprint, to address the size, capacity, and performance problems of previous DBs. Despite what its name could imply, this file format has no publicly accessible implementation or specification. Those are exclusive to the members of the OpenAccess Coalition.
+
+Synopsys Milkyway
+The Milkyway database was originally developed by Avanti Corporation, which has since been acquired by Synopsys.  It was first released in 1997.  Milkyway is the database underlying most of Synopsys' physical design tools:
+
+IC Compiler and Astro physical synthesis
+Star-RCXT RC parasitic extractor
+Hercules LVS/DRC physical verification
+Milkyway stores topological, parasitic and timing data.  Having been used to design thousands of chips, Milkyway is very stable and production worthy.  Milkyway is known to be written in C. Its internal implementation is not available outside Synopsys, so no comments may be made about the implementation.
+
+MDX C-API
+At the request of large customers such as Texas Instruments, Avanti released the MDX C-API in 1998.  This enables the customers' CAD developers to create plugins that add custom functionality to Milkyway tools (chiefly Astro).
+MDX allows fairly complete access to topological data in Milkyway, but does not support timing or RC parasitic data.
+
+MAP-in Program
+In early 2003, Synopsys (which acquired Avanti) opened Milkyway through the Milkyway Access Program (MAP-In).  Any EDA company may become a MAP-in member for free (Synopsys customers must use MDX).  Members are provided the means to interface their software to Milkyway using C, Tcl, or Scheme.  The Scheme interface is deprecated in favor of TCL.  IC Compiler supports only TCL.
+The MAP-in C-API enables a non-Synopsys application to read and write Milkyway databases.  Unlike MDX, MAP-in does not permit the creation of a plugin that can be used from within Synopsys Milkyway tools. MAP-in does not support access to timing or RC parasitic data.  MAP-in also lacks direct support of certain geometric objects.
+MAP-in includes Milkyway Development Environment (MDE).  MDE is a GUI application used to develop TCL and Scheme interfaces and diagnose problems.  Its major features include:
+
+Graphical editor for viewing and editing Milkyway databases
+TCL command interpreter
+Scheme command interpreter
+Translators to read and write popular formats like Verilog, LEF/DEF and GDSII
+
+Falcon from Mentor
+Another significant design database is Falcon, from  Mentor Graphics. This database was one of the first in the industry written in C++.  Like Milkyway is for Synopsys, Falcon seems to be a stable and mature platform for Mentor’s IC products. Again, the implementation is not publicly available, so little can be said about its features or performance relative to other industry standards.
+
+Magma's database
+Magma Design Automation’s database is not just a disk format with an API, but is an entire system built around their DB as a central data structure. Again, since the details of the system are not publicly available, a direct comparison of features or performance is not possible. Looking at the capabilities of the Magma tools would indicate that this DB has similar functionality to OpenAccess, and may be capable of representing behavioral (synthesis input) information.
+
+Major features of an EDA specific database
+An EDA specific database is expected to provide many basic constructs and services.  Here is a brief and incomplete list of what is needed:
+
+Fundamental Features
+The Design (or Cell) as the Basic Unit
+Shapes and Physical Geometry
+Hierarchy
+Connectivity and Hierarchical Connectivity
+General Constructs
+API Forms
+Utility Layer
+Advanced Features
+Parameterized Designs
+Namespaces and Name Mapping
+Place-and-Route Constructs
+Timing and Parasitic Constructs
+Occurrence Models and Logical/Physical Mapping
+Interface to Configuration management
+Extensibility
+Technology Data
+Layer Definitions
+Design Rules
+Generation and extraction rules for simple devices
+Library Data and Structures: Design-Data Management
+Library Organization: From Designs to Disk Files
+Design-Data Management
+Interoperability Models
+
+References
+Electronic Design Automation For Integrated Circuits Handbook, by Lavagno, Martin, and Scheffer, ISBN 0-8493-3096-3 A survey of the field.  This article was derived (with permission) from Volume 2, Chapter 12, Design Databases, author Mark Bales.
+
+[[Cadence Design Systems]] [[Database]] [[Electronic design automation]] [[GDSII]] [[Magma Design Automation]] [[Mentor Graphics]] [[Photomask]] [[Placement (electronic design automation)]] [[SPICE]] [[Static timing analysis]] [[Synopsys]]

@@ -1,0 +1,84 @@
+Electric power conversion
+In electrical engineering, power conversion is the process of converting electrical energy from one form to another.
+A power converter is an electrical device for converting electrical energy between alternating current (AC) and direct current (DC). It can also change the voltage or frequency of the current.
+Power converters include simple devices such as transformers, and more complex ones like resonant converters. The term can also refer to a class of electrical machinery that is used to convert one frequency of alternating current into another. Power conversion systems often incorporate redundancy and voltage regulation.
+Power converters or power supplies are classified based on the type of power conversion they perform. One way of classifying power conversion systems is based on whether the input and output is alternating or direct current.
+
+DC power conversion
+
+DC to AC
+Devices that convert DC to AC (produce AC from a DC source):
+
+Inverter
+Switched-mode power supply, SMPS (inverter stage)
+Rotary converter
+Variable-frequency drive
+
+DC to DC
+
+Devices that convert one DC voltage/current level to another:
+
+Buck converter
+Boost converter
+Buck–boost converter
+Charge pump
+Ćuk converter
+Flyback converter
+Forward converter
+Full-bridge
+Push–pull converter
+Half-bridge
+Low-dropout regulator (LDO)
+Linear regulator
+Rotary converter
+Single-ended primary-inductor converter (SEPIC)
+
+AC power conversion
+
+AC to DC
+Devices that convert AC to DC (rectification + regulation):
+
+Mains power supply unit
+Motor–generator
+Rectifier
+Switched-mode power supply
+
+AC to AC
+
+Devices that convert AC to AC (change voltage and/or frequency):
+
+Autotransformer
+Cycloconverter
+Ferroresonant transformer
+Matrix converter
+Rotary converter
+Static frequency converter
+Switched-mode AC regulator
+Tap changer
+Transformer
+Variable-frequency transformer
+Voltage converter
+
+Other systems
+
+There are also devices and methods to convert between power systems designed for single and three-phase operation.
+The standard power voltage and frequency vary from country to country and sometimes within a country. In North America and northern South America, it is usually 120 volts, 60 hertz (Hz), but in Europe, Asia, Africa, and many other parts of the world, it is usually 230 volts, 50 Hz. Aircraft often use 400 Hz power internally, so 50 Hz or 60 Hz to 400 Hz frequency conversion is needed for use in the ground power unit used to power the airplane while it is on the ground. Conversely, internal 400 Hz power may be converted to 50 Hz or 60 Hz for convenience power outlets available to passengers during flight.
+Certain specialized circuits can also be considered power converters, such as the flyback transformer subsystem powering a CRT, generating high voltage at approximately 15 kHz.
+Consumer electronics usually include an AC adapter (a type of power supply) to convert mains-voltage AC current to low-voltage DC suitable for consumption by microelectronics, i.e., integrated circuits (ICs). Consumer voltage converters (also known as "travel converters") are used when traveling between countries that use ~120 V versus ~240 V AC mains power. (There are also consumer "adapters" which merely form an electrical connection between two differently shaped AC power plugs and sockets, but these change neither voltage nor frequency.)
+
+Application in renewable energy systems
+Modern electric power conversion plays a critical role in renewable energy integration. Power electronic converters are required for interfacing variable-output sources such as photovoltaic solar panels and wind turbines with the electrical grid or with batteries for energy storage. Solar photovoltaic (PV) systems commonly use DC-to-DC converters and grid-tied DC-to-AC inverters to match solar output to grid requirements, while wind turbines typically require AC-AC conversion and frequency regulation to produce stable, usable power. Advanced converters manage fluctuations, improve power quality, and enable smart grid operations, making large-scale adoption of renewables possible.
+
+See also
+Cascade converter
+
+References
+
+Further reading
+Pressman, Abraham I. (1997). Switching Power Supply Design. McGraw-Hill. ISBN 0-07-052236-7.
+Mohan, Ned; Tore M. Undeland; William P. Robbins (2002). Power Electronics: Converters, Applications, and Design. Wiley. ISBN 0-471-22693-9.
+Luo, Fang Lin; Hong Ye (2004). Advanced DC/DC Converters. CRC Press. ISBN 0-8493-1956-0.
+Luo, Fang Lin; Hong Ye; Muhammad H. Rashid (2005). Digital Power Electronics and Applications. Elsevier. ISBN 0-12-088757-6.
+Liu, Mingliang (2006). Demystifying Switched-Capacitor Circuits. Elsevier. ISBN 0-7506-7907-7.
+
+[[Electrical engineering]] [[Integrated circuit]]

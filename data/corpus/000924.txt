@@ -1,0 +1,108 @@
+Solid Modeling Solutions
+Solid Modeling Solutions (SMS) was a software company that specialized in 3D computer graphics geometry software. SMS was acquired by Nvidia Corporation of Santa Clara, CA in May 2022 and was dissolved as a separate corporate entity.
+
+History
+
+The development of non-uniform rational B-spline (NURBS) originated with seminal work at Boeing and Structural Dynamics Research Corporation (SDRC) in the 1980s and 1990s, a company that led in mechanical computer-aided engineering (CAE) in those years. Boeing's involvement in NURBS dates back to 1979, when they began developing their own comprehensive computer-aided design (CAD) and computer-aided manufacturing (CAM), termed CAD/CAM, system, TIGER, to support the diverse needs of their aircraft and aerospace engineering groups. Three basic decisions were critical to establishing an environment conducive to developing NURBS. The first was Boeing's need to develop its own in-house geometry ability. Specifically, Boeing had complex surface geometry needs, especially for wing design, that was then not in any commercially available CAD/CAM system. Thus, the TIGER Geometry Development Group was established in 1979 and has received strong support for many years. The second decision critical to NURBS development was removing the constraint of upward geometric compatibility with the two systems used at Boeing then. One of these systems had evolved due to the iterative process inherent to wing design, while the other was best suited for adding to the constraints imposed by manufacturing, such as cylindrical and planar regions. The third crucial decision was simple but essential: adding the R to NURBS. Circles were to be represented precisely, with cubic approximation disallowed.
+By late 1979, there were five or six well-educated mathematicians (PhDs from Stanford, Harvard, Washington, and Minnesota). Some had many years of software experience, but none had any industrial, much less CAD, geometry experience. Those were the days of an oversupply of math PhDs. The task was to choose the representations for the 11 required curve forms, which included everything from lines and circles to Bézier and B-spline curves.
+By early 1980, the staff were busy choosing curve representations and developing the geometry algorithms for TIGER. One of the major tasks was curve/curve intersection. It became evident that if the general intersection problem could be solved for the Bézier/Bézier case, then it could be solved for any case. This is because everything from the lowest level could be represented in Bézier form. It was soon realized that the geometry development task would be substantially simplified if a way could be found to represent all of the curves using one form.
+With this motive, the staff began work toward what became NURBS. The design of a wing demands free-form, C2 continuous, cubic splines to satisfy the needs of aerodynamic analysis, yet the circle and cylinders of manufacturing require at least rational Bézier curves. The properties of Bézier curves and uniform B-splines were well known, but the staff had to gain an understanding of non-uniform B-splines and rational Bézier curves and try to integrate the two. It was necessary to convert circles and other conics to rational Bézier curves for the curve/curve intersection. None of the staff realized the importance of the work then, and it was considered "too trivial" and "nothing new". The transition from uniform to non-uniform B-splines was rather straight forward, since the mathematical foundation had been available in the literature for many years. It simply had not yet become a part of standard CAD/CAM applied mathematics. Once there was a reasonably good understanding of rational Bézier and non-uniform splines, they still had to put them together. Up until then, the staff had not written or seen the form.
+
+  
+    
+      
+        P
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                ∑
+                
+                  i
+                
+              
+              
+                w
+                
+                  i
+                
+              
+              
+                P
+                
+                  i
+                
+              
+              
+                b
+                
+                  i
+                
+              
+              (
+              t
+              )
+            
+            
+              
+                ∑
+                
+                  i
+                
+              
+              
+                w
+                
+                  i
+                
+              
+              
+                b
+                
+                  i
+                
+              
+              (
+              t
+              )
+            
+          
+        
+      
+    
+    {\displaystyle P(t)={\frac {\sum _{i}w_{i}P_{i}b_{i}(t)}{\sum _{i}w_{i}b_{i}(t)}}}
+  
+ was used for anything more than a conic Bézier segment.
+
+Searching for a single form, the group worked together, learning about knots, as well as multiple knots, and how nicely Bézier segments, especially the conics, could be imbedded into a B-spline curve with multiple knots. By the end of 1980, the staff knew they had a way to present all the required curve forms using a single representation, now known as the NURBS form. But this new representation could easily have died at this point. The staff were already 12 to 18 months down a development path. They had completed a large number of algorithms using the old curve forms. They now had to convince managers and the other technical groups, such as the database and graphics groups, that they should be allowed to start over using a single representation for all curves. The NURBS surface form did not present a problem since they had not yet developed any surface algorithms. A review of this new TIGER curve form was held on February 13, 1981. The review was successful, and the staff were allowed to start over using the new curve form. It was at this time that the NURBS acronym was first used by the other side of the TIGER project, i.e., the TIGER software development groups of Boeing Computer Services. Management was very eager to promote the use of these new curve and surface forms. They had a limited understanding of mathematics, but they were very aware of the need to communicate geometric data between systems. Hence, Boeing very quickly prepared to propose NURBS to the August '81 IGES meetings.
+
+There are two reasons why IGES so quickly accepted NURBS. The first was that IGES was in great need of a way to represent objects. Until then, there were, for example, only two surface definitions in IGES, and the B-spline form was restricted to cubic splines. The other surprisingly important reason for the rapid acceptance was that Boeing, not a CAD system supplier, was not a threat to any of the major turnkey system vendors. Evidently, IGES easily bogs down when different vendors support their own slightly different representations for the same objects. At this first IGES meeting, it was discovered that the SDRC representatives understood the presentation best. SDRC was also active in defining a single representation for standard CAD curves and was working on a similar definition.
+Boehm's B-spline refinement paper from CAD '80 was of primary importance. It enabled the staff to understand non-uniform splines and to appreciate the geometrical nature of the definition so as to use B-splines in solving engineering problems. The first use of the geometrical nature of B-splines was in the curve/curve intersection. The Bézier subdivision process was utilized, and a second use was a curve offset algorithm, which was based on a polygon offset process that was eventually communicated to and used by SDRC and explained by Tiller and Hanson in their offset paper of 1984. The staff also developed an internal NURBS class taught to about 75 Boeing engineers. The class covered Bézier curves, Bézier to B-spline, and surfaces. The first public presentation of our NURBS work was at a Seattle CASA/SME seminar in March 1982. The staff had progressed quite far by then. They could take a rather simple NURBS surface definition of an aircraft and slice it with a plane surface to generate an interesting outline of some of the wings, body, and engines. The staff were allowed great freedom in pursuing our ideas, and Boeing correctly promoted NURBS, but the task of developing that technology into a usable form was too much for Boeing, which abandoned the TIGER task late in '84.
+By late 1980, the TIGER Geometry Development Group consisted of Robert Blomgren, Richard Fuhr, George Graf, Peter Kochevar, Eugene Lee, Miriam Lucian, and Richard Rice. Robert Blomgren was "lead engineer".
+In 1984, Robert M. Blomgren established Applied Geometry to commercialize the technology. Subsequently, Alias Systems Corporation/Silicon Graphics purchased Applied Geometry. Robert Blomgren and Jim Presti formed Solid Modeling Solutions (SMS) in early 1998. In late 2001, Nlib was purchased from GeomWare, and the alliance with IntegrityWare was terminated in 2004. Enhancements and major new features are added twice a year.
+SMS software is based on years of research and application of NURBS technology. Les Piegl and Wayne Tiller (a partner of Solid Modeling Solutions) wrote the definitive "The NURBS Book" on non-uniform rational B-splines, with aids to designing geometry for computer-aided environment applications. The fundamental mathematics is well defined in this book, and the most faithful manifestation in software is implemented in the SMS product line.
+
+Philosophy
+SMS provided source code to customers so they could understand the underlying technology, collaborate with others, and repair it on their own. The software was provided on a subscription-basis.
+
+SMS architecture
+SMLib – fully functional non-manifold topological structure and solid modeling functions.
+TSNLib – analyze NURBS based trimmed surface representations.
+GSNLib – based on NLib with curve/curve and surface/surface intersection abilities.
+NLib – an advanced geometric modeling kernel based on NURBS curves and surfaces.
+VSLib – deformable modeling using the constrained optimization techniques of the calculus of variations.
+PolyMLib – an object-oriented software toolkit library that provides a set of objects and corresponding methods to repair, optimize, review, and edit triangle mesh models.
+data translators – NURBS-based geometry translator libraries, with interfaces for the SMLib, TSNLib, GSNLib, NLib, and SDLib family of products, including IGES, STEP, VDAFS, SAT, and OpenNURBS abilities.
+
+See also
+Non-uniform rational B-spline (NURBS)
+Solid modeling
+Comparison of computer-aided design software
+
+References
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Algorithm]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

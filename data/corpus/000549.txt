@@ -1,0 +1,108 @@
+Generalized epilepsy
+Generalized epilepsy is a form of epilepsy characterized by generalized seizures that occur with no obvious cause. Generalized seizures, as opposed to focal seizures, are a type of seizure that manifests as impaired consciousness, bilateral motor findings (including spasms, stiffening, jerking, contractions, or loss of muscle tone) or both. Generalized seizures also differ from focal seizures since they originate on both sides (hemispheres) of the brain and distort the electrical activity of the whole or a larger portion of the brain. These electrical findings are commonly visualized on electroencephalography (EEG) as part of diagnosis.
+Generalized epilepsy is a type of primary epilepsy because the disorder is the originally diagnosed condition, as opposed to secondary epilepsy, which occurs as a symptom of a diagnosed illness.
+Generalized epilepsy is usually diagnosed in childhood and can be caused by a number of underlying factors including dysfunctional neuronal networks, genetics, or brain trauma.
+Generalized epilepsy can be broken down into six main subcategories of seizure types: absence seizures, myoclonic seizures, clonic seizures, tonic seizures, tonic-clonic seizures, and atonic seizures. Generalized epilepsy can also be a sign of an underlying seizure syndrome. Generalized seizures are most commonly treated with anti-epileptic medications and in rare cases surgical intervention.
+
+Epidemiology
+Around 50 per 100,000 people per year are newly diagnosed with generalized epilepsy in well developed countries.
+Generalized seizures are not as common as focal seizures.
+Generalized epilepsy account for one third of all epilepsies.
+The idiopathic subtype of generalized epilepsy accounts for 15-20% of all epilepsies in both children and adults as well as 55% of newly diagnosed epilepsy in children and adolescents.
+The incidence of generalized epilepsy is highest in childhood and in patients older than 75. However, children are more likely to be diagnosed with generalized epilepsy than those older than 75.
+Tonic clonic seizures are the most common type of generalized seizure and account for one third of all adolescent onset epilepsies.
+Seizures that are characterized as forms of generalized are more likely to present in the morning upon awakening.
+About half of all cases of generalized epilepsy have an unknown cause.
+
+Prognosis
+Generalized epilepsy is usually diagnosed during childhood. Some patients outgrow their epilepsy during adolescence and no longer need medication, while others have the condition for life and will need long-term medication and monitoring.
+
+Potential causes and risk factors
+
+Neurophysiology
+Most research suggests that the part of the brain that is most likely involved in generalized epilepsy is the thalamus and is surrounding networks. Some of the main functions of the thalamus is the processing of sensory and motor information as well as the regulation of consciousness, sleep, and alertness. Specific connections from the thalamus to the hippocampus and amygdala have been reported in animals. Though it is not believed to be the site of origin for the seizures, there is some belief that these pathways have a role in lowering the seizure threshold in some patients. Other connections between the thalamus and cerebellum and the thalamus and the basal ganglia have been implicated in the mechanism behind generalized epilepsy. However, the exact underlying cause of generalized epilepsy is unknown.
+
+Genetics
+The idea of a genetic basis for generalize epilepsy first arose from twin studies in which if one identical (monozygotic) twin developed generalized epilepsy it would be more likely for the other identical twin to also develop epilepsy than if the twins had been fraternal (dizygotic). Underlying genetic causes have been implicated specifically in the subclass of idiopathic generalized epilepsies. The specific genes that have shown to have some effect in causing these syndromes include but are not limited to: SCN1A, SCN1B, GABRA1, GABRG2, and SLC2A1.
+
+Brain trauma
+Traumatic brain injury (TBI), stroke, brain tumors, abnormal vessels (ex: arteriovenous malformations), and brain infections like meningitis or encephalitis have also been associated with an increased risk of developing epilepsy.
+
+Associated disorders
+Generalized epilepsy can be associated with autism spectrum disorders, psychiatric conditions such as depression and anxiety, and intellectual disabilities. There is some evidence to suggest that generalized epilepsy may also be associated with substance use disorders or substance abuse, as well as certain inflammatory conditions, especially those involving the gastrointestinal tract.
+
+Seizure types
+
+Myoclonic seizures
+Myoclonic seizures present as sudden, irregular, and brief muscle spasms or jerking in only one extremity or throughout the body. Symptoms are most commonly visualized in the upper extremities with quick muscle contraction followed by relaxation. Some atypical presentations could include eyelid fluttering and associated sensitivity to bright lights. These seizures are more commonly diagnosed during childhood.
+
+Absence seizures (petit mal)
+Absence seizures present solely as impaired consciousness making it a type of non-convulsive seizure since there are no effects on muscle tone. Those effected are often reported to be staring blankly into space or rapidly blinking without a change in posture. They are short episodes, lasting only a few seconds, and typically resolve on their own with quick return to full awareness. Absence seizures are most commonly diagnosed during childhood and often resolve in adulthood. A key diagnostic finding is a 3 Hz spike and wave complex on EEG.
+
+Tonic, Clonic, and Tonic- clonic seizures (grand mal)
+Generalized seizures can also be characterized as solely tonic or solely clonic. Tonic seizures are characterized by increased muscle tone and rigidity. This type of muscle contraction most commonly leads to falls. Tonic seizures are short-lived and usually occur during sleep. Clonic seizure are characterized by repetitive muscle contractions that occur on both sides of the body at the same time. These types of seizures are rare and instead of often visualized as part of a tonic-clonic seizure.
+Tonic - Clonic seizures presents as a sudden loss of consciousness followed by an initial brief tonic phase or muscle stiffening followed by a longer clonic phase that is characterized by a bilateral and rhythmic jerking of the entire body usually lasting a few minutes. A prodrome may occur in some people prior to the onset of the seizure. After the seizure, there is usually a period of confusion and tiredness also known as a post-ictal period that can last a variable amount of time.  Other associated symptoms that can occur during this type of seizure include: production of excess saliva, loss of bowel or bladder control, and tongue/cheek biting.
+
+Atonic seizures
+Atonic seizures cause a sudden loss of muscle tone. They are most noticeable with loss of muscle tone in the neck muscles causing head drop or loss of tone in the trunk muscles leading to falls. They are commonly referred to as drop attacks and episodes usually only last a few seconds. They are commonly diagnosed in childhood and are an important characteristics of certain epilepsy syndromes.
+
+Seizure syndromes
+Generalized epilepsy can also manifest as part of various seizure syndromes. These include:
+Idiopathic (genetic) generalized epilepsy  -  childhood absence epilepsy (CAE), juvenile absence epilepsy (JAE), juvenile myoclonic epilepsy (JME), and epilepsy with generalized tonic clonic seizures alone (GTCA).
+Other syndromes - Lennox Gastaut Syndrome (LGS), infantile spams (west syndrome), Doose syndrome (myoclonic astatic epilepsy of childhood), Dravet syndrome, and benign rolandic epilepsy.
+
+Diagnostic testing
+The clinical presentation, medical history, and neurologic examination are the first steps in the diagnostic workup of epilepsy since these factors are most helpful in indicating what type of seizure is occurring.
+
+Electrophysiologic studies
+Generalized epilepsy is characterized using electroencephalography (EEG).  EEG is currently the gold standard for diagnoses. A bilateral symmetrical 2.5–6 Hz generalized spike wave discharge with a normal background is what is typically visualized on EEG. Certain triggers such as bright flashing lights, hyperventilation, sleep deprivation may be initiated to induce a seizure while undergoing EEG.  Some patients may require video EEG, which is when the patient is under video surveillance to visualize any potential seizure activity while simultaneously being monitored on EEG. However, EEG can not reliably distinguish between the different types of generalized epilepsy. It is possible to have a completely normal EEG and still have a diagnosis of generalized epilepsy.
+
+Neuroimaging
+The most common form of imaging done in the diagnostic workup of generalized epilepsy is either CT or MRI. Some physicians may prefer structural MRI or functional MRI depending on symptoms. However, neuroimaging is more commonly used to distinguish focal seizures from generalized seizures. In cases where generalized epilepsy is suspected, imaging may only be done in patients with atypical manifestations.
+
+Genetic studies
+Genetic testing is only performed when certain epilepsy syndromes are suspected (ex: the idiopathic generalized epilepsy syndromes). However, there is very little utility in these tests since genetic epilepsies usually do not have clear mutations and findings are rarely straightforward.
+
+Other tests
+Blood tests are routinely done to help rule out infectious or metabolic causes of seizures. In some cases, a lumbar puncture and neuropsychiatric testing may be completed to give more information regarding the causes or effects of the seizures.
+
+Management
+
+Medications
+Anti-epileptic medications are the primary treatment of generalized epilepsy. Choice of medication should depend generalized seizure subtype, contraindications to use, and tolerability of the drug for the patient. Some medications are more useful alone while others are best used in conjunction with another depending on the seizure type.
+
+Valproate
+Ethosuximide
+Lamotrigine
+Levetiracetam
+Carbamazepine
+Gabapentin
+Topiramate
+Perampanel
+Zonisamide
+Felbatol
+Lacosamide
+Valproate is the most effective of the medications approved for generalized epilepsy and therefore considered the first line drug of choice. However, its association with fetal malformations when taken in pregnancy limits its use in young women.
+
+Neuromodulation
+Vagus nerve stimulation, deep brain stimulation, and noninvasive transcranial magnetic stimulation are examples of neuromodulatory treatments that can be used for generalized epilepsy. Neuromodulation is typically reserved for patients who are continuing to have seizures while on two or more anti- epileptic medications.
+
+Lifestyle modifications
+Ketogenic diets have also been used in the treatment of drug-resistant or refractory generalized epilepsy. Research has also been done to suggest the efficacy of yoga and increased physical activity in reducing seizure frequency. Other therapies that have been shown to aid in the management of epilepsy include cognitive behavioral therapy, mindfulness training, and music therapy. Lifestyle modifications are often recommended to be used in conjunction with medical management.
+
+Precautions
+People must be seizure free for 6–12 months depending on specific state laws before being cleared to drive. It is also recommended that patients with epilepsy avoid working on ladders or unprotected heights, or with heavy machinery. Patients are also advised to avoid swimming alone.
+
+Complications
+Breakthrough seizures are usually a result of missed medication, lack of sleep, medication interactions, increased stress, and excessive alcohol use. In cases of generalized epilepsy, breakthrough seizures from these causes typical present as tonic-clonic seizures.
+Physical injuries like head injuries and bone fractures from falls during the seizure can occur. Tongue and/or cheek biting can also happen during a seizure.
+Respiratory issues such as aspiration pneumonia can occur as it is possible that someone could inhale food, saliva, or vomit into their respiratory tract during a seizure.
+Cognition may be impacted by the seizures themselves or some of the treatment options available. This could include problems with memory, concentration, and planning.
+Status epilepticus is defined a seizure lasting longer than five minutes or two or more seizures occurring back to back without returning to full awareness. In generalized epilepsy the status seizure could be any of the subtypes (ie. absence, myoclonic, tonic, clonic, tonic-clonic, or atonic). Tonic-clonic convulsive status is the most common type of status epilepticus and is more likely to occur in children and the elderly.
+Sudden unexpected death in epilepsy (SUDEP) is defined as death occurring in a person with epilepsy with no known cause. The mechanisms are unclear; therefore, autopsy is needed for definitive diagnosis. It can occur with any type of epilepsy, but is most common with tonic-clonic seizures. It is a rare complication of epilepsy, but it is the most common cause of epilepsy related death in those diagnosed with epilepsy.
+
+References
+
+External links
+
+[[Absence seizure]] [[Amygdala]] [[Anticonvulsant]] [[Atonic seizure]] [[Aura (symptom)]] [[Automatism (medicine)]] [[Benign familial neonatal seizures]] [[CACNA1C-related disorders]] [[Cerebellum]] [[Cerebrospinal fluid]] [[Citizens United for Research in Epilepsy]] [[Complex partial status epilepticus]] [[Dementia]] [[Dentatorubral–pallidoluysian atrophy]] [[Early myoclonic encephalopathy]] [[Electroencephalography]] [[Encephalopathy]] [[Epilepsia partialis continua]] [[Epilepsy]] [[Epilepsy Action]] [[Epilepsy Action Australia]] [[Epilepsy Foundation]] [[Epilepsy Outlook]] [[Epilepsy Society]] [[Epilepsy and driving]] [[Epilepsy and employment]] [[Epilepsy in animals]] [[Epilepsy in children]] [[Epileptogenesis]] [[Epileptologist]] [[Febrile seizure]] [[Focal seizure]] [[Frontal lobe epilepsy]] [[Gelastic seizure]] [[Generalized tonic–clonic seizure]] [[Hippocampus]] [[Infantile epileptic spasms syndrome]] [[International League Against Epilepsy]] [[Intracranial pressure]] [[Issues for people with epilepsy]] [[Juvenile myoclonic epilepsy]] [[KCNH1-related disorders]] [[Lafora disease]] [[Landau–Kleffner syndrome]] [[Lennox–Gastaut syndrome]] [[MERRF syndrome]] [[Medical specialty]] [[Migraine]] [[Myoclonic astatic epilepsy]] [[Myoclonic epilepsy]] [[Neonatal seizure]] [[Neurology]] [[Panayiotopoulos syndrome]] [[Parkinson's disease]] [[Postictal state]] [[Progressive myoclonus epilepsy]] [[Psychogenic non-epileptic seizure]] [[Rolandic epilepsy]] [[Seizure]] [[Seizure types]] [[Sleep-related hypermotor epilepsy]] [[Spike-and-wave]] [[Spinal cord]] [[Status epilepticus]] [[Stroke]] [[Sudden unexpected death in epilepsy]]

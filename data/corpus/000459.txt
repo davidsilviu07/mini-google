@@ -1,0 +1,67 @@
+End-to-end auditable voting
+End-to-end auditable or end-to-end voter verifiable (E2E) systems are voting systems with stringent integrity properties and strong tamper resistance. E2E systems use cryptographic techniques to provide voters with receipts that allow them to verify their votes were counted as cast, without revealing which candidates a voter supported to an external party. As such, these systems are sometimes called receipt-based systems.
+
+Overview
+Electronic voting systems arrive at their final vote totals by a series of steps: 
+
+voters cast ballots either electronically or manually,
+cast vote records are tallied to generate totals,
+where elections are conducted locally, such as at the precinct or county level, the results from each level are combined to produce the final tally.
+Classical approaches to election integrity focus on ensuring the security of each step individually, going from voter intent to the final total. Such approaches have generally fallen out of favor with distributed system designers, as these local focuses may miss some vulnerabilities while over-protecting others. The alternative is to use end-to-end measures that are designed to demonstrate the integrity of the entire chain. 
+Comprehensive coverage of election integrity frequently involves multiple stages. Voters are expected to verify that they have marked their ballots as intended, recounts or audits are used to protect the step from marked ballots to ballot-box totals, and publication of all subtotals allows public verification that the overall totals correctly sum the ballot-box totals. Conventional voting schemes do not meet this standard, and as a result cannot conclusively prove that no votes have been tampered with at any point; voters and auditors must instead verify each individual step is fully secure, which may be difficult and introduces many points of failure.
+While measures such as voter verified paper audit trails and manual recounts measure the effectiveness of some steps, they offer only weak measurement of the integrity of the physical or electronic ballot boxes. Ballots could be removed, replaced, or could have marks added to them without detection (i.e. to fill in undervoted contests with votes for a desired candidate or to overvote and spoil votes for undesired candidates). This shortcoming motivated the development of end-to-end (E2E) auditable voting systems. These attempt to cover the entire path from voter attempt to election totals with just two measures:
+
+Individual verifiability, by which any voter may check that their ballot is correctly included in the electronic ballot box, and
+Universal verifiability, by which anyone may determine that all of the ballots in the box have been correctly counted.
+Because of the importance of the right to a secret ballot, most E2E voting schemes also attempt to meet a third requirement called receipt-freeness:
+
+No voter can prove how he or she voted to any third party.
+It was originally believed that combining both properties would be impossible. However, further research has since shown these properties can co-exist. Both were combined in the 2005 Voluntary Voting System Guidelines promulgated by the Election Assistance Commission. This definition is also predominant in the academic literature.
+To address ballot stuffing, an eligibility verifiability measure can be adopted, by which anyone may determine that all counted ballots were cast by registered voters.
+Alternatively, assertions regarding ballot stuffing can be externally verified by comparing the number of ballots on hand with the number of registered voters recorded as having voted, and by auditing other aspects of the registration and ballot delivery system.
+Support for E2E auditability, based on prior experience using it with in-person elections, is also seen as a requirement for remote voting over the Internet by many experts.
+
+Proposed E2E Systems
+In 2004, David Chaum proposed a solution that allows each voter to verify that their votes are cast appropriately and that the votes are accurately tallied using visual cryptography. After the voter selects their candidates, a voting machine prints out a specially formatted version of the ballot on two transparencies. When the layers are stacked, they show the human-readable vote. However, each transparency is encrypted with a form of visual cryptography so that it alone does not reveal any information unless it is decrypted. The voter selects one layer to destroy at the poll. The voting machine retains an electronic copy of the other layer and gives the physical copy as a receipt to allow the voter to confirm that the electronic ballot was not later changed. The system detects changes to the voter's ballot and uses a mix-net decryption procedure to check if each vote is accurately counted. Sastry, Karloff and Wagner pointed out that there are issues with both of the Chaum and VoteHere cryptographic solutions.
+Chaum's team subsequently developed Punchscan, which has stronger security properties and uses simpler paper ballots. The paper ballots are voted on and then a privacy-preserving portion of the ballot is scanned by an optical scanner.
+The Prêt à Voter system, invented by Peter Ryan, uses a shuffled candidate order and a traditional mix network. As in Punchscan, the votes are made on paper ballots and a portion of the ballot is scanned.
+The Scratch and Vote system, invented by Ben Adida, uses a scratch-off surface to hide cryptographic information that can be used to verify the correct printing of the ballot.
+The ThreeBallot voting protocol, invented by Ron Rivest, was designed to provide some of the benefits of a cryptographic voting system without using cryptography. It can in principle be implemented on paper, although the presented version requires an electronic verifier.
+The Scantegrity and Scantegrity II systems provide E2E properties. Rather than replacing the entire voting system, as is the case in all the preceding examples, it works as an add-on for existing optical scan voting systems, producing conventional voter-verifiable paper ballots suitable for risk-limiting audits. Scantegrity II employs invisible ink and was developed by a team that included Chaum, Rivest, and Ryan.
+The STAR-Vote system was defined for Travis County, the fifth most populous county in Texas, and home of the state capital, Austin. It illustrated another way to combine an E2E system with conventionally auditable paper ballots, produced in this case by a ballot marking device. The project produced a detailed spec and request for proposals in 2016, and bids were received for all the components, but no existing contractor with an EAC certified voting was willing to adapt their system to work with the novel cryptographic open-source components, as required by the RFP.
+Building on the STAR-Vote experience, Josh Benaloh at Microsoft led the design and development of ElectionGuard, a software development kit that can be combined with existing voting systems to add E2E support. The voting system interprets the voter's choices, stores them for further processing, then calls ElectionGuard which encrypts these interpretations and prints a receipt for the voter. The receipt has a number which corresponds to the encrypted interpretation. The voter can then disavow the ballot (spoil it), and vote again. Later, independent sources, such as political parties, can obtain the file of numbered encrypted ballots and sum the different contests on the encrypted file to see if they match the election totals. The voter can ask those independent sources if the number(s) on the voter's receipt(s) appear in the file. If enough voters check that their numbers are in the file, they will find if ballots are omitted. Voters can get the decrypted contents of their spoiled ballots, to determine if they accurately match what the voter remembers was on those ballots. The voter cannot get decrypted copies of voted ballots, to prevent selling votes. If enough voters check spoiled ballots, they will show mistakes in encryptions. ElectionGuard does not detect ballot stuffing, which must be detected by traditional records. It does not detect people who falsify receipts, claiming their ballot is missing or was interpreted in error. Election officials will need to decide how to track claimed errors, how many are needed to start an investigation, how to investigate and how to recover from errors. State law may give staff no authority to take action. ElectionGuard does not tally write-ins, except as an undifferentiated total. It is incompatible with overvotes.
+
+Use in elections
+The city of Takoma Park, Maryland used Scantegrity II for its 2009 and 2011 city elections.
+Helios has been used since 2009 by several organizations and universities for general elections, board elections, and student council elections.
+Wombat Voting was used in student council elections at the private research college Interdisciplinary Center Herzliya in 2011 and 2012, as well as in the primary elections for the Israeli political party Meretz in 2012.
+A modified version of Prêt à Voter was used as part of the vVote poll-site electronic voting system at the 2014 Victorian State Election in Australia.
+ElectionGuard was combined with a voting system from VotingWorks and used for the Fulton, Wisconsin spring primary election on February 18, 2020.
+A touch-screen based DRE-ip implementation was trialed in a polling station in Gateshead on 2 May 2019 as part of the 2019 United Kingdom local elections. A browser-based DRE-ip implementation was used in an online voting trial in October 2022 among the residents of New Town, Kolkata, India during the 2022 Durga Puja festival celebration.
+
+Examples
+ADDER
+Helios
+Prêt à Voter
+Punchscan
+Scantegrity
+Wombat Voting 
+ThreeBallot
+Bingo Voting
+homomorphic secret sharing
+DRE-i (E2E verifiable e-voting without tallying authorities based on pre-computation)
+DRE-ip (E2E verifiable e-voting without tallying authorities based on real-time computation)
+Electa
+
+References
+
+External links
+Verifying Elections with Cryptography — Video of Ben Adida's 90-minute tech talk
+Helios: Web-based Open-Audit Voting — PDF describing Ben Adida's Helios web-site
+Helios Voting System web-site
+Simple Auditable & Anonymous Voting Scheme
+Study on Poll-Site Voting and Verification Systems — A review of existing electronic voting systems and its verification systems in supervised environments.
+a 2020 MIT Media Lab article about end to end verifiable voting systems, includes discussion of blockchains
+A Really Secret Ballot — Article by The Economist
+
+[[Absentee ballot]] [[Abstention]] [[Ballot]] [[Ballot box]] [[Ballot marking device]] [[Binomial voting system]] [[Biometric voter registration]] [[Candidate]] [[Carousel voting]] [[Certification of voting machines]] [[Chad (paper)]] [[Coattail effect]] [[Compulsory voting]] [[Cryptography]] [[Cumulative voting]] [[DRE voting machine]] [[Donkey vote]] [[Early voting]] [[Election Assistance Commission]] [[Election Systems & Software]] [[Election boycott]] [[Election ink]] [[Electoral district]] [[Electoral fraud]] [[Electoral precinct]] [[Electronic voting]] [[Electronic voting machine]] [[Family voting]] [[First-past-the-post voting]] [[General ticket]] [[Hart InterCivic]] [[Help America Vote Act]] [[Independent Testing Authority]] [[Independent verification systems]]

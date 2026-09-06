@@ -1,0 +1,47 @@
+BricsCAD
+BricsCAD is a software application for computer-aided design (CAD), developed by Bricsys NV. The company was founded in 2002 by Erik de Keyser, a long-time CAD entrepreneur. In 2011 Bricsys acquired the intellectual property rights from Ledas for constraints-based parametric design tools, permitting the development of applications in the areas of direct modeling and assembly design. Bricsys is headquartered in Ghent, Belgium, and has additional development centers in Bucharest, Romania and Singapore. Bricsys is a founding member of the Open Design Alliance, and joined the BuildingSMART International consortium in December 2016.
+In 2018, Bricsys NV was acquired in full by Hexagon AB of Sweden.
+
+The BricsCAD Editions
+As of late 2025, BricsCAD is available for the Windows, Linux, and macOS operating systems. The software is available via both subscription and perpetual (permanent) licensing models.
+The product family consists of five workflow-centric editions. All editions utilize the native .dwg file format and are compatible with Apple Silicon hardware on macOS.
+
+BricsCAD Lite is designed for 2D drafting and documentation workflows. It offers full LISP API support for customization and automation, similar to AutoCAD LT but with the addition of network licensing and extensibility.
+BricsCAD Pro is the core commercial platform. It includes all Lite functionality and adds 3D modeling, rendering, and access to the BRX API (C++), which supports hundreds of third-party applications. BricsCAD Pro also includes a suite of civil engineering tools (TIN surface creation, grading, and alignment tools) and point cloud processing capabilities that were previously separate modules or requiring add-ons. It features AI-assisted tools for drawing optimization, such as Blockify (automatic block definition) and MoveGuided.
+BricsCAD BIM builds upon BricsCAD Pro with a concept-to-documentation Building Information Modeling workflow. It utilizes a direct modeling engine coupled with A.I. classification (such as BIMIFY) to convert free-form 3D geometry into IFC-compliant BIM elements. Major features include "Scan-to-BIM" automation and a "continuous Level of Development" approach. It is certified for Industry Foundation Classes (IFC) 4.3 import and export.
+BricsCAD Mechanical includes all Pro functionality and adds tools for mechanical assembly design, sheet metal fabrication, and bill-of-materials generation. It features a unique "2D-to-3D" workflow that allows legacy DWG mechanical drawings to be converted into 3D parts and assemblies. It supports the editing of non-native mechanical geometry (imported from other MCAD tools) as if it were native data.
+BricsCAD Ultimate is a single installer bundle that combines all functionality from the Lite, Pro, BIM, and Mechanical editions.
+The BricsCAD 30-day free trial provides full access to the BricsCAD Ultimate edition. 
+
+BricsCAD Shape
+BricsCAD Shape was a free-of-cost 3D conceptual modeling tool offered by Bricsys between 2018 and 2025. It was designed to introduce users to the BricsCAD direct modeling interface. With the release of BricsCAD V26 in late 2025, BricsCAD Shape was discontinued as a standalone product, with its functionality absorbed into the main BricsCAD platform's trial and educational offerings.
+
+Communicator for BricsCAD
+Communicator for BricsCAD is an add-on that imports and exports 3D CAD data (geometry & Product Manufacturing Information [PMI]) for data exchange with major Mechanical CAD programs (e.g. CATIA, PTC Creo, Solid Edge, NX/UG, SolidWorks and Autodesk Inventor) and several industry-standard neutral file formats. The BricsCAD Communicator works with BricsCAD Pro for single part import/export, and BricsCAD Mechanical for assembly import/export.
+
+BricsCAD Shape
+In January 2018 Bricsys released a free-of-charge conceptual modelling tool called BricsCAD Shape. It was derived from the BricsCAD solid modelling core.
+The geometry domain of BricsCAD Shape is equivalent to that of BricsCAD and the native file format of both products is DWG. BricsCAD Shape has a simplified user interface that reduces command options to a minimum for support of effective solids modelling. BricsCAD Shape also includes a library of parametric windows and doors, materials libraries and a set of 3D furniture and objects.
+
+APIs and customization
+BricsCAD implements many of the AutoCAD Application Programming Interfaces (APIs). In general, BricsCAD provides a nearly identical subset of AutoCAD-equivalent function names, whilst also extending some APIs such as the LISP API. In the case of non-compiled AutoCAD applications (e.g. LISP, DIESEL and DCL), these programs can be loaded and executed directly in BricsCAD. Specifically regarding LISP routines, BricsCAD supports both Vanilla AutoLISP and Visual LISP (e.g. vl, vlr, vla and vlax functions as found in AutoCAD), and also supports the use of COM functions on Linux and Mac platforms. BricsCAD also supports encryption of LISP programs to .des format using either the BLADE IDE or DESCoder application included with the main application. BricsCAD cannot read AutoCAD .fas or .vlx (compiled LISP) files.
+Most compiled applications developed for AutoCAD's Runtime eXtension (ObjectARX) API require recompilation with the BricsCAD Runtime eXtension (BRX) libraries. BRX is source code-compatible with AutoCAD's ARX, with a few exceptions. Bricsys also supports the deprecated Autodesk Development System (ADS) through BricsCAD's (also deprecated) SDS interface.
+
+Partners
+Bricsys works with application development partners to bring AEC (Architecture, Engineering and Construction), Civil, GIS and Mechanical CAD tools.
+Bricsys offers LGS 2D and 3D, two component technologies that enable 2D and 3D constraint management.  Bricsys offers licensing of these modules to software developers that build products on Windows (32/64-bit), MacOS, and Linux, for integration into their own software products. Licensees for these modules include ASCON (CAD), Cimatron (CAD/CAM) and others.
+
+Comparison of speed
+According to BricsCAD advocates, BricsCAD's OpenLisp-based run-time environment is faster than AutoLISP (in Autodesk, Inc's AutoCAD).
+
+See also
+Computer-aided design
+Comparison of CAD software
+Comparison of CAD editors for CAE
+
+References
+
+External links
+Official website
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]] [[Zuken]]

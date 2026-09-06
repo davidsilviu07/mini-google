@@ -1,0 +1,47 @@
+Zuken
+Zuken Inc. (株式会社図研, Kabushiki-gaisha Zuken) is a Japanese multinational corporation, specializing in software and consulting services for end-to-end electrical and electronic engineering. Zuken came into existence as a pioneer in the development of computer-aided design (CAD) systems in Japan to contribute to electronics manufacturing. The literal translation of Zuken is graphics laboratory. Established in 1976 in Yokohama, Japan, it is listed on the Tokyo Stock Exchange; net sales were US$216 million for the year 2011.
+Zuken's software is used mainly to design printed circuit boards (PCBs), multi-chip modules, and to engineer electrotechnical, wiring, wiring harness, pneumatics and hydraulics applications. Furthermore, Zuken offers software for electrical and electronic engineering data management (electronic product lifecycle management (e-PLM)). The company's key markets are the electronics industry – which includes digital home electrical appliances; mobile communications devices; transportation equipment, such as automobiles, special vehicles and railroads; industrial equipment, such as medical equipment and devices; and construction machinery. Zuken also has a strong presence in the aviation and space industries. Zuken is one of four major electronic design automation (EDA) companies which specialize in PCB design software, the others being Cadence Design Systems, Mentor Graphics, and partly Altium.
+
+History
+1976 Zuken Inc. established.
+1978 Released CREATE-2000 (CR-2000) for PC (HP-1000 platform).
+1983 Zuken America Inc. (Now: Zuken U.S. Inc.) established.
+1985 Released Logic Design Workstation for Unix platform.
+1988 Released CAD/CAM for PCB "CR-3000" for Unix.
+1991 Listed on Tokyo Stock Exchange Level-2.
+1992 Zuken Europe GmbH. (Germany) established.
+1992 Zuken Korea Inc. (Seoul) established.
+1992 Zuken Singapore Pte. Ltd. established.
+1993 Zuken Inc. China (Beijing) established.
+1994 Acquired Racal-Redac Ltd.
+1994 Listed on Tokyo Stock Exchange Level-1
+1994 Released CAD/CAM for PCB "CR-5000" for Unix & PC platform.
+1994 Released Data Management System "PDM-5000".
+1996 Realvision Inc. established.
+2000 Acquired Incases Engineering GmbH (Germany).
+2000 Zuken Tecnomatix Inc. established.
+2001 Zuken NetWave Inc. established.
+2002 Zuken Shanghai Technical Center Co. Ltd. established.
+2005 Zuken Taiwan Inc. established.
+2006 Acquired CIM-Team GmbH (Germany), which develops "E³.series".
+2014 Acquired Intedis GmbH & Co. KG
+2015 Acquired CAETEK Inc.
+2019 Acquired Vitech Corporation
+
+Products
+Visula – historically important EDA tool by Redac of Racal-Redac Ltd., taken over by Zuken
+CR-8000 – 2D and 3D, multi-board system design
+CR-5000 – Zuken's enterprise-wide PCB design software platform for both analogue and digital PCB design. CR-5000 includes modules such as System Designer, Board Designer, Lightning, Package Predictor/Synthesizer. The program runs on both Unix and Windows.
+Design Gateway – Circuit design creation software. It is positioned within Zuken's CR-5000 enterprise-wide software for electronics systems design and is at the core of its constraint-driven design and verification process.
+E³.series – Windows-based electrical design software for wiring, harnesses, cable, fluid, hydraulics, and panel design. Most recent addition to Zuken product line.
+Cabling Designer – design tool that integrates with CATIA for wire harness design. Modules include Cabling Designer, Harness Designer, Topology Designer, Simulation and Verifications.
+CADSTAR – desktop software to produce schematic and PCB designs.
+eCADSTAR – Internet connected PCB design platform.
+DS-2 – Zuken's electronic product lifecycle management tool.
+
+References
+
+External links
+Official website, in English
+
+[[.dwg]] [[3D Manufacturing Format]] [[ABViewer]] [[Aber (software)]] [[Additive manufacturing file format]] [[Alibre Design]] [[Altium]] [[Altium Designer]] [[Archicad]] [[AutoCAD DXF]] [[AutoTURN]] [[Autodesk Alias]] [[Autodesk Inventor]] [[Autodesk Revit]] [[Autotrax]] [[BRL-CAD]] [[BrickLink Studio]] [[BricsCAD]] [[C3D Toolkit]] [[CADKEY]] [[CADSTAR]] [[CATIA]] [[CR-5000]] [[CR-8000]] [[Cadence Design Systems]] [[Cimatron]] [[CircuitMaker]] [[Clothing industry]] [[Cobalt (CAD program)]] [[Comparison of computer-aided design software]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Creo Parametric]] [[DAC-1]] [[DesignSpark Mechanical]] [[DesignSpark PCB]] [[Design Web Format]] [[Digital Geometric Kernel]] [[DipTrace]] [[EAGLE (program)]] [[EasyEDA]] [[Electric (software)]] [[Electronic design automation]] [[FINE MEP]] [[FORAN System]] [[FastCAD]] [[FreePCB]] [[Fritzing]] [[GEDA]] [[Geometric modeling kernel]] [[Grasshopper 3D]] [[GstarCAD]] [[History of CAD software]] [[IGES]] [[IRONCAD]] [[IntelliCAD]] [[KTechLab]] [[KeyCreator]] [[KiCad]] [[LTspice]] [[Lego Digital Designer]] [[LeoCAD]] [[MEDUSA4]] [[Magic (software)]] [[Mechanical systems drawing]] [[Mentor Graphics]] [[Micro-Cap]] [[MicroStation]] [[NI Multisim]] [[NI Ultiboard]] [[Ngspice]] [[Onshape]] [[OpenRocket]] [[OpenVSP]] [[Open Cascade Technology]] [[Open Design Alliance]] [[Open Packaging Conventions]] [[Optics Software for Layout and Optimization]] [[OrCAD]] [[Oregano (software)]] [[P-CAD]] [[PCB (software)]] [[PDMS (software)]] [[PLY (file format)]] [[PTC Creo Elements/Direct Drafting]] [[Parasolid]] [[Pcb-rnd]] [[Pro/DESKTOP]] [[Proteus Design Suite]] [[Pulsonix]] [[Quite Universal Circuit Simulator]] [[RUCAPS]] [[RattleCAD]] [[Rhinoceros 3D]] [[Romulus (modelling kernel)]] [[Russian Geometric Kernel]] [[SPICE]] [[STL (file format)]] [[Salome (software)]] [[ShapeManager]] [[Shapr3D]] [[Siemens NX]] [[Solid Edge]] [[Solid Modeling Solutions]] [[SolveSpace]] [[Sonata (building design software)]] [[SpaceClaim]] [[Specctra]] [[Square Enix]] [[Sweet Home 3D]] [[T-FLEX CAD]] [[TARGET (CAD software)]] [[Tinkercad]] [[TopoR]] [[TurboCAD]] [[UNISURF]] [[Upverter]] [[Valentina (software)]] [[Wavefront .obj file]] [[XCircuit]] [[ZWCAD]] [[Zemax]]

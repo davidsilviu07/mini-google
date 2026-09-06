@@ -1,0 +1,134 @@
+Quantitative electroencephalography
+Quantitative electroencephalography (qEEG or QEEG) is a field concerned with the numerical analysis of electroencephalography (EEG) data and associated behavioral correlates.
+
+Details
+Techniques used in digital signal analysis are extended to the analysis of electroencephalography (EEG). These include wavelet analysis and Fourier analysis, with new focus on shared activity between rhythms including phase synchrony (coherence, phase lag) and magnitude synchrony (comodulation/correlation, and asymmetry).
+The analog signal comprises a microvoltage time series of the EEG, sampled digitally and sampling rates adequate to over-sample the signal (using the Nyquist principle of exceeding twice the highest frequency being detected). Modern EEG amplifiers use adequate sampling to resolve the EEG across the traditional medical band from DC to 70 or 100 Hz, using sample rates of 250/256, 500/512, to over 1000 samples per second, depending on the intended application.
+QEEG can be performed by open-source toolboxes such as EEGLAB or the Neurophysiological Biomarker Toolbox.
+Several QEEG products have received Class 2 FDA medical device clearance and the method has received some medical acceptance for use in epilepsy patients. However QEEG has not been endorsed by the American Academy of Neurology or the American Clinical Neurophysiology Society.
+
+Fourier analysis of EEG
+The Fourier decomposes the EEG time series into a voltage by frequency spectral graph commonly called the "power spectrum", with power being the square of the EEG magnitude, and magnitude being the integral average of the amplitude of the EEG signal, measured from(+) peak-to-(-)peak), across the time sampled, or epoch.  The epoch length determines the frequency resolution of the Fourier, with a 1-second epoch providing a 1 Hz resolution (plus/minus 0.5 Hz resolution), and a 4-second epoch providing 0.25 Hz, or ±0.125 Hz resolution.
+
+  
+    
+      
+        f
+        (
+        ξ
+        )
+        =
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        f
+        (
+        x
+        )
+        
+          e
+          
+            −
+            2
+            π
+            i
+            x
+            ξ
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle f(\xi )=\int _{-\infty }^{\infty }f(x)e^{-2\pi ix\xi }\,dx}
+  
+
+Where ξ = frequency
+
+Wavelet analysis of EEG
+A wavelet is a time-frequency transformation that allows analysis of EEG signals in the time extension that is not possible with Fourier analysis.
+
+  
+    
+      
+        X
+        (
+        a
+        ,
+        b
+        )
+        =
+        
+          
+            1
+            
+              a
+            
+          
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              Ψ
+              
+                (
+                
+                  
+                    
+                      t
+                      −
+                      b
+                    
+                    a
+                  
+                
+                )
+              
+            
+            ¯
+          
+        
+        x
+        (
+        t
+        )
+        
+        d
+        t
+      
+    
+    {\displaystyle X(a,b)={\frac {1}{\sqrt {a}}}\int _{-\infty }^{\infty }{\overline {\Psi \left({\frac {t-b}{a}}\right)}}x(t)\,dt}
+  
+
+Where a = scaling; b = time
+
+Uses
+QEEG has been accepted for diagnostic evaluation in some areas, such as cerebro-vascular disorders, encephalopathy, dementia and epilepsy, though it remains yet to be accepted in other clinical areas, such as diagnosing mild traumatic brain injury or psychiatric disorders. The use of qEEG techniques in investigations in clinical and research settings are ongoing.  QEEG has also been utilized to provide neurofeedback, which is a form of biofeedback, wherein electrical activity in the brain is monitored by a computer program, which is applied to modulate visual or auditory stimuli—these stimuli, in turn, are designed to be controlled by the user.
+
+References
+
+Kececi, H.; Degirmenci, Y. (April 2008). "Quantitative EEG and Cognitive Evoked Potentials in Anemia". Clinical Neurophysiology. 38 (2): 137–143. doi:10.1016/j.neucli.2008.01.004. hdl:20.500.12684/4299. PMID 18423335.
+Quantitative spectral analysis of EEG in psychiatry revisited: drawing signs out of numbers in a clinical setting. Clin Neurophysiol. 2003 Dec;114(12):2294-306.
+The Role of Quantitative EEG in the Diagnosis of Neuropsychiatric Disorders.
+J Med Life. Jan-Mar 2020;13(1):8-15. 
+CFC delta-beta is related with mixed features and response to treatment in bipolar II depression. Heliyon. 2019 Jun 13;5(6):e01898.
+
+[[EEGLAB]] [[Electroencephalography]] [[Encephalopathy]] [[Neurofeedback]]

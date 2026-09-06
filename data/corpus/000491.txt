@@ -1,0 +1,18 @@
+Experimental software engineering
+Experimental software engineering involves running experiments on the processes and procedures involved in the creation of software systems, with the intent that the data be used as the basis of theories about the processes involved in software engineering (theory backed by data is a fundamental tenet of the scientific method).  A number of research groups primarily use empirical and experimental techniques.
+The term empirical software engineering emphasizes the use of empirical studies of all kinds to accumulate knowledge.  Methods used include experiments, case studies, surveys, and using whatever data is available.
+
+Empirical software engineering research
+In a keynote at the International Symposium on Empirical Software Engineering and Measurement Prof. Wohlin recommended ten commitments that the research community should follow to increase the relevance and impact of empirical software engineering research. However, at the same conference Dr. Ali effectively argued that solely following these will not be enough and we need to do more than just show the evidence substantiating the claimed benefits of our interventions but instead what is required for practical relevance and potential impact is the evidence for cost-effectiveness.
+The International Software Engineering Research Network (ISERN) is a global community of research groups who are active in experimental software engineering. Its purpose is to advance the practice of and foster university and industry collaborations within experimental software engineering. ISERN holds annual meetings in conjunction with the International Symposium on Empirical Software Engineering and Measurement (ESEM) conference.
+
+References
+
+Bibliography
+Victor Basili, Richard W. Selby, David H. Hutchens, "Experimentation in Software Engineering", IEEE Transactions on Software Engineering, Vol. SE-12, No.7, July 1986
+Basili, V.; Rombach, D.; Schneider, K.; Kitchenham, B.; Pfahl, D.; Selby, R. (Eds.),Empirical Software Engineering Issues. Critical Assessment and Future Directions, Springer-Verlag, 2007, ISBN 978-3-540-71300-5.
+Barry Boehm, Hans Dieter Rombach, and Marvin V. Zelkowitz (eds.), Foundations of Empirical Software Engineering — The Legacy of Victor R. Basili, Springer-Verlag, 2005, ISBN 3-540-24547-2.
+Jones, D. Evidence-based Software Engineering based on the publicly available data, 2020, ISBN 978-1-8382913-0-3
+H. Dieter Rombach, Victor R. Basili and Richard W. Selby (eds.), [Experimental Software Engineering Issues: Critical Assessment and Future Directions], Springer-Verlag, 1993, ISBN 3-540-57092-6.
+
+[[Abstraction (computer science)]] [[Agile software development]] [[Aspect-oriented programming]] [[Backward compatibility]] [[CI/CD]] [[Capability Maturity Model Integration]] [[Compatibility layer]] [[Compatibility mode]] [[Component-based software engineering]] [[Computer compatibility]] [[Computer engineering]] [[Computer programming]] [[Computer science]] [[Data model]] [[Data modeling]] [[DevOps]] [[Empirical software engineering]] [[Enterprise architecture]] [[Enterprise unified process]] [[Entity–relationship model]] [[Essential systems analysis]] [[Executable UML]] [[Extreme programming]] [[Formal methods]] [[Forward compatibility]] [[Function model]] [[Functional specification]]

@@ -1,0 +1,30 @@
+Brain biopsy
+Brain biopsy is the removal of a small piece of brain tissue for the diagnosis of abnormalities of the brain. It is used to diagnose tumors, infection, inflammation, and other brain disorders. By examining the tissue sample under a microscope, the biopsy sample provides information about the appropriate diagnosis and treatment.
+
+Indications
+Given the potential risks surrounding the procedure, cerebral biopsy is indicated only if other diagnostic approaches (e.g. magnetic resonance imaging) have been insufficient in showing the cause of symptoms, and if it is felt that the benefits of histological diagnosis will influence the treatment plan. 
+If the person has a brain tumor, biopsy is 95% sensitive. The procedure can also be valuable in people who are immunocompromised and who have evidence of brain lesions that could be caused by opportunistic infections. In other groups, particularly those with unexplained neurological disease, a diagnosis is reached by performing a biopsy in half the cases where it is done, and it has helpful practical effect in 30% of people. If primary angiitis of the central nervous system (PACNS) is suspected, brain biopsy is most likely to positively influence the treatment plan.
+
+Preparation
+A CT or MRI brain scan is done to find the position where the biopsy will be performed. Prior to the biopsy, the patient is placed under general anesthesia.
+
+Procedure
+
+Procedures are categorized into stereotactic, needle, and open. Stereotactic is the least invasive and open is the most invasive.
+When an abnormality of the brain is suspected, stereotactic (probing in three dimensions) brain needle biopsy is performed and guided precisely by a computer system to avoid serious complications. A small hole is drilled into the skull, and a needle is inserted into the brain tissue guided by computer-assisted imaging techniques (CT or MRI scans). Historically, the patient's head was held in a rigid frame to direct the probe into the brain; however, since the early 1990s, it has been possible to perform these biopsies without the frame. Since the frame was attached to the skull with screws, this advancement is less invasive and better tolerated by the patient. The doctor (pathologist) prepares the sample for analysis and studies it further under a microscope.
+
+Aftercare
+The patient is monitored in the recovery room for several hours following the biopsy. Neurological assessments are performed once the patient is fully awake and if left without deficit, most patients can be discharged the day after surgery.
+
+Risks
+The procedure is invasive and includes risks associated with anesthesia and surgery. Brain injury may occur due to removal of brain tissue. The resulting scar left on the brain has the potential to trigger seizures.
+If brain biopsy is performed for a possible tumor (which contain more blood vessels), the risk of death is 1% and a risk of complications 12%. For unexplained neurological disease, there is no risk of death and a complication rate of 9%; complications were more common in PACNS.
+
+Interpretation
+Various brain abnormalities can be diagnosed by microscopic analysis of the tissue sample. The pathologist (a physician trained in how disease affects the body's tissues) looks for abnormal growth, changes in cell membranes, and/or abnormal collections of cells. In Alzheimer's disease, the cortex of the brain contains abnormal collections of plaques. If infection is suspected, the infectious organism can be cultured from the tissue and identified. Classification of tumors is also possible after biopsy.
+
+See also
+
+References
+
+[[Amygdalohippocampectomy]] [[Anterior temporal lobectomy]] [[Bilateral cingulotomy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral cortex]] [[Cerebral shunt]] [[Cerebrum]] [[Clinical prediction rule]] [[Computed tomography of the head]] [[Cordotomy]] [[Corpus callosotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Hypophysectomy]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure monitoring]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[Myelography]] [[National Institutes of Health Stroke Scale]] [[Pallidotomy]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Psychosurgery]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Suboccipital puncture]]

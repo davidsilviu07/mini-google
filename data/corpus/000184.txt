@@ -1,0 +1,189 @@
+Catatonia
+Catatonia is a neuropsychiatric syndrome most commonly seen in people with underlying mood disorders such as major depressive disorder, or psychotic disorders such as schizophrenia. People with catatonia exhibit abnormal movement and behaviors that vary from person to person, and which may fluctuate in intensity within a single episode.
+People with catatonia appear withdrawn, with limited interaction with the outside world and difficulty processing information. They may be nearly motionless for days on end or perform repetitive, purposeless movements. People may exhibit very different sets of behaviors and still be diagnosed with catatonia. Treatment with benzodiazepines or electroconvulsive therapy is most effective and leads to remission of symptoms in most cases.
+There are different subtypes of catatonia, which represent groups of symptoms that commonly occur together. These include stuporous/akinetic catatonia, excited catatonia, malignant catatonia, and periodic catatonia.
+Catatonia has historically been related to schizophrenia, but is most often seen in mood disorders. It is now known that catatonic symptoms are nonspecific and may occur in other mental, neurological, and medical conditions. The prognosis of catatonia is typically good, with complete remission in some patients; however, outcomes vary depending on the underlying disorder.
+
+Signs and symptoms
+To properly diagnose catatonia, both the ICD-11 and DSM-5 require three or more of the symptoms defined in the table below. However, each person can have a different set of symptoms that may worsen, improve, and change in appearance throughout a single episode. Symptoms may develop in varying amounts of time, presenting in hours, days, or even weeks.
+
+Because most patients with catatonia have an underlying psychiatric illness, the majority will present with worsening depression, mania, or psychosis, followed by catatonia symptoms. Even when they are unable to interact, patients presenting with catatonia should not be assumed to be unaware of their surroundings, as some can recall their catatonic state and their actions in detail.
+
+Subtypes
+There are several subtypes of catatonia recognized: stuporous catatonia, excited catatonia, malignant catatonia, and periodic catatonia. Subtypes are defined by the group of symptoms and associated features that a person is experiencing or displaying. Although catatonia can be divided into subtypes, its presentation is often dynamic, and the same individual may exhibit different subtypes at different times.
+Stuporous catatonia is characterized by immobility, mutism, and a lack of response to the world around them. They may appear frozen in one position for long periods of time unable to eat, drink, or speak.
+Excited catatonia is characterized by odd mannerisms and gestures, purposeless or inappropriate actions, excessive motor activity, restlessness, stereotypy, impulsivity, agitation, and combativeness. Patients suffering from excited catatonia may have speech and actions that are repetitive or mimic another person's. This state is often characterized by hyperactivity, and the patient may have delusions and hallucinations.
+Malignant catatonia is characterized by fever, dramatic and rapid changes in blood pressure, increased heart rate and respiratory rate, and excessive sweating. This condition is life-threatening, and the patient's laboratory tests may come back abnormal.
+Periodic catatonia is characterized by a person having recurrent episodes of catatonia. Individuals will experience multiple episodes over time, with no signs of catatonia between episodes. Historically, the Wernicke-Kleist-Leonhard school considered periodic catatonia a distinct form of "non-system schizophrenia", characterized by recurrent acute phases with hyperkinetic and akinetic features and often psychotic symptoms. There is also a residual state between these phases, characterized by low-level catatonic features and abulia of varying severity.
+
+Causes
+Catatonia develops in the presence of an underlying condition, including psychiatric and neurological disorders, other medical conditions, and substance use.
+
+Neuropsychiatric
+Mood disorders like bipolar disorder and clinical depression are the most common conditions underlying catatonia. Other psychiatric conditions that can cause catatonia include schizophrenia and other primary psychotic disorders, autism spectrum disorder, ADHD, and post-traumatic stress disorder.
+Psychodynamic theorists have historically interpreted catatonia as a psychological defense against the potentially destructive consequences of responsibility, with the passivity of the disorder providing relief.
+
+Other conditions
+Catatonia is also seen in many medical disorders, including encephalitis, meningitis, autoimmune disorders, focal neurological lesions (including strokes), alcohol withdrawal, abrupt or overly rapid benzodiazepine withdrawal, cerebrovascular disease, neoplasms, head injury, and some metabolic conditions (e.g.,homocystinuria, diabetic ketoacidosis, hepatic encephalopathy, and hypercalcaemia).
+
+Neurological
+Catatonia can occur due to several neurological conditions. For instance, certain types of encephalitis can cause catatonia. Anti-NMDA receptor encephalitis is a form of autoimmune encephalitis known to cause catatonia, albeit very rarely. Additionally, encephalitic catatonia has been reported in cases of severe HIV and herpes simplex virus infections. A small amount of evidence suggests that catatonia can develop after traumatic brain injury in the absence of a primary psychiatric disorder. Similarly, there are several case reports of catatonia after a stroke, with some having catatonia-associated symptoms that were unexplainable by stroke itself and which improved after treatment with benzodiazepines. Parkinson's disease can cause catatonia for some people by impairing their ability to produce and secrete dopamine, a neurotransmitter which is thought to contribute to motor dysfunction in people with catatonia.
+
+Metabolic and endocrine
+Abnormal thyroid function may result in the development of catatonia when the thyroid overproduces (hyperthyroidism) or underproduces thyroid hormones (hypothyroidism). This is thought to occur due to the impact of thyroid hormones on metabolism, including in the cells of the nervous system. Abnormal electrolyte levels have also been shown to cause catatonia in rare cases. Most notably, low blood sodium levels can cause catatonia in some people.
+
+Infectious
+Certain infections are known to cause catatonia, either by directly impairing brain function or by increasing a person's susceptibility to other diseases that can do so. HIV and AIDS can cause catatonia by predisposing one to infections in the brain, including different types of viral encephalitis. Borrelia burgdorferi causes Lyme disease, which has been shown to cause catatonia by infecting the brain and causing encephalitis.
+
+Medications
+Disulfiram, a drug used to treat alcoholism, can cause catatonia. It is theorized that the medication can cause alterations in dopamine metabolism, as it blocks dopamine beta-hydroxylase. Additionally, phencyclidine, corticosteroids, and antipsychotics, among other drugs, are known to cause catatonia.
+
+Pathogenesis
+The mechanisms underlying brain catatonia are poorly understood. Currently, there are two main categories of explanations for the brain pathology of catatonia. The first is a disruption of normal neurotransmitter production or release in certain brain areas, preventing normal cognitive function and leading to behavioral and motor symptoms associated with catatonia. The second claims that disruption of communication between different areas of the brain causes catatonia.
+
+Neurotransmitters
+The neurotransmitters that are most strongly associated with catatonia are GABA, dopamine, and glutamate. GABA is the primary inhibitory neurotransmitter of the brain, meaning it slows down the activity of the systems it acts on. In catatonia, people have low levels of GABA, which causes them to be overly activated, especially in areas of the brain that normally inhibit activity. This is thought to cause the behavioral symptoms associated with catatonia, including withdrawal. Dopamine can increase or decrease the activity of the area of the brain it acts on, depending on where in the brain it is. Dopamine is lower than normal in people with catatonia, which is thought to cause many of the motor symptoms, because dopamine is the main neurotransmitter that activates the parts of the brain responsible for movement. Glutamate is an excitatory neurotransmitter, meaning that it increases the activity of the areas of the brain it acts on. Notably, glutamate tells the neuron it acts on to fire by binding to the NMDA receptor. People with anti-NMDA receptor encephalitis can develop catatonia because their antibodies attack the NMDA receptor, reducing the brain's ability to activate different areas through glutamate.
+
+Neurological pathways
+Several brain pathways have been studied, and they seem to contribute to catatonia when they are not functioning properly. However, these studies were unable to determine if the abnormalities they observed were the cause of catatonia or if the catatonia caused the abnormalities. Furthermore, it has been hypothesized that pathways connecting the basal ganglia with the cortex and thalamus are involved in the development of catatonia.
+
+Diagnosis
+Catatonia is diagnosed when a person exhibits at least three key symptoms simultaneously.
+These can include:
+
+not moving or speaking (stupor or mutism)
+unusual body positions
+repeating words or actions
+sudden restlessness
+other, less common symptoms
+The DSM-5 and ICD-11, global manuals for mental health conditions, describe catatonia and its various types. Catatonia can occur with other mental illnesses, like depression or schizophrenia. It may also be a reaction to certain drugs or a medical condition. While often linked to psychiatric disorders, about one in five cases of catatonia are due to medical conditions.
+There is not a definitive consensus regarding diagnostic criteria. In the fifth edition of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM-5, 2013) and the eleventh edition of the World Health Organization's International Classification of Diseases (ICD-11, 2022), the classification is more homogeneous than in earlier editions. Prominent researchers in the field have other suggestions for diagnostic criteria. Still, diagnosing catatonia can be challenging. Evidence suggests that there is as high as a 15-day average delay to diagnosis for people with catatonia.
+
+DSM-5
+The DSM-5 does not classify catatonia as an independent disorder. Instead, it classifies it as:
+
+catatonia associated with another mental disorder
+due to another medical condition
+unspecified catatonia. 
+Diagnosis requires the presence of three or more of the following twelve psychomotor symptoms in association with a mental disorder, medical condition, or unspecified:
+
+stupor: absence of psycho-motor activity; not actively relating to the environment
+catalepsy: passive induction of a posture held against gravity
+waxy flexibility: maintaining positions imposed by the examiner
+mutism: minimal or absent verbal response (not due to aphasia)
+negativism: resistance or lack of response to instructions or external stimuli
+posturing: spontaneous and active maintenance of a posture against gravity
+mannerisms: odd or exaggerated caricatures of normal actions
+stereotypy: repetitive, abnormally frequent, non-goal-directed movements
+agitation: excessive activity not influenced by external stimuli
+grimacing: sustained facial expression
+echolalia: mimicking another's speech
+echopraxia: mimicking another's movements
+Other disorders (additional code 293.89 [F06.1] to indicate the presence of the co-morbid catatonia):
+
+Catatonia associated with autism spectrum disorder
+Catatonia associated with schizophrenia spectrum and other psychotic disorders
+Catatonia associated with brief psychotic disorder
+Catatonia associated with schizophreniform disorder
+Catatonia associated with schizoaffective disorder
+Catatonia associated with a substance-induced psychotic disorder
+Catatonia associated with bipolar and related disorders
+Catatonia associated with major depressive disorder
+Catatonic disorder due to another medical condition
+If catatonic symptoms are present but do not form the catatonic syndrome, a medication- or substance-induced aetiology should be considered first.
+
+ICD-11
+The ICD-11 defines catatonia as a syndrome of psychomotor disturbances, characterized by the co-occurrence of several symptoms such as stupor, catalepsy, waxy flexibility, mutism, negativism, posturing, mannerisms, stereotypies, psychomotor agitation, grimacing, echolalia, and echopraxia. Catatonia may occur in the context of specific mental disorders, including mood disorders, schizophrenia or other primary psychotic disorders, and neurodevelopmental disorders. It may also be induced by psychoactive substances, including medications, or caused by a medical condition not classified under mental, behavioral, or neurodevelopmental disorders.
+
+Assessment and physical examination
+Catatonia is often overlooked and under-diagnosed. Most patients present with an underlying psychiatric disorder, which can obscure recognition of catatonia. For example, psychotic symptoms may dominate the clinical picture, while classic catatonic features (such as mutism or posturing) are absent. Motor abnormalities can also be misleading; in mania, increased motor activity is typically goal-directed, whereas in excited catatonia, activity is non–goal-directed and repetitive. Careful observation of motor behavior is therefore crucial for diagnosis.
+Catatonia remains a clinical diagnosis with no specific laboratory test to diagnose it. However, supportive investigations may help identify underlying causes:
+
+EEG: usually shows diffuse slowing; can detect seizure activity if present
+CT or MRI: do not demonstrate catatonia directly, but may reveal structural or metabolic causes
+Laboratory tests (metabolic panels, inflammatory markers, autoantibodies): can identify reversible medical contributors
+Vital signs should be frequently monitored as catatonia can progress to malignant catatonia, which is a life-threatening condition characterized by fever, hypertension, tachycardia, and tachypnea.
+
+Rating scale
+Several rating instruments have been developed, but their utility in clinical practice remains debated. The most commonly used scale is the Bush-Francis Catatonia Rating Scale (BFCRS). The scale consists of 23 items. The first 14 serve as a screening tool; if 2 of the 14 are positive, this prompts for further evaluation and completion of the remaining 9 items.
+Diagnostic certainty may also be supported by:
+
+lorazepam challenge
+zolpidem challenge
+Historically, barbiturates were used, but today benzodiazepines and electroconvulsive therapy (ECT) are the main options chosen for treatment.
+
+Laboratory findings
+Laboratory abnormalities are most relevant in malignant catatonia rather that in other forms of catatonia, and may include:
+
+elevated creatine kinase
+leukocytosis
+low serum iron
+These findings overlap with neuroleptic malignant syndrome (NMS). Therefore, it is essential to make careful correlation with clinical history, medications, and physical findings.
+
+Differential diagnosis
+Because catatonia overlaps with many psychiatric and neurological conditions a careful and detailed history, medication review, and physical exam are key to diagnosing catatonia and differentiating it from other conditions. Furthermore, some of these conditions can themselves lead to catatonia. The differential diagnosis is as follows:
+
+Neuroleptic malignant syndrome (NMS) and catatonia are both life-threatening conditions that share many of the same characteristics including fever, autonomic instability, rigidity, and delirium. Lab values of low serum iron, elevated creatine kinase, and white blood cell count are also shared by the two disorders, further complicating the diagnosis. There are features of malignant catatonia (posturing, impulsivity, etc.) that are absent from NMS and the lab results are not as consistent in malignant catatonia as they are in NMS. Some experts consider NMS to be a drug-induced condition associated with antipsychotics, particularly first generation antipsychotics, but it has not been established as a subtype. Therefore, discontinuing antipsychotics and starting benzodiazepines is a treatment for this condition, and similarly it is helpful in catatonia as well. (See table 2 above).
+Anti-NMDA receptor encephalitis is an autoimmune disorder characterized by neuropsychiatric features and the presence of IgG antibodies. The presentation of anti-NMDA encephalitis has been categorized into 5 phases:
+prodromal phase.
+psychotic phase.
+unresponsive phase.
+hyperkinetic phase.
+recovery phase.
+The psychotic phase progresses into the unresponsive phase characterized by mutism, decreased motor activity, and catatonia.
+
+serotonin syndrome: Triggered by serotonergic drugs (ex: SSRI); features include delirium, hyperreflexia, myoclonus, GI symptoms (N/V/D), autonomic instability, hyperthermia, and rigidity.
+Malignant hyperthermia: A hereditary disorder of skeletal muscle, triggered by anesthetics or muscle relaxants like succinylcholine.; associated with metabolic acidosis, hyperkalemia, and arrhythmias.
+Akinetic mutism is a neurological disorder associated with structural damage in a variety of brain, it is characterized by immobility and mutism but intact awareness; lacks echolalia/echopraxia. Furthermore, it is unresponsive to benzodiazepines. Patients may present with apathy, and may seem indifferent to pain, hunger, or thirst.
+Selective mutism has an anxious etiology but has also been associated with personality disorders. Patients with this disorder fail to speak with some individuals but will speak with others. Likewise, they may refuse to speak in certain situations; in another word it is anxiety-driven; speech restriction limited to certain contexts, without catatonic signs. for example, a child who refuses to speak at school but is conversational at home. This disorder is distinguished from catatonia by the absence of any other signs/symptoms.
+Nonconvulsive status epilepticus is seizure activity with no accompanying tonic-clonic movements. It can present with stupor, similar to catatonia, and they both respond to benzodiazepines. Nonconvulsive status epilepticus is diagnosed by the presence of seizure activity seen on electroencephalogram (EEG). Catatonia, on the other hand, is associated with normal EEG or diffuse slowing.
+Delirium is characterized by fluctuating disturbed perception and consciousness in the ill individual. It has hypoactive and hyperactive or mixed forms. People with hyperactive delirium present similarly to those with excited catatonia and have symptoms of restlessness, agitation, and aggression. Those with hypoactive delirium present with similarly to stuporous catatonia, withdrawn and quiet. However, catatonia also includes other distinguishing features including posturing and rigidity as well as a positive response to benzodiazepines.
+Patients with locked-in syndrome present with immobility and mutism; however, unlike patients with catatonia who are unmotivated to communicate, patients with locked-in syndrome try to communicate with eye movements and blinking. Furthermore, locked-in syndrome is caused by damage to the brainstem.
+Stiff-person syndrome and catatonia are similar in that they may both present with rigidity, autonomic instability, and a positive response to benzodiazepines. However, stiff-person syndrome may be associated with anti-glutamic acid decarboxylase (anti-GAD) antibodies and other catatonic signs such as mutism and posturing are not part of the syndrome.
+Untreated late-stage Parkinson's disease may present similarly to stuporous catatonia with symptoms of immobility, rigidity, and difficulty speaking. Further complicating the diagnosis is the fact that many patients with Parkinson's disease will have major depressive disorder, which may be the underlying cause of catatonia. Parkinson's disease can be distinguished from catatonia by a positive response to levodopa. Catatonia, on the other hand, will show a positive response to benzodiazepines.
+Extrapyramidal side effects of antipsychotic medication, especially dystonia and akathisia, can be difficult to distinguish from catatonic symptoms, or may confound them in the psychiatric setting. Extrapyramidal motor disorders usually do not involve social symptoms like negativism, while individuals with catatonic excitement typically do not have the physically painful compulsion to move that is seen in akathisia.
+Certain stimming behaviors and stress responses in individuals with autism spectrum disorders can present similarly to catatonia. In autism spectrum disorders, chronic catatonia is distinguished by a lasting deterioration of adaptive skills from the background of pre-existing autistic symptomatology that cannot be easily explained. Acute catatonia is usually clearly distinguishable from autistic symptoms.
+The diagnostic entities of obsessional slowness and psychogenic parkinsonism show overlapping features with catatonia, such as motor slowness, gegenhalten (oppositional paratonia), mannerisms, and reduced or absent speech. However, psychogenic parkinsonism involves tremor which is unusual in catatonia. Obsessional slowness is a controversial diagnosis, with presentations ranging from severe but common manifestations of obsessive compulsive disorder to catatonia.
+Down syndrome disintegrative disorder (or Down Syndrome Regression Disorder, DSDD / DSRD) is a chronic condition characterized by loss of previously acquired adaptive, cognitive and social functioning occurring in persons with Down syndrome, usually during adolescence or early adulthood. The clinical picture is variable, but often includes catatonic signs, which is why it was called "catatonic psychosis" in initial reports in 1946. DSDD seems to phenotypically overlap with obsessional slowness (see above) and catatonia-like regression occurring in ASD.
+
+Treatment
+Treatment is most effective when it is early and aggressive. Patients may face issues such as poor nutrition, infections, and skin breakdown. Immobility can lead to pressure ulcers, muscle contractions, and the formation of blood clots in the legs (deep vein thrombosis) and the lungs (pulmonary embolism). Other complications also include the development of pneumonia and neuroleptic malignant syndrome.
+The first choice of treatment for catatonia is benzodiazepines, particularly lorazepam, which may be used as a diagnostic tool via the  "lorazepam challenge". Patients are given a dose of lorazepam and their condition monitored; if there is an improvement within minutes, catatonia is likely. Patients who require a rapid response or do not respond to benzodiazepines may undergo a course of electroconvulsive therapy. This has been shown to produce favorable response rates, particularly in patients with malignant catatonia, and often succeeds where medication does not.
+Catatonia may be caused by external factors such as medical problems, side effects of certain medications, and psychiatric disorders such as depression and schizophrenia. The cause can affect treatment and outcomes: for example, catatonia associated with schizophrenia may respond less effectively to benzodiazepines.
+
+Prognosis
+Twenty-five percent of psychiatric patients with catatonia will have more than one episode throughout their lives. Treatment response for patients with catatonia is 50–70%, with treatment failure being associated with a poor prognosis. Many of these patients will require long-term and continuous mental health care. The prognosis for people with catatonia due to schizophrenia is much worse compared to other causes. In cases of malignant catatonia, the mortality rate is as high as 20%.
+
+Epidemiology
+Catatonia has been historically studied in psychiatric patients. Catatonia is under-recognized because the features are often mistaken for other disorders, including delirium or the negative symptoms of schizophrenia. The prevalence has been reported to be as high as 10% in those with acute psychiatric illnesses, and 9–30% in the setting of inpatient psychiatric care. The incidence of catatonia is 10.6 episodes per 100 000 person-years, which essentially means that in a group of 100,000 people, the group as a whole would experience 10 to 11 episodes of catatonia per year. Catatonia can occur at any age, but is most commonly seen in adolescence or young adulthood or in older adults with existing medical conditions. It occurs in males and females in approximately equal numbers. Around 20% of all catatonia cases can be attributed to a general medical condition. 
+
+History
+
+Ancient history
+There have been reports of stupor-like and catatonia-like states in people throughout the history of psychiatry. In ancient Greece, the first physician to document stupor-like or catatonia-like states was Hippocrates, in his Aphorisms. He never defined the syndrome, but seemingly observed these states in people he was treating for melancholia. In ancient China, the first descriptions of people that appear in the Huangdi Neijing (The Yellow Emperor's Inner Canon), the book which forms the basis of Traditional Chinese Medicine. It is thought to have been compiled by many people over the course of centuries during the Warring States Period (475-221 BCE) and the early Han Dynasty (206 BCE-220 CE).
+
+Modern history
+
+The term "catatonia" was first used by German psychiatrist Karl Ludwig Kahlbaum in 1874, in his book Die Katatonie oder das Spannungsirresein, which translates to "Catatonia or Tension Insanity". He viewed catatonia as its own illness, which would get worse over time in stages of mania, depression, and psychosis leading to dementia. This work heavily influenced another German psychiatrist, Emil Kraeplin, who was the first to classify catatonia as a syndrome. Kraeplin associated catatonia with a psychotic disorder called dementia praecox, which is no longer used as a diagnosis, but heavily informed the development of the concept of schizophrenia.
+Kraeplin's work influenced two other notable German psychiatrists, Karl Leonhard and Max Fink, and their colleagues to expand the concept of catatonia as a syndrome which could occur in the setting of many mental illnesses, not just psychotic disorders. They also laid the groundwork to describe different subtypes of catatonia still used today, including Stuporous Catatonia, Excited Catatonia, Malignant Catatonia, and Periodic Catatonia. Additionally, Leonhard and his colleagues categorized catatonia as either systematic or unsystematic, based on whether or not symptoms happened according to consistent and predictable patterns. These ways of thinking shaped the way that psychologists and psychiatrists thought of catatonia well into the 20th century. In fact, catatonia was a subtype of schizophrenia as recently as the DSM-III, and was not revised to be able to be applied to mood disorders until 1994 with the release of the DSM-IV.
+In the latter half of the 20th century, clinicians observed that catatonia occurred in various psychiatric and medical conditions, not exclusively in schizophrenia. Max Fink and colleagues advocated for recognizing catatonia as an independent syndrome, highlighting its frequent association with mood disorders and responsiveness to treatments like benzodiazepines and ECT.
+
+Society and culture
+
+Popular conceptions and origins
+
+Catatonia has been subject to shifting perceptions in society. Since the 19th century, it was often linked exclusively to schizophrenia, perpetuating misconceptions. These historical misunderstandings have shaped the public opinion on catatonia. This has contributed to a lack of understanding about catatonia, and its broader association with other mental disorders and medical conditions.
+Popular culture and media have played a significant role in shaping societal perceptions of catatonia. In many cases, media portrayals reduce it to a stereotypical "frozen state," similar to a coma, failing to capture the complexity of symptoms like stupor, agitation, and mutism. These oversimplifications have greatly affected the public perception of catatonia.
+
+See also
+
+References
+
+External links
+
+Catatonia in DSM-5
+Encyclopedia of Mental Disorders — Catatonic Disorders
+"Schizophrenia: Catatonic Type" video by Heinz Edgar Lehmann, 1952
+Bush-Francis Catatonia Rating Scale
+
+[[Attention deficit hyperactivity disorder]] [[Benzodiazepine]] [[Claustrophobia]] [[Delirium]] [[Dementia]] [[Electroencephalography]] [[Medical specialty]] [[Neurology]] [[Parkinson's disease]] [[Psychogenic non-epileptic seizure]] [[Sleep disorder]] [[Status epilepticus]] [[Stroke]]

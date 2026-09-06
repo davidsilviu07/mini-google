@@ -1,0 +1,130 @@
+Design for manufacturability
+Design for manufacturability (DFM), also known as design for manufacturing, is the engineering practice of designing a product to reduce the cost of its manufacture and to make its manufacture easier, and often the two aspects are intertwined. Common factors that affect manufacturability include the type of raw material, the form of the raw material, dimensional tolerances, and secondary processing such as finishing.
+
+By manufacturing technology
+DFM applies broadly yet differs widely depending on the manufacturing technology.
+
+Printed circuit board
+In the printed circuit board (PCB) design process, DFM leads to a set of design guidelines that attempt to ensure manufacturability. By doing so, probable production problems may be addressed during the design stage.
+Ideally, DFM guidelines take into account the processes and capabilities of the manufacturing industry. Therefore, DFM is constantly evolving.
+As manufacturing companies evolve and automate more and more stages of the processes, these processes tend to become cheaper. DFM is usually used to reduce these costs. For example, if a process may be done automatically by machines (i.e. SMT component placement and soldering), such process is likely to be cheaper than doing so by hand.
+
+Integrated circuit
+
+Semiconductor DFM is a set of principles and techniques used in integrated circuit (IC) design to ensure that those designs transition smoothly into high-volume manufacturing with optimal yield and reliability. DFM focuses on anticipating potential fabrication issues and proactively modifying chip layouts and circuits to mitigate their impact.
+
+Background
+As semiconductor technology scales to smaller nodes, transistors and interconnects become incredibly dense and sensitive to subtle variations in the manufacturing process. These variations can lead to defects that cause chips to malfunction or degrade their performance. DFM aims to minimize the impact of these variations, improving yield and making chip manufacturing more cost-effective.
+
+Key concepts
+Design rules
+Foundries provide detailed design rules that specify minimum dimensions, spacing, and other geometrical constraints that must be adhered to for successful fabrication. DFM-aware design tools automatically check designs against these rules, flagging potential violations for correction.
+Process variability
+DFM techniques account for inherent variability in manufacturing processes such as lithography, etching, and deposition. By simulating how variations might affect specific design structures, designers can modify layouts to minimize sensitivity to these variations.
+Yield optimization
+DFM aims to maximize yield, the percentage of chips that function correctly out of a manufactured wafer. This involves identifying critical areas of the design, adding redundancy, and implementing layout strategies that improve the likelihood of successful fabrication.
+Reliability
+DFM encompasses techniques to ensure chips are reliable throughout their expected lifespan. This involves analyzing how design choices impact electromigration, hot carrier injection, and other potential failure mechanisms, and designing accordingly.
+
+Techniques
+Some common DFM techniques used in semiconductor design include:
+
+Redundancy
+Adding extra transistors or circuit elements to critical paths, so if one element fails, the chip can still function.
+Fill patterns
+Adding non-functional geometrical shapes to empty areas of a layout to improve pattern density and minimize local manufacturing variations.
+Optical proximity correction (OPC)
+Modifying mask patterns to compensate for distortions that occur during the lithography process.
+Restricted design rules (RDR)
+A subset of design rules that are more conservative than standard rules, offering higher manufacturability.
+Yield simulations
+Using statistical models to predict how design and process variations impact yield, allowing for informed design modification.
+
+Design flow
+DFM is integrated throughout the semiconductor design flow:
+
+Design
+Designers use DFM-aware tools that automatically check for rule violations and potential manufacturability issues.
+Verification
+Verification processes include extensive DFM checks to ensure the design meets all manufacturing requirements.
+Physical implementation
+During this stage, techniques like fill insertion and OPC are applied to the design for manufacturing optimization.
+Signoff
+A thorough design rule check (DRC) and layout vs. schematic (LVS) verification is performed to ensure the design is ready for fabrication.
+
+Importance
+DFM is essential for the successful and cost-effective production of advanced semiconductor devices. By proactively addressing manufacturability issues during the design stage, DFM leads to:
+
+Higher yields
+Faster time-to-market
+Reduced risk of design re-spins
+Lower manufacturing costs
+
+Computer numerical control machining
+For computer numerical control (CNC) machining, the objective is to design for lower cost. The cost is driven by time, so the design must minimize the time required to not just machine (remove the material), but also the set-up time of the CNC machine, NC programming, fixturing and many other activities that are dependent on the complexity and size of the part.
+
+Set-up time of operations (flip of the part)
+Unless a 4th and/or 5th axis is used, a CNC can only approach the part from a single direction. One side must be machined at a time (called an operation or op). Then the part must be flipped from side to side to machine all of the features. The geometry of the features dictates whether the part must be flipped over or not. The more ops (flip of the part), the more expensive the part because it incurs substantial set-up and load/unload time.
+Each operation (flip of the part) has set-up time, machine time, time to load/unload tools, time to load/unload parts, and time to create the NC program for each operation. If a part has only 1 operation, then parts only have to be loaded/unloaded once. If it has 5 operations, then load/unload time is significant.
+The low-hanging fruit is minimizing the number of operations (flip of the part) to create significant savings. For example, it may take only 2 minutes to machine the face of a small part, but it will take an hour to set the machine up to do it. Or, if there are 5 operations at 1.5 hours each, but only 30 minutes total machine time, then 7.5 hours is charged for just 30 minutes of machining.
+Lastly, the volume (number of parts to machine) plays a critical role in amortizing the set-up time, programming time and other activities into the cost of the part. In the example above, the part in quantities of 10 could cost 7–10 times the cost in quantities of 100.
+Typically, the law of diminishing returns presents itself at volumes of 100–300 because set-up times, custom tooling and fixturing can be amortized into the noise.
+
+Material type
+The most easily machined types of metals include aluminum, brass, and softer metals. As materials get harder, denser and stronger, such as steel, stainless steel, titanium, and exotic alloys, they become much harder to machine and take much longer, thus being less manufacturable. Most types of plastic are easy to machine, although additions of fiberglass or carbon fiber can reduce machinability. Plastics that are particularly soft and gummy may have machinability problems of their own.
+
+Material form
+Metals come in all forms. In the case of aluminum as an example, bar stock and plate are the two most common forms from which machined parts are made. The size and shape of the component may determine which form of material must be used. It is common for engineering drawings to specify one form over the other. Bar stock is generally close to 1/2 of the cost of plate on a per pound basis. So although the material form isn't directly related to the geometry of the component, cost can be removed at the design stage by specifying the least expensive form of the material.
+
+Tolerances
+A significant contributing factor to the cost of a machined component is the tolerance to which the features must be made. The tighter the tolerance required, the more expensive the component will be to machine. When designing, specify the loosest tolerance that will serve the function of the component. Tolerances must be specified on a feature by feature basis. There are creative ways to engineer components with lower tolerances that still perform as well as ones with higher tolerances.
+
+Design and shape
+As machining is a subtractive process, the time to remove the material is a major factor in determining the machining cost. The volume and shape of the material to be removed as well as how fast the tools can be fed will determine the machining time. When using milling cutters, the strength and stiffness of the tool which is determined in part by the length to diameter ratio of the tool will play the largest role in determining that speed. The shorter the tool is relative to its diameter the faster it can be fed through the material. A ratio of 3:1 (L:D) or under is optimum. If that ratio cannot be achieved, a solution like this depicted here can be used. For holes, the length to diameter ratio of the tools are less critical, but should still be kept under 10:1.
+There are many other types of features which are more or less expensive to machine. Generally chamfers cost less to machine than radii on outer horizontal edges. 3D interpolation is used to create radii on edges that are not on the same plane which incur 10X the cost. Undercuts are more expensive to machine. Features that require smaller tools, regardless of L:D ratio, are more expensive.
+
+Related
+
+Design for inspection
+The concept of design for inspection (DFI) should complement and work in collaboration with design for manufacturability (DFM) and design for assembly (DFA) to reduce product manufacturing cost and increase manufacturing practicality. There are instances when this method could cause calendar delays since it consumes many hours of additional work such as the case of the need to prepare for design review presentations and documents. To address this, it is proposed that instead of periodic inspections, organizations could adopt the framework of empowerment, particularly at the stage of product development, wherein the senior management empowers the project leader to evaluate manufacturing processes and outcomes against expectations on product performance, cost, quality and development time. Experts, however, cite the necessity for the DFI because it is crucial in performance and quality control, determining key factors such as product reliability, safety, and life cycles. For an aerospace components company, where inspection is mandatory, there is the requirement for the suitability of the manufacturing process for inspection. Here, a mechanism is adopted such as an inspectability index, which evaluates design proposals. Another example of DFI is the concept of cumulative count of conforming chart (CCC chart), which is applied in inspection and maintenance planning for systems where different types of inspection and maintenance are available.
+
+Design for additive manufacturing
+
+Additive manufacturing broadens the ability of a designer to optimize the design of a product or part (to save materials for example). Designs tailored for additive manufacturing are sometimes very different from designs tailored for machining or forming manufacturing operations.
+In addition, due to some size constraints of additive manufacturing machines, sometimes the related bigger designs are split into smaller sections with self-assembly features or fasteners locators.
+A common characteristic of additive manufacturing methods, such as fused deposition modeling, is the need for temporary support structures for overhanging part features. Post-processing removal of these temporary support structures increases the overall cost of fabrication. Parts can be designed for additive manufacturing by eliminating or reducing the need for temporary support structures. This can be done by limiting the angle of overhanging structures to less than the limit of the given additive manufacturing machine, material, and process (for example, less than 70 degrees from vertical).
+
+See also
+Design for Six Sigma
+Design for X
+Electronic design automation
+Reliability engineering
+Six Sigma
+Statistical process control
+DFMA
+Rule-based DFM analysis for direct metal laser sintering
+Rule-based analysis of extrusion process
+Rule-based DFM analysis for metal spinning
+Rule-based DFM analysis for deep drawing
+Rule-based DFM analysis for forging
+DFM analysis for stereolithography
+Rule-based DFM analysis for electric discharge machining
+
+References
+
+Sources
+Mentor Graphics - DFM: What is it and what will it do? (must fill request form).
+Mentor Graphics - DFM: Magic Bullet or Marketing Hype (must fill request form).
+Electronic Design Automation For Integrated Circuits Handbook, by Lavagno, Martin, and Scheffer, ISBN 0-8493-3096-3 A survey of the field of EDA.  The above summary was derived, with permission, from Volume II, Chapter 19, Design for Manufacturability in the Nanometer Era, by Nicola Dragone, Carlo Guardiani, and Andrzej J. Strojwas.
+Design for Manufacturability And Statistical Design: A Constructive Approach, by Michael Orshansky, Sani Nassif, Duane Boning ISBN 0-387-30928-4
+Estimating Space ASICs Using SEER-IC/H, by Robert Cisneros, Tecolote Research, Inc. (2008) Complete Presentation Archived 2012-02-20 at the Wayback Machine
+
+External links
+
+Why DFM/DFMA is Business Critical
+Design for manufacturing checklist – DFM, DFA (Design for assembly checklist from Quick-teck PCB manufacturer
+Arc Design for Manufacturability Tips
+Design for Manufacturing and Assembly
+Turning designs into reality: The Manufacturability paradigm
+
+[[Agile software development]] [[Computer-aided design]] [[Computer-aided industrial design]] [[Design closure]] [[Electronic design automation]] [[Engineering]] [[Enterprise architecture]] [[Form factor (design)]] [[Integrated circuit]] [[Optical proximity correction]] [[Platform-based design]] [[Semiconductor device fabrication]]

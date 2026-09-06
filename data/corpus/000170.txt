@@ -1,0 +1,23 @@
+CSAB (professional organization)
+CSAB, Inc., formerly called the Computing Sciences Accreditation Board, Inc., is a non-profit professional organization in the United States, focused on the quality of education in computing disciplines. The Association for Computing Machinery (ACM) and the IEEE Computer Society (IEEE-CS) are the member societies of CSAB.
+The Association for Information Systems (AIS) was a member society between 2002 and September 2009.
+CSAB itself is a member society of ABET, to support the accreditation of several computing (related) disciplines:
+
+It is leading for computer science, information systems, information technology and software engineering
+It is working together with other ABET member societies for computer engineering, information engineering and biological engineering
+Who is doing what:
+
+For the disciplines where CSAB is leading, it develops the accreditation criteria and it educates the so-called Program Evaluators (PEVs).
+But the accreditation activities themselves are conducted by the appropriate ABET accreditation commission. For computing this is the Computing Accreditation Commission (CAC).
+
+History
+The Computing Sciences Accreditation Board, Inc. (CSAB) was founded in 1984, with Taylor L. Booth as first president.
+Initially, CSAB had its own accreditation commission called the Computer Science Accreditation Commission (CSAC).
+But in November 1998 CSAB and ABET agreed to integrate CSAB's accreditation activities within ABET. The result is that in 2000 a reorganized CSAB became a member society of ABET and that, starting with the 2001-2002 cycle, a merged and renamed CSAC operates as the fourth commission of ABET: the Computing Accreditation Commission (CAC).
+
+References
+
+External links
+Official website
+
+[[Association for Computing Machinery]] [[Computer engineering]] [[Computer science]] [[Computing]]

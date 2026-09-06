@@ -1,0 +1,31 @@
+Extended reality
+Extended reality (XR) is  an umbrella term for various immersive technologies, including augmented reality (AR) and virtual reality (VR) as well as a means to interpolate between them and extend beyond them. It is intended to combine or mirror the physical world, using a "digital twin" able to interact with it, and give users an immersive experience by being in a virtual, augmented, intelligent or digital environment.
+The first usage of the term "extended reality" was in reference to the use of technology to extrapolate (extend) beyond typical human perception, e.g. allowing us to see sound waves, radio waves, and otherwise invisible phenomena.
+XR is rapidly growing beyond an academic discipline, and is now having real-world impact in medicine, architecture, education, industry, and is being applied in a wide range of areas such as entertainment, cinema, marketing, real estate, manufacturing, education, maintenance and remote work. Extended reality has the ability to be used for joint effort in the workplace, training, educational purposes, therapeutic treatments, and data exploration and analysis.
+Extended reality works by using visual data acquisition that is either accessed locally or shared and transferred over a network and to the human senses. By enabling real-time responses in a virtual stimulus, XR devices are able to create customized experiences.
+XR can be applied not only to humans as a subject, but also to technology as a subject, where the user or the technology can have its sensory capacity extended by placing it in a closed feedback loop.  The term "veillametrics" refers to the measurement of a subject's ability to sense, for example, its ability to observe. 
+In 2018 the BBC launched a research project to capture and document the barriers present in extended reality environments.
+The International Institute of MetaNumismatics (INIMEN) studies the applications of extended reality technologies in numismatic research, with a dedicated department.
+
+See also
+Computer-mediated reality – Ability to manipulate one's perception of reality through the use of a computer
+Head-mounted display – Type of display device
+Immersion (virtual reality) – Perception of being physically present in a non-physical world
+Metaverse – Collective three-dimensional virtual shared space
+OpenXR – Standard for access to virtual reality and augmented reality platforms and devices
+Reality–virtuality continuum – Mixed reality and virtual relatity
+Smartglasses – Wearable computer glasses
+Spatial computing – Computing paradigm emphasizing 3D spatial interaction with technology
+Wearable computer – Small computing device worn on the body
+WebXR – Experimental JavaScript API for augmented/virtual reality devices
+
+References
+
+Sources
+Vinod Baya; Erik Sherman. "The road ahead for augmented reality". pwc.
+Pereira, Fernando. "Deep Learning-Based Extended Reality: Making Humans and Machines Speak the Same Visual Language." In Proceedings of the 1st Workshop on Interactive eXtended Reality, 1–2. IXR ’22. New York, NY, USA: Association for Computing Machinery, 2022. https://doi.org/10.1145/3552483.3555366.
+United States Government Accountability Office. Extended Reality Technologies. Science & Tech Spotlight. Washington, D.C: GAO, Science, Technology Assessment, and Analytics, 2022.
+Boel, Carl, Kim Dekeyser, Fien Depaepe, Luis Quintero, Tom van Daele, and Brenda Wiederhold. Extended Reality: Opportunities, Success Stories and Challenges (Health, Education) : Executive Summary. Luxembourg: Publications Office, 2023. https://op.europa.eu/publication/manifestation_identifier/PUB_KK0722997ENN.
+Sayler, Kelley M. "Military Applications of Extended Reality." IF 12010. Washington, D.C: Congressional Research Service, 2022.
+
+[[ACM Computing Classification System]] [[Algorithm]] [[Algorithmic efficiency]] [[Analysis of algorithms]] [[Application security]] [[Artificial intelligence]] [[Augmented reality]] [[Automata theory]] [[Automated planning and scheduling]] [[Automation]] [[Brain–computer interface]] [[Communication protocol]] [[Computability theory]] [[Computational biology]] [[Computational chemistry]] [[Computational complexity]] [[Computational complexity theory]] [[Computational engineering]] [[Computational geometry]] [[Computational intelligence]] [[Computational mathematics]] [[Computational physics]] [[Computational problem]] [[Computational social science]] [[Computer accessibility]] [[Computer animation]] [[Computer architecture]] [[Computer data storage]] [[Computer graphics]] [[Computer hardware]] [[Computer network]] [[Computer science]] [[Computer security]] [[Computer vision]] [[Computing]] [[Computing platform]] [[Concurrency (computer science)]] [[Concurrent computing]] [[Control flow]] [[Control theory]] [[Cross-validation (statistics)]] [[Cryptography]] [[Cyber-physical system]] [[Cyberwarfare]] [[Data mining]] [[Database]] [[Decision support system]] [[Dependability]] [[Digital art]] [[Digital library]] [[Digital marketing]] [[Discrete mathematics]] [[Distributed artificial intelligence]] [[Distributed computing]] [[Document management system]] [[Domain-specific language]] [[E-commerce]] [[Educational technology]] [[Electronic design automation]] [[Electronic publishing]] [[Electronic voting]] [[Embedded system]] [[Enterprise information system]] [[Enterprise software]] [[Fault tolerance]] [[Form factor (design)]] [[Formal language]] [[Formal methods]] [[Geographic information system]] [[Integrated circuit]] [[Machine translation]] [[Programming tool]] [[Technological change]]

@@ -1,0 +1,45 @@
+Myelography
+Myelography is a type of radiographic examination that uses a contrast medium (e.g. iodised oil) to detect pathology of the spinal cord, including the location of a spinal cord injury, cysts, and tumors. Historically the procedure involved the injection of a radiocontrast agent into the cervical or lumbar spine, followed by several X-ray projections. Today, myelography has largely been replaced by the use of MRI scans, although the technique is still sometimes used under certain circumstances – though now usually in conjunction with CT rather than X-ray projections.
+
+Types
+
+Cervical myelography
+This procedure is used to look for the level of where spinal cord disease occurs or compression of the spinal cord at the neck region for those who are unable or unwilling to undergone MRI scan of the spine.
+
+Lumbar myelography
+This procedure is to look for the level of spinal cord disease such as lumbar nerve root compression, cauda equina syndrome, conus medullaris lesions, and spinal stenosis. This is done for those who are unwilling or unable to do MRI scan of the spine. Lumbar puncture is done before injected contrast into the thecal sac. However, it is dangerous to do lumbar puncture in those who have raised intracranial pressure (ICP). For those who had recently done lumbar puncture in one week time, there may be some cerebrospinal fluid (CSF) accumulates in the subdural space. Thus needle maybe mistakenly inserted into subdural space rather than the targeted subarachnoid space.
+AP, lateral, and oblique radiographic views of the lumbar spine are taken. The oblique view is used to examine the exiting nerve roots from cauda equina.
+
+Thoracic myelography
+To image the thoracic spine, lumbar puncture is done and contrast medium is injected into the puncture site. The subject lie down on one side, then head of the table is lowered, with subject's head supported by bolster or pad to prevent the contrast from flowing up into the neck.
+
+CT myelography
+Contrast media is injected into the thecal sac. The subject is then rotated longitudinally a few times to ensure even coating of the contrast around spinal cord and reduce the possibility of layering of the contrast media just before CT scan.
+
+Myelography in children
+General anesthesia is required for all children before 6 years old, and most of the children before 12 years old. For those children with spinal cord diseases, lumbar puncture may damage the spinal cord due to possibility of tethered spinal cord syndrome where the spinal cord is located below than the usual spinal termination level. Therefore, lumbar puncture should be done at the lowest position as possible for such cases. However, spinal cord injury is rare. There is also a possibility of herniation of cerebellar tonsils  when C1/C2 puncture is done laterally.
+
+Procedure
+Water-soluble non-ionic iodinated contrast agent (e.g., metrizamide)  is used nowadays and cause very little complication, unlike oil-based dye (e.g., iodized oil and iofendylate) that was used yesteryear which can cause arachnoiditis. However, history of allergy to iodine is contraindicated for the use of iodinated contrast.
+A CT scan is typically performed after radiographic contrast media (dye) has been placed with fluoroscopic guidance into a sac-like lining (the first- and hardest and outermost- layer of the spinal meninges, the spinal dura mater) surrounding the spinal cord and nerves. The material is typically water-soluble, which has largely replaced nonsoluble oil-based fluids, while CT has largely replaced the conventional X-ray projections used for image acquisition in the past.
+The process usually involves lying face down on a table, with the lower extremities secured tightly with straps to the table. After the skin area has been numbed, the dye is injected into the thecal sac, then the table is slowly rotated in a circular motion, first down at the head end for approximately 4 to 6 minutes, then rotated up at the head end for the same duration. Several more minutes lying flat and the process is complete. This movement ensures the contrast has sufficiently worked its way through the spinal cord, followed by X-rays or a CT scan.
+Post-procedure care centers around ensuring that infection (especially skin or subcutaneous infections, myelitis or meningitis or encephalitis, or sepsis) does not set in and that the "plug" at the site of the spinal tap does not become dislodged. Patients are usually instructed to avoid strenuous activity and heavy lifting, for example. Some patients are given instructions to keep their heads elevated at least 30 degrees for a specified number of hours. Complications from the surgery can cause a loss of cerebrospinal fluid (CSF), which could cause severe headaches. This can be corrected by returning to the medical facility and having them perform a blood patch. In this procedure, a small amount of blood is taken from the arm and injected into the exact spinal tap location to stop the leaking of CSF.
+
+Decline in use due to MRI
+
+Nowadays, MRI has all but replaced myelography. MRI is preferable because injection of contrast medium into the spinal canal is infrequently needed for better images. However, a CT myelogram may be useful for patients who cannot undergo MRI (e.g., those with pacemakers or cochlear implants). CT is preferred when MRI images are limited by metallic artifact from titanium disc replacement implants, screws, and other metals reactive with MRI device components.
+
+Contrast agent
+Prior to the late 1970s, iofendylate (trade names: Pantopaque, Myodil) was the radiocontrast agent typically employed in the procedure. It was an iodinated oil-based substance that the physician performing the spinal tap usually attempted to remove at the end of the procedure. This step was both difficult and painful and complete removal could not always be achieved. The process of removing the contrast agent necessitated removing some of the patient's CSF along with it and the resulting deficiency of CSF gave rise to severe headache if the patient was raised from the prone position, requiring bed rest in the laying position. Moreover, iofendylate's persistence in the body might sometimes lead to arachnoiditis, a potentially painful and debilitating lifelong disorder of the spine. This led to extensive litigation around the world since the substance was administered to millions of myelography patients over the course of more than three decades. After water-soluble agents (such as metrizamide) became available it was no longer necessary to remove the contrast agent as it would eventually be absorbed into the body, although the water-soluble agent sometimes gave rise to severe headaches if it got into the head, requiring bed rest in the upright position.
+
+Complications
+Headache occurs in about 25% of the cases after the procedure and the incidence is more frequent in females. 5% of those who undergone the procedure may experience nausea and vomiting. There is also a risk of contrast medium being injected into the subdural space when part of the bevel of the needle is in the subarachnoid space and another part is in the subdural space. The contrast medium would flow freely in the subdural space, mimicking the flow as if it was in the subarachnoid space. If there is doubt that the needle is in the subdural space, AP and lateral views of the radiograph should be taken and the subject is to be rebook for another date for the same procedure.
+
+References
+
+Bontranger, Kenneth L. & Lampignano, John P. (2005). Radiographic Positioning and Related Anatomy, St. Louis: Elsevier Mosby. ISBN 0-323-02507-2.
+
+External links
+U of Maryland
+
+[[Amygdalohippocampectomy]] [[Anterior temporal lobectomy]] [[Bilateral cingulotomy]] [[Brain biopsy]] [[Brain positron emission tomography]] [[CSF tap test]] [[Cerebral angiography]] [[Cerebral shunt]] [[Cerebrospinal fluid]] [[Cerebrum]] [[Clinical prediction rule]] [[Computed tomography of the head]] [[Cordotomy]] [[Corpus callosotomy]] [[Cranioplasty]] [[Decompressive craniectomy]] [[Discectomy]] [[Echoencephalography]] [[Electroencephalography]] [[Globus pallidus]] [[Hemispherectomy]] [[Hippocampus]] [[Hypophysectomy]] [[Intervertebral disc annuloplasty]] [[Intracranial pressure monitoring]] [[Lobotomy]] [[Lumbar puncture]] [[Magnetic resonance imaging of the brain]] [[Medical procedure]] [[Meningeal biopsy]] [[Meninges]] [[Microneurography]] [[Multiple subpial transection]] [[National Institutes of Health Stroke Scale]] [[Pallidotomy]] [[Pituitary gland]] [[Pneumoencephalography]] [[Polysomnography]] [[Positron emission tomography]] [[Psychosurgery]] [[Single-photon emission computed tomography]] [[Spinal canal]] [[Spinal cord]] [[Spinal decompression]] [[Suboccipital puncture]]

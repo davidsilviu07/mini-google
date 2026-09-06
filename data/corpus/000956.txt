@@ -1,0 +1,21 @@
+Sweet Home 3D
+Sweet Home 3D is a free and open source architectural design software that helps users create a 2D plan of a house, with a 3D preview, and decorate exterior and interior views, including ability to place furniture and home appliances. In Sweet Home 3D, furniture can be imported and arranged to create a virtual environment. It can also be used for designing blueprints of houses.
+
+Features
+Import home blueprint from scanned image
+Export to PDF, SVG, and OBJ
+
+Gallery
+
+See also
+List of free and open source CAD software
+
+References
+
+External links
+
+Official website
+"Sweet Home 3D". SourceForge. 2025-04-02. Retrieved 2025-07-10.
+Biersdorfer, J. D. (2019-02-13). "How to Make a 3-D Model of Your Home Renovation Vision". The New York Times. ISSN 0362-4331. Retrieved 2025-07-10.
+
+[[Computer-aided design]] [[GNU General Public License]] [[Wavefront .obj file]]

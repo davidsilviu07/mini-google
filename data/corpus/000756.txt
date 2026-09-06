@@ -1,0 +1,134 @@
+Nerve conduction study
+A nerve conduction study (NCS) is a medical diagnostic test commonly used to evaluate the function, especially the ability of electrical conduction, of the motor and sensory nerves of the human body. These tests may be performed by medical specialists such as clinical neurophysiologists, physical therapists, physiatrists (physical medicine and rehabilitation physicians), and neurologists who subspecialize in electrodiagnostic medicine. In the United States, neurologists and physiatrists receive training in electrodiagnostic medicine (performing needle electromyography (EMG) and NCSs) as part of residency training and, in some cases, acquire additional expertise during a fellowship in clinical neurophysiology, electrodiagnostic medicine, or neuromuscular medicine. Outside the US, clinical neurophysiologists learn needle EMG and NCS testing.
+
+Purpose and indications
+Nerve conduction studies along with needle electromyography measure nerve and muscle function, and may be indicated when there is pain and/or weakness in any extremity which could indicate spinal nerve compression or some other neurologic injury or disorder. Spinal nerve injury does not cause neck, mid back pain or low back pain, and for this reason, evidence has not shown EMG or NCS to be helpful in diagnosing causes of axial lumbar pain, thoracic pain, or cervical spine pain.
+Nerve conduction studies are also used for evaluation of paresthesias (numbness, tingling, burning) and/or weakness of the arms and legs. The type of study required is dependent in part by the symptoms presented. A physical exam and thorough history also help to direct the investigation.
+
+Preparation and procedure
+Patients typically do not require special preparation before undergoing an NCS and should take their medications and eat normally prior to the examination. Patient should be advised to avoid applying lotions or creams to the skin, as these substances can interfere with electrode conductivity. The test is non-invasive and can be performed in an outpatient clinic or hospital setting.
+The nerve conduction study is often combined with needle electromyography. The Department of Health and Human Services Inspector General recently identified the use of NCSs without a needle electromyography at the same time a sign of questionable billing.
+The nerve conduction study consists of the following components:
+
+Equipment
+Below is a general list of equipment used during an NCS, but it may not include everything an NCA practitioner may use.
+
+"Electrodiagnostic machine with stimulator"
+"Surface electrodes"
+Types include "wire ring, disposable pads, or standard bar."
+"Ultrasound gel"
+"Alcohol prep pads"
+"4x4 gauze"
+"Adhesive bandages"
+
+Technique
+Electrode placement: Surface electrodes are strategically placed on the skin over the nerve being tested and on a muscle it supplies or further along the path of that same nerve. These electrodes record the nerve's electrical response and are referred to as surface recording electrodes. A ground electrode is then placed on the limb being studied between the recording electrodes and the mapped areas of stimulation from the stimulation electrode. To decrease outside electrical interference and improve the quality of the recording, gel is usually placed between the electrode and the skin and, depending on the type of electrode used, the electrodes may be held in position with medical tape.
+Stimulation: An electrical impulse is administered to the targeted nerve via the stimulating electrode, resulting in a "propagated nerve action potential (NAP)." This electrical stimulation may be slightly painful, so practitioners should warn patients.
+Recording: The NAP is then detected and recorded by the surface recording electrode placed distally either along the same nerve pathway and through a compound muscle action potential (CMAP) produced by "activation of muscle fibers" in the "target muscle supplied by the nerve." The time taken for the NAP to travel from the stimulation point through the "fastest axons" to cause a CMAP in the targeted muscle and the "size of the response" is recorded.
+
+Parameters measured
+Latency: the time delay between the electrical stimulation and the beginning of the nerve response, i.e. saltatory conduction. This value is usually 0.1 msec or less. There are two types of latency taken into account during the study: onset latency and peak latency. Onset latency is the time it takes for the electrical stimulus to trigger an action potential in the nerve. Peak latency is a representation of the time delay for the signal to travel down the "majority of the axons" in the nerve. Onset latency is measured before the upstroke of the waveform, and peak latency is measured  at the "peak of the waveform amplitude." The myelination of the nerves being tested determines the values of these two latencies.
+Conduction Velocity: How fast a triggered action potential propagates down the axon of a nerve. How fast or slow the conduction velocity is dictated by the structural integrity of the myelin sheath. It is calculated by “dividing the change in distance (proximal stimulation site in millimeter minus distal stimulation site in millimeter) by the change in time (proximal latency in milliseconds minus distance latency in milliseconds)."
+Amplitude: The “maximum voltage difference between two points.” The amplitude indicates different properties of the nerve depending on the type of study being performed.
+Duration: The measurement of the beginning and end of the waveform graphed during the NCS.
+Area: The amount of space taken up under the curves created by the waveforms graphed during the NCS. Amplitude and duration contribute to the area's value.
+Temporal Dispersion: It is the “range of conduction velocities of the fastest and slowest nerve fibers.” The NCS waveform becomes wider with nerve stimulation toward the nerve's origin compared to further down the nerve, with the area under the waveform staying constant. This is seen when the “slower fibers conduction” reaches the “recording electrode later than faster fibers.”
+
+Results and interpretation
+The interpretation of nerve conduction studies is complex and requires the expertise of health care practitioners such as clinical neurophysiologists, medical neurologists, physical therapists, or physiatrists. NCS results provide information on whether a nerve conducts electrical signals at a normal speed and strength. Abnormalities in latency, amplitude, conduction velocity or temporal dispersion can indicate:
+
+Demyelination Injury: A condition where the protective myelin sheath of the nerve is damaged, but the axon of the nerve is not. The destruction of the myelin’s insulation properties disrupts saltatory conduction indicated by a decrease in the conduction velocity and increase in the temporal dispersion in a NCS. The latency may also be prolonged in this condition.
+Axonal Injury: An injury to the nerve where the axons are damaged, and the myelin may become damaged in the process as well. A reduction in the amplitude of the nerve conduction waveform may indicate damage to the axons of a nerve. Conduction velocity and distal latency might be mildly slower if the damage affects the “ largest and the fast conducting axons.”
+Conduction Block: It occurs when action potentials fail to propagate down the nerve. This is usually due to an extensive loss of myelin that saltatory conduction no longer works, and thus, no signal can be transmitted. A conduction block is apparent on an NCS through a significant drop in amplitude of over 50% “across the area of injury.”
+
+Applications and clinical significance
+The utilization of an NCS, understanding of its parameters, and interpretation of the results can help clinicians diagnose different types of nerve injuries, such as nerve compression injury (neuropraxia), nerve crush injury (axonotmesis), and nerve transactional injury (neurotmesis). Abnormal parameters in multiple nerves or across all nerves in a given limb or multiple limbs may indicate damage to multiple nerves, polyneuropathy, or generalized nerve disease or damage, generalized peripheral neuropathy. Some of the common disorders that nerve conduction studies can diagnose are:
+
+Carpal tunnel syndrome
+Cubital Tunnel Syndrome
+Guillain–Barré syndrome
+Guyon's canal syndrome
+Peripheral neuropathy
+Peroneal neuropathy
+Spinal disc herniation
+Tarsal Tunnel Syndrome
+Ulnar neuropathy
+
+Types of studies
+
+Motor NCS
+Motor NCS are obtained by stimulating a nerve containing motor fibers and recording at the belly of a muscle innervated by that nerve. The compound muscle action potential (CMAP) is the resulting response and depends on the motor axons transmitting the action potential, the status of the neuromuscular junction, and muscle fibers. The CMAP amplitudes, motor onset latencies, and conduction velocities are routinely assessed and analyzed. As with sensory NCS, conduction velocity is calculated by dividing distance by time. In this case, however, the distance between two stimulation sites is divided by the difference in onset latencies of those two sites, providing the conduction velocity in the segment of the nerve between the two stimulation sites. This method of calculating conduction velocity avoids being confounded by time spent traversing the neuromuscular junction and triggering a muscle action potential (since these are subtracted out).
+
+Sensory NCS
+Sensory NCS is performed by electrical stimulation of a peripheral nerve while recording the transmitted potential at a different site along the same nerve. Three main measures can be obtained: sensory nerve action potential (SNAP) amplitude, sensory latency, and conduction velocity. The SNAP amplitude (in microvolts) represents a measure of the number of axons conducting between the stimulation site and the recording site. Sensory latency (in milliseconds) is the time that it takes for the action potential to travel between the stimulation site and the recording site of the nerve. The conduction velocity is measured in meters per second. It is obtained by dividing the distance between the stimulation site and the recording site by the latency: Conduction velocity = Distance/Latency.
+
+F-wave study
+F-wave study uses supramaximal stimulation of a motor nerve and recording of action potentials from a muscle supplied by the nerve. This is not a reflex, per se, in that the action potential travels from the site of the stimulating electrode in the limb to the spinal cord's ventral horn and back to the limb in the same nerve that was stimulated. The F-wave latency can be used to derive the conduction velocity of the nerve between the limb and spine. In contrast, the motor and sensory nerve conduction studies evaluate conduction in the segment of the limb. F waves vary in latency and an abnormal variance is called "chrono dispersion". Conduction velocity is derived by measuring the limb length, D, in millimeters from the stimulation site to the corresponding spinal segment (C7 spinous process to wrist crease for median nerve). This is multiplied by two as it goes to the cord and returns to the muscle (2D). 2D is divided by the latency difference between mean F and M and 1 millisecond subtracted (F-M-1). The formula is 
+  
+    
+      
+        
+          
+            
+              2
+              D
+            
+            
+              F
+              −
+              M
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {2D}{F-M-1}}}
+  
+.
+
+H-reflex study
+An h-reflex study uses stimulation of a nerve and recording the electrical reflex discharge from a muscle in the limb. This also evaluates conduction between the limb and the spinal cord. Still, in this case, the afferent impulses (those going toward the spinal cord) are in sensory nerves, while the efferent impulses (those coming from the spinal cord) are in motor nerves. This process cannot be changed.
+
+Repetitive nerve stimulation
+
+Patient risk and complications
+Nerve conduction studies are beneficial to diagnose certain diseases of the nerves of the body. The test is not invasive, but can be painful due to the electrical shocks administered during the test. The shocks are associated with a low amount of  electric current, so they pose minimal risk to the patients. Still, there is technically the risk of "bodily injury from electrical shock". There is limited risk and complications studied in regards to NCS and thus no published absolute contraindications. However, relative risks should be considered based on patient history and physical. Of particular note are implanted electrical devices such as cardiac pacemakers or defibrillators or other implanted stimulators such as deep brain stimulators or spinal cord stimulators. Theoretically, delivering electricity through the body may affect systems in the body that depend on electrical signals, such as the heart and brain. Patients are encouraged to tell the examiner before the study if they have such devices, but their existence in the patient does not prevent them from having the study performed. Below are some special precautions and considerations regarding these devices and pregnancy.
+
+Cardiovascular devices
+Current literature and studies lack sufficient evidence to indicate that electrodiagnostic studies, such as NCS, "pose a safety hazard" to patients with cardiac pacemakers and implanted cardiac defibrillators (ICDs). However, there exists the "theoretical concern that electrical impulses of nerve conduction studies " could be pick up by sensory mechanism with the devices. This could result in causing the device to malfunction, stop working, or alter the programming. The American Association of Neuromuscular & Electrodiagnostic Medicine has stated that despite these concerns, "no immediate or delayed adverse effects have been reported with routine NCS." Some general rules to avoid possible interference are listed below.
+
+Technique considerations
+"15 cm (6 inches) separation" is recommended "between the stimulator and any wires, intravenous (IV lines) or catheters."
+"Stimulating the brachial plexus on the same side as a pacemaker or internal cardiac defibrillator" should be avoided or with "extreme caution if it is necessary" to do.
+"Electrodes should not be placed in a manner where they read a response across the heart"
+While performing NCS of the neck, avoid the locations of "carotid sinus and vagus nerve" as "stimulating these could affect the rhythm of the heart."
+
+Contraindications
+Patients who have an external cardiac pacemaker. External cardiac pacemakers, particularly the external pacing wires, "can be electrically sensitive to NCS stimulations" and "present a serious potential hazard of electrical injury to the heart."
+Patient's who have a central venous catheter. They pose a possible "risk of generating a stimulus to the heart." It has been studied and thus determined that "peripheral IV lines are not considered to be problematic"
+
+Deep brain stimulators
+Due to the typical lead placement of deep brain stimulators from the "subclavicular area to the lateral posterior neck" and then to the "occipital area", there is a "theoretical risk of introducing electrical current through the leads" which could transmit "directly into the brain" and through the cervical nerve roots. The safety of performing NCS on patients with a DBS device has not been studied. Physicians should weigh the risks and benefits of an NCS in these patients on a case-by-case basis.
+
+Pregnancy
+The American Association of Neuromuscular & Electrodiagnostic Medicine has stated that there are "no known contraindications" that "exist from performing needle EMG or NCS on pregnant patients." There have been no reported instances of any complications from the procedure or associated problems when "performed during pregnancy" in the current literature.
+
+See also
+Bioelectronics
+Cable theory
+Biological neuron models
+
+References
+
+External links
+EMG & Nerve Conduction Education & Resources Archived 2016-03-12 at the Wayback Machine
+Association of EMG technologists of Canada
+American Association of Neuromuscular & Electrodiagnostic Medicine
+American Board of Electrodiagnostic Medicine
+Details of NCV from National Institutes of Health
+WebMD summary of EMG and NCS
+American Association of Sensory Electrodiagnostic Medicine
+
+[[Action potential]] [[Audition]] [[Digestion]] [[Electro-olfactography]] [[Electrocardiography]] [[Electrocochleography]] [[Electrodiagnostic medicine]] [[Electroencephalography]] [[Electrogastrogram]] [[Electrogustometry]] [[Electronystagmography]] [[Electroretinography]] [[Fasegraphy]] [[Heart]] [[Human eye]] [[Magnetocardiography]] [[Magnetogastrography]] [[Magnetomyography]] [[Medical test]] [[Neurology]] [[Peripheral nervous system]] [[Stereoelectroencephalography]]

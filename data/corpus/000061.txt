@@ -1,0 +1,31 @@
+Anti-aliasing filter
+An anti-aliasing filter (AAF) is a filter used before a signal sampler to restrict the bandwidth of a signal to satisfy the Nyquist–Shannon sampling theorem over the band of interest. Since the theorem states that unambiguous reconstruction of the signal from its samples is possible when the power of frequencies above the Nyquist frequency is zero, a brick wall filter is an idealized but impractical AAF. A practical AAF makes a trade off between reduced bandwidth and increased aliasing. A practical anti-aliasing filter will typically permit some aliasing to occur or attenuate or otherwise distort some in-band frequencies close to the Nyquist limit. For this reason, many practical systems sample higher than would be theoretically required by a perfect AAF in order to ensure that all frequencies of interest can be reconstructed, a practice called oversampling.
+
+Image processing
+
+In the case of optical image sampling, as by image sensors in digital cameras, the anti-aliasing filter is also known as an optical low-pass filter (OLPF), blur filter, or AA filter.  The mathematics of sampling in two spatial dimensions is similar to the mathematics of time-domain sampling, but the filter implementation technologies are different.
+The typical implementation in digital cameras is two layers of birefringent material such as lithium niobate, which spreads each optical point into a cluster of four points. The choice of spot separation for such a filter involves a tradeoff among sharpness, aliasing, and fill factor (the ratio of the active refracting area of a microlens array to the total contiguous area occupied by the array).  In a monochrome or three-CCD or Foveon X3 camera, the microlens array alone, if near 100% effective, can provide a significant anti-aliasing function, 
+while in color filter array (e.g., Bayer filter) cameras, an additional filter is generally needed to reduce aliasing to an acceptable level.
+Alternative implementations include the Pentax K-3's anti-aliasing filter, which applies small vibrations to the sensor element.
+
+Audio processing
+Anti-aliasing filters are used at the input of an analog-to-digital converter. Similar filters are used as reconstruction filters at the output of a digital-to-analog converter. In the latter case, the filter prevents imaging, the reverse process of aliasing, where in-band frequencies are mirrored out of band.
+
+Oversampling
+
+With oversampling, a higher intermediate digital sample rate is used, so that a nearly ideal digital filter can sharply cut off aliasing near the original low Nyquist frequency and give better phase response, while a much simpler analog filter can stop frequencies above the new higher Nyquist frequency.  Because analog filters have relatively high cost and limited performance, relaxing the demands on the analog filter can greatly reduce both aliasing and cost.  Furthermore, because some noise is averaged out, the higher sampling rate can moderately improve signal-to-noise ratio.
+A signal may be intentionally sampled at a higher rate to reduce the requirements and distortion of the anti-alias filter. For example, compare CD audio with high-resolution audio. CD audio filters the signal to a passband edge of 20 kHz, with a stopband Nyquist frequency of 22.05 kHz and sample rate of 44.1 kHz. The narrow 2.05 kHz transition band requires a compromise between filter complexity and performance. High-resolution audio uses a higher sample rate, providing both a higher passband edge and larger transition band, which allows better filter performance with reduced aliasing, reduced attenuation of higher audio frequencies and reduced time and phase domain signal distortion. 
+
+Bandpass signals
+
+Often, an anti-aliasing filter is a low-pass filter; this is not a requirement, however.  Generalizations of the Nyquist–Shannon sampling theorem allow sampling of other band-limited passband signals instead of baseband signals.
+For signals that are bandwidth limited, but not centered at zero, a band-pass filter can be used as an anti-aliasing filter.  For example, this could be done with a single-sideband modulated or frequency modulated signal.  If one desired to sample an FM radio broadcast centered at 87.9 MHz and bandlimited to a 200 kHz band, then an appropriate anti-alias filter would be centered on 87.9 MHz with 200 kHz bandwidth (or passband of 87.8 MHz to 88.0 MHz), and the sampling rate would be no less than 400 kHz, but should also satisfy other constraints to prevent aliasing.
+
+Signal overload
+It is very important to avoid input signal overload when using an anti-aliasing filter. If the signal is strong enough, it can cause clipping at the analog-to-digital converter, even after filtering. When distortion due to clipping occurs after the anti-aliasing filter, it can create components outside the passband of the anti-aliasing filter; these components can then alias, causing the reproduction of other non-harmonically related frequencies.
+
+Notes
+
+References
+
+[[Filter (signal processing)]] [[Low-pass filter]] [[Nyquist–Shannon sampling theorem]]

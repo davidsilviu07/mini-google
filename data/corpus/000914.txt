@@ -1,0 +1,45 @@
+Sleep cycle
+The sleep cycle is an oscillation between the slow-wave and REM (paradoxical) phases of sleep. It is sometimes called the ultradian sleep cycle, sleep–dream cycle, or REM-NREM cycle, to distinguish it from the circadian alternation between sleep and wakefulness. In humans, this cycle takes 70 to 110 minutes.  Within the sleep of adults and infants there are cyclic fluctuations between quiet and active sleep. These fluctuations may persist during wakefulness as rest-activity cycles but are less easily discerned. 
+
+Characteristics
+Electroencephalography shows the timing of sleep cycles by virtue of the marked distinction in brainwaves manifested during REM and non-REM sleep. Delta wave activity, correlating with slow-wave (deep) sleep, in particular shows regular oscillations throughout a good night's sleep. Secretions of various hormones, including renin, growth hormone, and prolactin, correlate positively with delta-wave activity, while secretion of thyroid-stimulating hormone correlates inversely. Heart rate variability, well known to increase during REM, predictably also correlates inversely with delta-wave oscillations over the ~90-minute cycle.
+In order to determine in which stage of sleep the asleep subject is, electroencephalography is combined with other devices used for this differentiation. EMG (electromyography) is a crucial method to distinguish between sleep phases: for example, a decrease of muscle tone is in general a characteristic of the transition from wake to sleep, and during REM sleep, there is a state of muscle atonia (paralysis), resulting in an absence of signals in the EMG.
+EOG (electrooculography), the measure of the eyes’ movement, is the third method used in the sleep architecture measurement; for example, REM sleep, as the name indicates, is characterized by a rapid eye movement pattern, visible thanks to the EOG.
+Moreover, methods based on cardiorespiratory parameters are also effective in the analysis of sleep architecture—if they are associated with the other aforementioned measurements (such as electroencephalography, electrooculography and the electromyography).
+Homeostatic functions, especially thermoregulation, occur normally during non-REM sleep, but not during REM sleep. Thus, during REM sleep, body temperature tends to drift away from its mean level, and during non-REM sleep, to return to normal. Alternation between the stages therefore maintains body temperature within an acceptable range.
+In humans, the transition between non-REM and REM is abrupt; in other animals, it is less so.
+Researchers have proposed different models to elucidate the undoubtedly complex rhythm of electrochemical processes that result in the regular alternation of REM and NREM sleep. Monoamines are active during NREMS, but not REMS, whereas acetylcholine is more active during REMS. The reciprocal interaction model proposed in the 1970s suggested a cyclic give-and-take between these two systems. More recent theories such as the "flip-flop" model, proposed in the 2000s, include the regulatory role of an inhibitory neurotransmitter gamma-aminobutyric acid (GABA).
+
+Length
+
+The standard figure given for the average length of the sleep cycle in an adult man is 90 minutes. N1 (NREM stage 1) is when the person is drowsy or awake to falling asleep. Brain waves and muscle activity start to decrease at this stage. N2 is when the person experiences a light sleep. Eye movement has stopped by this time. Brain wave frequency and muscle tonus is decreased. The heart rate and body temperature also goes down. N3 or even N4 are the most difficult stages to be awakened. Every part of the body is now relaxed, breathing, blood pressure and body temperature are reduced. The National Sleep Foundation discusses the different stages of NREM sleep and their importance. They describe REM sleep as "A unique state, in which dreams usually occur. The brain is awake and body paralyzed." This unique stage usually occurs when the person dreams. The figure of 90 minutes for the average length of a sleep cycle was popularized by Nathaniel Kleitman around 1963. Other sources give 90–110 minutes or 80–120 minutes.
+
+In infants, the sleep cycle lasts about 50–60 minutes; average length increases as the human grows into adulthood. In cats, the sleep cycle lasts about 30 minutes, though it is about 12 minutes in rats and up to 120 minutes in elephants (In this regard, the ontogeny of the sleep cycle appears proportionate with metabolic processes, which vary in proportion with organism size. However, shorter sleep cycles detected in some elephants complicate this theory).
+The cycle can be defined as lasting from the end of one REM period to the end of the next, or from the beginning of REM, or from the beginning of non-REM stage 2 (the decision of how to mark the periods makes a difference for research purposes, because of the unavoidable inclusion or exclusion of the night's first NREM or its final REM phase if directly preceding awakening).
+A 7–8-hour sleep probably includes five cycles, the middle two of which tend to be longer than the first and the fourth. REM takes up more of the cycle as the night goes on.
+
+Awakening
+Unprovoked awakening occurs most commonly during or after a period of REM sleep, as body temperature is rising.
+
+Continuation during wakefulness
+Ernest Hartmann discovered in 1968 that humans seem to continue a roughly 90-minute ultradian rhythm throughout a 24-hour day, whether they are asleep or awake. According to this hypothesis, during the period of this cycle corresponding with REM, people tend to daydream more and show less muscle tone. Kleitman and others following have referred to this rhythm as the basic rest–activity cycle, of which the "sleep cycle" would be a manifestation. A difficulty for this theory is the fact that a long non-REM phase almost always precedes REM, regardless of when in the cycle a person falls asleep.
+
+Alteration
+The sleep cycle has proven resistant to systematic alteration by drugs. Although some drugs shorten REM periods, they do not abolish the underlying rhythm. Deliberate REM deprivation shortens the cycle temporarily, as the brain moves into REM sleep more readily (the "REM rebound") in an apparent correction for the deprivation. There are various methods to control the alterations of sleep cycles:
+
+Switching off all artificial lights: Since the natural production of melatonin can be suppressed by bright light, exposure to light–even after sunset–may prevent the body from feeling sleepy (and hence entering the sleep phase).
+Meditation and relaxation techniques
+Staying away from caffeine before bedtime: This ensures that the body is not under the stimulant effects of caffeine while trying to sleep.
+
+See also
+Biphasic and polyphasic sleep
+Circadian rhythm
+
+References
+
+Bibliography
+Mallick, B. N.; S. R. Pandi-Perumal; Robert W. McCarley; and Adrian R. Morrison (2011). Rapid Eye Movement Sleep: Regulation and Function. Cambridge University Press. ISBN 978-0-521-11680-0
+Nir, and Tononi, "Dreaming and the Brain: from Phenomenology to Neurophsiology." Trends in Cognitive Sciences, vol. 14, no. 2, 2010, pp. 88–100.
+Varela, F., Engel, J., Wallace, B., & Thupten Jinpa. (1997). Sleeping, dreaming, and dying: An exploration of consciousness with the Dalai Lama.
+
+[[Delta wave]] [[Electroencephalography]] [[Infant]] [[Nathaniel Kleitman]] [[Rapid eye movement sleep]] [[Slow-wave sleep]]

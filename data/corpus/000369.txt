@@ -1,0 +1,103 @@
+E-democracy
+E-democracy (a mix of the words electronic and democracy), also known as digital democracy or Internet democracy, uses information and communication technology (ICT) in political and governance processes. While associated with e-voting, e-democracy also expands to other levels of political discussion which include engagement between public organizations and people, offering information online to a wider audience and also facilitating political agendas online. The term is commonly attributed to digital activist Steven Clift. E-democracy closely follows e-government and applies ICT to help enhance the quality of voting services, public opinion polling and provide access to the broader populace.
+
+Structure
+E-democracy uses digital media to such as television, radio, the Internet, cell phones, and electronic polling systems to involve more people in political discourse.
+
+History
+The earliest use of e-democracy dates back to the development of Minnesota E-Democracy Project in July 1994 by then student Steven Clift of Hubert H. Humphrey Institute of Public Affairs. The project at first primarily was used to access information from the candidates and info about the candidates running for office in the upcoming state and national election later in the year. Using help by Twin Cities Freenet and the Minnesota Regional Network, the website was opened in August of the same year to the general public. Early use of listserv and Hypermail was also integrated in the website.
+In Italy, teledemocracy was introduced in Bologna in 1995 with the introduction of the project Iperbole (Hyperbole). The project was aimed at the population of the city (half a million) that gave free Internet access for a small fee. Access to online forums, discussion groups, and municipal services were provided by Cineca and co-funded by the EU. In 1999, the Ministry of University and Research and Cineca carried out the first virtual European-wide election to elect around 30,000 professors and researchers using smart electronic cards.
+In the European Parliament, OVIDE (Organisation du Videotex du Député Européen) started as a concept in the mid 1980s, especially after the 1979 European Parliament election. The service was branched at communication and information. Among the features for both include electronic mail invitations, allowing mailing lists, request for parliamentary allowances in the form of electronic forms, legislative procedure fact sheets, Eurostat statistics and gateways to other EU databases. The multilingual service was also first European online services to present information in both Videotex and ASCII modes.
+
+Concept and approach
+The concept of e-democracy uses information and communication technologies (ICT) in representative democracy to engage communities in political participation. Digital forums are able to foster civic engagement, personal perspectives, and contribute to policy discussions without the need for physical interactions. Easy access and comprehension of media platforms are also used to voice opinions, gather information, and mobilize other people to take part in decision making and problem solving. Media platforms can also help political candidates anayzle voter data and engage with voters while managing internal party coordination 
+
+Given that we were collecting so much data around the country and we have got various smart people who can analyse the data, why didn’t the smart people pick up we were in trouble in Telford, Vale of Clwyd, and dare I say it in Ed Balls’ seat? I want to find out why that happened … It feels like the Labour frontbench is further away from our members than at any point in our history and the digital revolution can help bring the party closer together.
+
+Digital mobilization in social movements
+
+The Arab Spring
+
+During the 2010–11 Arab Spring, applications like Bambuser and Ustream were used by demonstrators and protesters to livestream videos, share inside information and bypass government restrictions to view the outside world. Citizen journalism played a major part in foreign media such as Associated Press to report undergoing conflicts within the area.
+
+Occupy movement
+
+The Occupy movement significantly used radical transparency against corporations and political elites. By livestreaming and "live-tweeting" internal meetings movements, the movement also gave transparency to anyone to join the movement. In its peak, the movement managed to cover 82 countries around the world as it grew from social media such as Facebook and X.
+
+15-M Movement
+
+While mostly being an assembly-based movement, the 15-M Movement (or Los Indignados) began to use the media to communicate their own narratives and drew inspiration from other movements at the time, including the Arab Spring, the Kitchenware and Wikileaks. Figures associated with the movement include Ada Colau and Pablo Iglesias, with the latter forming the Podemos party. The media particularly helped in mobilising more people towards the movement. In 2016, Decidim was developed as a response to this movement.
+
+Nepalese election
+
+Sudan Gurung, founder of Hami Nepal, announced "Youths Against Corruption", a Discord channel aimed at providing communication for youths during the September 2025 protests. The channel was a response after the government imposed bans on major social media website including YouTube, Facebook and X (formerly Twitter) on early in the month on 4 September. A Discord poll was set to elect a new interim prime minister after the resignation of K.P. Sharma Oli. Sushila Karki was then elected, before being succeeded by Balen Shah.
+
+Advantages
+E-democracy promotes more rapid and efficient dissemination of political information, encourages public debate, and boosts participation in decision-making processes. Some observers argue that the government's online publication of public information enhances its transparency, enabling more extensive public scrutiny, and consequently promoting a more equitable distribution of power within society.
+
+Participation and engagement
+ E-democracy increases participation among voters by allowing public dialogue and disccusion to occur using technology such as electronic mailing lists, blogs and online forums.
+
+Therefore, e-democracy's evolution is influenced by such broad changes as increased interdependency, technological multimediation, partnership governance, and individualism.
+Social media platforms such as Facebook, Twitter, WordPress, and Blogspot, are increasingly significant in democratic dialogues. The role of social media in e-democracy is an emerging field of study, along with technological developments such as argument maps and the semantic web.
+
+Community involvement
+
+Civic engagement encompasses three key aspects: understanding public affairs (political knowledge), trust in the political system (political trust), and involvement in governmental decision-making processes (political participation). The internet enhances civic engagement by creating a new medium for interaction with government institutions.
+Advocates of e-democracy propose that it can facilitate more active government engagement and inspire citizens to actively influence decisions that directly affect them. Digital tools have and continue to be used to determine the best practices for getting citizens involved in government. Collecting data on what gets citizens involved most efficiently allows for stronger practices going forward in citizen involvement.
+Numerous studies indicate an increased use of the internet for obtaining political information. From 1996 to 2002, the percentage of adults claiming that the internet played a significant role in their political choices rose from around 14 to 20 percent.
+A survey conducted by Philip N. Howard revealed that nearly two-thirds of the adult population in the United States has interacted with online political news, information, or other content over the past four election cycles.
+The ease with which information can be accessed online may empower citizens to better understand government and politics. By providing access to contact information, legislation, agendas, and policies, governments can enhance transparency, thereby potentially facilitating more informed participation both online and offline.
+As articulated by Matt Leighninger, the internet bolsters government by enhancing individual empowerment and reinforcing group agency.
+The Organisation for Economic Co-operation and Development (OECD) identifies three key aspects regarding the role of ICTs in fostering civic engagement. The first aspect is timing, with most civic engagement activities occurring during the agenda-setting phase of a cycle. The second factor is adaptation, which refers to how ICTs evolve to facilitate increased civic participation. The final aspect is integration, representing how emerging ICTs blend new and traditional methods to maximize civic engagement.
+ICT fosters the possibility of a government that is both more democratic and better informed by facilitating open online collaborations between professionals and the public. The responsibility of collecting information and making decisions is shared between those possessing technological expertise and the traditionally recognized decision-makers. This broadened public involvement in the exchange of ideas and policies results in more democratic decision-making. Furthermore, ICT enhances the notion of pluralism within a democracy, introducing fresh issues and viewpoints.
+
+Youth involvement
+
+In previous years, individuals belonging to Generation X and Generation Y, typically encompassing those aged 35 and below as of the mid-2000s, were noted for their relative disengagement from political activities. The implementation of electronic democracy has been proposed as a potential solution to foster increased voter turnout, democratic participation, and political literacy among these younger demographics.
+
+Deliberative democracy
+
+The Internet holds a pivotal role in deliberative democracy.
+A notable development in the application of e-democracy in the deliberative process is the California Report Card. This tool was created by the Data and Democracy Initiative of the Center for Information Technology Research in the Interest of Society at the University of California, Berkeley, in collaboration with Lt. Governor Gavin Newsom. 
+The Online Protection and Enforcement of Digital Trade Act (OPEN Act), presented as an alternative to SOPA and PIPA, garners the support of major companies like Google and Facebook. Its website, Keep The Web Open, not only provides full access to the bill but also incorporates public input—over 150 modifications have been made through user contributions.
+The peer-to-patent project allows public participation in the patent review process by providing research and 'prior art' publications for patent examiners to assess the novelty of an invention. In this process, the community nominates ten pieces of prior art to be reviewed by the patent examiner. This not only enables direct communication between the public and the patent examiner but also creates a structured environment that prompts participants to provide relevant information to aid in decision-making. By allowing experts and the general public to collaborate in finding solutions, the project aims to enhance the efficacy of the decision-making process. It offers a platform for citizens to participate and express their ideas beyond merely checking boxes that limit their opinions to predefined options.
+
+Disadvantages
+
+Internet accessibility
+The progression of e-democracy is impeded by the digital divide, which separates those actively engaged in electronic communities from those who do not participate. Proponents of e-democracy often recommend governmental actions to bridge this digital gap. The divergence in e-governance and e-democracy between the developed and the developing world is largely due to the digital divide. Practical concerns include the digital divide that separates those with access from those without, and the opportunity cost associated with investments in e-democracy innovations. There also exists a degree of skepticism regarding the potential impact of online participation.
+
+Security and privacy
+
+Despite these advancements, recent research has indicated, through a SWOT analysis, that the risks of an e-government are related to data loss, privacy and security, and user adoption.
+
+Opposition
+Information and communications technologies can be utilized for both democratic and anti-democratic purposes. For instance, digital technology can be used to promote both coercive control and active participation.
+Critiques associated with direct democracy are also considered applicable to e-democracy. This includes the potential for direct governance to cause the polarization of opinions, populism, and demagoguery.
+
+Cybersecurity
+The current inability to protect internet traffic from interference and manipulation has significantly limited the potential of e-democracy for decision-making. As a result, most experts express opposition to the use of the internet for widespread voting.
+
+Internet censorship
+
+In countries with severe government censorship, the full potential of e-democracy might not be realized. Internet clampdowns often occur during extensive political protests. For instance, the series of internet blackouts in the Middle East in 2011, termed as the "Arab Net Crackdown", provides a significant example. Governments in Libya, Egypt, Bahrain, Syria, Iran, and Yemen have all implemented total internet censorship in response to the numerous pro-democracy demonstrations within their respective nations. These lockdowns were primarily instituted to prevent the dissemination of cell phone videos that featured images of government violence against protesters.
+
+Social media manipulation
+
+Joshua A. Tucker and his colleagues critique e-democracy, pointing out that the adaptability and openness of social media may allow political entities to manipulate it for their own ends. They suggest that authorities could use social media to spread authoritarian practices in several ways. Firstly, by intimidating opponents, monitoring private conversations, and even jailing those who voice undesirable opinions. Secondly, by flooding online spaces with pro-regime messages, thereby diverting and occupying these platforms. Thirdly, by disrupting signal access to hinder the flow of information. Lastly, by banning globalized platforms and websites.
+
+Populism concerns
+A study that interviewed elected officials in Austria's parliament revealed a broad and strong opposition to e-democracy. These officials held the view that citizens, generally uninformed, should limit their political engagement to voting. The task of sharing opinions and ideas, they contended, belonged solely to elected representatives.
+
+Stop Online Piracy Act
+
+The introduction of H.R. 3261, the Stop Online Piracy Act (SOPA), in the United States House of Representatives, was perceived by many internet users as an attack on internet democracy. A contributor to the Huffington Post argued that defeating SOPA was crucial for the preservation of democracy and freedom of speech.
+Significantly, SOPA was indefinitely postponed following widespread protests, which included a site blackout by popular websites like Wikipedia on 18 January 2012.
+A comparable event occurred in India towards the end of 2011, when the country's Communication and IT Minister Kapil Sibal suggested pre-screening content for offensive material before its publication on the internet, with no clear mechanism for appeal. Subsequent reports, however, quote Sibal as stating that there would be no restrictions on internet use.
+
+See also
+
+References
+
+[[Associated Press]] [[Direct democracy]] [[Electoral system]] [[Electronic publishing]] [[Electronic voting]]

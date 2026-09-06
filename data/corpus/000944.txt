@@ -1,0 +1,10 @@
+Stereoelectroencephalography
+Stereoelectroencephalography (SEEG) is the practice of recording electroencephalographic signals via depth electrodes (electrodes surgically implanted into the brain tissue). It may be used in patients with epilepsy not responding to medical treatment, and who are potential candidates to receive brain surgery in order to control seizures. 
+This technique was introduced in the diagnostic work up of patients with epilepsy by the group of the S. Anne Hospital, Paris, France, in the second half of the 20th century. Intracerebral electrodes are placed within the desired brain areas to record the electrical activity during epileptic seizures, thus contributing to define with accuracy the boundaries of the "epileptogenic zone", i.e. the area of brain generating the seizures which should be eventually surgically resected to achieve freedom from epileptic seizures.  Potential risks of the procedure, accounting for less than 1% of cases, include brain hemorrhage and infection, which can lead to permanent neurological impairment or death. For this reason, stereoelectroencephalography is reserved to selected and particularly complicated epilepsy cases.
+
+See also
+Electrocorticography
+
+References
+
+[[Audition]] [[Digestion]] [[Electro-olfactography]] [[Electrocardiography]] [[Electrocochleography]] [[Electrocorticography]] [[Electrodiagnostic medicine]] [[Electroencephalography]] [[Electrogastrogram]] [[Electrogustometry]] [[Electronystagmography]] [[Electroretinography]] [[Epilepsy]] [[Fasegraphy]] [[Heart]] [[Human eye]] [[Magnetocardiography]] [[Magnetogastrography]] [[Magnetomyography]] [[Medical test]] [[Nerve conduction study]] [[Peripheral nervous system]]

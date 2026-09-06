@@ -1,0 +1,46 @@
+Biosignal
+A biosignal is any signal in a living organism that can be continually measured and monitored. The term biosignal is often used to refer to bioelectrical signals, but it may refer to both electrical and non-electrical signals. The usual understanding is to refer only to time-varying signals, although spatial parameter variations (e.g. the nucleotide sequence determining the genetic code) are sometimes subsumed as well.
+
+Electrical biosignals
+Electrical biosignals, or bioelectrical time signals, usually refers to the change in electric current produced by the sum of an electrical potential difference across a specialized tissue, organ or cell system like the nervous system. Thus, among the best-known bioelectrical signals are:
+
+Electroencephalogram (EEG)
+Electrocardiogram (ECG)
+Electromyogram (EMG)
+Electrooculogram (EOG)
+Electroretinogram (ERG)
+Electrogastrogram (EGG)
+Galvanic skin response (GSR) or electrodermal activity (EDA)
+EEG, ECG, EOG and EMG are measured with a differential amplifier which registers the difference between two electrodes attached to the skin. However, the galvanic skin response measures electrical resistance and the Magnetoencephalography (MEG) measures the magnetic field induced by electrical currents (electroencephalogram) of the brain.
+With the development of methods for remote measurement of electric fields using new sensor technology, electric biosignals such as EEG and ECG can be measured without electric contact with the skin. This can be applied, for example, for remote monitoring of brain waves and heart beat of patients who must not be touched, in particular patients with serious burns.
+Electrical currents and changes in electrical resistances across tissues can also be measured from plants.
+Biosignals may also refer to any non-electrical signal that is capable of being monitored from biological beings, such as mechanical signals (e.g. the mechanomyogram or MMG), acoustic signals (e.g. phonetic and non-phonetic utterances, breathing), chemical signals (e.g. pH, oxygenation) and optical signals (e.g. movements).
+
+Use in artistic contexts
+In recent years, the use of biosignals has gained interest amongst an international artistic community of performers and composers who use biosignals to produce and control sound. Research and practice in the field go back decades in various forms and have lately been enjoying a resurgence, thanks to the increasing availability of more affordable and less cumbersome technologies. An entire issue of eContact!, published by the Canadian Electroacoustic Community in July 2012, was dedicated to this subject, with contributions from the key figures in the domain.
+
+See also
+Bioindicator
+Biomarker
+Biosignature
+Molecular marker
+Multimedia information retrieval
+
+References
+
+Bibliography
+Donnarumma, Marco. "Proprioception, Effort and Strain in "Hypo Chrysos": Action art for vexed body and the Xth Sense." eContact! 14.2 — Biotechnological Performance Practice / Pratiques de performance biotechnologique (July 2012). Montréal: CEC.
+Tanaka, Atau. "The Use of Electromyogram Signals (EMG) in Musical Performance: A Personal survey of two decades of practice." eContact! 14.2 — Biotechnological Performance Practice / Pratiques de performance biotechnologique (July 2012). Montréal: CEC.
+Naït-Ali, Amine, ed. (2009). Advanced Biosignal Processing. Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-540-89506-0. ISBN 978-3-540-89505-3.
+
+External links
+Applications
+
+Using electroencephalograph signals for task classification and activity recognition Microsoft
+NASA scientists use hands-off approach to land passengers jet
+Hardware
+
+University of Vienna : cours Biomedical Engineering, Electromyography (EMG)
+Electroencephalographe, EEG,  sans fil ( Cornell University, Ithaca, NY, USA)
+
+[[Differential amplifier]] [[Electrogastrogram]]
