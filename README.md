@@ -135,6 +135,24 @@ The engineering that matters here is the retrieval underneath and the grounding
 in the prompt (answer only from the numbered sources, cite them, refuse if they
 do not cover the question), not the model itself.
 
+## Distributed index (sharding)
+
+A real search engine's index does not fit on one machine, so it is split into
+shards, each an independent index over a subset of the documents. A query is
+sent to every shard in parallel (scatter), each returns its local top-k, and a
+coordinator merges them into a global top-k (gather).
+
+```bash
+./build/search build-shards data/corpus 4 data/idx   # split into 4 shards
+./build/search dsearch 5 "how does pagerank work" \
+    data/idx.shard0.bin data/idx.shard1.bin data/idx.shard2.bin data/idx.shard3.bin
+```
+
+Each shard is queried on its own thread. The merge is by BM25 score; note that
+each shard computes IDF over only its own documents, so scores are shard-local
+rather than global. That is the standard approximation, and production systems
+either accept it or distribute global term statistics to every shard.
+
 ## Roadmap
 
 1. Core IR: tokenizer, inverted index, BM25, CLI. Done.
@@ -142,4 +160,4 @@ do not cover the question), not the model itself.
 3. Real corpus: Python crawler over a Wikipedia subset, on disk index.
 4. Hybrid search: embeddings plus vector search fused with BM25.
 5. RAG: grounded AI answers with citations plus a web UI.
-6. Distributed index: sharding, a scatter gather coordinator, fault tolerance.
+6. Distributed index: sharding plus a parallel scatter gather coordinator. Done.

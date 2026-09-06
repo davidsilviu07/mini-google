@@ -15,6 +15,7 @@
 #include "inverted_index.h"
 #include "link_graph.h"
 #include "pagerank.h"
+#include "shard.h"
 #include "vector_search.h"
 
 namespace fs = std::filesystem;
@@ -112,6 +113,8 @@ static void usage() {
               << "  search load  <snapshot>               incarca de pe disc\n"
               << "  search hybrid <snapshot> <doc_emb> <query_file>  cautare hibrida\n"
               << "  search retrieve <snapshot> <k> <query>  top-k ca doc_id<TAB>titlu\n"
+              << "  search build-shards <corpus_dir> <n> <prefix>  sparge in n shard-uri\n"
+              << "  search dsearch <k> <query> <shard...>  cautare distribuita paralela\n"
               << "  search <corpus_dir>                   construieste in memorie\n";
 }
 
@@ -217,6 +220,33 @@ int main(int argc, char** argv) {
         BM25Ranker ranker(index);
         for (const auto& [id, score] : ranker.search(query, k)) {
             std::cout << id << "\t" << index.doc(id).title << "\n";
+        }
+        return 0;
+    }
+
+    if (mode == "build-shards") {
+        if (argc < 5) { usage(); return 1; }
+        int n = build_shards(argv[2], std::atoi(argv[3]), argv[4]);
+        std::cout << "Am construit " << n << " shard-uri cu prefixul "
+                  << argv[4] << "\n";
+        return 0;
+    }
+
+    if (mode == "dsearch") {
+        if (argc < 5) { usage(); return 1; }
+        int k = std::atoi(argv[2]);
+        std::string query = argv[3];
+        std::vector<std::string> shards;
+        for (int i = 4; i < argc; ++i) shards.push_back(argv[i]);
+
+        auto t0 = Clock::now();
+        auto results = distributed_search(shards, query, k);
+        std::cout << "Distributed search pe " << shards.size()
+                  << " shard-uri (paralel) in " << seconds_since(t0) << "s:\n";
+        int rank = 1;
+        for (const auto& [title, score] : results) {
+            std::cout << "  " << rank++ << ". [" << score << "]  " << title
+                      << "\n";
         }
         return 0;
     }

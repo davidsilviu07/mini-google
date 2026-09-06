@@ -6,6 +6,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_compile_options(-O2 -Wall -Wextra)
 
+find_package(Threads REQUIRED)
+
 set(CORE_SOURCES
     src/tokenizer.cpp
     src/inverted_index.cpp
@@ -15,9 +17,11 @@ set(CORE_SOURCES
     src/index_store.cpp
     src/vector_search.cpp
     src/fusion.cpp
+    src/shard.cpp
 )
 
 add_executable(search src/main.cpp ${CORE_SOURCES})
+target_link_libraries(search Threads::Threads)
 
 # --- teste ---
 enable_testing()
@@ -31,6 +35,8 @@ add_executable(run_tests
     tests/test_persistence.cpp
     tests/test_vector_search.cpp
     tests/test_fusion.cpp
+    tests/test_shard.cpp
     ${CORE_SOURCES}
 )
+target_link_libraries(run_tests Threads::Threads)
 add_test(NAME unit_tests COMMAND run_tests)
